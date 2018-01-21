@@ -16,6 +16,7 @@ categories:
 - features
 tags:
 - image gallery
+draft: TRUE
 ---
 
 And here is the image gallery!

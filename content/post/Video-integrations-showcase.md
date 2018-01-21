@@ -11,6 +11,7 @@ tags:
 - youtube
 - vimeo
 - dailymotion
+draft: TRUE
 ---
 
 Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.

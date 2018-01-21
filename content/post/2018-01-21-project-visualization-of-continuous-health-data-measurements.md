@@ -1,5 +1,5 @@
 ---
-title: 'Project: Visualization of Continuous Health Data Measurements'
+title: 'Project: Visualization of continuous health data measurements'
 author: Tian Zheng
 date: '2018-01-21'
 slug: project-visualization-of-continuous-health-data-measurements
@@ -8,7 +8,7 @@ categories:
 tags:
   - Health
   - Visualization
-  - Machine Learning
+  - Machine learning
 thumbnailImagePosition: left
 thumbnailImage: //s3.amazonaws.com/staging-colab/organizations/logos/000/000/002/profile/sialab.png?1430667214
 ---
