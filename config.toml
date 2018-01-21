@@ -17,11 +17,12 @@ languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Columbia DSI Scholars"
 theme = "hugo-tranquilpeak-theme"
-publishDir = "../DSI-scholars"
+publishDir = "../DSI-scholars/"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
+relativeurls = true
 
 [permalinks]
   post = "/:year/:month/:slug/"
@@ -34,7 +35,7 @@ canonifyurls = true
 [author]
   name = "Columbia Data Science Institute Scholars, Summer 2018"
   bio = "DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia."
-  job = "Columbia University"
+  job = "Columbia University DSI"
   location = "New York, NY"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = ""
@@ -75,7 +76,7 @@ canonifyurls = true
   weight = 5
   identifier = "about"
   name = "About"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
   url = "/#about"
 
 [[menu.links]]
@@ -92,12 +93,12 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
   url = "https://twitter.com/DSI_Columbia"
 
-#[[menu.links]]
-#  weight = 2
-#  identifier = "stackoverflow"
-#  name = "Stack Overflow"
-#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-#  url = "https://stackoverflow.com/users/636472/kakawait"
+[[menu.links]]
+  weight = 2
+  identifier = "university"
+  name = "Data Science Institute"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-university\"></i>"
+  url = "http://datascience.columbia.edu"
 
 #[[menu.misc]]
 #  weight = 1
@@ -173,9 +174,9 @@ canonifyurls = true
   # The link at the right of the header is customizable
   # You can add a link (as an icon) at the right of the header instead of the author's gravatar image or author's picture.
   # By default, author's gravatar or author's picture is displayed.
-  #     url: /#search
-  #     icon: search
-  #     class: st-search-show-outputs
+       url: /#search
+       icon: search
+       class: st-search-show-outputs
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
