@@ -10,14 +10,16 @@ tags:
 slug: announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: /img/CU-bk2.png
-coverImage: /img/CU-bk2.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/CU-bk2_naivue.png
+coverImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/CU-bk2_naivue.png
 metaAlignment: center
 ---
 
-#### Call for Faculty Participation. December 2017.
+### Call for Faculty Participation. December 2017.
 
 The Data Science Institute is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty through a data science research internship. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia.
+
+<!--more-->
 
 + **Funding support**: For Summer 2018, the DSI will support faculty by matching the stipend for selected scholars up to $2,500 each.  Approximately 15 matching funds will be awarded.  In special cases, additional funding is available to fund fully the cost of the stipend (up to $5,000).  Allocation of funds will be made via a first-come-first-serve need-based process, with effort to balance allocation across disciplines and to support novel interdisciplinary research.
 

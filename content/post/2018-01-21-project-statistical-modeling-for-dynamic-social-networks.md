@@ -13,14 +13,16 @@ tags:
   - Social science
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: /img/network.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/network_khvotl.png
 ---
 Networked systems are ubiquitous in  modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas. 
 
+<!--more-->
+
 ## Faculty Advisor
-+ Professor [Yang Feng]http://www.stat.columbia.edu/~yangfeng/).
-+ Department/School: Statistics/ A&S.
-+ Location: 1255 Amsterdam.
++ Professor [Yang Feng]http://www.stat.columbia.edu/~yangfeng/)
++ Department/School: Statistics/ A&S
++ Location: 1255 Amsterdam
 
 ## Project timeline
 + Start date: 06/05/2018
@@ -30,5 +32,5 @@ Networked systems are ubiquitous in  modern society.  In a dynamic social or bio
 ## Candidate requirements
 + Skill sets: Machine Learning; R; Probability; Mathematical Statistics; Calculus; Linear Algebra.
 
-+ Studet eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
++ Studet eligibility  (as of Spring 2018): ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**

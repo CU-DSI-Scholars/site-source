@@ -6,7 +6,7 @@ slug: contact-info
 categories: 
   - info
 tags: 
-  - info
+  - Info
 comments:       false
 showMeta:       false
 showActions:    false

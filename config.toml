@@ -34,14 +34,14 @@ relativeurls = true
 
 [author]
   name = "Columbia Data Science Institute (DSI) Scholars Program"
-  bio = "The DSI Scholars Program is to engage undergraduate and master students in data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia."
+  bio = "The DSI Scholars Program is to engage and support undergraduate and master students in participating data science related research with Columbia faculty. The program’s unique enrichment activities will foster a learning and collaborative community in data science at Columbia."
   job = "Columbia University DSI"
   location = "New York, NY"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = ""
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://industry.datascience.columbia.edu/sites/default/files/profiles/photos/Data-Science-Avatar.png"
+  picture = "http://res.cloudinary.com/tz33cu/image/upload/v1516632873/Data-Science-Avatar_jnwebr.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
    twitter = "dsi_columbia"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -58,7 +58,7 @@ relativeurls = true
   weight = 2
   identifier = "categories"
   name = "Categories"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-university\"></i>"
   url = "/categories"
 [[menu.main]]
   weight = 3
@@ -99,6 +99,13 @@ relativeurls = true
   name = "Contact Info"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-paper-plane\"></i>"
   url = "/page/contact-info"
+  
+[[menu.links]]
+  weight = 2
+  identifier = "gform"
+  name = "Apply Now"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-mortar-board\"></i>"
+  url = "https://goo.gl/forms/S4jXM9FOtzLpzn5p1"
 
 #[[menu.misc]]
 #  weight = 1
@@ -151,8 +158,7 @@ relativeurls = true
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
-  coverImage = "https://lh3.googleusercontent.com/eLyCqulezsgW4IQ9xgst0yxrhbW8Cn4Y_wUj6P39O5wiD4oihKJvaIxasdcEWmVujMM2M9FS1EUp1NXItJ4eg6NQ6o6taOBreebL4gwfUYXj7gsEBO9vx7MWDoBP7P51kDUiaKnGcxnbuuNu2HCdhGn8YGVKqZoUbfaXSesom1gWe-nLm2uCOekSEYTkY2lqAeEwUUcxvB_43lR4tpKx-L0npnat2RZW3tqzH1ESiyV9a2gOHlNEPg-BoTfFsUdyrarB67rZFa_LAPCI-DFO83RzgR3pIcR6xA04dRanMiJN4AmD0gPPFpKnfjfkAIPk3Js55gxSUBkozoTKKj1MLERaEgcpzCN7M2LOkRhgfTqRCf8kUmRHS--t4WdeevH00rs12iK7jPM40PXUOcjxY7hmjUEwUgcxMYQau5sAL2QC2Vl0TQZcpmY9Z-F9Npz3DgjcVRty-dGWVfGOIlzaxHaij6OLjfYThMXbJasvZ0CJmXehdd1zAIlbkafyxdRyDe3hBZOgNR4LZqP7hWtKIRp9dJzuWnWxDYZwKoV1DyC412ZyDH-oXiZSKqqhjfX4cctP2xlx3joToZbY1rkHUMfbf7Bgiwyhx9XF-s4=w660-h337-no"
-
+  coverImage = "http://res.cloudinary.com/tz33cu/image/upload/v1516632873/CU-bk2_qu8fsv.jpg"
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
 
@@ -214,11 +220,11 @@ relativeurls = true
   [params.header.rightLink]
     class = ""
     icon = ""
-    url = "/#about"
+    url = "http://datascience.columbia.edu/"
 
   # Customize link of author avatar in sidebar
-  # [params.sidebar.profile]
-  #   url = "/#about"
+  #[params.sidebar.profile]
+  #  url = "http://datascience.columbia.edu/"
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
