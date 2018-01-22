@@ -80,14 +80,14 @@ relativeurls = true
   url = "/#about"
 
 [[menu.links]]
-  weight = 1
+  weight = 3
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/CU-DSI-Scholars"
 
 [[menu.links]]
-  weight = 1
+  weight = 3
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
@@ -101,7 +101,7 @@ relativeurls = true
   url = "/page/contact-info"
   
 [[menu.links]]
-  weight = 2
+  weight = 1
   identifier = "gform"
   name = "Apply Now"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-mortar-board\"></i>"
