@@ -2,14 +2,14 @@
 title: Announcing Columbia DSI Scholars Inaugural Program of Summer 2018
 author: Tian Zheng
 date: '2017-12-21'
-slug: announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018
 categories:
   - Annoucement
 tags:
-  - Summer 2018
   - Info
-autoThumbnailImage: false
-thumbnailImagePosition: "top"
+  - Summer 2018
+slug: announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018
+autoThumbnailImage: no
+thumbnailImagePosition: top
 thumbnailImage: /img/CU-bk2.png
 coverImage: /img/CU-bk2.png
 metaAlignment: center
