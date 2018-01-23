@@ -26,10 +26,10 @@ The ubiquity of current smart and IoT devices has the potential to transform hea
 ## Project timeline
 + Start date: 06/01/2018
 + End date: 08/31/2018
-+ Number of hours per week of work required: 40
++ Number of hours per week of research expected: 40
 
 ## Candidate requirements
 + Skill sets: machine learning, data visualization
-+ Studet eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
++ Student eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Other comments: independent thinking, critical thinking

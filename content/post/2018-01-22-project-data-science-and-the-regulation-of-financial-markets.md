@@ -46,9 +46,9 @@ This project is currently NOT accepting applications.
 ## Project timeline
 + Start date: 06/01/2018
 + End date: 08/15/2018
-+ Number of hours per week of work required: 25
++ Number of hours per week of research expected: 25
 
 ## Candidate requirements
-+ Skill sets: Language parser, R, python, database management and statistical analysis.
-+ Studet eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
++ Skill sets: Language parser, R, Python, database management and statistical analysis.
++ Student eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**

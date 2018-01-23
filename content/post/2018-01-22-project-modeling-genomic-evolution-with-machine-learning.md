@@ -32,10 +32,10 @@ This is NOT a summer 2018 internship. It is for Fall 2018.
 
 + Start date: 09/01/2018
 + End date: 12/31/2018
-+ Number of hours per week of work required: 10
++ Number of hours per week of research expected: 10
 
 ## Candidate requirements
 + Skill sets: Python
-+ Studet eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
++ Student eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Other comments: ideal candidate should have an interest in evolutionary genomics.

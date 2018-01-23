@@ -27,9 +27,9 @@ DNA sequence reads from a community of microbial genomes are currently processed
 ## Project timeline
 + Start date: 05/15/2018
 + End date: 08/15/2018
-+ Number of hours per week of work required: 40
++ Number of hours per week of research expected: 40
 
 ## Candidate requirements
 + Skill sets: Python; unix; probability & statistics.
-+ Studet eligibility  (as of Spring 2018): ~~freshman~~, sophomore, junior, senior, master's
++ Student eligibility  (as of Spring 2018): ~~freshman~~, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**

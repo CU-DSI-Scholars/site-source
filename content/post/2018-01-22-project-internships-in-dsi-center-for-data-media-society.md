@@ -26,9 +26,9 @@ The DSI Center for Data, Media & Society is seeking undergraduate and masters st
 ## Project timeline
 + Start date: 05/21/2018
 + End date: 09/01/2018
-+ Number of hours per week of work required: Full time ~40
++ Number of hours per week of research expected:~40
 
 ## Candidate requirements
 + Skill sets: An introductory programming course, and a 4000-level computer science course; or equivalent experience.
-+ Studet eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
++ Student eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**

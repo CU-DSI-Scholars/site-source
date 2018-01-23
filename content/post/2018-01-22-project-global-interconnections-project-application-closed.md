@@ -13,7 +13,7 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/finnet_jx5b32.png
 ---
-Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in way that is not necessarily explicit. 
+Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit. 
 
 <!--more-->
 
@@ -29,11 +29,10 @@ This project is currently NOT accepting applications.
 ## Project timeline
 + Start date: 06/01/2018
 + End date: 12/20/2018
-+ Number of hours per week of work required: ~5
++ Number of hours per week of research expected: ~5
 
 ## Candidate requirements
 + Skill sets: Python Programming
-+ Studet eligibility  (as of Spring 2018): ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
++ Student eligibility  (as of Spring 2018): ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
 + International students on F1 or J1 visa: **NOT eligible**
 + OTher comments: being fluent in Python, knowing some finance is a plus.
-

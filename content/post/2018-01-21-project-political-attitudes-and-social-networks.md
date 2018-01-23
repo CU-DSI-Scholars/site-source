@@ -26,10 +26,10 @@ We are collecting and analyzing survey data asking people about the political at
 ## Project timeline
 + Start date: 05/15/2018
 + End date: 08/31/2018
-+ Number of hours per week of work required: 20-40
++ Number of hours per week of research expected: 20-40
 
 ## Candidate requirements
 + Skill sets: computing; statistics.
-+ Studet eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
++ Student eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 

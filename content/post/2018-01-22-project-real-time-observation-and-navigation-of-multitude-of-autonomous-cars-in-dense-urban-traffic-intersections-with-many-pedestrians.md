@@ -30,7 +30,7 @@ This project is subject to available funding.
 ## Project timeline
 + Start date: 06/01/2018
 + End date: 09/01/2018
-+ Number of hours per week of work required: 20-40
++ Number of hours per week of research expected: 20-40
 
 ## Candidate requirements
 + Skill sets: Deep learning, video acquisition and processing, data organization and analysis.

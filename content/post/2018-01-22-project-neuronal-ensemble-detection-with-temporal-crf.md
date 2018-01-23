@@ -29,9 +29,9 @@ This project is currently NOT accepting applications.
 ## Project timeline
 + Start date: 06/01/2018
 + End date: 08/17/2018
-+ Number of hours per week of work required: 20
++ Number of hours per week of research expected: 20
 
 ## Candidate requirements
 + Skill sets: Matlab, knowledge of graphical probabilistic models. Familiarity with calcium imaging time series data and general neuroscience a plus.
-+ Studet eligibility (as of Spring 2018): ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, master's
++ Student eligibility (as of Spring 2018): ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, master's
 + International students on F1 or J1 visa: **NOT eligible**

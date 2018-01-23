@@ -13,7 +13,7 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,h_338/v1516632872/preterm_iy8c4x.png
 ---
-Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight involvement of common genetic variants in length of pregnancy. This project involves development of a risk score for preterm birth based on both genetic and environmental attributes. 
+Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes. 
 
 <!--more-->
 
@@ -29,9 +29,9 @@ This project is subject to available funding.
 ## Project timeline
 + Start date: 06/05/2018
 + End date: 08/10/2018
-+ Number of hours per week of work required: 40
++ Number of hours per week of research expected: 40
 
 ## Candidate requirements
 + Skill sets: Python/scikit learn; machine learning
-+ Studet eligibility  (as of Spring 2018): ~~freshman~~, ~~sophomore~~, junior, senior, master's
++ Student eligibility  (as of Spring 2018): ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**

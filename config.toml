@@ -55,7 +55,7 @@ relativeurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 [[menu.main]]
-  weight = 2
+  weight = 4
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-university\"></i>"
@@ -79,22 +79,29 @@ relativeurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-info\"></i>"
   url = "/#about"
 
+[[menu.main]]
+  weight = 2
+  identifier = "faq"
+  name = "FAQ"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question-circle\"></i>"
+  url = "/page/faq2018"
+
 [[menu.links]]
-  weight = 3
+  weight = 4
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
   url = "https://github.com/CU-DSI-Scholars"
 
 [[menu.links]]
-  weight = 3
+  weight = 4
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
   url = "https://twitter.com/DSI_Columbia"
 
 [[menu.links]]
-  weight = 2
+  weight = 3
   identifier = "university"
   name = "Contact Info"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-paper-plane\"></i>"
@@ -106,6 +113,9 @@ relativeurls = true
   name = "Apply Now"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-mortar-board\"></i>"
   url = "https://goo.gl/forms/S4jXM9FOtzLpzn5p1"
+
+
+
 
 #[[menu.misc]]
 #  weight = 1
@@ -174,7 +184,7 @@ relativeurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  # favicon = "/favicon.png"
+  favicon = "http://res.cloudinary.com/tz33cu/image/upload/c_scale,w_150/v1516739017/Data-Science-Avatar_qkn5fd.png"
 
   # Header configuration
   # The link at the right of the header is customizable

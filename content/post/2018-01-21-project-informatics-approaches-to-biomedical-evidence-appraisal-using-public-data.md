@@ -25,9 +25,9 @@ The quality of biomedical evidence can affect research sustainability, patient s
 ## Project timeline
 + Start date: 5/15/2018
 + End date: 9/15/2018
-+ Number of hours per week of work required: 30
++ Number of hours per week of research expected: 30
 
 ## Candidate requirements
 + Skill sets: data mining; text mining; SQL; Java or Python programming; fluent communication in English. 
-+ Studet eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
++ Student eligibility  (as of Spring 2018): freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**

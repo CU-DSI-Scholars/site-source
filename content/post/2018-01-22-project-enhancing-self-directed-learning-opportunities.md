@@ -29,10 +29,10 @@ Analyze data from one of the following library applications/systems and create v
 ## Project timeline
 + Start date: 06/11/2018
 + End date: 08/17/2018
-+ Number of hours per week of work required: 30
++ Number of hours per week of research expected: 30
 
 ## Candidate requirements
 + Skill sets: Experience working with data and familiar with Python and R; Familiar with data mining and visualization packages (e.g., D3, Shiny, etc.); Willingness and ability to learn new technologies; Some software engineering experience; Interest in advancing research in education.
-+ Studet eligibility  (as of Spring 2018): ~~freshman~~, ~~sophomore~~, junior, senior, master's
++ Student eligibility  (as of Spring 2018): ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
-+ Other comments: candidates should be willingness to work in a team environment.
++ Other comments: candidates should be willing to work in a team environment.
