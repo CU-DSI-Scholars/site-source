@@ -1,7 +1,7 @@
 ---
 title: Call for student applications - DSI Scholars Summer 2018
 author: Tian Zheng
-date: '2018-01-22'
+date: '2018-01-24'
 slug: call-for-student-applications-dsi-scholars-summer-2018
 categories:
   - Announcement

@@ -17,8 +17,8 @@ Predicting preterm birth in nulliparous women is challenging and our efforts to 
 
 <!--more-->
 
-{{< alert info >}}
-This project is subject to available funding. 
+{{< alert success >}}
+This project is sponsored by DSI [Center for Health Analytics](http://datascience.columbia.edu/health-analytics). 
 {{< /alert >}}
 
 ## Faculty Advisors

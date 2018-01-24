@@ -19,6 +19,10 @@ DNA sequence reads from a community of microbial genomes are currently processed
 
 <!--more-->
 
+{{< alert success >}}
+This project is sponsored by DSI [Center for Health Analytics](http://datascience.columbia.edu/health-analytics). 
+{{< /alert >}}
+
 ## Faculty Advisor
 + Professor [Itsik Pe'er](http://cs.columbia.edu/~itsik)
 + Department/School: Computer Science/SEAS

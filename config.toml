@@ -55,7 +55,7 @@ relativeurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
 [[menu.main]]
-  weight = 4
+  weight = 3
   identifier = "categories"
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-university\"></i>"
@@ -66,12 +66,12 @@ relativeurls = true
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
   url = "/tags"
-[[menu.main]]
-  weight = 4
-  identifier = "archives"
-  name = "Archives"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
-  url = "/archives"
+#[[menu.main]]
+#  weight = 4
+#  identifier = "archives"
+#  name = "Archives"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+#  url = "/archives"
 [[menu.main]]
   weight = 5
   identifier = "about"

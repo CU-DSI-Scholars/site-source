@@ -8,8 +8,8 @@ categories:
 tags:
   - Summer 2018
   - Neuroscience
-  - Not accepting applications
   - Matlab
+  - Not accepting applications
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/neuron_jxcwbm.png
 ---
@@ -17,14 +17,10 @@ Given calcium imaging data of active neurons, can we detect groups of co-firing 
 
 <!--more-->
 
-{{< alert info >}}
-This project is currently NOT accepting applications. 
-{{< /alert >}}
-
 ## Faculty Advisors
 + Professor [Rafael Yuste](http://blogs.cuit.columbia.edu/rmy5/)
-+ Department/School: SIPA/Political Science/SPS
-+ Location: Data Science Institute Center for Financial & Business Analytics
++ Department/School: Biological Science/A&S, Neuroscience
++ Location: NWC 9th floor
 
 ## Project timeline
 + Start date: 06/01/2018
@@ -34,4 +30,4 @@ This project is currently NOT accepting applications.
 ## Candidate requirements
 + Skill sets: Matlab, knowledge of graphical probabilistic models. Familiarity with calcium imaging time series data and general neuroscience a plus.
 + Student eligibility (as of Spring 2018): ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, master's
-+ International students on F1 or J1 visa: **NOT eligible**
++ International students on F1 or J1 visa: **eligible**
