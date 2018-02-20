@@ -21,6 +21,10 @@ Understand interconnected nature of global multi-national companies via their su
 This project is currently NOT accepting applications. 
 {{< /alert >}}
 
+{{< alert success >}}
+This project is sponsored by DSI [Center for Financial and Business Analytics](http://datascience.columbia.edu/financial-and-business-analytics). 
+{{< /alert >}}
+
 ## Faculty Advisors
 + Professor [Eugene Neduv](http://ieor.columbia.edu/eugene-neduv)
 + Department/School: IEOR/SEAS
