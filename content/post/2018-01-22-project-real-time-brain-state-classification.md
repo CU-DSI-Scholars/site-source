@@ -20,8 +20,8 @@ thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/fmri_scan_f
 Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.
 
 <!--more-->
-{{< alert info >}}
-This project is subject to available funding. 
+{{< alert success >}}
+This project is sponsored by [Department of Statistics](http://www.stat.columbia.edu). 
 {{< /alert >}}
 
 ## Faculty Advisors

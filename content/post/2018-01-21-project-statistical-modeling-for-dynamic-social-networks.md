@@ -19,6 +19,10 @@ Networked systems are ubiquitous in modern society.  In a dynamic social or biol
 
 <!--more-->
 
+{{< alert success >}}
+This project is sponsored by [Department of Statistics](http://www.stat.columbia.edu). 
+{{< /alert >}}
+
 ## Faculty Advisor
 + Professor [Yang Feng](http://www.stat.columbia.edu/~yangfeng/)
 + Department/School: Statistics/ A&S

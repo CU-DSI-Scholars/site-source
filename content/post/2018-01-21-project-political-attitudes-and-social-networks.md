@@ -18,6 +18,10 @@ We are collecting and analyzing survey data asking people about the political at
 
 <!--more-->
 
+{{< alert success >}}
+This project is sponsored by [Department of Statistics](http://www.stat.columbia.edu). 
+{{< /alert >}}
+
 ## Faculty Advisor
 + Professor [Andrew Gelman](http://www.stat.columbia.edu/~gelman/)
 + Department/School: Statistics and Political Science/A&S
