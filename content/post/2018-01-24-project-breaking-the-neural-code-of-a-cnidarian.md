@@ -29,6 +29,7 @@ This project is accepting applications, subject to available funding.
 {{< alert info >}}
 Research position can start immediately. 
 {{< /alert >}}
+
 + Start date: 02/01/2018
 + End date: 02/01/2019
 + Number of hours per week of research expected: 15
