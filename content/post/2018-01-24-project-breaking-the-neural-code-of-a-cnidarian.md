@@ -21,11 +21,13 @@ This project is accepting applications, subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisors
+
 + Professor [Rafael Yuste](http://blogs.cuit.columbia.edu/rmy5/)
 + Department/School: Biological Science/A&S, Neuroscience
 + Location: NWC 9th floor
 
 ## Project timeline
+
 {{< alert info >}}
 Research position can start immediately. 
 {{< /alert >}}
