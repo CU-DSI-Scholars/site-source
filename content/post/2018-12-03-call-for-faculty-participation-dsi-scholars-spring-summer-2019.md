@@ -49,7 +49,7 @@ Key dates:
 + January 18th, 2019
   + [Students -> DSI] Student applications due.
   + [DSI -> Faculty] Applications shared with faculty/center/lab
-+ February 15, 2018
++ February 15th, 2018
   + [Faculty ->DSI] Information of identified Scholars due to DSI
   + [Faculty -> Student] Email offers of the internship will be sent to students.
 
