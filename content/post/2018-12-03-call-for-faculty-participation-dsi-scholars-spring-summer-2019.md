@@ -12,8 +12,8 @@ tags:
   
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1543878523/year2-logo_zonff4.png
-coverImage: //res.cloudinary.com/tz33cu/image/upload/v1543878523/year2-logo_zonff4.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_758/v1543878523/year2-logo_zonff4.png
+coverImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,e_blur:100,w_758/v1543878523/year2-logo_zonff4.png
 metaAlignment: center
 ---
 
