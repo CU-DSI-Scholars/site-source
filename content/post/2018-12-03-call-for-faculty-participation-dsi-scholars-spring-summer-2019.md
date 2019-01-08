@@ -41,15 +41,15 @@ Application to participate: Faculty/Research Centers/Research Labs who are inter
 
 Key dates:
 
-+ December 24th, 2018 
++ ~~December 24th, 2018~~ (still accepting proposals)
   + [Faculty -> DSI] Faculty/Center/Lab scholars internship host application due.
-+ December 31st, 2018 
++ ~~December 31st, 2018~~ Januaray 11th, 2019
   + [DSI -> Faculty] DSI Scholars funding decisions will be sent to faculty.
   + [DSI -> Students] Program announcement will be sent to students and application website goes live.
-+ January 18th, 2019
++ January 28th, 2019
   + [Students -> DSI] Student applications due.
   + [DSI -> Faculty] Applications shared with faculty/center/lab
-+ February 15th, 2018
++ February 22nd, 2018
   + [Faculty ->DSI] Information of identified Scholars due to DSI
   + [Faculty -> Student] Email offers of the internship will be sent to students.
 
