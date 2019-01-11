@@ -16,8 +16,8 @@ The objective is to use new large cloud-resolving simulations to try and better 
 
 <!--more-->
 
-{{< alert success >}}
-One selected candidate will receive a stipend via the DSI Scholars program. Amount is subject to available funding. 
+{{< alert info >}}
+This is an UNPAID research project. 
 {{< /alert >}}
 
 ## Faculty Advisor
