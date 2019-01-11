@@ -10,7 +10,7 @@ tags:
   - Summer 2019
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_800/v1547241277/logos_jop3mo.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_720/v1547241277/logos_jop3mo.png
 coverImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,e_blur:300,w_800/v1547241277/logos_jop3mo.png
 metaAlignment: center
 ---
