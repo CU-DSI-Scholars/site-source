@@ -4,7 +4,7 @@ author: Tian Zheng
 date: '2018-09-01'
 slug: dsi-scholars-summer-2018-meetup-series
 categories:
-  - Project 2018
+  - Blog
 tags:
   - Summer 2018
   - Learning Activities
