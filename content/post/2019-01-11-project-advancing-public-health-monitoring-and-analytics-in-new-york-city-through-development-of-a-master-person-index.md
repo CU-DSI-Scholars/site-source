@@ -15,17 +15,17 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1516632872/healthcare_pht18w.png
 ---
-Through a collaboration between Columbia University and the NYC Department of Health and Mental Hygiene (DOHMH), we are seeking a data scientist with JAVA, machine learning and/or SQL skills along with good writing, administrative and organizational abilities to contribute to the developing infrastructure and modeling of an extensible master person index (MPI) and data management solution. The intern would work directly with DOHMH scientists.
+Data is central to the NYC Department of Health’s mission to protect and promote the health of all New Yorkers. The agency’s many programs often require large scale record linkages that integrate data from individuals across multiple public health data systems and disease registries. We are implementing a Master Person Index (MPI) system in order to centralize, optimize and standardize matching methodology for administrative data across the Department of Health.
 
 <!--more-->
+Epidemiologists use linked datasets to work on a range of public health issues; disease-specific teams also conduct surveillance for over 90 reportable diseases and conditions using these linkages. In 2015, an intra-agency Matching Work Group found that record linkage, whether conducted for research and evaluation, surveillance, or clinical practice were extremely or prohibitively labor intensive, and sometimes highly duplicative. Through a collaboration between Columbia University and the NYC Department of Health and Mental Hygiene, we are seeking a data scientist with JAVA, machine learning and/or SQL skills along with good writing, administrative and organizational abilities to contribute to the developing infrastructure and modeling of an MPI and data management solution. The intern would work directly with scientists and researchers from both institutions.
 
-Data is central to the DOHMH's mission to protect and promote the health of all New Yorkers. The agency’s many programs often require large scale record linkages. Epidemiologists use linked datasets to work on a range of public health issues; disease-specific teams also conduct surveillance for over 90 reportable diseases and conditions. In 2015, an intra-agency Matching Work Group found that record linkage, whether conducted for research and evaluation, surveillance, or clinical practice were extremely or prohibitively labor intensive, and sometimes highly duplicative. This was the impetus for developing an AI-enabled MPI system.
+The intern would focus their efforts on one or more of the following: 
 
-The intern would focus their efforts on one or more of the following:
-·        enhancements to the user interface
-·        write, review, test and run scripts against the MPI and improve MPI services
-·        evaluate and optimize machine learning - data matching model
-·        improve system documentation and project planning
++ enhancements to the user interface 
++ write, review, test and run scripts against the MPI and improve MPI services 
++ evaluate and optimize machine learning - data matching model
++ improve system documentation and project planning
 
 {{< alert success >}}
 One selected candidate will receive a stipend via the DSI Scholars program. Amount is subject to available funding. 
