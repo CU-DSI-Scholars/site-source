@@ -1,5 +1,5 @@
 ---
-title: 'Project: Enhancing Self-Directed Learning Opportunities'
+title: 'Project: Enhancing Self-Directed Learning Opportunities Using Learning Analytics'
 author: Tian Zheng
 date: '2019-01-11'
 slug: project-enhancing-self-directed-learning-opportunities
@@ -21,7 +21,7 @@ Analyze data from one or more of the following Library Applications/Systems and 
 
 <!--more-->
 --PocketKnowledge (TC Online Archive)
---DocDec (TC E-Reserve System)
+--DocDel (TC E-Reserve System)
 --Vialogues (TC Video Discussion Application)
 --Pressible (TC Blogging Platform)
 --Library Website and Mobile App
@@ -44,7 +44,7 @@ Selected candidate(s) will receive a stipend directly from TC EdLab. Amount is s
 + Earliest starting date: 03/01/2019
 + End date: 08/31/2019
 + Number of hours per week of research expected during Spring 2019: ~20
-+ Number of hours per week of research expected during Summer 2019: ~30
++ Number of hours per week of research expected during Summer 2019: ~35
 
 ## Candidate requirements
 + Skill sets: 
