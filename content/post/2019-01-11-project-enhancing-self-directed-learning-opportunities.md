@@ -20,15 +20,16 @@ thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1
 Analyze data from one or more of the following Library Applications/Systems and create visualizations that highlight the most important findings related to our goal of supporting self-directed learning.
 
 <!--more-->
---PocketKnowledge (TC Online Archive)
---DocDel (TC E-Reserve System)
---Vialogues (TC Video Discussion Application)
---Pressible (TC Blogging Platform)
---Library Website and Mobile App
---Library E-Resources (Database and Journals)
---Library Room Booking System
---Library Support Request System
---Library Internal Geo-Location Tracking System (QUUPA)
+
++ PocketKnowledge (TC Online Archive)
++ DocDel (TC E-Reserve System)
++ Vialogues (TC Video Discussion Application)
++ Pressible (TC Blogging Platform)
++ Library Website and Mobile App
++ Library E-Resources (Database and Journals)
++ Library Room Booking System
++ Library Support Request System
++ Library Internal Geo-Location Tracking System (QUUPA)
 
 {{< alert success >}}
 Selected candidate(s) will receive a stipend directly from TC EdLab. Amount is subject to available funding. 
