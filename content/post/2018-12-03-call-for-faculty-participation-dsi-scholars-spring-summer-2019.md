@@ -23,10 +23,6 @@ The Data Science Institute is pleased to call for Faculty Participation in the 2
 
 <!--more-->
 
-{{< alert success >}}
-[**Recorded online Q&A**](https://columbiauniversity.zoom.us/recording/play/azO-L3VKykR0juwzdWFURavEVagW-tdYpZjsHzcSQcPSic6YveVWO51XcrILh_2h?continueMode=true)
-{{< /alert >}}
-
 + **Funding support**: Funding support: The DSI will support faculty by providing stipend funds for selected scholars up to $2,500 each.  Approximately 20 such stipend funds will be awarded.  Allocation of funds will be made via a first-come-first-serve need-based process, with efforts to balance allocation across disciplines and to support novel interdisciplinary research.
 
 + **Administrative support**: Administrative support: The DSI education committee will **collect** faculty-submitted internship positions and create an umbrella application page to solicit student applications. The collected applications for each position will be compiled and sent to the hosting faculty/center/lab for review. The faculty/center/lab will **review, identify and notify** the Scholars for their own projects. 
@@ -45,15 +41,15 @@ Application to participate: Faculty/Research Centers/Research Labs who are inter
 
 Key dates:
 
-+ December 24th, 2018 
++ ~~December 24th, 2018~~ (still accepting proposals)
   + [Faculty -> DSI] Faculty/Center/Lab scholars internship host application due.
-+ December 31st, 2018 
++ ~~December 31st, 2018~~ Januaray 11th, 2019
   + [DSI -> Faculty] DSI Scholars funding decisions will be sent to faculty.
   + [DSI -> Students] Program announcement will be sent to students and application website goes live.
-+ January 18th, 2019
++ January 28th, 2019
   + [Students -> DSI] Student applications due.
   + [DSI -> Faculty] Applications shared with faculty/center/lab
-+ February 15th, 2018
++ February 22nd, 2018
   + [Faculty ->DSI] Information of identified Scholars due to DSI
   + [Faculty -> Student] Email offers of the internship will be sent to students.
 
