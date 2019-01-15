@@ -40,7 +40,7 @@ In addition to working on a research project, student research interns will be i
 The following timetable is subject to adjustments. 
 
 {{< alert info >}}
-Click [**here**](https://goo.gl/forms/S4jXM9FOtzLpzn5p1) to access the umbrella application page. 
+Click [**here**](https://goo.gl/forms/RlCEowm2dK8doSNq1) to access the umbrella application page. 
 {{< /alert >}}
 
 + January 14, 2019
