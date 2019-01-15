@@ -38,4 +38,4 @@ This is an unpaid research experience. Paid position may be possible, subject to
 + Skill sets:Should have experience in R programming.
 + Student eligibility  (as of Spring 2019): ~~freshman~~, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
-+ Additional comments: students shoudl be interested in understanding the biology of bladder cancer.
++ Additional comments: students should be interested in understanding the biology of bladder cancer.
