@@ -19,7 +19,7 @@ We have been studying bladder cancer in a mouse model of the disease and we are 
 <!--more-->
 
 {{< alert info >}}
-This is an UNPAID research internship.
+This is an unpaid research experience. Paid position may be possible, subject to funding and appointment structure.
 {{< /alert >}}
 
 ## Faculty Advisor

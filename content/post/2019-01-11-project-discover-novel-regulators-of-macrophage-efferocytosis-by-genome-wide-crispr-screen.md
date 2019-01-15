@@ -39,4 +39,4 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + Skill sets: R and Bioconductor
 + Student eligibility  (as of Spring 2019): ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
-+ Additional comments: Students shoudl be interested in bioinformatics in a biomedical research setting.
++ Additional comments: Students should be interested in bioinformatics in a biomedical research setting.
