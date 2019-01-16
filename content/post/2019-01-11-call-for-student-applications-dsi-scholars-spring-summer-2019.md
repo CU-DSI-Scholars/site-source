@@ -19,7 +19,7 @@ Columbia University [Data Science Institute](http://datascience.columbia.edu/) i
 <!--more-->
 The second cohort of [Spring-Summer 2019 projects](https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-2019/) are ready to accept applications. We created an [**umbrella application page**](https://goo.gl/forms/RlCEowm2dK8doSNq1) to collect student applications. These projects have a wide range of duration and can be either **paid** or **unpaid**. Therefore, please read each project description carefully before applying. Housing will NOT be provided. 
 
-{{< alert success >}}
+{{< alert info >}}
 Click [**here**](https://goo.gl/forms/RlCEowm2dK8doSNq1) to access the umbrella application page. 
 {{< /alert >}}
 
@@ -52,7 +52,7 @@ Click [**here**](https://goo.gl/forms/RlCEowm2dK8doSNq1) to access the umbrella 
     + [Faculty -> DSI] Information of identified Scholars due to DSI.
     + [Faculty -> Student] Email offers of the internship will be sent to students.
     
-{{< alert success >}}
+{{< alert info>}}
 Click [here](/page/faq2018) for a list of frequently asked questions. We will be constantly updating this list based on inquries we receive.  
 {{< /alert >}}
 
