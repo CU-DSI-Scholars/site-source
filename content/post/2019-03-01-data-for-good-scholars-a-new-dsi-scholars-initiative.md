@@ -19,6 +19,10 @@ Columbia University [Data Science Institute](http://datascience.columbia.edu/) i
 
 <!--more-->
 
+{{< alert info >}}
+Click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdKGoPyLriHECujXEnStgQHAyA7o6yuxb16vY0Jd_4PAZMQaw/viewform) to apply. 
+{{< /alert >}}
+
 ## Faculty Advisors
 + Professor [Tian Zheng](https://datascience.columbia.edu/tian-zheng)
 + Dr. [Vincent Dorie](https://datascience.columbia.edu/vincent-dorie)
@@ -32,7 +36,7 @@ Columbia University [Data Science Institute](http://datascience.columbia.edu/) i
 
 ## Candidate requirements
 + Skill sets: data cleaning, R or Python, data visualization, data mining
-+ Student eligibility  (as of Spring 2018): freshman, sophomore, junior, senior,~~ master's~~
++ Student eligibility  (as of Spring 2019): freshman, sophomore, junior
 + International students on F1 or J1 visa: **eligible**
 
 The selected "Data for Good" undergraduate scholars will work with DSI research scientists and faculty members on data science projects with societal impacts. We are looking to fill four part-time positions (5-10 hours a week with a stipend of $2,500) for Spring 2019, which may be extended to a Summer 2019 full time research internship (35 hours a week for 8 weeks, with a stipend of $5,000). Housing is not included.
@@ -50,3 +54,7 @@ Key dates (The following time table is subject to adjustment.)
 + March 15th, 2019 - Email offers of internship are expected to be sent to students.
 
 Please email questions to dsi-scholars@columbia.edu.
+
+{{< alert info >}}
+Click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSdKGoPyLriHECujXEnStgQHAyA7o6yuxb16vY0Jd_4PAZMQaw/viewform) to apply. 
+{{< /alert >}}
