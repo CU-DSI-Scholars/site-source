@@ -5,12 +5,13 @@ date: '2019-01-17'
 slug: call-for-student-applications-dsi-scholars-spring-summer-2019
 categories:
   - Project 2019
+  - Announcement
 tags:
   - Spring 2019
   - Summer 2019
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_700/v1548808478/logos-Jan28_2019_xphwvf.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_720/v1547241277/logos_jop3mo.png
 coverImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,e_blur:300,w_800/v1547241277/logos_jop3mo.png
 metaAlignment: center
 ---
