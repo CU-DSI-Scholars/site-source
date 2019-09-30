@@ -1,10 +1,10 @@
 ---
-title: 'Project: Data For Good: The Cost of Human Rights'
+title: 'Data For Good Project: The Cost of Human Rights'
 author: Vincent Dorie
 date: '2019-09-28'
 slug: project-the-cost-of-human-rights
 categories:
-  - Project 2019
+  - Project Fall 2019
 tags:
   - Data For Good
   - Machine learning

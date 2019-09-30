@@ -4,7 +4,7 @@ author: Vincent Dorie
 date: '2019-09-28'
 slug: project-african-north-americans-database
 categories:
-  - Project 2019
+  - Project Fall 2019
 tags:
   - Data For Good
   - Record linkage
