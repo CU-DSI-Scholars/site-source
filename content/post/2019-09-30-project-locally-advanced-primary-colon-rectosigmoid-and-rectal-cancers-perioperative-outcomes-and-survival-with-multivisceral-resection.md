@@ -12,6 +12,7 @@ thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1
 Locally advanced colorectal cancers that invade adjacent organs (i.e., T4 primary tumors) without evidence of distant metastasis account for approximately 5-15% of new colorectal cancers.  There are limited multi-institutional study describing the perioperative complication rates and long-term survival of patients undergoing single organ resection after neoadjuvant chemotherapy and/or radiation versus multivisceral resections for patients with T4 colorectal cancers.  Using the American College of Surgeons National Cancer Database (NCDB), we seek to analyze differential outcomes (perioperative complications and overall survival) by procedure performed, tumor details, pathological findings, chemo-radiotherapy regimens, patient demographics. 
 
 <!--more-->
+
 Survival probabilities will be estimated using the Kaplan-Meier method.  Adjusting for important prognostic factors, a Cox proportional hazards model will be applied.  The potential correlation of data on patients treated by the same surgeon (i.e., clustering) and same hospital will be accounted for by using mixed-model estimating techniques as appropriate for the level of analysis.
 
 {{< alert success >}}
@@ -33,5 +34,3 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + Skill sets: Biostatistical analysis. Being able to use R or Stata programming
 + Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **NOT** eligible
-+ Additional comments: 
-N/A

@@ -13,7 +13,9 @@ Galaxies in our universe form hierarchically, continuously merging and absorbing
 
 <!--more-->
 
+{{< alert success >}}
 Selected candidate(s) will receive a stipend directly from the faculty advisor. Amount is subject to available funding.
+{{< /alert >}}
 
 ## Faculty Advisor
 + Professor: [Shy Genel](https://users.flatironinstitute.org/~sgenel/)

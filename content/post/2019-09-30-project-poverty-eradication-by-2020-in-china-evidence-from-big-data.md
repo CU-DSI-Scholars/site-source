@@ -32,5 +32,4 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + Skill sets: Fluency in English and Mandarin; Ability to search, gather, and analyze big data from Chinese websites, social media, and other data sources; Trend and geographic analyses. 
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
 + International students on F1 or J1 visa: **eligible**
-+ Additional comments: 
-The student needs to be fluent in Mandarin and be able to conduct data gathering and analysis in Mandarin. 
++ Additional comments: The student needs to be fluent in Mandarin and be able to conduct data gathering and analysis in Mandarin.

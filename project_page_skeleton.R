@@ -4,8 +4,8 @@ repository <- "/Users/vdorie/Repositories/dsischolars/site-source/content/post"
 
 for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
-    title.lower <- gsub(":", "", gsub(" ", "-", tolower(Project.title)))
-    if (endsWith(title.lower, ".")) title.lower <- sub("\\.$", "", Project.title)
+    title.lower <- gsub(":|,", "", gsub(" ", "-", tolower(Project.title)))
+    if (endsWith(title.lower, ".")) title.lower <- sub("\\.$", "", title.lower)
     fileName <- paste0(Sys.Date(), "-project-", title.lower, ".md")
     
     outfile <- file(file.path(repository, fileName), open = "w")
@@ -25,7 +25,10 @@ for (i in seq_len(nrow(projects))) {
       if (grepl("\n", Brief.project.description..200.words.or.less.)) sub("\n", "\n\n<!--more-->\n\n", Brief.project.description..200.words.or.less.) else paste0(Brief.project.description..200.words.or.less., "\n\n<!--more-->"))
     lines <- c(lines, "")
     
-    if (Are.you.applying.for.DSI.need.based.stipend.funding..up.to..2500.. == 
+    if (Do.you.have.a.student.selected.for.this.position.already. == "Yes") {
+      lines <- c(lines,
+                 "{{< alert info >}}\nThis is project is NOT accepting applications.\n{{< /alert >}}")
+    } else if (Are.you.applying.for.DSI.need.based.stipend.funding..up.to..2500.. == 
         "No, this will be an unpaid research project (for course credit or an unpaid learning experience).") {
       lines <- c(lines,
                  "{{< alert success >}}\nThis is an UNPAID research project.\n{{< /alert >}}")
@@ -33,8 +36,8 @@ for (i in seq_len(nrow(projects))) {
       lines <- c(lines,
                  "{{< alert success >}}\nOne selected candidate will receive a stipend via the DSI Scholars program. Amount is subject to available funding.\n{{< /alert >}}")
       } else {
-      lines <- c(lines,
-               "Selected candidate(s) will receive a stipend directly from the faculty advisor. Amount is subject to available funding.")
+        lines <- c(lines,
+                   "{{< alert success >}}\nSelected candidate(s) will receive a stipend directly from the faculty advisor. Amount is subject to available funding.\n{{< /alert >}}")
     }
     lines <- c(lines, "",
                "## Faculty Advisor",
@@ -62,7 +65,7 @@ for (i in seq_len(nrow(projects))) {
                       if (Are.International.students.on.F1.or.J1.visa.eligible. == "Yes") "**eligible**" else "**NOT** eligible"))
   
     if (trimws(Special.Requirements) != "")
-      lines <- c(lines, "+ Additional comments: ", trimws(Special.Requirements))
+      lines <- c(lines, paste0("+ Additional comments: ", trimws(Special.Requirements)))
   
     writeLines(lines, outfile)
     close(outfile)
