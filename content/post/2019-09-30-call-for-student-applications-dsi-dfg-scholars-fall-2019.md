@@ -1,7 +1,7 @@
 ---
 title: Call for Student Applications - Fall 2019
 author: Tian Zheng and Vincent Dorie
-date: '2019-09-28'
+date: '2019-09-30'
 slug: call-for-student-applications-dsi-scholars-fall-2019
 categories:
   - Project Fall 2019

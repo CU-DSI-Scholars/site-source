@@ -1,7 +1,7 @@
 ---
 title: 'Data For Good Project: African North Americans Database'
 author: Vincent Dorie
-date: '2019-09-28'
+date: '2019-09-30'
 slug: project-african-north-americans-database
 categories:
   - Project Fall 2019
