@@ -1,8 +1,8 @@
 ---
-title: Call for student applications - Spring-Summer 2019
+title: Call for Student Applications - Fall 2019
 author: Tian Zheng and Vincent Dorie
 date: '2019-09-28'
-slug: call-for-student-applications-dsi-scholars-spring-summer-2019
+slug: call-for-student-applications-dsi-scholars-fall-2019
 categories:
   - Project Fall 2019
   - Announcement
@@ -21,7 +21,7 @@ The goal of the DSI Scholars Program is to engage Columbia University's undergra
 The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As "real world" problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.
 
 <!--more-->
-The cohort of [Fall 2019 projects](https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-fall-2019/) are ready to accept applications. We have created an [**umbrella application page**](https://forms.gle/4ZwYdnpkbTcHE63s7) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
+The cohort of [Fall 2019 projects](categories/project-fall-2019/) are ready to accept applications. We have created an [**umbrella application page**](https://forms.gle/4ZwYdnpkbTcHE63s7) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
 
 {{< alert info >}}
 Click [**here**](https://forms.gle/4ZwYdnpkbTcHE63s7) to access the umbrella application page. 

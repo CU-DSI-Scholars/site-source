@@ -19,7 +19,7 @@ Finding the exact counterpart galaxies to merging black hole binaries detected i
 But if X-rays are emitted at the time of the merger, a small fraction of the X-rays will be scattered off dust in our own Galaxy, producing a time-variable circular scattering halo that lingers for about a day after the gravitational waves have passed Earth. Such a halo has a highly characteristic, predictable shape; but we have no experience with searching for such unusual patterns in noisy imaging data. We want to use machine learning techniques to perform the search. The gravitational wave detectors will start operating again in early 2019. There is also a significant amount of archival X-ray imaging data that has not been investigated in the proposed manner.
 
 {{< alert info >}}
-This is project is NOT accpeting application. 
+This is project is NOT accepting applications. 
 {{< /alert >}}
 
 ## Faculty Advisor
