@@ -18,14 +18,14 @@ thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1
 ---
 This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, "color," birthplace, or other details. The main difficulty in making these matches is that the census data for people with a confirmed identity does not stay uniform decade after decade. Someone might be recorded not with their given name but instead a nickname (Elizabeth to Betsy); women can marry or get remarried and change their names; racial measures by a census taker may change (black to mulatto, or mulatto to white); someone might say they are from Canada, even when they were born in Kentucky, depending on how the question was asked; people who were estimating their ages might be 35 in 1870 and 40 in 1880 and 50 in 1890, for example.
 
+<!--more-->
+
 To date, approximately 1,000 matches have been manually generated in a database of 50,000 records. Matches were made by looking first at the calculated birth year, then at the name given, location, place of birth, and sometimes at household members. Finding an algorithmic way to predict and identify these matches will allow these records to be paired with other sources, such as government pension data, and will factor into research on migration patterns, specific families, and nodes - whether personal or geographic — that tie these African North American groups together. 
 
 Goals include:
 + Finding a way to predict or confirm matches in the data, likely using confidence factors based on name, birth year, family structure, and/or location. Those that have been confirmed manually can be used as a training set for an algorithm. 
 + Expanding the dataset by scraping census data for the rest of the households of those in the database, either for those confirmed as matches or for the entire set. This will expand the reach of the database and allow for additional matches.
 + Lower-Priority goals include additional visualizations and OCR conversions.
-
-<!--more-->
 
 {{< alert success >}}
 The Data For Good program is designed primarily for volunteers, however one candidate will be selected as a project coordinator and will receive a stipend via the Data For Good Scholars program. In addition to the responsibilities of a team member, the selected candidate will be responsible for keeping up-to-date notes on the project's status, writing an end-of-period report, and attending bi-weekly meetings with a DFG program director. The project coordinator should strive to keep the group of volunteers in sync with the needs of the project owner.
