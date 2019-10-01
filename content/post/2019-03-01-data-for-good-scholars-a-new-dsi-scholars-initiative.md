@@ -5,7 +5,6 @@ date: '2019-03-01'
 slug: data-for-good-scholars-a-new-dsi-scholars-initiative
 categories:
   - Announcement
-  - Project 2019
 tags:
   - Spring 2019
   - Summer 2019

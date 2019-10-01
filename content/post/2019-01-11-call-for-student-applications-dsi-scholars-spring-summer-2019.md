@@ -4,7 +4,6 @@ author: Tian Zheng
 date: '2019-01-17'
 slug: call-for-student-applications-dsi-scholars-spring-summer-2019
 categories:
-  - Project 2019
   - Announcement
 tags:
   - Spring 2019
