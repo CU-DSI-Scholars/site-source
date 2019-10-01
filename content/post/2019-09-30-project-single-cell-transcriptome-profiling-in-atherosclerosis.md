@@ -5,7 +5,10 @@ slug: project-single-cell-transcriptome-profiling-in-atherosclerosis
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Computational genomics
+  - R
+  - Python
+  - Fall 2019
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569961190/dna_transcription_a8abd2.png
 ---

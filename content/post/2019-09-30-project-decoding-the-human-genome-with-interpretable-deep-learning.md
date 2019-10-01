@@ -5,7 +5,10 @@ slug: project-decoding-the-human-genome-with-interpretable-deep-learning
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Python
+  - Deep learning
+  - Genetics
+  - Fall 2019
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547231276/chromosomes-2817314_960_720_h3vpll.png
 ---

@@ -5,7 +5,10 @@ slug: project-designing-fair-representations-with-provable-guarantees
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Fall 2019
+  - Fairness
+  - Proveable approximate correctness
+  - Not accepting applications
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569958303/human_robot_hmbury.png
 ---
@@ -31,8 +34,8 @@ This is project is NOT accepting applications.
 
 ## Candidate requirements
 + Skill sets: 
-  Algorithmic Fairness
-  PAC learning
-  Information Theory
+  + Algorithmic Fairness
+  + PAC learning
+  + Information Theory
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, master's
 + International students on F1 or J1 visa: **eligible**

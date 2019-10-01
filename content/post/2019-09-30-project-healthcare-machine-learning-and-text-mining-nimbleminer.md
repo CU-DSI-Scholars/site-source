@@ -5,7 +5,11 @@ slug: project-healthcare-machine-learning-and-text-mining-nimbleminer
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Fall 2019
+  - Health
+  - R
+  - Data mining
+  - Not accepting applications
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547181988/prognosis-icon-2803190_960_720_erpf57.png
 ---

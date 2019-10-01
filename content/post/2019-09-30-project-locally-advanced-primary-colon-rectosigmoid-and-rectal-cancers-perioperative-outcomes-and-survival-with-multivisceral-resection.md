@@ -5,7 +5,10 @@ slug: project-locally-advanced-primary-colon-rectosigmoid-and-rectal-cancers-per
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - R
+  - Stata
+  - Biostatistics
+  - Fall 2019
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547232807/scissors-3031502_960_720_ydcu9z.jpg
 ---

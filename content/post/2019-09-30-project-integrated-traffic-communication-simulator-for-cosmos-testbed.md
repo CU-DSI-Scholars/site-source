@@ -5,7 +5,12 @@ slug: project-integrated-traffic-communication-simulator-for-cosmos-testbed
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Linux
+  - C++
+  - Python
+  - Autonomous vehicles
+  - Simulation
+  - Fall 2019
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569959561/road_pzmzis.png
 ---
@@ -17,9 +22,9 @@ Both undergraduate students and M.S. from Civil Engineering and Engineering
 Mechanics, Industrial Engineering & Operations Research, or Computer Science are
 welcome to register. The student involved in this project will build the simulation platform (install and connect different software). Students with good computer and coding skills are
 preferred. Skill requirements are:
-1.	Familiar with linux operating system. Installing and configurating software in linux system as needed.
-2.	Mastering C++ programing is preferred. Using C++ the using/editing the module in SUMO and OMNET++. 
-3.	Familiar with Python. Generating figures, graphs, tables, or statistical models to present results with python.
+1.  Familiar with linux operating system. Installing and configurating software in linux system as needed.
+2.  Mastering C++ programing is preferred. Using C++ the using/editing the module in SUMO and OMNET++. 
+3.  Familiar with Python. Generating figures, graphs, tables, or statistical models to present results with python.
 
 {{< alert success >}}
 This is an UNPAID research project.
@@ -36,8 +41,8 @@ This is an UNPAID research project.
 
 ## Candidate requirements
 + Skill sets: 
-  1.	Familiar with linux operating system. Installing and configurating software in linux system as needed.
-  2.	Mastering C++ programing is preferred. Using C++ the using/editing the module in SUMO and OMNET++. 
-  3.	Familiar with Python. Generating figures, graphs, tables, or statistical models to present results with python.
+  1. Familiar with linux operating system. Installing and configurating software in linux system as needed.
+  2. Mastering C++ programing is preferred. Using C++ the using/editing the module in SUMO and OMNET++. 
+  3. Familiar with Python. Generating figures, graphs, tables, or statistical models to present results with python.
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
 + International students on F1 or J1 visa: **eligible**

@@ -5,7 +5,12 @@ slug: project-waymo-lyft-driverless-car-data-analysis-and-driving-modeling
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Autonomous vehicles
+  - Linux
+  - Python
+  - Image data
+  - Lidar
+  - Fall 2019
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569962010/self_driving_car_dr0v3f.png
 ---
@@ -30,8 +35,8 @@ This is an UNPAID research project.
 
 ## Candidate requirements
 + Skill sets: Both undergraduate students and M.S. are welcome to register my research credits during the semester and summer. The student involved in this project will develop codes and algorithms for data analysis and modeling. Students with good computer and coding skills are preferred. Skill requirements are:
-  1.	Familiar with linux operating system. Reading and writing data.
-  2.	Mastering Python programing is required. Using python to process and transform image and lidar data, and generate figures, graphs, tables, or statistical models.
-  3.	Experience in processing image and lidar data is preferred.
+  1. Familiar with linux operating system. Reading and writing data.
+  2. Mastering Python programing is required. Using python to process and transform image and lidar data, and generate figures, graphs, tables, or statistical models.
+  3. Experience in processing image and lidar data is preferred.
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
 + International students on F1 or J1 visa: **eligible**

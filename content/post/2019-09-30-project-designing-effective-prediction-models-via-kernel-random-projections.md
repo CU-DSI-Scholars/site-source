@@ -5,7 +5,10 @@ slug: project-designing-effective-prediction-models-via-kernel-random-projection
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Fall 2019
+  - Clustering
+  - Random projection
+  - Not accepting applications
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569957732/projections_yskt19.jpg
 ---
@@ -31,9 +34,9 @@ This is project is NOT accepting applications.
 
 ## Candidate requirements
 + Skill sets: 
-  Metric Embeddings
-  Random Projections
-  Clustering
-  Density Estimation 
+  - Metric Embeddings
+  - Random Projections
+  - Clustering
+  - Density Estimation 
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
 + International students on F1 or J1 visa: **eligible**

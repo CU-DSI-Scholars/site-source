@@ -5,7 +5,13 @@ slug: project-efficiently-representing-genetic-diversity-from-thousands-of-micro
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Fall 2019
+  - Python
+  - C++
+  - Microbiome
+  - Sparsity
+  - Algorithms
+  - Data structures
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569958426/microbiome_kw1dh4.png
 ---

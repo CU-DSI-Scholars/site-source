@@ -5,7 +5,11 @@ slug: project-cryptocurrency-analytics-identifying-bad-actors
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Python
+  - Cryptocurrency
+  - Machine learning
+  - Graph modeling
+  - Fall 2019
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569955650/cryptocurrencies_uvjoot.jpg
 ---

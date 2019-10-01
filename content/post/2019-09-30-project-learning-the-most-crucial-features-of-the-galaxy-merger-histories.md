@@ -5,7 +5,11 @@ slug: project-learning-the-most-crucial-features-of-the-galaxy-merger-histories
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Python
+  - Machine learning
+  - Deep learning
+  - Astrophysics
+  - Fall 2019
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569959714/galaxy_s4mvwj.png
 ---

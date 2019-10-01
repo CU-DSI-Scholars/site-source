@@ -5,7 +5,12 @@ slug: project-spatiotemporal-simulation-and-forecasting-of-renewable-energy
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Fall 2019
+  - Spatial statistics
+  - Time series
+  - Bayesian statistics
+  - Hierarchical modeling
+  - Not accepting applications
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569961440/renewable_energy_w0ni8w.png
 ---

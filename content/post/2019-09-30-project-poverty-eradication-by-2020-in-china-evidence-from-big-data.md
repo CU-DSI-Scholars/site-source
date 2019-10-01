@@ -5,7 +5,9 @@ slug: project-poverty-eradication-by-2020-in-china-evidence-from-big-data
 categories:
   - Project Fall 2019
 tags:
- - Fall 2019
+  - Mandarin
+  - Statistics
+  - Fall 2019
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569960946/china_rural_yd8xt8.png
 ---
