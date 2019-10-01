@@ -10,8 +10,8 @@ tags:
   - Fall 2019
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_720/v1547241277/logos_jop3mo.png
-coverImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,e_blur:300,w_800/v1547241277/logos_jop3mo.png
+thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1569954028/opencall_fall2019_so51mh.png
+coverImage: //res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1569954028/opencall_fall2019_so51mh.png
 metaAlignment: center
 ---
 Columbia University [Data Science Institute](http://datascience.columbia.edu/) is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Fall 2019 are open for application.
@@ -39,15 +39,15 @@ The following timetable is subject to adjustments.
 
 + September 30, 2019
     + [DSI -> Students] Call for applications is sent to students and application website goes live.
-+ October 7, 2019
++ October 21, 2019
     + [Students -> DSI] Student applications due.
     + [DSI -> Faculty] Applications shared with faculty/center/lab.
-+ October 14, 2019 (expected)
++ November14, 2019 (expected)
     + [Faculty -> DSI] Information of identified Scholars due to DSI.
     + [Faculty -> Student] Email offers of the internship will be sent to students.
     
 {{< alert info>}}
-Click [here](/page/faq2010) for a list of frequently asked questions. We will be constantly updating this list based on inquries we receive.  
+Click [here](/page/faq2019) for a list of frequently asked questions. We will be constantly updating this list based on inquries we receive.  
 {{< /alert >}}
 
 Please email questions to <dsi-scholars@columbia.edu>.

@@ -7,7 +7,7 @@ categories:
 tags:
  - Fall 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547675604/2000px-Capsule__ge%CC%81lule.svg_spzxwr.png
+thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569961440/renewable_energy_w0ni8w.png
 ---
 A major obstacle to the decarbonization of the electricity production systems is the multi scale (space and time) variability of wind, solar and hydro energy sources. Much work is being done to understand the high frequency variations in these sources from the perspective of grid integration. However, as with rainfall and other natural systems, these variables can exhibit log-log fractal scaling in space and time, such that the variance of the process increases with temporal duration and with spatial scale. Focusing on high frequency variations thus grossly understates the systemic risk that is associated with these sources. Appropriate national grid design including electricity storage allocation, needs to consider both the periodic annual cycle variations and quasi-periodic inter-annual variability which have larger variance, and the phase lags in these variations across space. The proposed project would explore the development of a multi-level, hierarchical spatio-temporal model for wind or solar using data from the continental USA and its subregions to explore stochastic simulations and multi-scale predictions of the associated risk to inform system design and financial instruments development. 
 

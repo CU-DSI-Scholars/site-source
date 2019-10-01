@@ -7,7 +7,7 @@ categories:
 tags:
  - Fall 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547675604/2000px-Capsule__ge%CC%81lule.svg_spzxwr.png
+thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569959075/earthquake_ufnmvi.png
 ---
 We are requesting a DSI Scholar position for an undergraduate to work with myself and my collaborator Ben Holtzman (Lamont Doherty Earth Observatory, LDEO). We have been collaborating on the development of novel machine learning applications to seismology, specifically unsupervised feature extraction in spectral properties of large numbers of small earthquakes. Our first application was published in Science Advances last year (Holtzman, Pate, Paisley, Waldhauser, Repetto, “Machine learning reveals cyclic changes in seismic source spectra in Geysers geothermal field.” Science Advances 4, eaao2929. doi:10.1126/sciadv.aao2929, 2018). Currently we are building a synthetic dataset to better understand the features that control clustering behavior, and compare different clustering methods. The DSI Scholar would contribute to this study on the testing of different clustering algorithms, in particular the relation between clusters and known distributions of input parameters in the synthetic dataset. We would first offer the position to a current Junior, Zhouyao Xie, who has expressed strong interest in this project, and certainly has the necessary skillset as a data science major.  Ben and I would work closely with the Scholar in weekly or bi-weekly meetings at the DSI, and they also may collaborate with a graduate student in Seismology at LDEO. 
 

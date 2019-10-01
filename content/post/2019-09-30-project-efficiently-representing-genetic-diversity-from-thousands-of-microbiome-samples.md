@@ -7,7 +7,7 @@ categories:
 tags:
  - Fall 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547675604/2000px-Capsule__ge%CC%81lule.svg_spzxwr.png
+thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569958426/microbiome_kw1dh4.png
 ---
 The microbiome comprises a heterogeneous mix of bacterial strains, many with strong association to human diseases. Recent work has shown that even the same bacteria could have differences in their genomes across multiple individuals. Such differences, termed structural variations, are strongly associated with host disease risk factors [1]. However, methods for their systematic extraction and profiling are currently lacking. This project aims to make cross-sample analysis of structural variants from hundreds of individual microbiomes feasible by efficient representation of metagenomic data. The colored De-Bruijn graph (cDBG) data structure is a natural choice for this representation [2]. However, current cDBG implementations are either fast at the cost of a large space, or highly space efficient but either slow or lacking valuable practical features.
 

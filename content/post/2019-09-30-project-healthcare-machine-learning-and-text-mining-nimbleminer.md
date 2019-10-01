@@ -7,7 +7,7 @@ categories:
 tags:
  - Fall 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547675604/2000px-Capsule__ge%CC%81lule.svg_spzxwr.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547181988/prognosis-icon-2803190_960_720_erpf57.png
 ---
 Our lab develops an open-source text mining software called NimbleMiner (http://github.com/mtopaz/NimbleMiner). We will work on improving the software using the latest machine learning techniques. 
 

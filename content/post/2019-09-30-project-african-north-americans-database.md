@@ -14,7 +14,7 @@ tags:
   - Great Migration
   - Fall 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547180117/blockchain-3383063_960_720_mjwylz.png
+thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569955380/african_north_americans_cybrfk
 ---
 This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, "color," birthplace, or other details. The main difficulty in making these matches is that the census data for people with a confirmed identity does not stay uniform decade after decade. Someone might be recorded not with their given name but instead a nickname (Elizabeth to Betsy); women can marry or get remarried and change their names; racial measures by a census taker may change (black to mulatto, or mulatto to white); someone might say they are from Canada, even when they were born in Kentucky, depending on how the question was asked; people who were estimating their ages might be 35 in 1870 and 40 in 1880 and 50 in 1890, for example.
 

@@ -7,7 +7,7 @@ categories:
 tags:
  - Fall 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547675604/2000px-Capsule__ge%CC%81lule.svg_spzxwr.png
+thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569959561/road_pzmzis.png
 ---
 Vehicle-to-Vehicle (V2V) has received increasing attention with the development of autonomous driving technology. It is believed that multi-vehicular and multi-informative algorithm is the direction of the autonomous driving technology. However, the stability and liability of the communication prevents the future from extensively embracing V2V-based transportation. Rigorous test is required before V2V can actually hit the road.  Compared with the costly field test, simulation tests are more economical and feasible.  To simulate the V2V communication and evaluate the robustness of current V2V-based algorithm, we are therefore developing a simulation platform integrating different commercial software like SUMO, Veins and OMNET++. These software simulate on the actual New York map, and simulate the vehicular communication in different scenarios and platoon configurations.  Our next step is to use this platform to test our own V2V-based algorithms. The output of this research will eventually provide an open platform which would automatically evaluate personally designed algorithm with least manual work.
 
