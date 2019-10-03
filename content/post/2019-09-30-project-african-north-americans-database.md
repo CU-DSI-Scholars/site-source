@@ -23,6 +23,7 @@ This project is the first comprehensive examination of African North Americans w
 To date, approximately 1,000 matches have been manually generated in a database of 50,000 records. Matches were made by looking first at the calculated birth year, then at the name given, location, place of birth, and sometimes at household members. Finding an algorithmic way to predict and identify these matches will allow these records to be paired with other sources, such as government pension data, and will factor into research on migration patterns, specific families, and nodes - whether personal or geographic — that tie these African North American groups together. 
 
 Goals include:
+
 + Finding a way to predict or confirm matches in the data, likely using confidence factors based on name, birth year, family structure, and/or location. Those that have been confirmed manually can be used as a training set for an algorithm. 
 + Expanding the dataset by scraping census data for the rest of the households of those in the database, either for those confirmed as matches or for the entire set. This will expand the reach of the database and allow for additional matches.
 + Lower-Priority goals include additional visualizations and OCR conversions.

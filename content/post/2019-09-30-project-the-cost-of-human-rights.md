@@ -29,11 +29,9 @@ The Data For Good program is designed primarily for volunteers, however one cand
 {{< /alert >}}
 
 ## Project Owners
-+ [Joanne Bauer](https://rightscolab.org/people/joanne-bauer-2/), Rights CoLab and [School of International and Public Affairs](https://sipa.columbia.edu/faculty-research/faculty-directory/joanne-bauer)
-+ Joanne Bauer teaches Corporations and Human Rights as well as the year-long Business and Human Rights Clinic at SIPA. She is Senior Researcher for the Business and Human Rights Program, at Columbia’s Center for the Study of Human Rights and co-leads an international initiative on Teaching Business and Human Rights based at Columbia. In October 2018 she launched Rights CoLab, an independent initiative that develops strategies to advance human rights through business, technology and finance.
++ [Joanne Bauer](https://rightscolab.org/people/joanne-bauer-2/), Rights CoLab and [School of International and Public Affairs](https://sipa.columbia.edu/faculty-research/faculty-directory/joanne-bauer). Joanne Bauer teaches Corporations and Human Rights as well as the year-long Business and Human Rights Clinic at SIPA. She is Senior Researcher for the Business and Human Rights Program, at Columbia’s Center for the Study of Human Rights and co-leads an international initiative on Teaching Business and Human Rights based at Columbia. In October 2018 she launched Rights CoLab, an independent initiative that develops strategies to advance human rights through business, technology and finance.
 
-+ [Paul Rissman](https://rightscolab.org/people/paul-rissman-2/)
-+ Paul helped found Rights CoLab in 2018. He has served on various non-profit and for-profit boards, including the Archaeological Institute of America, and he was chair of Cinetic Rights Management, a digital media distributor. Prior to his retirement in 2008, he was Executive Vice President of AllianceBernstein L.P. and Chief Investment Officer of Alliance Growth Equities. Paul has also conducted scholarly research on sustainability reporting. He is an Open Society Fellow.
++ [Paul Rissman](https://rightscolab.org/people/paul-rissman-2/). Paul helped found Rights CoLab in 2018. He has served on various non-profit and for-profit boards, including the Archaeological Institute of America, and he was chair of Cinetic Rights Management, a digital media distributor. Prior to his retirement in 2008, he was Executive Vice President of AllianceBernstein L.P. and Chief Investment Officer of Alliance Growth Equities. Paul has also conducted scholarly research on sustainability reporting. He is an Open Society Fellow.
 
 ## Project timeline
 + Earliest starting date: 10/01/2019

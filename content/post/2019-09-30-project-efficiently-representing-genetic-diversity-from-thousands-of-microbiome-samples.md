@@ -31,7 +31,7 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + Professor: [Tal Korem](https://www.koremlab.science/)
 + Department/School: Department of Systems Biology
 + Location: PH18-200
-+ The Korem lab studies what human-associated microbial communities (the “microbiome”) tell us about their host and how they affect its health. We aim to develop personalized microbiome-based and -guided therapeutics and diagnostics.
++ The Korem lab studies what human-associated microbial communities (the "microbiome") tell us about their host and how they affect its health. We aim to develop personalized microbiome-based and -guided therapeutics and diagnostics.
 
 ## Project Timeline
 + Earliest starting date: 10/15/2019
