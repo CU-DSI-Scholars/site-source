@@ -19,7 +19,7 @@ Locally advanced colorectal cancers that invade adjacent organs (i.e., T4 primar
 Survival probabilities will be estimated using the Kaplan-Meier method.  Adjusting for important prognostic factors, a Cox proportional hazards model will be applied.  The potential correlation of data on patients treated by the same surgeon (i.e., clustering) and same hospital will be accounted for by using mixed-model estimating techniques as appropriate for the level of analysis.
 
 {{< alert success >}}
-One selected candidate will receive a stipend via the DSI Scholars program. Amount is subject to available funding.
+This is project is NOT accepting applications.
 {{< /alert >}}
 
 ## Faculty Advisor
