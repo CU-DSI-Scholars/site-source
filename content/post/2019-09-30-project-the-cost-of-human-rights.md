@@ -1,8 +1,8 @@
 ---
-title: 'Data For Good Project: The Cost of Human Rights'
+title: 'Data For Good Project: The Cost of Human Rights Violations'
 author: Vincent Dorie
 date: '2019-09-30'
-slug: project-the-cost-of-human-rights
+slug: project-the-cost-of-human-rights-violations
 categories:
   - Project Fall 2019
 tags:

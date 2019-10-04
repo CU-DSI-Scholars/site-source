@@ -51,7 +51,7 @@ for (i in seq_len(nrow(projects))) {
                "",
                "## Project Timeline",
                paste0("+ Earliest starting date: ", Earliest.starting.date.of.the.project..After.10.15.2019.),
-               paste0("+ End date: 05/31/2019: ", End.Date.of.Project),
+               paste0("+ End date: ", End.Date.of.Project),
                paste0("+ Number of hours per week of research expected during Fall 2019: ~", Number.of.hours.per.week.of.work.required.during.the.project..academic.semesters.),
                "",
                "## Candidate requirements",

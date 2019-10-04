@@ -30,7 +30,7 @@ This is an UNPAID research project.
 
 ## Project Timeline
 + Earliest starting date: 9/16/2019
-+ End date: 05/31/2019: 5/31/2020
++ End date: 5/31/2020
 + Number of hours per week of research expected during Fall 2019: ~15
 
 ## Candidate requirements

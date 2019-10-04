@@ -28,7 +28,7 @@ Selected candidate(s) will receive a stipend directly from the faculty advisor. 
 
 ## Project Timeline
 + Earliest starting date: 10/15/2019
-+ End date: 05/31/2019: 
++ End date: 05/31/2020
 + Number of hours per week of research expected during Fall 2019: ~NA
 
 ## Candidate requirements

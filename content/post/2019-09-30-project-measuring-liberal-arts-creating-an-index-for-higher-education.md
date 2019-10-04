@@ -31,7 +31,7 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 
 ## Project Timeline
 + Earliest starting date: 10/16/2019
-+ End date: 05/31/2019: 8/31/2020
++ End date: 8/31/2020
 + Number of hours per week of research expected during Fall 2019: ~15
 
 ## Candidate requirements

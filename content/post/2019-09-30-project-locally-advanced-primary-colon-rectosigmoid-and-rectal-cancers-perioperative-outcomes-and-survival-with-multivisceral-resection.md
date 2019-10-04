@@ -30,7 +30,7 @@ This is project is NOT accepting applications.
 
 ## Project Timeline
 + Earliest starting date: 10/15/2019
-+ End date: 05/31/2019: 8/31/2020
++ End date: 8/31/2020
 + Number of hours per week of research expected during Fall 2019: ~3
 
 ## Candidate requirements
