@@ -28,7 +28,7 @@ Click [**here**](https://forms.gle/4ZwYdnpkbTcHE63s7) to access the umbrella app
 
 The collected applications for each position will be sent to the hosting faculty/center/lab for review. The faculty/center/lab will **review, identify and notify** Scholars that they would like to interview and select for their own projects. 
 
-**The Data Science Institute encourages women and underrepresented minorities to apply to this program.**
+**The Data Science Institute encourages women and underrepresented minorities to apply to these programs.**
 
 ### Key dates 
 
