@@ -12,9 +12,9 @@ tags:
   
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: https://res.cloudinary.com/tz33cu/image/upload/c_scale,w_758/v1543878523/year2-logo_zonff4.png
+thumbnailImage: https://res.cloudinary.com/tz33cu/image/upload/c_scale,w_758/v1543878523/DSI-scholars/year2-logo_zonff4.png
 # thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_758/v1575573449/opencall_faculty_springsummer2020_sapvm1.png
-coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/wordcloud2_ezxayp.png
+coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
 metaAlignment: center
 ---
 
