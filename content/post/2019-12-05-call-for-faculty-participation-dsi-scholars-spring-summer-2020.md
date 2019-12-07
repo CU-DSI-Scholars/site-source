@@ -24,9 +24,9 @@ The Data Science Institute is pleased to call for Faculty Participation in the S
 
 <!--more-->
 
-+ **Funding support**: Funding support: The DSI will support faculty by providing stipend funds for selected scholars up to $2,500 each.  Approximately 20 such stipend funds will be awarded.  Allocation of funds will be made via a first-come-first-serve need-based process, with efforts to balance allocation across disciplines and to support novel interdisciplinary research.
++ **Funding support**: The DSI will support faculty by providing stipend funds for selected scholars up to $2,500 each.  Approximately 20 such stipend funds will be awarded.  Allocation of funds will be made via a first-come-first-serve need-based process, with efforts to balance allocation across disciplines and to support novel interdisciplinary research.
 
-+ **Administrative support**: Administrative support: The DSI education committee will **collect** faculty-submitted internship positions and create an umbrella application page to solicit student applications. The collected applications for each position will be compiled and sent to the hosting faculty/center/lab for review. The faculty/center/lab will **review, identify and notify** the Scholars for their own projects. 
++ **Administrative support**: The DSI education committee will **collect** faculty-submitted internship positions and create an umbrella application page to solicit student applications. The collected applications for each position will be compiled and sent to the hosting faculty/center/lab for review. The faculty/center/lab will **review, identify and notify** the Scholars for their own projects. 
 
 + **Intellectual support** via the DSI Scholars enrichment activities: The DSI education committee will organize the following enrichment activities for the DSI Scholars Program.
 
