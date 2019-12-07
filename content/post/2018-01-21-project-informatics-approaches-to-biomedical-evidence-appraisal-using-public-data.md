@@ -11,7 +11,7 @@ tags:
   - SQL
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/textmining_x3suby.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/textmining_x3suby.png
 ---
 The quality of biomedical evidence can affect research sustainability, patient safety, and the public's trust in biomedical research. However, often the quality of biomedical evidence remains opaque to the public. It is imperative to improve the transparency of evidence quality. This project aims to leverage the public data sources, including but not limited to The ClinicalTrials.gov, The PubMed database for biomedical literature, The National Health and Nutrition Examination Survey (NHANES) database, and so on, to develop and apply novel data mining and visualization methods for appraising the biomedical research evidence, uncovering implicit biases in clinical research designs at different levels, and presenting this information intuitively to the public.  Students on this project will acquire or hone their skills in data mining, results presentation, and user interface designs and evaluation. 
 

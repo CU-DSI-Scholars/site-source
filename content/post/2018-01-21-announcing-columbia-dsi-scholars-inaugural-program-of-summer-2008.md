@@ -10,8 +10,8 @@ tags:
 slug: announcing-columbia-dsi-scholars-inaugural-class-of-summer-2018
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/CU-bk2_naivue.png
-coverImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/CU-bk2_naivue.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/CU-bk2_naivue.png
+coverImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/CU-bk2_naivue.png
 metaAlignment: center
 ---
 
