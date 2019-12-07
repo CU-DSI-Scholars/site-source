@@ -13,7 +13,7 @@ tags:
   - Social science
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/network_khvotl.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/network_khvotl.png
 ---
 Networked systems are ubiquitous in modern society.  In a dynamic social or biological environment, the interactions among subjects can undergo large and systematic changes. Due to the rapid advancement of technology, a lot of social networks are observed with time information. Some examples include the email communication network between users, comments on Facebook, the retweet activities on Twitter, etc.  We aim to propose new statistical models and associated methodologies for various problems including community detection, change point detection and behavior prediction. The proposed methods will be evaluated on a wide range of network datasets in different areas. 
 

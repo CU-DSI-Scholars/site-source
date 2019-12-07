@@ -12,7 +12,7 @@ tags:
   - Spring 2019
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547230144/gene-editing-2375732_960_720_onqcm8.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547230144/DSI-scholars/gene-editing-2375732_960_720_onqcm8.png
 ---
 Defective efferocytosis, the phagocytic clearance of apoptotic cells, by macrophages is the cause of many human diseases including tumor, autoimmune diseases and atherosclerosis. Enhancing efferocytosis has potential therapeutic benefits. Many key regulators of efferocytosis have been identified, but a systematic approach to map regulators of efferocytosis in an unbiased manner on a genome-wide scale is missing. This project applies innovative genome-wide CRISPR screen to discover novel regulators of macrophage efferocytosis. 
 

@@ -10,8 +10,8 @@ tags:
   - Summer 2019
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_720/v1551495874/Data_for_Good_2_lrt3jc.jpg
-coverImage: //res.cloudinary.com/tz33cu/image/upload/e_cartoonify,z_1.4/e_blur:2000/v1551495874/Data_for_Good_2_lrt3jc.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_720/v1551495874/DSI-scholars/Data_for_Good_2_lrt3jc.jpg
+coverImage: //res.cloudinary.com/tz33cu/image/upload/e_cartoonify,z_1.4/e_blur:2000/v1551495874/DSI-scholars/Data_for_Good_2_lrt3jc.jpg
 metaAlignment: center
 ---
 Columbia University [Data Science Institute](http://datascience.columbia.edu/) is pleased to announce a new initiative under the Data Science Institute (DSI) Scholars Program: "Data for Good" undergraduate scholars who will work on projects with societal impacts. For the program's inaugural term, Spring-Summer 2019, we are calling for applications from Columbia and Barnard undergraduate students. 

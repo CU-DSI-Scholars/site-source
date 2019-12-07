@@ -14,7 +14,7 @@ tags:
   - Spring 2019
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547220330/download_quggih.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547220330/DSI-scholars/download_quggih.png
 ---
 Through ArXivLab we aim to develop the next generation recommender systems for the scientific literature using statistical machine learning approaches. In collaboration with ArXiv we are currently developing a new scholarly literature browser which will be able to extract knowledge implicit in the mathematical and scientific literature, offer advanced mathematical search capabilities and provide personalized recommendations.
 

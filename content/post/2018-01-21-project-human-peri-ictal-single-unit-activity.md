@@ -12,7 +12,7 @@ tags:
   - Signal Processing
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/m-array_myp0th.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/DSI-scholars/m-array_myp0th.png
 ---
 Microelectrode array recordings from patients undergoing surgical evaluation have captured typical clinical seizures.  Because of the extreme pathological conditions at these times, identifying single units from extracellular data is a particular challenge.  Our group has developed techniques for tracking neurons through the ictal transition. We are applying them to newly acquired data and addressing fundamental questions about the activity of different cell classes at seizure initiation. 
 

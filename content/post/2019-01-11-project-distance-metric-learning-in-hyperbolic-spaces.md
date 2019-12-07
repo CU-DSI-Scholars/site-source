@@ -11,7 +11,7 @@ tags:
   - Python
   - Spring 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547219762/7ch4N_l3ozkz.gif
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547219762/DSI-scholars/7ch4N_l3ozkz.gif
 ---
 Effective representations and analyses of symbolic data, such as lexical data (words) and networks (graphs), have become of great interest in recent years, due both to advancements in data collection in Natural Language Processing (NLP), and the ubiquity of social networks. Such data often has no natural numerical representation, and is typically described in terms relational expressions or as pairwise similarities. It turns out that finding numerical representations of such data in “Hyperbolic” spaces---rather than into the more familiar Euclidean spaces---is a more effective way to preserve valuable relational information. 
 

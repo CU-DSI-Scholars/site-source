@@ -11,7 +11,7 @@ tags:
   - R
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516753964/retina-icon5_j92l1s.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516753964/DSI-scholars/retina-icon5_j92l1s.png
 ---
 CTV’s core mission is to facilitate the transfer of inventions from academic labs to the market for the benefit of society. In a typical year, CTV receives ~400 inventions, completes ~100 licenses and options, and helps form ~20 startups. A good video summary of CTV is here: <https://vimeo.com/110193999>.
 

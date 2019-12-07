@@ -13,7 +13,7 @@ tags:
   - Spring 2019
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547229331/13534669218787_eewase.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547229331/DSI-scholars/13534669218787_eewase.png
 ---
 The Federal Communications Commission (FCC) and the Census regularly publish data on U.S. Internet availability, performance and use, at granularities from census block to county and state. The project goal is to answer questions based on the available data, such as "How reliable is Internet access?", "Who is deploying fiber where?", "Can we predict reliability of different technologies?", "Can we predict the deployment of fiber?"
 

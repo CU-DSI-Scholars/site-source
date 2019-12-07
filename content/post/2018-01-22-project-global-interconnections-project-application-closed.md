@@ -11,7 +11,7 @@ tags:
   - Financial analytics
   - Not accepting applications
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/finnet_jx5b32.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/DSI-scholars/finnet_jx5b32.png
 ---
 Understand interconnected nature of global multi-national companies via their supply chain, product and services competition, co-investments and co-ownerships as well as other dependencies between operations and revenue streams. We would like to consider the way news on any company specifically propagate down the connection graph and impact other businesses that are related in a way that is not necessarily explicit. 
 

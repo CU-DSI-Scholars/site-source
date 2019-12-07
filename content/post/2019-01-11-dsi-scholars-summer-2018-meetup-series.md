@@ -10,8 +10,8 @@ tags:
   - Learning Activities
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_697/v1547241297/Presentation1_vclqsh.png
-coverImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,e_blur:500,w_800/v1547241297/Presentation1_vclqsh.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_697/v1547241297/DSI-scholars/Presentation1_vclqsh.png
+coverImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,e_blur:500,w_800/v1547241297/DSI-scholars/Presentation1_vclqsh.png
 metaAlignment: center
 ---
 DSI Scholars is different from conventional *researh experience for students* programs by providing enrichment activities that build a community of data science learning and research. 

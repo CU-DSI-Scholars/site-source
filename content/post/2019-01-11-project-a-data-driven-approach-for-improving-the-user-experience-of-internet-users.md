@@ -11,7 +11,7 @@ tags:
   - SQL
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547220564/online-942410_960_720_b4rsey.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547220564/DSI-scholars/online-942410_960_720_b4rsey.jpg
 ---
 Our lives are heavily reliant on Internet-connected devices and services. However, to deliver the desired user experience over the Internet, network operators need to detect and diagnose various network events (e.g., disruption, outage, misconfiguration, etc.) as well as resolve them in real-time. We have developed an Internet-wide measurement infrastructure that collects performance metrics (e.g., latency, jitter, throughput, packet loss rate, signal strength, etc.) from vantage points deployed by real users (mobile phones, WiFi access points, etc.) at regular intervals. 
 

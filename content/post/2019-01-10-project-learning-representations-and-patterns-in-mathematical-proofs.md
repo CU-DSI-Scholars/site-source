@@ -12,7 +12,7 @@ tags:
   - Spring 2019
   - Education
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547179855/1_PzWFzIp-lVCCMv96aWWqcA_lapulp.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547179855/DSI-scholars/1_PzWFzIp-lVCCMv96aWWqcA_lapulp.jpg
 ---
 A common challenge for students in heavy proof-based courses is to come up with a long sequence of logical arguments from the problem statement to the final solution. In doing so, they can often skip steps leading to logical leaps or downright incorrect solutions. Ideally the instructor should identify these mis-steps and help students master such proof-based course material. Here we want to take a data-driven approach to address this challenge. 
 

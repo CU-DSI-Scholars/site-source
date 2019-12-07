@@ -11,7 +11,7 @@ tags:
   - Matlab
   - Not accepting applications
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/neuron_jxcwbm.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/DSI-scholars/neuron_jxcwbm.png
 ---
 Given calcium imaging data of active neurons, can we detect groups of co-firing neurons, called neuronal ensembles? We have a number of datasets consisting of hundreds of neurons imaged for thousands of time steps, and seek to extend an existing CRF model to consider temporal relationships. The goal is to be able to detect neuronal ensembles that span multiple time steps, and that are not conditioned on external stimuli.
 

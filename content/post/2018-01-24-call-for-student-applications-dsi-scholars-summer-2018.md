@@ -9,8 +9,8 @@ tags:
   - Summer 2018
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_700/v1516656431/program-banner_pg3kbw.png
-coverImage: //res.cloudinary.com/tz33cu/image/upload/e_auto_saturation,o_69,r_0/v1516637953/wordcloud2_ezxayp.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_700/v1516656431/DSI-scholars/program-banner_pg3kbw.png
+coverImage: //res.cloudinary.com/tz33cu/image/upload/e_auto_saturation,o_69,r_0/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
 metaAlignment: center
 ---
 Columbia University [Data Science Institute](http://datascience.columbia.edu/) is pleased to announce the launch of the Data Science Institute (DSI) Scholars Program for the Inaugural Class of Summer 2018. The goal of the DSI Scholars Program is to engage Columbia's undergraduate and master students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.

@@ -13,7 +13,7 @@ tags:
   - Spring 2019
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547229057/brain-951874_960_720_mrmq3s.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547229057/DSI-scholars/brain-951874_960_720_mrmq3s.png
 ---
 The visual cortex has a distinctive deep hierarchical organization as a result of ontogenetic and phylogenetic optimization. It is unclear what the factors are that shape this particular hierarchical organization. One factor is the compositional and hierarchical nature of our world’s appearance, which may be optimally processed by a hierarchical visual system. Another factor is the need for space and energy efficiency, which constrains the number of neurons and connections. The project will employ computational modeling to understand the contribution of these constraints to shaping the combination of breadth, depth, and skipping connections employed by primate visual cortex. 
 

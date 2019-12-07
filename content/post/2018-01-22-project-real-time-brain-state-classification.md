@@ -15,7 +15,7 @@ tags:
   - Health
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/fmri_scan_f4k7uj.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/DSI-scholars/fmri_scan_f4k7uj.jpg
 ---
 Using machine learning to conduct brain state classification at real-time on EEG/fNIRS/fMRI data.
 

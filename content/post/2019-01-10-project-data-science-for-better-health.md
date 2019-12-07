@@ -11,7 +11,7 @@ tags:
   - Data mining
   - Spring 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547181988/prognosis-icon-2803190_960_720_erpf57.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547181988/DSI-scholars/prognosis-icon-2803190_960_720_erpf57.png
 ---
 Our goal is use a large pool of homecare data (including structured data, free text clinical notes, and recorded patient-provider phone conversations) to build predictive models that help identify patients at risk for poor outcomes (like hospital admission or falls). 
 

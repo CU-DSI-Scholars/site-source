@@ -13,7 +13,7 @@ tags:
   - Unix
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/microbiome_ax1tb2.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/DSI-scholars/microbiome_ax1tb2.png
 ---
 DNA sequence reads from a community of microbial genomes are currently processed without considering sequence variants. The project involves building a processing pipeline of such billions of short reads, identifying closest strains they might belong to, assembling them into specific clones, calling their variants, and analyzing the dynamic nature of these bacterial strains along sampling points. 
 

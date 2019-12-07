@@ -11,7 +11,7 @@ tags:
   - Julia
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547182221/download_1_czflmg.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547182221/DSI-scholars/download_1_czflmg.jpg
 ---
 Last year one of my graduate students developed a novel algorithm for detecting "weird" signals in photometric time series, such as those taken by NASA's Kepler Mission and now TESS. An undergraduate students will work in my team to run the algorithm on TESS data, which is just starting to be released publicly (https://heasarc.gsfc.nasa.gov/docs/tess/status.html). We hope to detect strange signatures, possibly including analogs to Tabby's Star, interacting binaries and perhaps even technosignatures.
 

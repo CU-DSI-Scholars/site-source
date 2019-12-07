@@ -11,7 +11,7 @@ tags:
   - Spring 2019
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1516632871/fmri_scan_f4k7uj.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1516632871/DSI-scholars/fmri_scan_f4k7uj.jpg
 ---
 The goal of this project is to develop and validate a deep neural network that predicts a child's emotion and cognition. DSI scholars will implement 3D convolutional neural networks on brain imaging data from thousands of children to predict cognitive, emotional, and socio-developmental variables. Statistical evaluation of the model performance will be conducted. The scalable deep neural network analysis will help find brain underpinnings of cognition and emotion.
 

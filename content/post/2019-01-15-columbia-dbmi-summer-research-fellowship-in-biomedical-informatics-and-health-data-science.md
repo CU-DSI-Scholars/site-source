@@ -9,8 +9,8 @@ categories:
 tags: []
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,g_face,w_400/v1547604370/Screen_Shot_2019-01-15_at_9.05.26_PM_vmbbm2.png
-coverImage: //res.cloudinary.com/tz33cu/image/upload/co_rgb:09031a,e_blur:621/v1547604370/Screen_Shot_2019-01-15_at_9.05.26_PM_vmbbm2.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,g_face,w_400/v1547604370/DSI-scholars/Screen_Shot_2019-01-15_at_9.05.26_PM_vmbbm2.png
+coverImage: //res.cloudinary.com/tz33cu/image/upload/co_rgb:09031a,e_blur:621/v1547604370/DSI-scholars/Screen_Shot_2019-01-15_at_9.05.26_PM_vmbbm2.png
 metaAlignment: center
 ---
 The [Columbia Department of Biomedical Informatics (DBMI) Summer Research Fellowship](http://summer.dbmi.columbia.edu) provides college undergraduate students from a wide range of backgrounds (biology, psychology, engineering, computer science, applied mathematics, statistics, etc.) and rising high-school seniors with fundamental knowledge, hands-on skills, and research experience in biomedical informatics and health data science.

@@ -9,7 +9,7 @@ tags:
   - NLP
   - Spring 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547675604/2000px-Capsule__ge%CC%81lule.svg_spzxwr.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547675604/DSI-scholars/2000px-Capsule__ge%CC%81lule.svg_spzxwr.png
 ---
 Taking out multiple patents on different aspects of a drug in order to cordon off competitors is standard practice in pharmaceuticals. In addition to primary patents, firms commonly attempt to acquire secondary patents on alternative forms of molecules, different formulations, dosages, and compositions, and new uses Policymakers in the U.S. and globally have raised concerns that these secondary patents can raise drug prices and restrict access to medicines. One challenge to assessing the impact of these patents is it is difficult and costly to know if a given patent is "primary" or "secondary." 
 

@@ -10,7 +10,7 @@ tags:
   - Python
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/allen_myfzlf.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/allen_myfzlf.png
 ---
 Robotic grasp planning based on raw sensory data is difficult due to occlusion and incomplete scene geometry.  Often one sensory modality does not provide enough context to enable reliable planning.  A single depth sensor image cannot provide information about occluded regions of an object, and tactile information is incredibly sparse spatially.  We are building a Deep Learning CNN that combines both 3D vision and tactile information to perform shape completion of an object seen from a single view only, and plan stable grasps on these completed models.
 

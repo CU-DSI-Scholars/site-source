@@ -12,7 +12,7 @@ tags:
   - AWS
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516753105/toxicdoc_bxym8h.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516753105/DSI-scholars/toxicdoc_bxym8h.png
 ---
 We house the world's largest dataset of once-secret documents on industrial pollution, unleashed from the vaults of corporations like DuPont, Dow, and Monsanto in toxic tort litigation. We are applying data science methods to analyze and render this material useable to a broad audience.
 

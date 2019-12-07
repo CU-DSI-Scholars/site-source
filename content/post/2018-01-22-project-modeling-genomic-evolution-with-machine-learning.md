@@ -11,7 +11,7 @@ tags:
   - Python
   - Fall 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/eaton_vgmrqw.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/DSI-scholars/eaton_vgmrqw.png
 ---
 A **Fall 2018** internship is available in the Eaton lab to work on the development and application of machine learning approaches to historical evolutionary inference. Research will involve learning to use high performance distributed computing infrastructure, performing population genetic simulations, fitting machine learning models, and writing reproducible shareable code. The ideal candidate will have experience and interest in Python coding and a reasonable understanding of linear algebra. 
 

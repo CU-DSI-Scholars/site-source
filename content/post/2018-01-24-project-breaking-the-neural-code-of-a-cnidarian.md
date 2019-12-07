@@ -10,7 +10,7 @@ tags:
   - Summer 2018
   - Spring 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_262/v1516759993/cnidarian_p8rr9j.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,w_262/v1516759993/DSI-scholars/cnidarian_p8rr9j.png
 ---
 Analysis of the relation between the activity of all the neurons in the cnidarian hydra and its behavioral repertoire.
 

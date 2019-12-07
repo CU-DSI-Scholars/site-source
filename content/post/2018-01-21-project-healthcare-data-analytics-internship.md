@@ -12,7 +12,7 @@ tags:
   - R
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/healthcare_pht18w.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/DSI-scholars/healthcare_pht18w.png
 ---
 Recently Columbia University, Cornell, and NewYork-Presbyterian have agreed to integrate their clinical (healthcare) and business IT systems onto one shared platform called Epic. The motivating factors to move to Epic are to enhance the patient experience, improve and integrate care, and give our physicians an integrated technology platform that supports the mission of an academic medical center. The intern will assist with developing the “operational” analytics capabilities of Columbia University Medical Center including financial, healthcare operations and healthcare quality analytics. 
 

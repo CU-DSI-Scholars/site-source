@@ -11,7 +11,7 @@ tags:
   - Visualization
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/datamedia_lhp7zt.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632872/DSI-scholars/datamedia_lhp7zt.png
 ---
 The DSI Center for Data, Media & Society is seeking undergraduate and masters students during the summer to work on projects at the intersection of Computer Science, Data Science, and the humanities.  These projects will combine domain expertise in the humanities with computer and data science techniques to tackle important societal and media problems.  Projects can vary from documenting human rights violations, providing rural farmers with financial safety-nets, analyzing the sources of social media popularity, and more! 
 

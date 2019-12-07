@@ -10,7 +10,7 @@ tags:
   - Environmental Science
   - Spring 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547218468/sky-2815020_960_720_mty5c2.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547218468/DSI-scholars/sky-2815020_960_720_mty5c2.jpg
 ---
 The objective is to use new large cloud-resolving simulations to try and better represent cloud processes in coarse-resolution climate models (~100km in horizontal resolution). Those simulations are global (spanning the entire globe) at 2km resolution and 30-minute output. The data will be hosted on google cloud platform (Pangeo) (the data size is about 50TB). We will in particular evaluate the impact of using Constitutional Neural Network (in time and space) and the capacity for out of sample prediction. 
 

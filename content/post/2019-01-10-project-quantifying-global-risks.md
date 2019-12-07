@@ -12,7 +12,7 @@ tags:
   - Spring 2019
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547178630/Financial_Risk_Dice_On_Newspaper_t3swzi.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547178630/DSI-scholars/Financial_Risk_Dice_On_Newspaper_t3swzi.jpg
 ---
 In a globalized world we live in today consequences of catastrophic events easily transgress national borders. Whether it’s a natural disaster, a war or an economic crisis it’s likely to spread out and affect all of us. We propose a framework to model global risks that is not bound to any specific model and is a hybrid of human and machine intelligence. The core of this approach is in using Bayesian Nets of causalities constructed by an analyst equipped with text mining and a map of economic, political and business interconnections.
 

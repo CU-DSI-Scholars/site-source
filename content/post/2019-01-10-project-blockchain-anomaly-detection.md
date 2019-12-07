@@ -13,7 +13,7 @@ tags:
   - Spring 2019
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547180117/blockchain-3383063_960_720_mjwylz.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547180117/DSI-scholars/blockchain-3383063_960_720_mjwylz.png
 ---
 The project has collected a large set of data (>200GB) from a cryptocurrency block chain.  It is developing methods for detecting anomalies in transactions based on newer Social Networks, Graph Analysis and Machine Learning methods. The work involves data cleaning/wrangling and creation and implementation of various algorithms and analyzing the transactions for identifying different set of anomalies and manipulations. 
 

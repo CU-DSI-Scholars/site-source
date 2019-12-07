@@ -11,7 +11,7 @@ tags:
   - Video processing
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/zoran_f8etcg.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/DSI-scholars/zoran_f8etcg.png
 ---
 Project components: (i) Monitoring of traffic intersections, using bird’s eye cameras, supported by ultra-low latency computational/communications hubs; (ii) Simultaneous video-based tracking of cars and pedestrians, and prediction of movement based on long-term observations of the intersection; (iii) Real-time computational processing, using deep learning, utilizing GPUs, in support of ii;  (iv) Sub-10ms latency communication between all vehicles and the computational/communication hub, to be used in support of autonomous vehicle navigation.
 

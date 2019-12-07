@@ -17,7 +17,7 @@ tags:
   - Machine learning
   - Not accepting applications
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/fintech_xjrdk0.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/v1516632871/DSI-scholars/fintech_xjrdk0.png
 ---
 The development of computational data science
 techniques in natural language processing (NLP) and machine

@@ -11,7 +11,7 @@ tags:
   - Python
   - Summer 2018
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,h_338/v1516632872/preterm_iy8c4x.png
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_scale,h_338/DSI-scholars/v1516632872/preterm_iy8c4x.png
 ---
 Predicting preterm birth in nulliparous women is challenging and our efforts to develop predictors for that condition from environmental variables produce insufficient classifier accuracy. Recent studies highlight the involvement of common genetic variants in length of pregnancy. This project involves the development of a risk score for preterm birth based on both genetic and environmental attributes. 
 

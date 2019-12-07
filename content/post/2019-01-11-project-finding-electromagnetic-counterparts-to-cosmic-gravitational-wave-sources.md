@@ -11,7 +11,7 @@ tags:
   - Spring 2019
   - Summer 2019
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547218335/figure2_jp714i.jpg
+thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547218335/DSI-scholars/figure2_jp714i.jpg
 ---
 Finding the exact counterpart galaxies to merging black hole binaries detected in gravitational waves is one of the most pressing problems in cosmology. The redshift of the host galaxy (which has to be measured from its electromagnetic emission) combined with the luminosity distance to the gravitational wave source allows for a direct measurement of the expansion history of the Universe, an approach commonly referred to as the 'Standard Siren' method. To date, there are no proven techniques for accomplishing this goal. 
 
