@@ -49,9 +49,9 @@ Key dates:
   + [DSI -> Students] Program announcement will be sent to students and application website goes live.
 + January 27th, 2019
   + [Students -> DSI] Student applications due.
-  + [DSI -> Faculty] Applications shared with faculty/center/lab
+  + [DSI -> Faculty] Applications shared with faculty/center/lab.
 + February 21nd, 2019
-  + [Faculty ->DSI] Information of identified Scholars due to DSI
-  + [Faculty -> Student] Email offers of the internship will be sent to students.
+  + [Faculty -> Student] Faculty sends an email offer of the internship to the selected student(s).
+  + [Faculty -> DSI] Information on selected Scholars due to DSI.
 
 Please email questions to dsi-scholars@columbia.edu.
