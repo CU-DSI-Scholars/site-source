@@ -38,13 +38,13 @@ The Data Science Institute is pleased to call for Faculty Participation in the S
 
 The Data Science Institute will encourage women and underrepresented minorities to apply to this program.
 
-Application to participate: Faculty/Research Centers/Research Labs who are interested in participating in this program as internship hosts must complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeXiq0xIDrtFsureV63D66q76hZBtVY5hKLmeW--duxY2mrUQ/viewform?usp=sf_link). The application deadline is December 27th, 2019.  Decisions on the allocation of funds will be made by December 31st, 2019.
+Application to participate: Faculty/Research Centers/Research Labs who are interested in participating in this program as internship hosts must complete the [application form](https://docs.google.com/forms/d/e/1FAIpQLSeXiq0xIDrtFsureV63D66q76hZBtVY5hKLmeW--duxY2mrUQ/viewform?usp=sf_link). The application deadline is ~~December 27th, 2019~~ January 9th, 2020.  Decisions on the allocation of funds will be made by ~~December 31st, 2019~~ January 10th, 2020.
 
 Key dates:
 
-+ December 27th, 2019
++ ~~December 27th, 2019~~ Still accepting proposals
   + [Faculty -> DSI] Faculty/Center/Lab scholars internship host application due.
-+ December 31st, 2019
++ ~~December 31st, 2019~~ January 10th, 2020
   + [DSI -> Faculty] DSI Scholars funding decisions will be sent to faculty.
   + [DSI -> Students] Program announcement will be sent to students and application website goes live.
 + January 27th, 2019
