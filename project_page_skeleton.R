@@ -1,25 +1,29 @@
-projects <- read.csv("/Users/vdorie/Downloads/DSI Scholars Program (2019-2020) Research Project Faculty_Lab_Center Submission Form (Responses) - Form Responses 1.csv", stringsAsFactors = FALSE)
+projects <- read.csv("~/Documents/Data Science/Scholars/dsischolarsemailcodes/DSIScholarsEmails/projectinfo_spring_2020.csv", stringsAsFactors = FALSE)
 
 repository <- "/Users/vdorie/Repositories/dsischolars/site-source/content/post"
 
 for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
+    if ((Decision == 0 && is.na(Self.Funded)) || Faculty..Name. == "Vijay Modi") return(invisible(NULL))
     title.lower <- gsub(":|,", "", gsub(" ", "-", tolower(Project.title)))
     if (endsWith(title.lower, ".")) title.lower <- sub("\\.$", "", title.lower)
     fileName <- paste0(Sys.Date(), "-project-", title.lower, ".md")
     
     outfile <- file(file.path(repository, fileName), open = "w")
+   
+    duration <- switch(Timing.of.project,
+                       "Spring 2020 (March - May)" = 1L,
+                       "Summer 2020 (June - August)" = 2L,
+                       c(1L, 2L))
     
     lines <- c("---",
                paste0("title: '", Project.title, "'"),
                paste0("date: '", Sys.Date(), "'"),
                paste0("slug: project-", title.lower),
-               "categories:",
-               "  - Project Fall 2019",
-               "tags:",
-               "  - Fall 2019",
+               "categories:", paste0(c("  - Project Spring 2020", "  - Project Summer 2020")[duration], collapse = "\n"),
+               "tags:", paste0(c("  - Spring 2020", "  - Summer 2020")[duration], collapse = "\n"),
                "thumbnailImagePosition: left",
-               "thumbnailImage: //res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1547675604/2000px-Capsule__ge%CC%81lule.svg_spzxwr.png",
+               "thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png",
                "---")
     lines <- c(lines,
       if (grepl("\n", Brief.project.description..200.words.or.less.)) sub("\n", "\n\n<!--more-->\n\n", Brief.project.description..200.words.or.less.) else paste0(Brief.project.description..200.words.or.less., "\n\n<!--more-->"))
@@ -50,9 +54,15 @@ for (i in seq_len(nrow(projects))) {
     lines <- c(lines,
                "",
                "## Project Timeline",
-               paste0("+ Earliest starting date: ", Earliest.starting.date.of.the.project..After.10.15.2019.),
-               paste0("+ End date: ", End.Date.of.Project),
-               paste0("+ Number of hours per week of research expected during Fall 2019: ~", Number.of.hours.per.week.of.work.required.during.the.project..academic.semesters.),
+               paste0("+ Earliest starting date: ", Earliest.starting.date.of.the.project..After.3.1.2020.),
+               paste0("+ End date: ", End.Date.of.Project))
+    hours <- Number.of.hours.per.week.of.work.required.during.the.project..academic.semester.Spring.
+    if (!is.na(hours) && hours != "")
+      lines <- c(lines, paste0("+ Number of hours per week of research expected during Spring 2020: ~", hours))
+    hours <- Number.of.hours.per.week.of.work.required.during.the.project..Summer.
+    if (!is.na(hours) && hours != "")
+      lines <- c(lines, paste0("+ Number of hours per week of research expected during Summer 2020: ~", hours))
+    lines <- c(lines,
                "",
                "## Candidate requirements",
                paste0("+ Skill sets: ", if (grepl("\n", Required.skill.sets)) paste0("\n  ", gsub("\n", "\n  ", Required.skill.sets)) else Required.skill.sets))
@@ -66,6 +76,7 @@ for (i in seq_len(nrow(projects))) {
   
     if (trimws(Special.Requirements) != "")
       lines <- c(lines, paste0("+ Additional comments: ", trimws(Special.Requirements)))
+    lines <- c(lines, "")
   
     writeLines(lines, outfile)
     close(outfile)

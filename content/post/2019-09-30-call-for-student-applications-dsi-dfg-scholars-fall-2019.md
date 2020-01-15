@@ -9,8 +9,8 @@ tags:
   - Fall 2019
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1569954028/opencall_fall2019_so51mh.png
-coverImage: //res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1569954028/opencall_fall2019_so51mh.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1569954028/opencall_fall2019_so51mh.png
+coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1569954028/opencall_fall2019_so51mh.png
 metaAlignment: center
 ---
 Columbia University [Data Science Institute](http://datascience.columbia.edu/) is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Fall 2019 are open for application.
