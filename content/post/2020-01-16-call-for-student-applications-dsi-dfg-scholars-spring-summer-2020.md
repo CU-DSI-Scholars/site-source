@@ -1,7 +1,7 @@
 ---
 title: Call for Student Applications - Spring-Summer 2020
 author: Tian Zheng and Vincent Dorie
-date: '2020-01-16'
+date: '2020-01-17'
 slug: call-for-student-applications-dsi-scholars-spring-summer-2020
 categories:
   - Announcement

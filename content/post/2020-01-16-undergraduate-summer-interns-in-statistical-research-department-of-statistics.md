@@ -19,7 +19,8 @@ Multiple internship positions are available. Selected candidates will receive a 
 {{< /alert >}}
 
 ## Faculty Advisors
-+ Professor [Liam Paninski](http://www.stat.columbia.edu/~liam/)
+
+### with Professor [Liam Paninski](http://www.stat.columbia.edu/~liam/)
 + Department/School: Statistics/A&S, ZMBBI
 + Location: Jerome L. Greene Science Center
 + Here are some ongoing projects we could use help with: 
@@ -29,8 +30,8 @@ Multiple internship positions are available. Selected candidates will receive a 
     + Combining neural networks and graphical models for semi-supervised computer vision tasks
     + Decoding neural signals to understand what the eye is telling the brain
     + Helping to create the first functional atlas of the mouse brain
-    
-+ Professor [Tian Zheng](http://www.stat.columbia.edu/~tzheng/)
+
+### with Professor [Tian Zheng](http://www.stat.columbia.edu/~tzheng/)
 + Department/School: Statistics/A&S
 + Location: Department of Statistics, SSW (1255 Amsterdam)
 + Here are some ongoing projects we could use help with: 
@@ -43,5 +44,5 @@ Multiple internship positions are available. Selected candidates will receive a 
 
 ## Candidate requirements
 + Skill sets: machine learning, advanced coding skills in R/Python
-+ Student eligibility: freshman, sophomore, junior, senior, ~master's~
++ Student eligibility: freshman, sophomore, junior, senior, ~~master's~~
 + International students on F1 or J1 visa: **eligible**
