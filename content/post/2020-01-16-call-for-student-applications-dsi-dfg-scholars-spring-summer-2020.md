@@ -10,8 +10,8 @@ tags:
   - Summer 2020
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1579112849/opencall_spring-summer2020_kftior.png
-coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1579112849/opencall_spring-summer2020_kftior.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1579132878/opencall_spring-summer2020_ghawiw.png
+coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1579132878/opencall_spring-summer2020_ghawiw.png
 metaAlignment: center
 ---
 Columbia University [Data Science Institute](http://datascience.columbia.edu/) is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Spring-Summer 2020 are open for application.

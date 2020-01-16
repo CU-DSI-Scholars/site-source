@@ -29,7 +29,7 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + Professor: [Silvia Martins](https://www.mailman.columbia.edu/people/our-faculty/ssm2183)
 + Department/School: Epidemiology
 + Location: 722 W 168th St Room 509 New York NY 10023
-+ Dr. Martins's lab conducts  research on opioid and marijuana policies and  marijuana and opioid-related harm outcomes using   data from large national datasets
++ Dr. Martins's lab conducts research on opioid and marijuana policies and marijuana and opioid-related harm outcomes using data from large national datasets
 
 ## Project Timeline
 + Earliest starting date: 4/1/2020
