@@ -8,8 +8,9 @@ for (i in seq_len(nrow(projects))) {
     if (endsWith(title.lower, ".")) title.lower <- sub("\\.$", "", title.lower)
     fileName <- paste0(Sys.Date(), "-project-", title.lower, ".md")
     
-    outfile <- file(file.path(repository, fileName), open = "w")
-    if (file.exists(outfile)) next
+    outfileName <- file.path(repository, fileName)
+    if (file.exists(outfileName)) return(invisible(NULL))
+    outfile <- file(outfileName, open = "w")
    
     duration <- switch(Timing.of.project,
                        "Spring 2020 (March - May)" = 1L,

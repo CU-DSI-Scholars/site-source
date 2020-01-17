@@ -1,5 +1,5 @@
 ---
-title: 'Data For Good Project: The Consequences of Language Policing'
+title: 'Data For Good: The Consequences of Language Policing'
 date: '2020-01-15'
 slug: project-the-consequences-of-language-policing
 categories:

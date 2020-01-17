@@ -1,6 +1,6 @@
 ---
 title: 'Deep learning for tracking single molecules and proteins'
-date: '2020-01-17'
+date: '2020-01-15'
 slug: project-deep-learning-for-tracking-single-molecules-and-proteins
 categories:
   - Project Spring 2020
