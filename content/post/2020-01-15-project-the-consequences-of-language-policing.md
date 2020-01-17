@@ -1,5 +1,5 @@
 ---
-title: 'The Consequences of Language Policing'
+title: 'Data For Good Project: The Consequences of Language Policing'
 date: '2020-01-15'
 slug: project-the-consequences-of-language-policing
 categories:
@@ -14,10 +14,10 @@ Contestation over language use is an unavoidable feature of American politics. Y
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+The Data For Good program is designed primarily for volunteers, however one candidate will be selected as a project coordinator and will receive a stipend via the Data For Good Scholars program. In addition to the responsibilities of a team member, the selected candidate will be responsible for keeping up-to-date notes on the project's status, writing an end-of-period report, and attending bi-weekly meetings with a DFG program director. The project coordinator should strive to keep the group of volunteers in sync with the needs of the project owner.
 {{< /alert >}}
 
-## Faculty Advisor
+## Project Owner
 + Professor: [Yamil Ricardo Velez](www.yamilrvelez.com)
 + Department/School: Department of Political Science
 + Location: IAB 741

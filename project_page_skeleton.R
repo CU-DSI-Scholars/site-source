@@ -10,6 +10,7 @@ for (i in seq_len(nrow(projects))) {
     fileName <- paste0(Sys.Date(), "-project-", title.lower, ".md")
     
     outfile <- file(file.path(repository, fileName), open = "w")
+    if (file.exists(outfile)) next
    
     duration <- switch(Timing.of.project,
                        "Spring 2020 (March - May)" = 1L,
