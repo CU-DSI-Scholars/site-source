@@ -13,7 +13,9 @@ Single cell sequencing has generated unprecedented insight into the cellular com
 
 <!--more-->
 
-{{< alert success >}}\nThis is an UNPAID research project.\n{{< /alert >}}
+{{< alert success >}}
+This is an UNPAID research project.
+{{< /alert >}}
 
 ## Faculty Advisor
 + Professor: [Xin Zhang](https://www.columbiaeye.org/profile/xzhang?profile=researcher)
