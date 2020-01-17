@@ -1,5 +1,5 @@
 ---
-title: 'single cell RNA-seq analysis of eye development and disease'
+title: 'Single cell RNA-seq analysis of eye development and disease'
 date: '2020-01-15'
 slug: project-single-cell-rna-seq-analysis-of-eye-development-and-disease
 categories:

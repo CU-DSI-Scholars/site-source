@@ -2,9 +2,7 @@ projects <- read.csv("~/Documents/Data Science/Scholars/dsischolarsemailcodes/DS
 
 repository <- "/Users/vdorie/Repositories/dsischolars/site-source/content/post"
 
-#for (i in seq_len(nrow(projects))) {
-
-for (i in c(6, 7)) {
+for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
     title.lower <- gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(Project.title)))
     if (endsWith(title.lower, ".")) title.lower <- sub("\\.$", "", title.lower)
