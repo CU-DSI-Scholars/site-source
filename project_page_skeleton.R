@@ -4,8 +4,9 @@ repository <- "/Users/vdorie/Repositories/dsischolars/site-source/content/post"
 
 for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
-    title.lower <- gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(Project.title)))
+    title.lower <- trimws(gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(Project.title))))
     if (endsWith(title.lower, ".")) title.lower <- sub("\\.$", "", title.lower)
+    
     fileName <- paste0(Sys.Date(), "-project-", title.lower, ".md")
     
     outfileName <- file.path(repository, fileName)
