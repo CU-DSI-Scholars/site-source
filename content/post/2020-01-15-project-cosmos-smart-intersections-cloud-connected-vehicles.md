@@ -16,7 +16,7 @@ Research on: (i) COSMOS cloud connected vehicles, (ii) Monitoring of traffic int
 <!--more-->
 
 {{< alert success >}}
-One selected candidate will receive a stipend via the DSI Scholars program. Amount is subject to available funding.
+Applications for this project will be accepted for the Spring and Summer terms separately. For the Spring term, the selected candidate(s) will receive a stipend directly from the faculty advisor. For the Summer term, one selected candidate will receive a stipend via the DSI Scholars program. Amounts are subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
@@ -26,9 +26,10 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + COSMOS applications: smart cities, smart intersections, cloud connected vehicles, applications of artificial intelligence.
 
 ## Project Timeline
-+ Earliest starting date: 3/12/2020
-<!-- + Earliest starting date: 6/1/2020 -->
-+ End date: 8/28/2020
++ Earliest starting date for Spring: 3/12/2020
++ End date for Spring: 6/10/2020
++ Earliest starting date for Summer: 6/1/2020
++ End date for Summer: 8/28/2020
 + Number of hours per week of research expected during Spring 2020: ~10
 + Number of hours per week of research expected during Summer 2020: ~20
 
