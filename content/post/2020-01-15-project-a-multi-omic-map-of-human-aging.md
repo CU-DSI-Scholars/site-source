@@ -20,7 +20,7 @@ Selected candidate(s) will receive a stipend directly from the faculty advisor. 
 {{< /alert >}}
 
 ## Faculty Advisor
-+ Professor: [Martin Picard](https://www.picardlab.org)
++ Professor: [Martin Picard](http://www.picardlab.org/members.html)
 + Department/School: Medical School (Psychiatry and Neurology)
 + Location: Medical Campus, 168th street
 + Our group integrates cell biology, high-throughput omics, and computational methods to understand brain-body processes central to human health
