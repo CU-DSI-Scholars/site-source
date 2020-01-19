@@ -35,9 +35,9 @@ The collected applications for each position will be sent to the hosting faculty
 
 The following timetable is subject to adjustments. 
 
-+ January 18, 2020
++ January 19, 2020
     + [DSI -> Students] Call for applications is sent to students and application website goes live.
-+ January 31, 2020
++ February 2, 2020
     + [Students -> DSI] Student applications due.
     + [DSI -> Faculty] Applications shared with faculty/center/lab.
 + February 21, 2020 (expected)
