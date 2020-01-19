@@ -8,8 +8,11 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Health
+  - Statistics
+  - R
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_center/v1579389866/chromosomes_s30ivl.png
 ---
 We have been studying bladder cancer in a mouse model of the disease and we are seeking to understand the molecular features of the mouse models as they relate to human bladder cancer.
 

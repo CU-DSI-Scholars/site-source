@@ -8,8 +8,12 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Neuroscience
+  - EDAV
+  - Matlab
+  - Machine learning
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1579384720/eda_bnfdaj.png
 ---
 Advances in data collection technologies in neuroscience has resulted in a deluge of high-quality data that needs to be analyzed, and presented to the experimentalist in a meaningful way. Usually the “data analysis and visualization”-pipeline is built from scratch for each new experiment resulting in a significant amount of code duplication and wasted effort in rebuilding the analysis tools. There is a growing need for a unified system to automate much of the repetitive tasks and aid biologists in understanding their data more efficiently. 
 

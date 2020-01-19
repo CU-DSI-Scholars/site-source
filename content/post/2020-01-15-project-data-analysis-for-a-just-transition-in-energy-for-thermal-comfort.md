@@ -8,8 +8,15 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Data For Good
+  - Sustainability
+  - Cities
+  - Web scraping 
+  - R
+  - Python
+  - GIS
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1579387258/green_building_xoc4gu.png
 ---
 42% of New York City greenhouse gas emissions result from on-site fossil fuel combustion in residential and commercial buildings; space heating is, by far, the majority contributor. Both New York State and NYC have policies to dramatically reduce emissions that will require a transformation in the way buildings are heated, including major efforts in existing buildings. This transition is inextricably linked to existing energy equity issues that we believe significantly overlap across NYC (and elsewhere). These include unreliable heating in the winter, susceptibility to extreme heat (an increasing occurrence with climate change) and struggles to afford energy needs. Various known data sources for NYC are available, though they are disparate and have not been analyzed holistically. Further, we believe there are potential engineering and policy solutions to these challenges. In this project, the DSI scholar will access (and search for where not yet known to qSEL researchers) relevant data sets, analyze those data sets to identify communities exposed to all or a subset of these issues, and assist qSEL researchers in developing models to evaluate possible solutions. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.
 

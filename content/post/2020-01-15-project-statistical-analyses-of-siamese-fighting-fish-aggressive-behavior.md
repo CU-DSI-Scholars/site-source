@@ -8,8 +8,15 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Neuroscience
+  - Video analysis
+  - DeepLabCut
+  - Deep nets
+  - Markov models
+  - Python
+  - R
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_pad,h_200,w_200,y_0,x_0/v1579394308/betta_y4no3d.png
 ---
 Project: analyze behavior of Siamese fighting fish (Betta splendens) as part of a collaboration between the Bendesky and Cunningham labs of the Zuckerman Institute (NeuroTheory Center)
 
@@ -40,9 +47,9 @@ We take genetic, genomic, molecular, and neurobiological approaches to understan
 
 ## Candidate requirements
 + Skill sets: 
-  Knowledge of R and/or Python
-  Familiarity with hidden markov models
-  Interest in animal behavior
+  - Knowledge of R and/or Python
+  - Familiarity with hidden markov models
+  - Interest in animal behavior
 + Student eligibility: freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 

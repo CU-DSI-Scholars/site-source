@@ -8,8 +8,15 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Sustainability
+  - GIS
+  - Cities
+  - Time series
+  - Statistics
+  - EDAV
+  - Web development
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579391049/green_building_2_sslmxa.png
 ---
 The Quadracci Sustainable Engineering Lab (qSEL) has several research efforts related to the low-carbon energy transition, including pathways to decarbonize building space heating. Recent work has produced large model data sets that have supported recent journal articles. Several maps have been produced using QGIS and data has been made public, but user functionality is limited. While we continue to build on these efforts, we also want to make our results and data available more widely for other researchers and policymakers. The large data sets (10 years of hourly data for more than 72,000 census tracts and six scenarios) and different spatial aggregations (e.g. states and electricity planning/operating regions) present challenges. In this project, the DSI Scholar would first work with qSEL researchers to develop an interactive web interface to display maps of relevant analyses and allow users to produce time series data from the underlying models. Additional research would include further analysis at a regional level – likely New York State – to refine the current model based on additional intraregional and energy source data. The project has the possibility of extending through Summer 2020, subject to fundraising efforts and the success of the Spring 2020 project.
 

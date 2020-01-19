@@ -6,8 +6,12 @@ categories:
   - Project Spring 2020
 tags:
   - Spring 2020
+  - Psychology
+  - Web scraping
+  - Python
+  - Statistics
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579390634/focus_group_vbw03p.png
 ---
 The introduction of a new technology provides individuals and organizations with a large, unowned, and limitless space for communication and organization. How do individuals use or misuse this space in their decision making? Using online discussion platforms, we will analyze what types of discussions thrive - those with depth of discussion or topical complexity or those with cohesive contours? We’ll ask, are there high status actors who are particularly good at recognizing topic gaps which need new conversations? Using social psychological theories with a large-scale archival dataset, we’ll learn more about the impact of new technologies on group decision-making processes. 
 

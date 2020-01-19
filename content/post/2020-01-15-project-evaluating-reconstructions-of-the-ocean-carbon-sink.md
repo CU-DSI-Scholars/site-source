@@ -1,23 +1,24 @@
 ---
-title: 'Evaluating Reconstructions of the Ocean Carbon Sink '
+title: 'Evaluating Reconstructions of the Ocean Carbon Sink'
 date: '2020-01-15'
-slug: project-evaluating-reconstructions-of-the-ocean-carbon-sink-
+slug: project-evaluating-reconstructions-of-the-ocean-carbon-sink
 categories:
   - Project Spring 2020
 tags:
   - Spring 2020
+  - Climate
+  - Python
+  - Statistics
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_center/v1579390329/marine_system_rdutmm.png
 ---
 The ocean significantly mitigates climate change by absorbing fossil fuel carbon from the atmosphere. Cumulatively since the preindustrial times, the ocean has absorbed 40% of emissions. To understand past changes, diagnose ongoing changes, and to predict the future behavior of the ocean carbon sink, we must understand its spatial and temporal variability. However, the ocean is poorly sampled and so we cannot do this from direct measurements. 
 
 <!--more-->
 
-
 In the McKinley group, we have developed several data science techniques to reconstruct ocean carbon data based on association to satellite-based full-field driver data. We have also developed the Large Ensemble Testbed, a compilation of Earth System simulations designed for the evaluation of ocean carbon reconstructions (Gloege et al., in review). In this Spring 2020 project, the DSI Scholar will apply the Large Ensemble Testbed to compare the strengths and weaknesses of several ocean carbon reconstruction approaches.
 
 For this project, the data will be 100 realizations of simulated surface ocean pCO2, subsampled as the real data (SOCAT, www.socat.info), as well as simulated sea surface temperature, chlorophyll, salinity, and mixed layer depth for 1982-2016. All dataset are already in use, thus data preparation will not be a significant task. 
-
 
 {{< alert success >}}
 One selected candidate will receive a stipend via the DSI Scholars program. Amount is subject to available funding.

@@ -8,10 +8,15 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Machine learning
+  - C
+  - Java
+  - Python
+  - Video streaming
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579391232/streaming_vlhymp.png
 ---
-The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users'  video Quality of Experience. 
+The amount of video content that is being distributed over the Internet is increasing. Video providers rely on HTTP adaptive streaming approaches to deliver video clips to users. Complementary to the video provider, the service provider must determine the priority of each network stream. As part of the project, students will explore wireless network assisted strategies for http adaptive streaming by use of TOS/DSCP. This includes using machine-learning tools to analyze network video traffic and the design of reinforcement learning algorithms to improve users' video Quality of Experience. 
 
 <!--more-->
 
@@ -23,7 +28,7 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + Professor: [Gil Zussman](http://wimnet.ee.columbia.edu)
 + Department/School: Electrical Engineering
 + Location: CEPSR 809
-+ The wireless and mobile networking lab focuses on wireless, mobile and resilient networks. The research spans the spectrum between theory and systems. Recent advances allow applying learning techniques to networking as shown in http://wimnet.ee.columbia.edu/publications/publications-by-topic/#learning
++ The wireless and mobile networking lab focuses on wireless, mobile and resilient networks. The research spans the spectrum between theory and systems. Recent advances allow applying learning techniques to networking as shown in [http://wimnet.ee.columbia.edu/publications/publications-by-topic/#learning](http://wimnet.ee.columbia.edu/publications/publications-by-topic/#learning)
 
 ## Project Timeline
 + Earliest starting date: 3/1/2020

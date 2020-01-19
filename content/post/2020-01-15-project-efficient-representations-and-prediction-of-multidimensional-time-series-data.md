@@ -8,16 +8,20 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Deep learning
+  - Machine learning
+  - Finance
+  - EDAV
+  - Python
+  - Time series
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_center/v1579390130/finance_chart_lefkfn.png
 ---
 Big data with temporal dependence brings unique challenges in effective prediction and data analysis. The complex high-dimensional interactions between observations in such data brings unique challenges which standard off-the-shelf machine learning algorithms cannot handle. Even basic tasks of clustering, visualization and identification of recurring patterns are difficult. 
 
 <!--more-->
 
-
-The aim of this project is to design techniques for efficient representations of such high dimensional timeseries for exploratory data analysis. Taking financial timeseries data as a test bed, we will examine how one can design effective models in this complex regime. 
-
+The aim of this project is to design techniques for efficient representations of such high dimensional timeseries for exploratory data analysis. Taking financial timeseries data as a test bed, we will examine how one can design effective models in this complex regime.
 
 {{< alert success >}}
 One selected candidate will receive a stipend via the DSI Scholars program. Amount is subject to available funding.

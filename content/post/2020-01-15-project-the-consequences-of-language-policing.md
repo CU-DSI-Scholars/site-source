@@ -6,8 +6,12 @@ categories:
   - Project Spring 2020
 tags:
   - Spring 2020
+  - Data For Good
+  - Social media
+  - NLP
+  - Web scraping
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1579387538/machine_translation_jxwh77.png
 ---
 Contestation over language use is an unavoidable feature of American politics. Yet, despite the rise of language policing on both sides of the aisle, we know surprisingly little about how ordinary citizens respond to norms governing language use from both in-group and out-group members. Following Munger (2017), I would like to leverage social media platforms such as Reddit and Twitter to evaluate whether injunctions to use particular words (e.g., undocumented immigrant, Latinx) are effective. I plan to use an experimental approach, where conditional on mentions of "illegal alien" or "Hispanic/Latino," users are randomly assigned to receive a "language correction." Outcome measures would include subsequent use of corrected terms, valence of user responses, and upvoting/liking/RTing behavior. 
 

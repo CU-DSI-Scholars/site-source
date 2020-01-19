@@ -6,8 +6,11 @@ categories:
   - Project Summer 2020
 tags:
   - Summer 2020
+  - Statistics
+  - R
+  - Python
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_pad,h_200,w_200,y_0,x_0/v1579393394/rna_v3v3lt.png
 ---
 Single cell sequencing has generated unprecedented insight into the cellular complexity of normal and diseased organ. We are interested in using this technique to understand the mechanisms of eye development, disease and regeneration. We also would like to compare the transcriptomic signatures between mouse models and human tissues. This project involves analysis of large amount of data from single cell sequencing. It requires understanding of statistical analysis and proficient programming skills. 
 
@@ -23,8 +26,7 @@ This is an UNPAID research project.
 + Location: Eye Institute
 
 ## Project Timeline
-+ Earliest starting date: 
-+ End date: 
++ Earliest starting date: 3/1/2020
 
 ## Candidate requirements
 + Skill sets: R and Python

@@ -8,8 +8,13 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Deep learning
+  - Molecular biology
+  - Python
+  - Matlab
+  - Machine learning
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_center/v1579389041/molecule_jmnoxf.png
 ---
 This project will be focused on creating a deep learning framework for tracking individual molecules and proteins as they move within a cell under various conditions. Using total internal reflection (TIRF) microscopy, we have accumulated more than 10 million trajectories over dozens of experimental preparations with differences in both the imaging approaches as well as the biological context. In our experiments we have captured particles under a wide variety of conditions including increased protein expression level, and a range of drug concentrations. Our biggest challenge is being able to stably track the movement of a particle as it passes by other particles or groups of particles, and to do this in a way that generalizes over novel conditions. The Data Science Institute Scholar chosen for this project would work with scientists in the Javitch laboratory and others across the Columbia campus to conceive of an approach for efficiently and effectively tracking particles. The resulting work would be of great interest to an increasing number of scientists working in this field who currently rely on methods based on feature engineering that are often inaccurate or inflexible compared to modern deep learning methods.
 

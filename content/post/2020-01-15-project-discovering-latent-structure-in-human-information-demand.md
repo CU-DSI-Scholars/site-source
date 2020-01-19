@@ -8,8 +8,11 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Psychology
+  - Bayesian
+  - Neuroscience
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_center/v1579389490/strategy_brainstorm_uygzue.png
 ---
 All complex behaviors require animals to coordinate their perception and actions. To successfully achieve a goal, a decision maker (DM; be it a human, animal, or artificial agent) must determine which action to take and, faced with much more information than she can fully process, must decide which source of information to consult to best guide that action. But in contrast with natural tasks, traditional research has focused primarily on action selection but eschewed the process of information demand. We aim to fill this gap by investigating the factors that motivate people to become curious and seek information.  We are collecting behavioral data from a large sample of participants on a battery of online tasks testing various aspects of curiosity, and seek a DSI scholar who can quantitatively analyze the data. The scholar will be supervised by two co-PIs: Jacqueline Gottlieb, in Columbia's Neuroscience Department and Zuckerman Institute, and Vince Dorie, in the DSI. The scholar will obtain training with advanced data analytic methods and the opportunity to co-author what is expected to be a high impact paper with interdisciplinary appeal in economics, neuroscience, and psychology. 
 

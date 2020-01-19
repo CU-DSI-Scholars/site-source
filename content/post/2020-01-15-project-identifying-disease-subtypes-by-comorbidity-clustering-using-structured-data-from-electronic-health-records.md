@@ -8,8 +8,13 @@ categories:
 tags:
   - Spring 2020
   - Summer 2020
+  - Health
+  - Precision medicine
+  - Statistics
+  - Unsupervised learning
+  - Clustering
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579391482/ehr_e3c8ij.png
 ---
 A major challenge to implementing precision medicine arises from patients who share a clinical diagnosis but have different biological causes of disease. Disease subtypes that arise from obscure etiological heterogeneity create inefficiencies in healthcare and attenuate power in clinical trials and research studies. The ability to stratify patients into biologically homogenous subgroups improves the potential for translational research by allowing us to design more powerful studies.
 
