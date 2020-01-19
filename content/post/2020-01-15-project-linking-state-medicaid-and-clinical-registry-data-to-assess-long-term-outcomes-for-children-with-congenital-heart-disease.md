@@ -35,7 +35,6 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + Professor: [Brett Anderson, MD MBA MS](https://www.pediatrics.columbia.edu/profile/brett-r-anderson-md#overview/user)
 + Department/School: Division of Pediatric Cardiology/Columbia University Irving Medical Center
 + Location: 168th and Broadway
-+ https://www.pediatrics.columbia.edu/profile/brett-r-anderson-md#overview/user
 
 ## Project Timeline
 + Earliest starting date: 6/1/2020

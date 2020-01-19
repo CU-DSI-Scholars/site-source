@@ -14,7 +14,7 @@ tags:
   - Spring 2020
   - Summer 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1569962010/self_driving_car_dr0v3f.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_pad,h_200,w_200,y_0,x_0/v1569962010/self_driving_car_dr0v3f.png
 ---
 Research on: (i) COSMOS cloud connected vehicles, (ii) Monitoring of traffic intersections, using bird’s eye cameras, supported by ultra-low latency computational/communications hubs; (iii) Simultaneous video-based tracking of cars and pedestrians, and prediction of movement based on long-term observations of the intersection; (iv) Real-time computational processing, using deep learning, utilizing GPUs, in support of COSMOS applications; (v) Sub-10ms latency communication between all vehicles and the edge cloud computational/communication hub, to be used in support of autonomous vehicle navigation. The research is performed using the pilot node of project [COSMOS](https://cosmos-lab.org/) infrastructure.
 
