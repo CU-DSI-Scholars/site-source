@@ -13,6 +13,7 @@ tags:
   - Statistics
   - Unsupervised learning
   - Clustering
+  - EHR
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579391482/ehr_e3c8ij.png
 ---
@@ -42,5 +43,5 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + Skill sets: experience with unsupervised clustering methods
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
 + International students on F1 or J1 visa: **eligible**
-+ Additional comments: I do not have extensive experience with unsupervised clustering methods and would prefer a student who is familiar with such methods.
++ Additional comments: Experience using unsupervised clustering methods is required.
 
