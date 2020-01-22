@@ -1,5 +1,5 @@
 ---
-title: 'Data Analysis for a Just Transition in Energy for Thermal Comfort'
+title: 'Data For Good: Data Analysis for a Just Transition in Energy for Thermal Comfort'
 date: '2020-01-15'
 slug: project-data-analysis-for-a-just-transition-in-energy-for-thermal-comfort
 categories:
@@ -23,8 +23,7 @@ thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_cente
 <!--more-->
 
 {{< alert success >}}
-The supporting program for this project has not yet been resolved and it may be an unpaid, DSI Scholars activity, a Data For Good venture, or not active this term. If you are interested in applying, please wait until January 22, 2020 before submitting and we should have a determination at that time.
-<!-- The Data For Good program is designed primarily for volunteers, however one candidate will be selected as a project coordinator and will receive a stipend via the Data For Good Scholars program. In addition to the responsibilities of a team member, the selected candidate will be responsible for keeping up-to-date notes on the project's status, writing an end-of-period report, and attending bi-weekly meetings with a DFG program director. The project coordinator should strive to keep the group of volunteers in sync with the needs of the project owner. -->
+The Data For Good program is designed primarily for volunteers, however one candidate will be selected as a project coordinator and will receive a stipend via the Data For Good Scholars program. In addition to the responsibilities of a team member, the selected candidate will be responsible for keeping up-to-date notes on the project's status, writing an end-of-period report, and attending bi-weekly meetings with a DFG program director. The project coordinator should strive to keep the group of volunteers in sync with the needs of the project owner.
 {{< /alert >}}
 
 ## Project Owner
