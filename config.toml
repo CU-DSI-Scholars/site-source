@@ -84,7 +84,7 @@ relativeurls = true
   identifier = "faq"
   name = "FAQ"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question-circle\"></i>"
-  url = "/page/faq2019"
+  url = "/page/faq2020"
 
 [[menu.links]]
   weight = 4
