@@ -31,8 +31,8 @@ One selected candidate will receive a stipend via the DSI Scholars program. Amou
 + The McKinley Ocean Carbon Research Group studies how ocean physical and biogeochemical processes impact large-scale carbon cycling and primary productivity. These studies encompass fluid dynamics, climate processes, biogeochemistry and ecology. Our primary research tools are numerical models and large historical datasets.
 
 ## Project Timeline
-+ Earliest starting date: 3/1/2019
-+ End date: 5/15/2019
++ Earliest starting date: 3/1/2020
++ End date: 5/15/2020
 + Number of hours per week of research expected during Spring 2020: ~12
 + Number of hours per week of research expected during Summer 2020: ~0
 
