@@ -11,6 +11,7 @@ tags:
   - Stata
   - SAS
   - Statistics
+  - EHR
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579392527/heart_htgbc0.png
 ---
