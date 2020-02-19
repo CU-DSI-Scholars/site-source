@@ -112,7 +112,7 @@ relativeurls = true
   identifier = "gform"
   name = "Apply Now"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-mortar-board\"></i>"
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSd1GAn-urwMvkbOQ0oOTSqhOwvBfeWeSeLwoXfp8zXiqEOdQA/viewform"
+  url = "https://forms.gle/FirneensvXgZGE6HA"
 
 
 #[[menu.misc]]
