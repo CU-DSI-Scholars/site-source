@@ -1,7 +1,7 @@
 ---
 title: 'Understanding Orientation'
 date: '2020-02-20'
-slug: project-cryptocurrency-analytics-identifying-bad-actors
+slug: project-understanding-orientation
 categories:
   - Project Spring 2020
 tags:
