@@ -4,10 +4,12 @@ date: '2020-02-20'
 slug: project-understanding-orientation
 categories:
   - Project Spring 2020
+  - Project Summer 2020
 tags:
   - Psychology
   - Neuroscience
   - Spring 2020
+  - Summer 2020
 thumbnailImagePosition: left
 thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1582313130/compass_exc8jb.png
 ---
