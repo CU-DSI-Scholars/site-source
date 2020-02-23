@@ -15,7 +15,7 @@ coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,
 metaAlignment: center
 ---
 
-We have two additional projects ([1](https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/),[2](https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-understanding-orientation/)) and are thus opening another round of applications. You can apply for these projects [here](https://forms.gle/xA5ZCXuUr6Jgh2Zk9). The deadline for this application is **Sunday, February 23rd at 11:59pm**.
+We have two additional projects ([1](https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-cryptocurrency-analytics-identifying-bad-actors/),[2](https://cu-dsi-scholars.github.io/DSI-scholars/2020/02/project-understanding-orientation/)) and are thus opening another round of applications. You can apply for these projects [here](https://forms.gle/xA5ZCXuUr6Jgh2Zk9). The deadline for this application is **Wednesday, February 26th at 11:59pm**.
 
 If you applied previously, the original application [form](https://forms.gle/FirneensvXgZGE6HA) has been unlocked so that you can access your application materials. Do not use this form to resubmit - it will be ignored.
 
