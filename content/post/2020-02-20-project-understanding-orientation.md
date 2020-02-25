@@ -8,6 +8,10 @@ categories:
 tags:
   - Psychology
   - Neuroscience
+  - MATLAB
+  - Python
+  - Signal processing
+  - Statistics
   - Spring 2020
   - Summer 2020
 thumbnailImagePosition: left
@@ -19,6 +23,8 @@ Orienting to a novel event is a rapid shift in attention to a change in one’s 
 <!--more-->
 
 Recent research indicates that one’s internal brain state prior to sensory input is directly related to subsequent processing of a stimuli. In particular, oscillatory brain activity in the alpha frequency band (8-14 Hz) is thought to play a role in attentional processes. A decrease in alpha frequency is associated with facilitation of attentional focus and further processing, whereas an increase in alpha frequency is associated with suppressing attention toward irrelevant stimuli. These findings have mostly been carried out in studies of adults, while much less is known about how these brain rhythms contribute to information processing in children.
+
+This project involves analyzing data recorded from children and adults who performed orienting and memory tasks. The project will focus on the time-frequency domain, and will compare alpha modulation pre- and post- stimulus presentations. This project will provide students an opportunity to acquire skills in electrophysiological data analysis and learn about developmental differences in brain signals and its implication on cognition.
 
 {{< alert success >}}
 This is an UNPAID research project.
@@ -36,6 +42,6 @@ This is an UNPAID research project.
 + Number of hours per week of research expected during Summer 2020: ~40
 
 ## Candidate requirements
-+ Skill sets: statistical analysis
++ Skill sets: programming experience with MATLAB or python, background in signal processing and/or statistics
 + Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
