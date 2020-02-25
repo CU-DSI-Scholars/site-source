@@ -33,15 +33,15 @@ This is an UNPAID research project.
 ## Faculty Advisor
 + Professor: [Yael Cycowicz](https://www.researchgate.net/profile/Yael_Cycowicz)
 + Department/School: Psychiatry
-+ Location: Nyspi Unit#21, 1051 Riverside
++ Location: NYSPI Unit#21, 1051 Riverside
 
 ## Project Timeline
 + Earliest starting date: 3/1/2020
 + End date: 8/31/2020
-+ Number of hours per week of research expected during Spring 2020: ~8
++ Number of hours per week of research expected during Spring 2020: ~12
 + Number of hours per week of research expected during Summer 2020: ~40
 
 ## Candidate requirements
 + Skill sets: programming experience with MATLAB or python, background in signal processing and/or statistics
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
++ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
 + International students on F1 or J1 visa: **eligible**
