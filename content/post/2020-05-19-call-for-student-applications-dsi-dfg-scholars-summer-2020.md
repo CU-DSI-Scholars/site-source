@@ -35,17 +35,17 @@ The collected applications for each position will be sent to the hosting faculty
 
 The following timetable is subject to adjustments. 
 
-+ January 19, 2020
++ May 19, 2020
     + [DSI -> Students] Call for applications is sent to students and application website goes live.
-+ February 2, 2020
++ May 22, 2020
     + [Students -> DSI] Student applications due.
     + [DSI -> Faculty] Applications shared with faculty/center/lab.
-+ February 21, 2020 (expected)
++ May 31, 2020
     + [Faculty -> DSI] Information of identified Scholars due to DSI.
     + [Faculty -> Student] Email offers of the internship will be sent to students.
         
 {{< alert info>}}
-Click [here](/page/faq2020) for a list of frequently asked questions. We will be constantly updating this list based on inquries we receive.  
+Click [here](/page/faq2020-summer) for a list of frequently asked questions. We will be constantly updating this list based on inquries we receive.  
 {{< /alert >}}
 
 Please email questions to <dsi-scholars@columbia.edu>.
