@@ -5,9 +5,10 @@ repository <- "/Users/vdorie/Repositories/dsischolars/site-source/content/post"
 trimNA <- function(x) if (is.na(x)) "" else trimws(x)
 
 #for (i in seq_len(nrow(projects))) {
-for (i in seq.int(2L, nrow(projects))) {
+for (i in seq.int(1L, nrow(projects))) {
   with(projects[i,], {
-    if (grepl("no post", Scholars.post, ignore.case = TRUE)) return(invisible(NULL))
+    skip <- DSI.Scholars == "None"
+    if (skip) return(invisible(NULL))
     
     title.lower <- trimNA(gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(Project.title))))
     if (endsWith(title.lower, ".")) title.lower <- sub("\\.$", "", title.lower)
