@@ -14,7 +14,7 @@ coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,
 metaAlignment: center
 ---
 
-Given the COVID-19 environment and the increasing requests for additional support for projects, the Data Science Institute is pleased to announce a second wave of summer research projects through the Data Science Scholars and Data For Good programs. Please note that this is on a compressed timeline and student applications are due Friday is May 22nd, 2020 at 5pm Eastern.
+Given the COVID-19 environment and the increasing requests for additional support for projects, the Data Science Institute is pleased to announce a second wave of summer research projects through the Data Science Scholars and Data For Good programs. Please note that this is on a compressed timeline and student applications are due **Friday, May 22nd**, 2020 at **11:59pm** Eastern time.
 
 The goal of the DSI Scholars Program is to engage Columbia University's undergraduate and master's students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with an additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.
 
