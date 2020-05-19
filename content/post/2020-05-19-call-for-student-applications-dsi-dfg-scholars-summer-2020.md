@@ -9,8 +9,8 @@ tags:
   - Summer 2020
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1579453473/opencall_spring-summer2020_rvj8zb.png
-coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1579453473/opencall_spring-summer2020_rvj8zb.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1589858556/opencall_students_summer_2020_pcrwa4.png
+coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1589858556/opencall_students_summer_2020_pcrwa4.png
 metaAlignment: center
 ---
 
