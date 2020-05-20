@@ -22,11 +22,7 @@ data visualization, analysis, statistics, pattern detection
 
 ## Learning opportunity
 
-The student will exercise their talent and skills onto a non-technical field (literature) and would be able to learn about Arabic to English translation. No knowledge of Arabic required.
-
-{{< alert success >}}
-This project is **tentative** and may be removed. If you are interested in applying, check back closer to the deadline.
-{{< /alert >}}
+The student will exercise their talent and skills onto a non-technical field (literature) and would be able to learn about Arabic to English translation.
 
 {{< alert success >}}
 Selected candidate(s) may receive a stipend directly from the faculty advisor. Amount is subject to available funding.
@@ -41,6 +37,8 @@ Selected candidate(s) may receive a stipend directly from the faculty advisor. A
 + Duration: I don't know how much time is needed, I don't have the technical skills to assess the amount of time needed to transform the data. This can be discussed with the student(s). Work begins in July when funds are available.
 
 ## Candidate requirements
-+ Skills required: The ability to transform an extensive list of book titles into a meaningful visually readable data that could mean something (patterns, frequency, etc).
++ Skills required:
+  - The ability to transform an extensive list of book titles into a meaningful visually readable data that could mean something (patterns, frequency, etc).
+  - Knowledge of Arabic is required
 + Student eligibility: freshman, sophomore, junior, senior, master's
 
