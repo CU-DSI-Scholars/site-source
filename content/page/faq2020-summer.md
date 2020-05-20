@@ -31,3 +31,16 @@ showActions:    false
 
     *Answer*: Yes, with your faculty advisor's permission, you are welcome to participate when space permits. The matching fund for stipend has all been given out but we welcome all undergraduate researchers to participate in the DSI scholars activities such as the boot camp, the weekly series and the fall poster social. Please write to <dsi-scholars@columbia.edu>.
 
+## DSI Students
+
+1. When sending out to DSI students, should we note that "some projects might overlap with the projects that we shared with you through campus connections in the past two weeks. If you are still interested in applying please submit the application through this portal as well."
+2. Usually for Campus Connections projects, we allow students to have the option of doing the project for research credits as long as they get approval from the DSI education committee. Would we allow for this special group of DSI scholars program if students request it? Should we note in our announcement to DSI students that "Once you are selected for a project and if you are interested in requesting the project to be reviewed for DSI approved elective research credits please email Violet to follow up" ?
+
++ **Question:** A project is listed here and sent over Campus Connections. Through which one should I apply?
+
+    *Answer*: Some projects might overlap with the projects that we shared with you through Campus Connections in the past two weeks. If you ahave contacted faculty directly and received a reply, you do not need to apply through both programs. However, if you are still interested in applying and have not yet submitted or not received a reply, please use this portal as well.
+
++ **Question:** Is it possible to receive a research elective credit for a DSI Scholars project?
+
+    *Answer*: Once you are selected for a project and if you are interested in requesting the project to be reviewed for DSI approved elective research credits, please email [Violet](mailto:zy2286@columbia.edu) to follow up.
+
