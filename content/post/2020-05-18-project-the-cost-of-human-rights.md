@@ -14,7 +14,7 @@ tags:
   - Human rights
   - Summer 2020-2
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569955333/cost_human_rights_wcbiw1.png
+thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1589927386/cost_human_rights_2_c9o46s.png
 ---
 Under United States securities laws corporations must disclose material risks to their operations. Human rights issues, especially in authoritarian countries, rarely show up in the information that data providers offer to investors, in part due to the risks to those subject to these abuses. The result is a dearth of data on human rights materiality and the tendency of investors to overlook human rights risks of the companies that they finance. 
 

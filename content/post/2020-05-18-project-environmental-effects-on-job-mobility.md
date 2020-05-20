@@ -6,8 +6,12 @@ categories:
   - Project Summer 2020-2
 tags:
   - Summer 2020-2
+  - Python
+  - Machine learning
+  - NLP
+  - Topic models
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579390634/focus_group_vbw03p.png
 ---
 We are studing the level and nature of gender and racial discrimination at different stages of the employment relationship among US firms, and how the environment affects job mobility of employees. We are using company reviews data and employee resume databases from employment-related websites.
 

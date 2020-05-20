@@ -5,6 +5,10 @@ slug: project-bacterial-and-viral-genomic-epidemiology
 categories:
   - Project Summer 2020-2
 tags:
+  - Epidemiology
+  - Genomics
+  - Bioinformatics
+  - Population genetics
   - Summer 2020-2
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png

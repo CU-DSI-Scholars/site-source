@@ -6,10 +6,13 @@ categories:
   - Project Summer 2020-2
 tags:
   - Summer 2020-2
+  - GIS
+  - R
+  - Python
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1589929255/grid3_qpvl1p.png
 ---
-We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format.
+We need someone with strong data wrangling capabilities, to be able to determine quick ways to clean and merge data. The format of the data is spatial (GIS) but it could also be manipulated in tabular format. GRID3 is a program within [CIESIN](http://www.ciesin.org/) which is a research center located at the Lamont-Doherty Campus (with office space on the morningside campus) and is part of Columbia's Earth Institute.  Candidates can learn more about the program at the GRID3 [website](https://grid3.org/).
 
 <!--more-->
 

@@ -6,6 +6,9 @@ categories:
   - Project Summer 2020-2
 tags:
   - Summer 2020-2
+  - Statistics
+  - Radiology
+  - Tentative
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
 ---
@@ -23,6 +26,10 @@ Data analysis and help with statistical graphs for publication.
 ## Learning opportunity
 
 Opportunity to do statistical analysis on radiation dose parameters for interventional neuroradiology procedures.
+
+{{< alert success >}}
+This project is **tentative** and may be removed. If you are interested in applying, check back closer to the deadline.
+{{< /alert >}}
 
 {{< alert success >}}
 Selected candidate(s) may receive a stipend directly from the faculty advisor. Amount is subject to available funding.

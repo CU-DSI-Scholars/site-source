@@ -7,8 +7,12 @@ categories:
 tags:
   - Summer 2020-2
   - Data For Good
+  - HIV
+  - PrEP
+  - R
+  - Statistics
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1589930094/truvada_wtco5s.jpg
 ---
 Pre-exposure prophylaxis (PrEP) has been shown to be extremely effective in reducing the acquisition of HIV.  However, achieving the population-level impact of this intervention is contingent on the identification and linkage of appropriate candidates and ongoing engagement in care throughout periods of high and low risk.  Pre-COVID we had a suite of active studies looking at engagement in PrEP care.  These included  our PrEP database, Get2PrEP (studying individuals with positive STI tests but no PrEP engagement), Back2PrEP (evaluating patients who dropped out of care and re-engaged), Lost2PrEP (survey of individuals who have been out of care for 6 months or more), and our major study Stick2PrEP2.0 a randomized-control trial of text message based feedback to individuals receiving PrEP care and evaluating engagement.  At the time of the COVID pandemic we had just started to perform interim analysis on Stick2PrEP2.0.
 

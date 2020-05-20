@@ -1,15 +1,20 @@
 ---
-title: 'Social media echo chambers enhancing anxiety and depression: the effects of COVID19'
+title: 'Social media echo chambers enhancing anxiety and depression: the effects of COVID-19'
 date: '2020-05-18'
 slug: project-social-media-echo-chambers-enhancing-anxiety-and-depression-the-effects-of-covid19
 categories:
   - Project Summer 2020-2
 tags:
   - Summer 2020-2
+  - COVID-19
+  - Twitter
+  - NLP
+  - R
+  - Python
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1589930587/social_media_ys4l9d.png
 ---
-The question we ask is whether online echo-chambers on social media networks enhance the anxiety and depression of individuals during the COVID19 outbreak. More specifically we want to measure the intensity of the communication about COVID19 within the echo-chamber of individuals on Twitter and investigate the impact on their subsequent tweets in terms of the level of anxiety and signs of depressive language in their Tweets.  We measure echo-chambers by the number of users in the social network that tweeted about COVID19. We build on an extensive dataset of Twitter users for whom we have identified a large number of demographic and geographic variables (such as the gender, age, ethnicity, location by state, political affiliation) as well as their social network.
+The question we ask is whether online echo-chambers on social media networks enhance the anxiety and depression of individuals during the COVID19 outbreak. More specifically we want to measure the intensity of the communication about COVID-19 within the echo-chamber of individuals on Twitter and investigate the impact on their subsequent tweets in terms of the level of anxiety and signs of depressive language in their Tweets.  We measure echo-chambers by the number of users in the social network that tweeted about COVID-19. We build on an extensive dataset of Twitter users for whom we have identified a large number of demographic and geographic variables (such as the gender, age, ethnicity, location by state, political affiliation) as well as their social network.
 
 <!--more-->
 
@@ -41,7 +46,6 @@ One selected candidate may receive a stipend via the DSI Scholars program. Amoun
 + Skills required: 
   -	Ability to access unstructured (textual data)
   -	NLP and other text mining skills. 
-  -	Running statistical analyses (e.g., regression, logit, random effect  models in R or 
-          Python)
+  -	Running statistical analyses (e.g., regression, logit, random effect models in R or Python)
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, master's
 
