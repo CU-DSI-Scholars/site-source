@@ -13,7 +13,7 @@ tags:
   - COVID
   - Tentative
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1590010252/nyc_parks_i6bv0a.png
 ---
 During the period 2017-2019 the Earth Institute Urban Design Lab (UDL) in collaboration with  Data Science faculty and students was engaged in a studio of Twitter-based sentiment analysis that explored correlation of indicators of “well-being” within New York City parks in comparison with outside, published as ["Twitter sentiment in New York City parks as measure of well-being"](<https://www.sciencedirect.com/science/article/pii/S0169204618305863>) in Landscape and Urban Planning Volume 189, September 2019, Pages 235-246.
 
