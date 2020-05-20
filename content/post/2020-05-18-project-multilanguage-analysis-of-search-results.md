@@ -10,7 +10,7 @@ tags:
   - Multilanguage
   - Tentative
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1590008829/search_engine_touf0e.png
 ---
 The talent students will be given search entries, topics, or terms and will be required to analyze the algorithms of search results across various engines, languages. More information and details upon request.
 
