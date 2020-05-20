@@ -9,7 +9,7 @@ tags:
   - Python
   - Machine learning
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1589993631/phishing_t538ws.png
 ---
  
 Targeted phishing is one of the most common and damaging cybersecurity attacks, incurring tens of billions of dollars in losses a year. In order to increase the success of the phishing emails, attackers often craft emails that impersonate real people or legitimate online services, and send them from networks and hosting sites that have a high reputation. This leads major email security services, including Outlook and Gmail, to often misclassify these emails as legitimate.

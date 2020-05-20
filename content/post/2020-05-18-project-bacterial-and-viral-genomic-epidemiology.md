@@ -11,7 +11,7 @@ tags:
   - Population genetics
   - Summer 2020-2
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579389866/chromosomes_s30ivl.png
 ---
 Bacterial and viral genomic epidemiology. Ongoing and new projects.
 
