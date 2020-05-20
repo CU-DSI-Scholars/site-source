@@ -44,5 +44,5 @@ One selected candidate may receive a stipend via the DSI Scholars program. Amoun
 ## Candidate requirements
 + Skills required: Spark, experience working with large-scale datasets, networking background, basic machine learning
 + Additional domain knowledge: Python programming experience, basic Linux experience
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, master's
++ Student eligibility: freshman, sophomore, junior, senior, master's
 
