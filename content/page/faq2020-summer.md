@@ -14,7 +14,7 @@ showActions:    false
 
 + **Question:** I am living remotely and have restricted availability during the workday in the U.S. Eastern time zone. Can I still apply?
 
-    *Answer*: Most faculty are understanding of the difficulties of relocation and quarantine endured during COVID-19. The ability to participate on individual projects will vary by faculty with respect to the nature of the project and whether or not there are limitations with accessing research data. Our suggestion would be to indicate your location and availability for on-line communication.
+    *Answer*: Most faculty are understanding of the difficulties of relocation and quarantine endured during COVID-19. The ability to participate on individual projects will vary by faculty with respect to the nature of the project and whether or not there are limitations with accessing research data. Our suggestion would be to indicate your location and availability for online communication.
 
 + **Question:** With only one application form, how do I express interest in more than one project?
 
@@ -23,6 +23,10 @@ showActions:    false
 + **Question:** I recently graduated in May, 2020. Am I still eligible for the program?
 
     *Answer*: Unfortunately, this program is oriented towards current students.
+
++ **Question:** How long will the internship last?
+
+    *Answer*: The duration of each project is listed on the project's page. Some projects may be looking for a long-term commitment. If you are selected to be interviewed by a faculty sponsor, you are encouraged to discuss the particulars of the scope of work and anticipated timeline involved.
 
 + **Question:** Is there still space to host interns for this program?  I have a student researcher in my lab who was interested in participating.
 
