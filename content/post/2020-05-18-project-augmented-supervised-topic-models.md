@@ -1,7 +1,7 @@
 ---
-title: 'Advanced Supervised Topic Models'
+title: 'Augmented Supervised Topic Models'
 date: '2020-05-18'
-slug: project-advanced-supervised-topic-models
+slug: project-augmented-supervised-topic-models
 categories:
   - Project Summer 2020-2
 tags:
