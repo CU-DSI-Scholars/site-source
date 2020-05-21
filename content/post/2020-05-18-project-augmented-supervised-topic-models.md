@@ -13,7 +13,7 @@ tags:
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1589993115/textmining_dvxgpk.png
 ---
-In this project we'll be expending on existing family of supervised topic models. These models extend LDA to document collections where for each document we observe additional labels or values of interest. More specifically, one of the goals of this project, is to use additional document level data, such as author information, to develop better exploratory data tools.
+In this project we'll be expanding on the existing family of supervised topic models. These models extend LDA to document collections where, for each document, we observe additional labels or values of interest. More specifically, one of the goals of this project is to use additional document level data, such as author information, to develop better exploratory data tools.
 
 <!--more-->
 
@@ -39,7 +39,11 @@ One selected candidate may receive a stipend via the DSI Scholars program. Amoun
 + Duration: Summer period: June-August
 
 ## Candidate requirements
-+ Skills required: Programming experiences with Python. We are seeking student/s that have prior exposure to machine learning and natural language processing either through a course and/or research project. Ideal candidate would have prior working experience with topic models. Experience working with large datasets is a definite plus.
++ Skills required:
+  - Programming experiences with Python.
+  - We are seeking student/s that have prior exposure to machine learning and natural language processing either through a course and/or research project.
+  - Ideal candidate would have prior working experience with topic models.
+  - Experience working with large datasets is a definite plus.
 + Additional domain knowledge: NLP, ML, probabilistic modeling (ideally)
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, master's
 
