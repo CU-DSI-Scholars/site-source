@@ -28,6 +28,10 @@ showActions:    false
 
     *Answer*: The duration of each project is listed on the project's page. Some projects may be looking for a long-term commitment. If you are selected to be interviewed by a faculty sponsor, you are encouraged to discuss the particulars of the scope of work and anticipated timeline involved.
 
++ **Question:** Do projects come with a stipend, and if not are they available for credit?
+
+    *Answer*: The funding status of each project is listed on the project's page. If you are selected to be interviewed by a faculty sponsor, you are encouraged to discuss the particulars of funding at that time. Course credit is a possibility, but depends on your academic program and department. Contact your department's academic affairs administrator to see if a project is eligible.
+
 + **Question:** Is there still space to host interns for this program?  I have a student researcher in my lab who was interested in participating.
 
     *Answer*: The distribution of matching funds has ended. However, we will be happy to host your student researcher in our learning activities as a DSI Scholar for the Summer.
