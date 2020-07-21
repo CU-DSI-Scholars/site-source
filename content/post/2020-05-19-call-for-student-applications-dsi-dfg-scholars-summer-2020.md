@@ -21,6 +21,11 @@ The goal of the DSI Scholars Program is to engage Columbia University's undergra
 The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As "real world" problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.
 
 <!--more-->
+
+{{< alert info >}}
+Update 07/21/2020: the application period has ended. Subscribe to [this](https://lists.columbia.edu/mailman/listinfo/dsi-2020summerresearch) mailing list to hear about opportunities before the fall semester. Original posting appears unedited below.
+{{< /alert >}}
+
 The second cohort of [Summer](https://cu-dsi-scholars.github.io/DSI-scholars/categories/project-summer-2020-2/) 2020 projects are ready to accept applications, and can be seen by clicking through that link. To obtain a scroll of all projects, including those from past years, see [here](https://cu-dsi-scholars.github.io/DSI-scholars). We have created an [**umbrella application page**](https://docs.google.com/forms/d/e/1FAIpQLSes_cVwnwiy1L4yk8ppmeVK8RzgGLBW8Z7FF8PNFw9_A9fnOA/viewform?usp=sf_link) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
 
 {{< alert info >}}
