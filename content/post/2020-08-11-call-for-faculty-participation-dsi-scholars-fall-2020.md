@@ -1,8 +1,8 @@
 ---
-title: Call for Faculty Participation --- DSI Scholars Spring-Summer 2020
+title: Call for Faculty Participation --- DSI Scholars Fall 2020
 author: Tian Zheng, Vincent Dorie
 date: '2020-08-11'
-slug: call-for-faculty-participation-dsi-scholars-spring-summer-2020
+slug: call-for-faculty-participation-dsi-scholars-fall-2020
 categories:
   - Announcement
 tags:
@@ -17,7 +17,7 @@ coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-schol
 metaAlignment: center
 ---
 
-### Call for Faculty Participation. December 2019.
+### Call for Faculty Participation. September 2020.
 
 The Data Science Institute is calling for faculty submissions of research projects for the Fall 2020 session of Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 42 projects and received more than 730 unique applications from Columbia Students. The program’s unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSfqjr-kQUTyYnVOZRMqK_i8E4oAvJLFnYsHLBHkNXfvKPYuAw/viewform?usp=sf_link).
 
