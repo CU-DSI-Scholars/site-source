@@ -7,8 +7,7 @@ categories:
   - Announcement
 tags:
   - Info
-  - Spring 2020
-  - Summer 2020
+  - Fall 2020
   
 autoThumbnailImage: no
 thumbnailImagePosition: top
