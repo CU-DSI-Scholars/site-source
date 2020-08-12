@@ -55,5 +55,5 @@ Key dates:
     + [Faculty -> Student] Faculty sends an email offer of the internship to the selected student(s).
     + [Faculty -> DSI] Information on selected Scholars due to DSI for inclusion in fall stipend.
 
-Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq_fall_2020/), or register for an info session on August 24th ([9:00am]((https://columbiauniversity.zoom.us/meeting/register/tJcpf--orDssGtRpENU9XU_PlN1GNh32r2jL)), [3:00pm](https://columbiauniversity.zoom.us/meeting/register/tJMqduyopzkrE90Z9Z10SQuPFMeAqmR0dXkH)).
+Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq_fall_2020/), or register for an info session on August 24th ([9:00am](https://columbiauniversity.zoom.us/meeting/register/tJcpf--orDssGtRpENU9XU_PlN1GNh32r2jL), [3:00pm](https://columbiauniversity.zoom.us/meeting/register/tJMqduyopzkrE90Z9Z10SQuPFMeAqmR0dXkH)).
 
