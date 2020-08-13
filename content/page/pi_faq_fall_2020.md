@@ -28,9 +28,13 @@ showActions:    false
 
     *Answer*: Yes. We are happy to provide match-making services to as many projects as possible. Selected students will still be eligible for educational support activities.
 
++ **Question:** I don't have any funds of my own. Can I still participate?
+
+    *Answer*: You can still recruit students through the program, but your project will not be eligible for matching funds. It is possible to structure your project as an unpaid internship, however it is important to abide by federal and state regulations. The ISSO maintains a valuable [overview](https://isso.columbia.edu/content/unpaid-internships-and-volunteering) of these regulations as they apply to all students. Projects focused on the social good may also seek volunteers through our Data For Good program. Please contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu) for further information.
+
 + **Question:** I'm not sure that my project is a good fit for the program. Are there any other options?
 
-    *Answer*: Yes. The DSI maintains a number of programs that can connect you with student or faculty resources. Please submit your project through [Campus Connections](https://www.datascience.columbia.edu/connections), or contact us at dsi-scholars@columbia.edu.
+    *Answer*: Yes. The DSI maintains a number of programs that can connect you with student or faculty resources. Please submit your project through [Campus Connections](https://www.datascience.columbia.edu/connections), or contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu).
 
 + **Question:** Can I select more than one student?
 
@@ -38,13 +42,13 @@ showActions:    false
 
 + **Question:** I missed the deadline to apply, can I still participate?
 
-    *Answer*: Yes. If there is still is time, we will add your project to our umbrella application process. If there is not time, the DSI maintains a number of ways to help you recruit students and we would be happy to help. In either case, please submit your project through [Campus Connections](https://www.datascience.columbia.edu/connections).
+    *Answer*: Yes. If there is still is time, we will add your project to the umbrella application. If there is not time, the DSI maintains a number of ways to help you recruit students. In either case, please submit your project through [Campus Connections](https://www.datascience.columbia.edu/connections).
 
 + **Question:** Will there be another call in the Spring?
 
     *Answer*: Yes, we will repeat this process in December/January.
 
-+ **Question:** My project was selected for a matching fund, but I missed the deadline to submit a student. Is my project still eligible for support?
++ **Question:** My project was selected for a matching fund, but I missed the term deadline to submit a student. Is my project still eligible for support?
 
     *Answer*: Yes. However, as we issue stipends only once per term, there may be some delay in arranging a payment to your student. Please note that graduating students are only eligible for stipends so long as they are currently enrolled at the time the stipend request is made with the Student Financial Services office.
 
