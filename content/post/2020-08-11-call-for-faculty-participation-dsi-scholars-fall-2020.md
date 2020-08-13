@@ -33,7 +33,7 @@ The Data Science Institute is calling for faculty submissions of research projec
     + Scholars in Data Science meetup series - Throughout this series, we will provide Scholars opportunities to learn about data science research outside their own project and a community of peer student researchers. Each session will be led by a data scientist at Columbia and will consist of a 45-minute seminar talk and a 45-minute hands-on activity.
     + Annual Research Poster Session: All DSI Scholars (receiving matching funds or not) will be invited to present their research during a DSI poster session at DSI Town Hall in the fall 2020 semester.
 
-Questions? See our [FAQ](https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq_fall_2020/)! In addition, we will be holding two information sessions on the DSI Scholars program and other Data Science Institute resources for connecting faculty to data science expertise. Both sessions will be held on August 24th. The first will be at 9:00am (register [here](https://columbiauniversity.zoom.us/meeting/register/tJcpf--orDssGtRpENU9XU_PlN1GNh32r2jL)), and the second will be at 4:00pm (register [here](https://columbiauniversity.zoom.us/meeting/register/tJMqduyopzkrE90Z9Z10SQuPFMeAqmR0dXkH)). You can also contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu).
+Questions? See our [FAQ](/page/pi_faq_fall_2020/)! In addition, we will be holding two information sessions on the DSI Scholars program and other Data Science Institute resources for connecting faculty to data science expertise. Both sessions will be held on August 24th. The first will be at 9:00am (register [here](https://columbiauniversity.zoom.us/meeting/register/tJcpf--orDssGtRpENU9XU_PlN1GNh32r2jL)), and the second will be at 4:00pm (register [here](https://columbiauniversity.zoom.us/meeting/register/tJMqduyopzkrE90Z9Z10SQuPFMeAqmR0dXkH)). You can also contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu).
 
 The Data Science Institute encourages women and underrepresented minorities to apply to this program.
 
@@ -55,5 +55,5 @@ Key dates:
     + [Faculty -> Student] Faculty sends an email offer of the internship to the selected student(s).
     + [Faculty -> DSI] Information on selected Scholars due to DSI for inclusion in fall stipend.
 
-Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq_fall_2020/), or register for an info session on August 24th ([9:00am](https://columbiauniversity.zoom.us/meeting/register/tJcpf--orDssGtRpENU9XU_PlN1GNh32r2jL), [3:00pm](https://columbiauniversity.zoom.us/meeting/register/tJMqduyopzkrE90Z9Z10SQuPFMeAqmR0dXkH)).
+Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](/page/pi_faq_fall_2020/), or register for an info session on August 24th ([9:00am](https://columbiauniversity.zoom.us/meeting/register/tJcpf--orDssGtRpENU9XU_PlN1GNh32r2jL), [3:00pm](https://columbiauniversity.zoom.us/meeting/register/tJMqduyopzkrE90Z9Z10SQuPFMeAqmR0dXkH)).
 
