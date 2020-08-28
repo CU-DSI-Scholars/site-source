@@ -34,7 +34,7 @@ showActions:    false
 
 + **Question:** I'm not sure that my project is a good fit for the program. Are there any other options?
 
-    *Answer*: Yes. The DSI maintains a number of programs that can connect you with student or faculty resources. Please submit your project through [Campus Connections](https://www.datascience.columbia.edu/connections), or contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu). Please see [here](page/dsi_programs) for hihg-level overview of DSI programs.
+    *Answer*: Yes. The DSI maintains a number of programs that can connect you with student or faculty resources. Please submit your project through [Campus Connections](https://www.datascience.columbia.edu/connections), or contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu). Please see [here](/page/dsi_programs) for high-level overview of DSI programs.
 
 + **Question:** Can I select more than one student?
 
