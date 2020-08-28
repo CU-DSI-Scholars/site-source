@@ -1,7 +1,7 @@
 ---
 title: PI Frequently Asked Questions
 author: Tian Zheng and Vincent Dorie
-date: '2020-10-10'
+date: '2020-08-10'
 slug: pi_faq_fall_2020
 categories:
   - info
