@@ -1,7 +1,7 @@
 ---
 title: Call for Student Applications - Fall 2020
 author: Tian Zheng and Vincent Dorie
-date: '2020-08-09'
+date: '2020-09-09'
 slug: call-for-student-applications-dsi-scholars-fall-2020
 categories:
   - Announcement
@@ -20,7 +20,7 @@ The goal of the DSI Scholars Program is to engage Columbia University's undergra
 The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As "real world" problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.
 
 <!--more-->
-The cohort of [Fall](https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-project-fall-2020/) 2020 projects are ready to accept applications, and can be seen by clicking through the above links. To obtain a scroll of all projects, including those from past years, see [here](https://cu-dsi-scholars.github.io/DSI-scholars). We have created an [**umbrella application page**](https://docs.google.com/forms/d/e/1FAIpQLSe3Rxxf9PVZ5IbuRoyy5slMz7kcC9-4ILWPPnyyWNV6nacppg/viewform?usp=sf_link) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
+The cohort of [Fall](https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-project-fall-2020/) 2020 projects are ready to accept applications, and can be seen by clicking through the above link. To obtain a scroll of all projects, including those from past years, see [here](https://cu-dsi-scholars.github.io/DSI-scholars). We have created an [**umbrella application page**](https://docs.google.com/forms/d/e/1FAIpQLSe3Rxxf9PVZ5IbuRoyy5slMz7kcC9-4ILWPPnyyWNV6nacppg/viewform?usp=sf_link) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
 
 {{< alert info >}}
 Click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSe3Rxxf9PVZ5IbuRoyy5slMz7kcC9-4ILWPPnyyWNV6nacppg/viewform?usp=sf_link) to access the umbrella application page. 

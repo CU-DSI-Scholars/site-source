@@ -2,8 +2,10 @@
 title: 'Measuring Liberal Arts: Creating an Index for Higher Education'
 date: '2020-09-08'
 slug: project-measuring-liberal-arts-creating-an-index-for-higher-education
-categories: Open Projects Fall 2020
-tags: - Fall 2020
+categories:
+  - Open Projects Fall 2020
+tags:
+  - Fall 2020
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
 ---

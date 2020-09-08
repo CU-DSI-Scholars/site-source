@@ -2,8 +2,12 @@
 title: 'Data For Good: Improving observed and modeled air pollution data quality over sub-Saharan Africa using machine learning'
 date: '2020-09-08'
 slug: project-dfg-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning
-categories: Open Projects Fall 2020
-tags: - Fall 2020, DFG
+categories:
+  - Open Projects Fall 2020
+  - Data For Good
+tags:
+  - Fall 2020
+  - Data For Good
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
 ---

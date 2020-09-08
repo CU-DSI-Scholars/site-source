@@ -2,8 +2,10 @@
 title: 'Deconvolution methods for detecting spatial contamination in microbiome samples'
 date: '2020-09-08'
 slug: project-deconvolution-methods-for-detecting-spatial-contamination-in-microbiome-samples
-categories: Open Projects Fall 2020
-tags: - Fall 2020
+categories:
+  - Open Projects Fall 2020
+tags:
+  - Fall 2020
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
 ---
@@ -11,7 +13,8 @@ Complex microbiomes play an important role in numerous fields. One critical chal
 
 <!--more-->
 
-We recently developed a scalable deconvolution algorithm (FEAST; https://www.nature.com/articles/s41592-019-0431-x) that unveils the latent structure of a given microbiome by modeling it as a convex combination of potential observed and unobserved source samples. While FEAST estimates the contribution of various contamination sources to each biological sample, it does not utilize the fact that different biological samples share the same contamination sources, nor their spatial positioning.
+We recently developed a scalable deconvolution algorithm ([FEAST](https://www.nature.com/articles/s41592-019-0431-x)) that unveils the latent structure of a given microbiome by modeling it as a convex combination of potential observed and unobserved source samples. While FEAST estimates the contribution of various contamination sources to each biological sample, it does not utilize the fact that different biological samples share the same contamination sources, nor their spatial positioning.
+
 In this project, we will extend FEAST to incorporate the spatial structure of the plate used for DNA sequencing to account for sources of contamination. This will allow us to detect currently undetectable contamination that might skew the results of microbiome studies. We will validate our method on simulated and biological data. 
 
 {{< alert success >}}

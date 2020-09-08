@@ -2,8 +2,12 @@
 title: 'Data For Good: Food Insecurity, Obesity, and COVID-19'
 date: '2020-09-08'
 slug: project-dfg-food-insecurity-obesity-and-covid-19
-categories: Open Projects Fall 2020
-tags: - Fall 2020, DFG
+categories:
+  - Open Projects Fall 2020
+  - Data For Good
+tags:
+  - Fall 2020
+  - Data For Good
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
 ---
