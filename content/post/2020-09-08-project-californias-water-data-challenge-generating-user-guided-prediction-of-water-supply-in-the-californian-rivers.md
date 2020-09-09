@@ -19,12 +19,13 @@ This is an UNPAID research project.
 
 ## Faculty Advisor
 + Professor: [Indrani Pal](https://www.earth.columbia.edu/users/profile/indrani-pal)
++ Advisor: Xiuyang Guan
 + Department/School: The Earth Institute
 + [https://scholar.google.com/citations?user=8veyPUEAAAAJ&hl=en](https://scholar.google.com/citations?user=8veyPUEAAAAJ&hl=en)
 
 ## Project Timeline
 + Earliest starting date: 9/8/2020
-+ End date: 11/30/2020
++ End date: 11/30/2020, option to continue through spring
 + Number of hours per week of research expected during Fall 2020: ~10
 
 ## Candidate requirements
