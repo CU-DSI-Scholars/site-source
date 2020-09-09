@@ -20,7 +20,10 @@ The goal of the DSI Scholars Program is to engage Columbia University's undergra
 The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As "real world" problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.
 
 <!--more-->
+
 The cohort of [Fall](https://cu-dsi-scholars.github.io/DSI-scholars/categories/open-project-fall-2020/) 2020 projects are ready to accept applications, and can be seen by clicking through the above link. To obtain a scroll of all projects, including those from past years, see [here](https://cu-dsi-scholars.github.io/DSI-scholars). We have created an [**umbrella application page**](https://docs.google.com/forms/d/e/1FAIpQLSe3Rxxf9PVZ5IbuRoyy5slMz7kcC9-4ILWPPnyyWNV6nacppg/viewform?usp=sf_link) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
+
+We will be holding an online information session at 11:00am Eastern time on Thursday September 24th, where will address the difference between the programs, what makes for a successful application, and answer frequently asked questions. Register [here](https://columbiauniversity.zoom.us/meeting/register/tJIlf-muqzMtEtZOPVAXBFgSpuY6RqwEKO0g). After the session, the recording will be posted on this page.
 
 {{< alert info >}}
 Click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSe3Rxxf9PVZ5IbuRoyy5slMz7kcC9-4ILWPPnyyWNV6nacppg/viewform?usp=sf_link) to access the umbrella application page. 
@@ -39,8 +42,8 @@ The following timetable is subject to adjustments.
 + October 23rd, 2020 (expected)
     + [Faculty -> Student] Email offers of the internship will be sent to students.
         
+
 {{< alert info>}}
-Click [here](/page/faq2020) for a list of frequently asked questions. We will be constantly updating this list based on inquries we receive.  
+Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](/page/faq_fall_2020/), or [register](https://columbiauniversity.zoom.us/meeting/register/tJIlf-muqzMtEtZOPVAXBFgSpuY6RqwEKO0g) for the information session at 11:00am Eastern time on September 24th.
 {{< /alert >}}
 
-Please email questions to <dsi-scholars@columbia.edu>.
