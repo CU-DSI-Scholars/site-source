@@ -14,7 +14,7 @@ A highly collaborative project is available in Dr. Alison Taylor’s and Dr. Fat
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+The project has both paid and unpaid options available. Determination will be made by the principal investigators.
 {{< /alert >}}
 
 ## Faculty Advisor

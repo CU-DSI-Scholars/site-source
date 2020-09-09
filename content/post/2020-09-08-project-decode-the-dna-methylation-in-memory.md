@@ -19,6 +19,7 @@ This is an UNPAID research project.
 
 ## Faculty Advisor
 + Professor: [Shawn Liu](https://epibrain.info)
++ Lab: https://epibrain.info
 + Department/School: Physiology and Cellular Biophysics/Columbia University Medical Center
 + Location: Russ Berrie, Room 403
 + Our lab focus on the role of epigenomics in brain function and disorders
