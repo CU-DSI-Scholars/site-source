@@ -18,7 +18,7 @@ We recently developed a scalable deconvolution algorithm ([FEAST](https://www.na
 In this project, we will extend FEAST to incorporate the spatial structure of the plate used for DNA sequencing to account for sources of contamination. This will allow us to detect currently undetectable contamination that might skew the results of microbiome studies. We will validate our method on simulated and biological data. 
 
 {{< alert success >}}
-This is an UNPAID research project.
+This project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

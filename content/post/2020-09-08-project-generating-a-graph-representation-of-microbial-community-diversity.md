@@ -16,7 +16,7 @@ Understanding the interaction between human-associated microbial communities and
 Current methods for characterizing microbiome genetic variation either rely on known reference genome sequences, which limits sensitivity, or use approaches that are reference-free but are highly sensitive to noise and fail to model highly variable regions. We will develop a graphical representation better at encoding genomic variation in its topology. We have preliminary work adapting a previous method for genome assembly in the context of high error rate (Kolmogoroc et al., 2019) to represent microbiome DNA sequencing data; hence, you will not have a cold start on this project. The project goals will be to characterize, design and implement a suitable graph representation that is space and time efficient, utilizing our existing code-base. A successful project will enable large-scale profiling of microbiome genomic variability, which we expect to lead to an exciting publication. 
 
 {{< alert success >}}
-This is an UNPAID research project.
+This project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
