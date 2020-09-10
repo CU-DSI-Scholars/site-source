@@ -11,7 +11,7 @@ tags:
   - Sequencing data
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569958426/microbiome_kw1dh4.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599758219/multiple_bacteria_l6rzi2.png
 ---
 Understanding the interaction between human-associated microbial communities and human health is expected to revolutionize healthcare. Recent work found that this interaction is, in part, shaped by genetic differences between otherwise identical species in the microbiome. Detecting this variation, however, is a significant challenge. This project aims to profile microbial genetic variation within and across multiple patients' microbiomes. This will allow us to better compare and interpret this variation in the context of human disease, gaining mechanistic insight into complex human-microbiome interactions. 
 

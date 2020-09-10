@@ -5,11 +5,15 @@ slug: project-using-machine-learning-to-understand-tropical-cyclone-genesis-path
 categories:
   - Open Projects Fall 2020
 tags:
+  - Python
+  - Matlab
+  - Machine learning
+  - Climate
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599759285/hurricane_sgi9su.png
 ---
-Until today there is no comprehensive theory for formation of tropical cyclones (hurricanes, typhoons). Therefore, it is common to use statistical methods to derive  empirical indices as proxies for the probability for genesis. There are also different types of genesis pathways that have been explored in ad-hoc manner. I would like to explore the possibility of using machine learning to explore tropical cyclone genesis, in particular the different pathways in a more comprehensive manner. 
+Until today there is no comprehensive theory for formation of tropical cyclones (hurricanes, typhoons). Therefore, it is common to use statistical methods to derive empirical indices as proxies for the probability for genesis. There are also different types of genesis pathways that have been explored in ad-hoc manner. I would like to explore the possibility of using machine learning to explore tropical cyclone genesis, in particular the different pathways in a more comprehensive manner. 
 
 <!--more-->
 
