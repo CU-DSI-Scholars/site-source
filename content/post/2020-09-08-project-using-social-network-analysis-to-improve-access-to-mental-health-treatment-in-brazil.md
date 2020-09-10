@@ -7,8 +7,8 @@ categories:
 tags:
   - Social media
   - Network analysis
+  - R
   - Statistics
-  - Machine learning
   - Fall 2020
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599765419/social_network_bskhfi.png
@@ -18,8 +18,6 @@ The proposed project would focus on analyzing quantitative data from a 4 year NI
 <!--more-->
 
 Using repeat receptivity assessment following the pilot the student(s) will help to explore the central hypothesis of whether any observed changes in receptivity between baseline and year 3 can be attributed to the higher connectivity of individuals from the pilot sites. Time and interest permitting, students will also have the opportunity to participate in numerous sub-analyses of these data, including the triangulation of these quantitative data with longitudinal qualitative data in mixed-methods analyses.
-
-We are developing machine learning (ML) methods to understand how people influence each others' behavior in social networks. For example, on Twitter, do users influence the content shared or posted by their followers? Methods that can identify such patterns of influence will play a role in studying, e.g., the spread of misinformation on social media sites.
 
 {{< alert info >}}
 This is an UNPAID research project.
@@ -39,6 +37,7 @@ This is an UNPAID research project.
 ## Candidate requirements
 + Skill sets: 
   - Social network statistical analysis and software (e.g. UCINET and NetDraw or equivalent)
+  - R
   - Data versioning and management
   - Data cleaning
   - Combining data sources
