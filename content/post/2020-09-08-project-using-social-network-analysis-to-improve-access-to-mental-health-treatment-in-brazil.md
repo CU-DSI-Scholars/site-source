@@ -36,8 +36,7 @@ This is an UNPAID research project.
 
 ## Candidate requirements
 + Skill sets: 
-  - Social network statistical analysis and software (e.g. UCINET and NetDraw or equivalent)
-  - R
+  - Social network statistical analysis and software (e.g. UCINET, NetDraw, R or equivalent)
   - Data versioning and management
   - Data cleaning
   - Combining data sources
