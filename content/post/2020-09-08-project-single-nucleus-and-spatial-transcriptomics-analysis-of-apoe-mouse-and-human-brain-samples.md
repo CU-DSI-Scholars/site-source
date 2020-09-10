@@ -3,7 +3,7 @@ title: 'Single-nucleus and spatial transcriptomics analysis of APOE mouse and hu
 date: '2020-09-08'
 slug: project-single-nucleus-and-spatial-transcriptomics-analysis-of-apoe-mouse-and-human-brain-samples
 categories:
-  - Closed Projects Fall 2020
+  - Open Projects Fall 2020
 tags:
   - R
   - Python
