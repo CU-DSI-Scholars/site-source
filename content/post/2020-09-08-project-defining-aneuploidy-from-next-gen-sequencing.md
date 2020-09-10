@@ -8,7 +8,7 @@ tags:
   - R
   - Python
   - Unix-Linux
-  - Sequencing data
+  - Sequence data
   - Fall 2020
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579389866/chromosomes_s30ivl.png

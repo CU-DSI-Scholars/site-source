@@ -5,7 +5,7 @@ slug: project-identify-molecular-signiture-of-head-and-neck-cancer-in-minority-p
 categories:
   - Open Projects Fall 2020
 tags:
-  - Sequencing data
+  - Sequence data
   - Cancer
   - Fall 2020
 thumbnailImagePosition: left

@@ -8,7 +8,7 @@ tags:
   - Unix-Linux
   - C++
   - Python
-  - Sequencing data
+  - Sequence data
   - Fall 2020
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599758219/multiple_bacteria_l6rzi2.png
