@@ -18,7 +18,7 @@ We are conducting a large-scale study analyzing brain tissues from mice and huma
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+The project has both paid and unpaid options available. Determination will be made by the principal investigator.
 {{< /alert >}}
 
 ## Faculty Advisor

@@ -21,7 +21,7 @@ The project has both paid and unpaid options available. Determination will be ma
 
 ## Faculty Advisor
 + Professor: [Fatemeh Momen-Heravi](http://www.heravilab.com/)
-+ Department/School: Herberrt Irving Comprehensive Cancer Center
++ Department/School: Herbert Irving Comprehensive Cancer Center
 + Location: Columbia University Irving Medical Center
 + We strive to combine molecular biology methods, bioinformatic approaches, and translational research in their effort to understand underlying signaling events and tumor vulnerabilities to treat head and neck cancer and lung cancer.
 
