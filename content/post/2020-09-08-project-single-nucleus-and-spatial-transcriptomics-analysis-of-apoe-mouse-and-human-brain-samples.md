@@ -11,7 +11,7 @@ tags:
   - Omics
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1599758742/rna_maybe_txakuo.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1599765419/social_network_bskhfi.png
 ---
 We are conducting a large-scale study analyzing brain tissues from mice and humans with different APOE genotypes, using both single-nucleus sequencing and spatial transcriptomics to assess RNA expression differences caused by APOE genotype. We are working with an expert bioinformatics core, but would like a data science student to help perform the analyses and act as an in-lab lead for the bioinformatics analysis. Prior experience analyzing RNA-sequencing data is preferred, but not required.
 
