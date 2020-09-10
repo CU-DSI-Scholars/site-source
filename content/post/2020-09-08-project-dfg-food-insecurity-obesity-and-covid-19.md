@@ -7,9 +7,13 @@ categories:
   - Data For Good
 tags:
   - Fall 2020
+  - Databases
+  - Missing data
+  - SAS
+  - R
   - Data For Good
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599749329/groceries_zafmkg.png
 ---
 New York Presbyterian/Columbia University Irving Medical Center (NYP/CUIMC) serves a high number of racial/ethnic minority and low-income patients. In this project, we will create a data repository of all patients who have completed a universal screen in a clinical encounter for social determinants of health, including food insecurity. The scholar will handle large datasets extracted from the medical record for database creation and data visualizations. The dataset will include patient demographics, food security, and clinical outcomes. This data resource will allow the scholar to partner with researchers to examine predictors of food insecurity, clinical courses, and health outcomes among a large population of patients, including a time period prior to the COVID-19 surge in New York City.  The project will be co-mentored through the members of the University-wide Food Systems Network, a novel collaboration of researchers at the Medical Center, Earth Institute, SIPA, and Teacher's College.
 

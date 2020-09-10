@@ -5,9 +5,13 @@ slug: project-data-driven-approaches-to-finding-undiagnosed-hs-patients-in-ehr
 categories:
   - Open Projects Fall 2020
 tags:
+  - Deep learning
+  - Unsupervised learning
+  - EHR
+  - Longitudinal data
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579391482/ehr_e3c8ij.png
 ---
 Electronic Health Records (EHR) provide a rich integrated source of phenotypic information that allow for automated extraction and recognition of phenotypes from EHR narratives and provide an efficient framework for conducting epidemiological and clinical studies.  In addition, when EHR are linked to genetic data in electronic biorepositories such as eMERGE and All of US, phenotype information embedded in EHR can be used to efficiently construct cohorts powered for genetic discoveries. However, limitations arise from repurposing data generated from healthcare processes for research, which can include data sparseness, low quality data and diagnostic errors. Phenotyping algorithms are developed to overcome these limitations providing a robust means to assess case status.
 
@@ -34,10 +38,8 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 
 ## Candidate requirements
 + Skill sets: 
-  Experience in the application of unsupervised machine learning and deep learning algorithms (both temporal and non-temporal); and with experience interpreting and visualizing results of these models. Experience leveraging these algorithms towards health care datasets, is preferable but not necessary. As with many healthcare models, interpretability is key, so interest in methods that explain why a model makes a certain choice is great.
-  
-  This project will require investigation of various methodologies to identify the best methodologies for our specific problem area and dataset.  Therefore, feeling comfortable with reading research papers and applying their contents is a must. 
-  
+  - Experience in the application of unsupervised machine learning and deep learning algorithms (both temporal and non-temporal); and with experience interpreting and visualizing results of these models. Experience leveraging these algorithms towards health care datasets, is preferable but not necessary. As with many healthcare models, interpretability is key, so interest in methods that explain why a model makes a certain choice is great.
+  - This project will require investigation of various methodologies to identify the best methodologies for our specific problem area and dataset.  Therefore, feeling comfortable with reading research papers and applying their contents is a must.
 + Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes

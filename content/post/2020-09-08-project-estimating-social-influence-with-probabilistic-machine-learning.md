@@ -5,9 +5,13 @@ slug: project-estimating-social-influence-with-probabilistic-machine-learning
 categories:
   - Closed Projects Fall 2020
 tags:
+  - Social media
+  - Machine learning
+  - Causal inference
+  - Approximate Bayesian inference
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1589930587/social_media_ys4l9d.png
 ---
 We are developing machine learning (ML) methods to understand how people influence each others’ behavior in social networks. For example, on Twitter, do users influence the content shared or posted by their followers? Methods that can identify such patterns of influence will play a role in studying, e.g., the spread of misinformation on social media sites. 
 

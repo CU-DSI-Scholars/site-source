@@ -5,9 +5,13 @@ slug: project-biomarker-discovery-for-cancer-immunotherapy
 categories:
   - Open Projects Fall 2020
 tags: 
+  - Excel
+  - Bioinformatics
+  - Cancer
+  - Sequencing data
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599745831/leukaemia_gg2udw.png
 ---
 Immune checkpoint blockade therapy has shown successful clinical outcomes in the treatment of  various solid tumors such as head and neck squamous cell carcinoma (HNSCC), melanoma, non-small cell lung cancer (NSCLC) and others. However, immune checkpoint inhibitors work best in patients who exhibit certain tumor biomarkers. In a collaboration with the Department of Hematology Oncology, the Department of Systems Biology, and the Mailman School of Public Health at Columbia University we aim to identify biomarkers which are associated with treatment outcome in patients with solid tumors who underwent immunotherapy. The project includes bioinformatic analysis of sequencing data. Mentoring and training will be provided.
 

@@ -5,9 +5,13 @@ slug: project-deconvolution-methods-for-detecting-contamination-in-microbiome-sa
 categories:
   - Open Projects Fall 2020
 tags:
+  - R
+  - Latent variable model
+  - Mixture model
+  - Deconvolution
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569958426/microbiome_kw1dh4.png
 ---
 Complex microbial communities play an important role in numerous fields, from human health to bioremediation. One critical challenge in their data analysis is to separate true biological data from contamination of various sources. While contemporary experimental procedures include various negative controls, a comprehensive statistical approach for their analysis has not been developed. Such a framework would have a far-reaching impact on the field.
 

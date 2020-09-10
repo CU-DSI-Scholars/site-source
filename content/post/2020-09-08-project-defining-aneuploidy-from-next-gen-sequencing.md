@@ -5,9 +5,13 @@ slug: project-defining-aneuploidy-from-next-gen-sequencing
 categories:
   - Open Projects Fall 2020
 tags:
+  - R
+  - Python
+  - Unix-Linux
+  - Sequencing data
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579389866/chromosomes_s30ivl.png
 ---
 Our lab is interested in aneuploidy, or the incorrect number of whole chromosomes and chromosome arms. A challenge in this area of research is that karyotypes require a large number of proliferating cells for analysis. To address this, our lab and collaborators developed new algorithms to identify aneuploidy alterations from DNA sequencing data. Here, the project goal is to implement these algorithms at Columbia, and subsequently to apply these analysis methods to samples generated in the lab and patient samples. Building on this, the DSI student may also develop new algorithms for use with single-cell sequencing data and RNA sequencing data. Experience in one or more of the following is a must: UNIX, R, and python. The DSI student will be mentored by Dr. Alison Taylor, and he/she will also work closely with all lab members. 
 

@@ -5,9 +5,15 @@ slug: project-improving-observed-and-modeled-air-pollution-data-quality-over-sub
 categories:
   - Open Projects Fall 2020
 tags:
+  - R
+  - Python
+  - Unix-Linux
+  - Regression
+  - Random forest
+  - Environmental science
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599757101/human_earth_qbosrw.png
 ---
 The goal of the project is twofold: 1) to better understand and further improve the use of low cost air pollution sensors and 2) to analyze and characterize air pollution data in sub-Saharan Africa. Air pollution kills an estimated 700,000 people per year in Africa, but existing air pollution data in Africa is extremely sparse and estimates of the associated mortality are uncertain. Low cost air pollution sensors have the potential to rapidly revolutionize air quality awareness and data availability in data-sparse areas of  the world, including sub-Saharan Africa. However, use of low cost sensors requires careful calibration, performance evaluation, and other quality assurance before the data can be fully trusted to the same degree as regulatory-grade monitors. As part of a larger project led by Dr. Westervelt, fine particulate matter (PM2.5) sensors have already been deployed in several African megacities, including Kinshasa, Democratic Republic of Congo; Nairobi, Kenya; Kampala, Uganda; Accra, Ghana, and Lomé, Togo. In Kampala and Accra, sensors are co-located with a regulatory-grade PM2.5 instrument for several months, allowing for a direct comparison between low cost and regulatory-grade PM2.5 measurements, and also allowing for the development of calibration factors. 
 

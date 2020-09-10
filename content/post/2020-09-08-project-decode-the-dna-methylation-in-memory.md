@@ -5,9 +5,12 @@ slug: project-decode-the-dna-methylation-in-memory
 categories:
   - Open Projects Fall 2020
 tags:
+  - Python
+  - R
+  - Bioinformatics
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1599747836/methyl_ethyl_ketone_anzmms.png
 ---
 Memory is a basic function of our brain that enables us to use the past experiences to service the present and future on a daily base, and memory function is often disrupted in neurological and psychiatric diseases, such as Alzheimer’s disease and posttraumatic stress disorder. To understand the molecular mechanism of memory storage, we will focus on DNA methylation, a chemical modification of our genome, that is hypothesized to play a critical role for memory. We have identified thousands of DNA methylation changes at numerous genomic loci occurred during the formation of fear and reward memory in the mouse brain. We will develop new computational tools to analyze these changes of DNA methylation and search for the common sequence features of these genomic loci. The result of this project will lead to a systematic understanding of the principle on the function and regulation of DNA methylation in memory, and will pave the way to develop new therapeutic strategies for diseases involved memory defects.  
 

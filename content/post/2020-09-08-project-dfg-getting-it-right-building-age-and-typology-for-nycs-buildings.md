@@ -7,10 +7,12 @@ categories:
   - Open Projects Fall 2020
   - Data For Good
 tags:
+  - Geospatial statistics
+  - Urban data
   - Data For Good
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599749542/buildings_afjfvb.png
 ---
 Getting a better approximation of the age of a NYC’s building can improve assigning the building to a structural type that includes type of construction and relevant building code in effect. Mapping the age and type of building would help NYC DOB and the City on a number of fronts, which include enabling NYC DOB to be more effective in enforcing  building and construction safety and evaluating risk when adjacent or nearby subsurface construction is proposed. Furthermore, the more precise characterization of NYC buildings will improve efforts by the City to craft policies aimed at energy efficiency (TWG) as it drives to 80% GHG reductions by 2050 (80X50) and determining natural disaster vulnerability of its building stock (HAZUS).
 

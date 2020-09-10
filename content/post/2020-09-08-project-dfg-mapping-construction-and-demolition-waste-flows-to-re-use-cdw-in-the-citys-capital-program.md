@@ -7,12 +7,13 @@ categories:
   - Open Projects Fall 2020
   - Data For Good
 tags:
+  - Geospatial statistics
   - Data For Good
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_center,w_200/v1599749048/demolition_crzv12.png
 ---
-The State regulates CDW—its generation, recycling and reuse—and collects all data on CDW.  There is no city source of data for CDW.  For the city to innovate policy with respect to CDW by leveraging its capital program as one way to close material loops, which would generate environmental sustainability and financial sustainability benefits, understanding where CDW goes from the demolition process through the recycling process is the most important single step.  
+The State regulates Construction and Demolition Waste (CDW) — its generation, recycling and reuse — and collects all data on CDW.  There is no city source of data for CDW.  For the city to innovate policy with respect to CDW by leveraging its capital program as one way to close material loops, which would generate environmental sustainability and financial sustainability benefits, understanding where CDW goes from the demolition process through the recycling process is the most important single step.  
 
 <!--more-->
 

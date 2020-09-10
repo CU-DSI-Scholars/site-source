@@ -5,9 +5,13 @@ slug: project-identification-of-genetic-variation-involved-in-mendelian-diseases
 categories:
   - Open Projects Fall 2020
 tags:
+  - R
+  - Genetics
+  - Multiomics
+  - Omics
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569961190/dna_transcription_a8abd2.png
 ---
 This project will focus on the identification of genetic factors involved in various forms of hereditary diseases, including neurodevelopmental disorders, hearing loss, skeletal disorders and more. Some of these children endure years-long diagnostic odysseys of trial-and-error testing with inconclusive results and misdirected treatments. We are dedicated to track down their molecular causes by integrating various “-omics” technologies, including genomics, transcriptomics and epigenomics. 
 

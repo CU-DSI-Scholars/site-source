@@ -5,9 +5,14 @@ slug: project-deconvolution-methods-for-detecting-spatial-contamination-in-micro
 categories:
   - Open Projects Fall 2020
 tags:
+  - R
+  - Latent variable model
+  - Mixture model
+  - Spatial statistics
+  - Deconvolution
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599748404/microbiome_2_gbzraf.png
 ---
 Complex microbiomes play an important role in numerous fields. One critical challenge in their data analysis is to separate true biological data from contamination. Contemporary experimental procedures include negative controls from various sources, but their analysis is complicated by “well-to-well” contamination: contamination that associates with the position of samples during experimental procedures. This causes bacteria sampled from a true biological source to appear in nearby control samples, and vice versa. An analytic approach that accounts for this source of contamination would have a far-reaching impact on the field.
 
