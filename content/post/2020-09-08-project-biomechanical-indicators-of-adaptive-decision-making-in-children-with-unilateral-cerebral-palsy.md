@@ -3,7 +3,7 @@ title: 'Biomechanical indicators of adaptive decision making in children with un
 date: '2020-09-08'
 slug: project-biomechanical-indicators-of-adaptive-decision-making-in-children-with-unilateral-cerebral-palsy
 categories:
-  - Open Projects Fall 2020
+  - Closed Projects Fall 2020
 tags:
   - Fall 2020
 thumbnailImagePosition: left

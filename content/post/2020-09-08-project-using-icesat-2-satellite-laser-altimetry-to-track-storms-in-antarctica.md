@@ -3,7 +3,7 @@ title: 'Using ICESat 2 satellite laser altimetry to track storms in Antarctica'
 date: '2020-09-08'
 slug: project-using-icesat-2-satellite-laser-altimetry-to-track-storms-in-antarctica
 categories:
-  - Open Projects Fall 2020
+  - Closed Projects Fall 2020
 tags:
   - Fall 2020
 thumbnailImagePosition: left
