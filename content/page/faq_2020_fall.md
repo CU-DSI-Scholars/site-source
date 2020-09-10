@@ -19,6 +19,10 @@ showActions:    false
 
     *Answer*: Unfortunately, this program is oriented towards current students.
 
++ **Question:** I am living remotely and have restricted availability during the workday in the U.S. Eastern time zone. Can I still apply?
+
+    *Answer*: Most faculty are understanding of the difficulties of relocation and quarantine endured during COVID-19. The ability to participate on individual projects will vary by faculty with respect to the nature of the project and whether or not there are limitations with accessing research data. Our suggestion would be to indicate your location and availability for online communication.
+
 + **Question:** I am a student in program A and am interested in Project B. Am I eligible to apply?
 
     *Answer*: All projects are open to qualified students. There is no restriction to specific academic programs.
