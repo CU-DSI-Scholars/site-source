@@ -3,7 +3,7 @@ title: 'Single cell RNA-seq analysis of eye development and disease'
 date: '2020-09-08'
 slug: project-single-cell-rna-seq-analysis-of-eye-development-and-disease
 categories:
-  - Closed Projects Fall 2020
+  - Open Projects Fall 2020
 tags:
   - Sequence data
   - R
