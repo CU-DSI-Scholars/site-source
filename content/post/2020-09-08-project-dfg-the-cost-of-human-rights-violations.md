@@ -21,9 +21,9 @@ thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/
 
 <!--more-->
 
-The data science project, carried out with the Data for Good (DfG) program of the Data Science Institute of Columbia University, uses natural language processing and machine learning to identify new relationships between labor-related human rights risks and financial materiality.
+The data science project, carried out with the Data For Good (DFG) program of the Data Science Institute of Columbia University, uses natural language processing and machine learning to identify new relationships between labor-related human rights risks and financial materiality.
 
-Rights CoLab has recruited internationally recognized labor rights experts to the Independent Advisory Group to advise the project. The Advisory Group has two main functions: 1) to advise the DfG researchers as subject matter experts; and 2) to advise SASB on how to revise their standards to benefit workers while reducing reputational and legal risks for companies.
+Rights CoLab has recruited internationally recognized labor rights experts to the Independent Advisory Group to advise the project. The Advisory Group has two main functions: 1) to advise the DFG researchers as subject matter experts; and 2) to advise SASB on how to revise their standards to benefit workers while reducing reputational and legal risks for companies.
 
 Full details on this project can be found on [this](https://rightscolab.org/harnessing-big-data-for-sasb-standards-to-improve-corporate-human-rights-practice-data-project-plan/) page.
 
@@ -32,8 +32,8 @@ This is a volunteer opportunity for students to use their skills for the social 
 {{< /alert >}}
 
 ## Project Owners
-+ [Joanne Bauer](https://rightscolab.org/people/joanne-bauer-2/), Rights CoLab and [School of International and Public Affairs](https://sipa.columbia.edu/faculty-research/faculty-directory/joanne-bauer). Joanne Bauer teaches Corporations and Human Rights as well as the year-long Business and Human Rights Clinic at SIPA. She is Senior Researcher for the Business and Human Rights Program, at Columbia’s Center for the Study of Human Rights and co-leads an international initiative on Teaching Business and Human Rights based at Columbia. In October 2018 she launched Rights CoLab, an independent initiative that develops strategies to advance human rights through business, technology and finance.
-+ [Paul Rissman](https://rightscolab.org/people/paul-rissman-2/). Paul helped found Rights CoLab in 2018. He has served on various non-profit and for-profit boards, including the Archaeological Institute of America, and he was chair of Cinetic Rights Management, a digital media distributor. Prior to his retirement in 2008, he was Executive Vice President of Alliance Bernstein L.P. and Chief Investment Officer of Alliance Growth Equities. Paul has also conducted scholarly research on sustainability reporting. He is an Open Society Fellow.
++ [Joanne Bauer](https://rightscolab.org/people/joanne-bauer-2/), Rights CoLab and [School of International and Public Affairs](https://sipa.columbia.edu/faculty-research/faculty-directory/joanne-bauer). Joanne Bauer teaches Corporations and Human Rights at SIPA. She is Senior Researcher for the Business and Human Rights Program, at Columbia's Institute for the Study of Human Rights and co-founded an international initiative on Teaching Business and Human Rights. In October 2018 she co-founded Rights CoLab, an independent initiative that develops strategies to advance human rights through business, civil society, technology and finance.
++ [Paul Rissman](https://rightscolab.org/people/paul-rissman-2/). Paul helped found Rights CoLab in 2018. He has served on various non-profit and for-profit boards, including the Archaeological Institute of America, and he was chair of Cinetic Rights Management, a digital media distributor. Prior to his retirement in 2008, he was Executive Vice President of Alliance Bernstein L.P. and Chief Investment Officer of Alliance Growth Equities. Paul has also conducted scholarly research on sustainability reporting. He was a 2019-2020 Open Society Fellow.
 
 ## Project timeline
 + Earliest starting date: 10/01/2020
