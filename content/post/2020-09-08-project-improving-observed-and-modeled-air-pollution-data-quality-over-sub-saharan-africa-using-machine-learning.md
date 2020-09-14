@@ -3,7 +3,7 @@ title: 'Improving observed and modeled air pollution data quality over sub-Sahar
 date: '2020-09-08'
 slug: project-improving-observed-and-modeled-air-pollution-data-quality-over-sub-saharan-africa-using-machine-learning
 categories:
-  - Open Projects Fall 2020
+  - Closed Projects Fall 2020
 tags:
   - R
   - Python
@@ -20,7 +20,7 @@ The goal of the project is twofold: 1) to better understand and further improve 
 <!--more-->
 
 {{< alert info >}}
-This project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.
+This is project is NOT accepting applications.
 {{< /alert >}}
 
 ## Faculty Advisor
