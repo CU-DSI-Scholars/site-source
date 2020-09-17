@@ -38,7 +38,7 @@ This is a volunteer opportunity for students to use their skills for the social 
 ## Project timeline
 + Earliest starting date: 10/01/2020
 + End date: 01/01/2021
-+ Number of hours per week of research expected during Fall 2020: ~10
++ Number of hours per week of work expected during Fall 2020: ~10
 + Project is ongoing and will be reviewed for future directions at the end of the semester
 
 ## Candidate requirements
