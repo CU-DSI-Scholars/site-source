@@ -1,5 +1,5 @@
 ---
-title: 'Data For Good Project: African North Americans Database'
+title: 'Data For Good: African North Americans Database'
 author: Vincent Dorie
 date: '2020-09-08'
 slug: project-dfg-african-north-americans-database
@@ -29,6 +29,7 @@ The main difficulty in making these matches is that the census data for people w
 To date, approximately 2,600 matches have been generated either manually or by record linkage algorithms in a database of 50,000 records. Manually, matches were made by looking first at the calculated birth year, then at the name given, location, place of birth, and sometimes at household members. Matches were also identified with record linkage methods, both supervised and unsupervised, and named-entity recognition. Finding an algorithmic way to predict and identify these matches will allow these records to be paired with other sources, such as government pension data, and will factor into research on migration patterns, specific families, and nodes - whether personal or geographic — that tie these African North American groups together.
 
 Project objectives include:
+
 + Finding more ways to predict more matches with probabilistic record linkage, clustering, conditional random fields, active learning etc. A related goal is to deduplicate the data – i.e. finding records that belong to the same individuals and removing duplicate records.
 + Deriving a confidence score of matches based on name, birth year, family structure, location, occupations etc.
 + Expanding the current dataset by (1) scraping census data for the rest of the households of those in the database, (2) using and processing outputs of OCR. This will expand the reach of the database and allow for additional matches/
