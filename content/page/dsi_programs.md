@@ -15,7 +15,7 @@ showActions:    false
 If you're not sure which Data Science Institute student project program is right for you, submit to [Campus Connections](https://www.datascience.columbia.edu/connections) and we will route your request to the best destination, including those below. What follows are the programs the DSI runs directly.
 
 {{< alert success >}}
-This page is for faculty. Students looking for research opportunities please see [this](https://docs.google.com/document/d/1BDFmDLDnWHu1gNzFe7ncQoAdSENctesEUiCNqELUgGA/edit?usp=sharing) document. Student recruiting for DSI Scholars will start on September 8th.
+This page is for faculty. Students looking to apply to the DSI or Data For Good Scholars programs, please see [this](/2020/09/call-for-student-applications-dsi-scholars-fall-2020/) page. For employment opportunities in data science, please see [this](https://docs.google.com/document/d/1BDFmDLDnWHu1gNzFe7ncQoAdSENctesEUiCNqELUgGA/edit?usp=sharing) document.
 {{< /alert >}}
 
 |                   | Capstone           | Campus Connections  | DSI Scholars | Data For Good |
