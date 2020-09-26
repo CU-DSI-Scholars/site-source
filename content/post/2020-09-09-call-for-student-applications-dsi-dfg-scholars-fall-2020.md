@@ -43,6 +43,6 @@ The following timetable is subject to adjustments.
     + [Faculty -> Student] Email offers of the internship will be sent to students.
         
 {{< alert info>}}
-Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](/page/faq_fall_2020/), or [register](https://columbiauniversity.zoom.us/meeting/register/tJIlf-muqzMtEtZOPVAXBFgSpuY6RqwEKO0g) for the information session at 11:00am Eastern time on September 24th.
+Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](/page/faq_fall_2020/), or review the [slides](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit?usp=sharing) and [recording](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f7e5c53-3da8-4d96-9ce1-ac400104713e) from the September 24th information session.
 {{< /alert >}}
 
