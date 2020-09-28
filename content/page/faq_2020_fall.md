@@ -38,3 +38,8 @@ showActions:    false
 + **Question:** I will be working as a student researcher in lab xxx under the supervision of Professor YY this semester. I am interested in participating in the DSI scholars program's activities (e.g., boot camp, weekly meet-ups, etc). Can I apply?
 
     *Answer*: Yes, with your faculty advisor's permission, you are welcome to participate when space permits. We welcome all undergraduate researchers to participate in the DSI scholars activities such as the boot camp, the weekly series and the fall poster social. Please write to <dsi-scholars@columbia.edu>.
+
++ **Question:** I missed the information session. Where can I find the slides and recording?
+
+    *Answer*: [Here](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit?usp=sharing) and [here](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f7e5c53-3da8-4d96-9ce1-ac400104713e) respectively. A LionMail email address may be required to access these resources.
+
