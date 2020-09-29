@@ -8,6 +8,9 @@ categories:
   - Data For Good
 tags:
   - Data For Good
+  - Urban data
+  - Geospatial statistics
+  - Climate change
   - Fall 2020
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599748699/leaky_pipe_eizjfc.png
