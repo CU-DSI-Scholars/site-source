@@ -48,4 +48,5 @@ Full details can be found [here](/file/town_gown_building_age.pdf).
 ## Candidate requirements
 + Skill sets: All students should have excellent data analytic skills, since the bulk of the data is historical, and geospatial data analytic skills, and an interest in the buildings in a dense urban environment under conditions of climate change would be helpful.
 + Student eligibility: freshman, sophomore, junior, senior, master's
++ International students: **eligible**
 

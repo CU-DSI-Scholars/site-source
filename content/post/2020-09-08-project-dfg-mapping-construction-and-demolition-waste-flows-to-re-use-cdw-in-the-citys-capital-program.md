@@ -46,4 +46,5 @@ Full details can be found [here](/file/town_gown_mapping_construction.pdf).
 ## Candidate requirements
 + All students should have excellent data analytic skills, since the bulk of the data is historical, and geospatial data analytic skills, and an interest in environmental sustainability and the need to increase reuse of CDW would be helpful.
 + Student eligibility: freshman, sophomore, junior, senior, master's
++ International students: **eligible**
 

@@ -50,4 +50,5 @@ Full details can be found [here](/file/town_gown_cost_estimate.pdf).
   - Experience in performing analysis with various Machine Learning algorithms
   - Microsoft AI team will provide guidance on MS Azure ML, proof of concept, techniques in Machine Learning algorithms and usage of Azure ML functionalities.
 + Student eligibility: freshman, sophomore, junior, senior, master's
++ International students: **eligible**
 

@@ -44,4 +44,5 @@ Full details can be found [here](/file/town_gown_water_quality.pdf).
 ## Candidate requirements
 + All students should have excellent and geospatial data analytic skills, and an interest in water supplying a dense urban environment under conditions of climate change would be helpful.
 + Student eligibility: freshman, sophomore, junior, senior, master's
++ International students: **eligible**
 

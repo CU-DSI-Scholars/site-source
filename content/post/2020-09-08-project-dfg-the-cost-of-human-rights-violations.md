@@ -44,4 +44,5 @@ This is a volunteer opportunity for students to use their skills for the social 
 ## Candidate requirements
 + Skill sets: familiarity with machine learning concepts; natural language processing experience is a plus; ability to program in a language like R or Python that has a robust data analytic toolset is required.
 + Student eligibility: freshman, sophomore, junior, senior, master's
++ International students: **eligible**
 

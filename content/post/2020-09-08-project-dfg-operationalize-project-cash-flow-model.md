@@ -38,4 +38,5 @@ This is a volunteer opportunity for students to use their skills for the social 
   - Understanding of different Machine Learning algorithms
   - Experience in integrating machine learning algorithms into data visualization tools using either open source platform or off-the-shelf software 
 + Student eligibility: freshman, sophomore, junior, senior, master's
++ International students: **eligible**
 
