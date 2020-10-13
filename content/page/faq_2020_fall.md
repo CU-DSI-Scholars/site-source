@@ -15,6 +15,10 @@ showActions:    false
 
     *Answer*: Faculty will be reviewing applications between the student deadline of October 1st and October 23rd. If chosen for a project, faculty will contact you during that window and arrange for an interview or some sort of follow up. Not all projects successfully make selections during that time period, so an update will be sent to all students on October 23rd.
 
++ **Question:** I missed the deadline to apply, or I would like to hear about other opportunities.
+
+    *Answer*: The Data Science Institute maintains a [doc](https://docs.google.com/document/d/1BDFmDLDnWHu1gNzFe7ncQoAdSENctesEUiCNqELUgGA) with current for-pay opportunities; between applications for this program it also includes research internships and volunteer positions. SEAS maintains a [site](https://www.cc-seas.columbia.edu/preprofessional/health/opportunities.php?field_category_value=Volunteer&field_type_value=All&field_state_value=All&title=&body_value=) with opportunties of various kinds, although they may not be data-specific.
+
 + **Question:** With only one application form, how do I express interest in more than one project?
 
     *Answer*: It is recommended that you prioritize based on your interest and skills. To a large extent, the methods of data science can be translated from one domain to another so demonstrating core competency is paramount. If you feel the need, you can address a portion of your personal statement to the PIs of each program to which you are applying.
