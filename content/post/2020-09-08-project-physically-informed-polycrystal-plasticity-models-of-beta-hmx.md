@@ -24,7 +24,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 {{< /alert >}}
 
 ## Faculty Advisor
-+ Professor: [WaiChing Sun](www.poromechanics.org)
++ Professor: [WaiChing Sun](http://www.poromechanics.org/)
 + Department/School: Civil Engineering and Engineering Mehcanics
 + Location: Mudd 614
 + I am currently working on modeling crystalline materials under high velocity impact with graph convolutional neural network and reinforcement learning.
