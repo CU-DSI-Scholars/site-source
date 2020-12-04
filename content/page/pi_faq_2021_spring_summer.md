@@ -2,9 +2,11 @@
 title: PI Frequently Asked Questions
 author: Tian Zheng and Vincent Dorie
 date: '2020-12-04'
-slug: pi_faq
+slug: pi_faq_2021_spring_summer
+aliases:
+  - /page/pi_faq
 categories:
-  - info
+  - Info
 tags:
   - Info
 comments:       false
