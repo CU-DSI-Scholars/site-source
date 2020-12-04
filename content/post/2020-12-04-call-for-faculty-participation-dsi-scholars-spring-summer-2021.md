@@ -4,18 +4,16 @@ author: Tian Zheng, Vincent Dorie
 date: '2020-12-04'
 slug: call-for-faculty-participation-dsi-scholars-spring-summer-2021
 aliases:
-  - /page/pi_call
+  - /static/pi_call
 categories:
   - Announcement
 tags:
   - Info
   - Spring 2021
   - Summer 2021
-  
 autoThumbnailImage: no
 thumbnailImagePosition: top
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_758/v1607098652/opencall_faculty_springsummer_2021_fvqlzn.png
-# thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_758/v1597190981/opencall_faculty_fall_2020_unqfrv.png
 coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
 metaAlignment: center
 ---

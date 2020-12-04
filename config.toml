@@ -1,5 +1,5 @@
 # Tranquilpeak
-# Version : 0.4.3-BETA
+# Version : 0.4.8-BETA
 # Author : Thibaud Leprêtre
 
 # I STRONGLY recommend you to use a CDN to speed up loading of pages.
@@ -24,6 +24,8 @@ paginate = 7
 canonifyurls = true
 relativeurls = true
 
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
 [permalinks]
   post = "/:year/:month/:slug/"
 
@@ -43,7 +45,7 @@ relativeurls = true
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/Data-Science-Avatar_jnwebr.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
-   twitter = "dsi_columbia"
+  twitter = "dsi_columbia"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
   # googlePlus = "+ThibaudLepretre"
 
@@ -84,7 +86,7 @@ relativeurls = true
   identifier = "faq"
   name = "FAQ"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question-circle\"></i>"
-  url = "/page/faq_fall_2020"
+  url = "/page/student_faq"
 
 [[menu.links]]
   weight = 4
@@ -237,3 +239,8 @@ relativeurls = true
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
   # [params.footer]
   #   copyright = "<a href=\"https://github.com/tz33cu\">Tian Zheng</a>"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
