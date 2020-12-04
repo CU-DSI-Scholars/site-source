@@ -20,7 +20,7 @@ showActions:    false
 
 + **Question:** Why is the stipend mechanism used? Can I hire a student directly and still receive the matching fund?
 
-    *Answer*: The DSI scholars program is a research experience program that provides a stipend to defray incidentials incurred during a research internship. To hire a research assistant directly, faculty can submit their project to [Campus Connections](https://www.datascience.columbia.edu/connections) and indicate their preference.
+    *Answer*: The DSI scholars program is a research experience program that provides a stipend to defray incidentials incurred during a research internship. To hire a research assistant directly, faculty can submit their project to [Campus Connections](https://www.datascience.columbia.edu/outreach/campus-connections/) and indicate their preference.
 
 + **Question:** Is it required to use the stipend during a specific term?
 
@@ -36,7 +36,7 @@ showActions:    false
 
 + **Question:** I'm not sure that my project is a good fit for the program. Are there any other options?
 
-    *Answer*: Yes. The DSI maintains a number of programs that can connect you with student or faculty resources. Please submit your project through [Campus Connections](https://www.datascience.columbia.edu/connections), or contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu). Please see [here](/page/dsi_programs) for high-level overview of DSI programs.
+    *Answer*: Yes. The DSI maintains a number of programs that can connect you with student or faculty resources. Please submit your project through [Campus Connections](https://www.datascience.columbia.edu/outreach/campus-connections/), or contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu). Please see [here](/page/dsi_programs) for high-level overview of DSI programs.
 
 + **Question:** Can I select more than one student?
 
@@ -44,7 +44,7 @@ showActions:    false
 
 + **Question:** I missed the deadline to apply, can I still participate?
 
-    *Answer*: Yes. If there is still is time, we will add your project to the umbrella application. If there is not time, the DSI maintains a number of ways to help you recruit students. In either case, please submit your project through [Campus Connections](https://datascience.columbia.edu/outreach/campus-connections/).
+    *Answer*: Yes. If there is still is time, we will add your project to the umbrella application. If there is not time, the DSI maintains a number of ways to help you recruit students. In either case, please submit your project through [Campus Connections](https://www.datascience.columbia.edu/outreach/campus-connections/).
 
 + **Question:** Will there be another call in the future?
 
