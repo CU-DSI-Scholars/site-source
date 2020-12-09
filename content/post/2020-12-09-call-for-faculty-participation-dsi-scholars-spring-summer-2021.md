@@ -1,7 +1,7 @@
 ---
 title: Call for Faculty Participation --- DSI Scholars Spring-Summer 2021
 author: Tian Zheng, Vincent Dorie
-date: '2020-12-04'
+date: '2020-12-09'
 slug: call-for-faculty-participation-dsi-scholars-spring-summer-2021
 aliases:
   - /static/pi_call
@@ -13,12 +13,12 @@ tags:
   - Summer 2021
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_758/v1607098652/opencall_faculty_springsummer_2021_fvqlzn.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_758/v1607545909/opencall_faculty_springsummer_2021_nlfo9j.png
 coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
 metaAlignment: center
 ---
 
-### Call for Faculty Participation. December 2021.
+### Call for Faculty Participation. December 2020.
 
 The Data Science Institute is calling for faculty submissions of research projects for the pring and/or summer 2021 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 42 projects and received more than 730 unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLScXsKgdf08Mv-8Q1mX23TUW-btopOZwq1Sj5YvpH2tVEEXmoA/viewform?usp=sf_link).
 
@@ -38,23 +38,23 @@ Questions? See our PI [FAQ](/page/pi_faq/)! A video recording from a fall online
 
 The Data Science Institute encourages women and underrepresented minorities to apply to this program.
 
-Application to participate: Faculty/Research Centers/Research Labs who are interested in participating in this program as internship hosts should complete [this application form](https://docs.google.com/forms/d/e/1FAIpQLScXsKgdf08Mv-8Q1mX23TUW-btopOZwq1Sj5YvpH2tVEEXmoA/viewform?usp=sf_link). The application deadline is December 28th, 2020. Decisions on the allocation of funds will be made by January 1st, 2021.
+Application to participate: Faculty/Research Centers/Research Labs who are interested in participating in this program as internship hosts should complete [this application form](https://docs.google.com/forms/d/e/1FAIpQLScXsKgdf08Mv-8Q1mX23TUW-btopOZwq1Sj5YvpH2tVEEXmoA/viewform?usp=sf_link). The application deadline is January 1st, 2021. Decisions on the allocation of funds will be made by January 5th, 2021.
 
 Key dates:
 
-+ December 28th, 2020
++ January 1st, 2021
     + [Faculty -> DSI] Faculty/Center/Lab scholars internship host application due.
-+ January 4th, 2021
++ January 5th, 2021
     + [DSI -> Faculty] DSI Scholars funding decisions will be sent to faculty.
     + [DSI -> Students] Program announcement will be sent to students and the application website goes live.
-+ January 25th, 2021
++ January 22nd, 2021
     + [Students -> DSI] Student applications due.
     + [DSI -> Faculty] Applications shared with faculty/center/lab.
-+ January 25th-February 22nd, 2021
++ January 22th-February 19th, 2021
     + [Faculty -> Students] Student interviews and selection.
-+ March 1st, 2021
     + [Faculty -> Student] Faculty sends an email offer of the internship to the selected student(s).
-    + [Faculty -> DSI] Information on selected Scholars due to DSI for inclusion in fall stipend.
++ February 26th, 2021
+    + [Faculty -> DSI] Information on selected Scholars due to DSI for inclusion in spring stipend.
 
 Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our PI [FAQ](/page/pi_faq/), or review the info session material ([video](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94); [slides](https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing)).
 
