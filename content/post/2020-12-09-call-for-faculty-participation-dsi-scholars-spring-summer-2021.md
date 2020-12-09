@@ -50,7 +50,7 @@ Key dates:
 + January 22nd, 2021
     + [Students -> DSI] Student applications due.
     + [DSI -> Faculty] Applications shared with faculty/center/lab.
-+ January 22th-February 19th, 2021
++ January 22nd-February 19th, 2021
     + [Faculty -> Students] Student interviews and selection.
     + [Faculty -> Student] Faculty sends an email offer of the internship to the selected student(s).
 + February 26th, 2021

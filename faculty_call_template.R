@@ -15,7 +15,7 @@ application_url <-
 info_session <-
   "A video recording from a fall online information session can be found <a href=\"https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94\">here</a>, and slides from the same event can be found <a href=\"https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing\">here</a>. "
 
-credentials.file <- file.path(
+credentials_file <- file.path(
   "/Users/vdorie/Documents/Data Science/Scholars/dsischolarsemailcodes/DSIScholarsEmails",
   "credentials.json")
   
@@ -29,7 +29,7 @@ email_body <- paste0(
 DSI Scholars Program</h1>
 <h2>Call for Faculty Participation<br/>
 ", term, " ", year, " Cohort</h2></center>
-<p>The Data Science Institute is calling for faculty submissions of research projects for the ", year_term, " of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with ", num_projects_last_year, " projects and received more than ", num_applications_last_year" unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply <a href=\"", application_url, "\">here</a>, and find more details <a href=\"https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call\">here</a>.</p>
+<p>The Data Science Institute is calling for faculty submissions of research projects for the ", year_term, " of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with ", num_projects_last_year, " projects and received more than ", num_applications_last_year, " unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply <a href=\"", application_url, "\">here</a>, and find more details <a href=\"https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call\">here</a>.</p>
 
 <ul>
 <li><b>Funding support</b>: For selected projects, the DSI will provide matching funds of up to $2,500 per project for internship-supporting stipends. Approximately 10 such stipend funds will be awarded. This fund is expected to be a fraction of a full stipend that is appropriate for the time and effort required by the research project. The DSI Scholars program recommends that the PI/lab engage DSI scholars approximately 5-8 hours a week during the academic semester and consider a full-time or part-time research internship during summer. Allocation of funds will be made via a first-come-first-serve need-based process, with efforts to balance allocation across disciplines, to prioritize new PIs/labs/projects, and support novel interdisciplinary research.</li>
@@ -41,7 +41,7 @@ DSI Scholars Program</h1>
 <li>Annual Research Poster Session: All DSI Scholars (receiving matching funds or not) will be invited to present their research during a DSI poster session at DSI Town Hall in the fall ", year, " semester.</li>
 </ul>
 </ul>
-<p>Questions? Get full details <a href=\"https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call\">here</a> or see our PI <a href=\"https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq/\">FAQ</a>! ", info_session, "You can also contact us at <a href=\"mailto:dsi-scholars@columbia.edu\">dsi-scholars@columbia.edu</a>.</p>"
+<p>Questions? Get full details <a href=\"https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call\">here</a> or see our PI <a href=\"https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq/\">FAQ</a>! ", info_session, "You can also contact us at <a href=\"mailto:dsi-scholars@columbia.edu\">dsi-scholars@columbia.edu</a>.</p>")
 
 
 
