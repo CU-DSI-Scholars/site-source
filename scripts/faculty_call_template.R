@@ -38,6 +38,7 @@ info_session <- paste0(
   "here</a>. ")
 
 # Credentials file created from gmail; set to where the file can be found.
+# Info on creating it can be found at https://github.com/r-lib/gmailr#setup
 credentials_file <- file.path("gmail_credentials.json")
   
 # Configure as desired.
