@@ -19,7 +19,7 @@ DSI & DFG Scholars Program, Implementation Details
 ## Faculty Call
 
 1. Create an application form
-2. [blob/main/scripts/faculty_call_template.R](Draft) an announcement and send it to Jonathan
+2. [Draft](blob/main/scripts/faculty_call_template.R) an announcement and send it to Jonathan
 
 ## Funding Decision
 
@@ -34,6 +34,6 @@ DSI & DFG Scholars Program, Implementation Details
 2. Create basic project pages
    1. Download the sheet as a csv
       * Do not check this file into the repository
-   2. Run the page creation [blob/main/scripts/project_page_skeleton.R](script)
-3. Email faculty regarding decisions by running the email [blob/main/scripts/faculty_submission_response.R](script)
+   2. Run the page creation [script](blob/main/scripts/project_page_skeleton.R)
+3. Email faculty regarding decisions by running the email [script](blob/main/scripts/faculty_submission_response.R)
 
