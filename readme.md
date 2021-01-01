@@ -35,5 +35,7 @@ DSI & DFG Scholars Program, Implementation Details
    1. Download the sheet as a csv
       * Do not check this file into the repository
    2. Run the page creation [script](scripts/project_page_skeleton.R)
-3. Email faculty regarding decisions by running the email [script](scripts/faculty_submission_response.R)
+3. Clone and update the student application form ([previous term's](https://docs.google.com/forms/d/1M-SVYlR1dKw3plAoJ1rxspTBRunMR-4QutycMEa7jAo/edit))
+   * Because the language between spring/summer and fall changes, it can be useful to also refer to last [spring/summer's](https://docs.google.com/forms/d/1xYos2eQwoEoiYzYjiHi7U4ll9RSSmQ2P4KaKZwZ032g/edit?usp=drive_web)
+4. Email faculty regarding decisions by running the email [script](scripts/faculty_submission_response.R)
 
