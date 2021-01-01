@@ -1,14 +1,27 @@
-projects <- read.csv("~/Documents/Data Science/Scholars/dsischolarsemailcodes/DSIScholarsEmails/projectinfo_fall_2020.csv", stringsAsFactors = FALSE)
+# Creates project pages using a marked up version of the faculty submission form.
 
-projects <- within(projects, {
-  funding <- projects$Are.you.applying.for.DSI.need.based.stipend.funding..up.to..2500..
-  funding <- ifelse(grepl("unpaid", funding), "unpaid", ifelse(grepl("own funding", funding), "self", "matching"))
-  
-  student_selected <- Do.you.have.a.student.selected.for.this.position.already. == "Yes"
-})
+data_dir  <- "data"
+data_file <- "project_info_fall_2020.csv"
+projects <- read.csv(file.path(data_dir, data_file))
 
+output_path <- "../content/post"
 
-repository <- "/Users/vdorie/Repositories/dsischolars/site-source/content/post"
+# logical TRUE/FALSE for whether or not to overwrite existing files
+overwrite_existing <- TRUE
+
+project_year <- "2021"
+project_term <- c("Spring", "Summer")
+
+library(dplyr)
+
+projects %<>%
+  mutate(funding = Are.you.applying.for.DSI.need.based.stipend.funding..up.to..2500..) %>%
+  mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
+                             grepl("own funding", funding) ~ "self",
+                             TRUE ~ "matching"),
+         student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")    
+
+start_date_column <- colnames(projects)[startsWith(colnames(projects), "Earliest.starting.date.of.the.project.")]
 
 for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
@@ -16,28 +29,44 @@ for (i in seq_len(nrow(projects))) {
     if (Program %in% "DSI" && student_selected && Decision == 0)
       return(invisible(NULL))
     
-    title.lower <- gsub("--", "-", trimws(gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(Project.title)))))
-    if (endsWith(title.lower, ".")) title.lower <- sub("\\.$", "", title.lower)
-    
     title <- Project.title
     
+    title_lowercase <- gsub("--", "-", trimws(gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(title)))))
+    if (endsWith(title_lowercase, ".")) title_lowercase <- sub("\\.$", "", title_lowercase)
+    
     if (Program %in% "DFG") {
-      title.lower <- paste0("dfg-", title.lower)
+      title_lowercase <- paste0("dfg-", title_lowercase)
       title <- paste0("Data For Good: ", title)
     }
     
-    fileName <- paste0(Sys.Date(), "-project-", title.lower, ".md")
+    outfile_name <- file.path(output_path, paste0(Sys.Date(), "-project-", title_lowercase, ".md"))
+    if (file.exists(outfile_name) && !overwrite_existing) return(invisible(NULL))
     
-    outfileName <- file.path(repository, fileName)
-    #if (file.exists(outfileName)) return(invisible(NULL))
-    outfile <- file(outfileName, open = "w")
-   
+    outfile <- file(outfile_name, open = "w")
+    
+    if (!exists("Timing.of.project")) {
+      duration <- 1L
+    } else {
+      duration <- which(sapply(project_term, function(term) grepl(term, Timing.of.project)))
+    }
+    
+    project_closed <-
+      student_selected || (Program %in% "DSI" && funding %in% "matching" && Decision == 0)
+    
     lines <- c("---",
                paste0("title: '", title, "'"),
                paste0("date: '", Sys.Date(), "'"),
-               paste0("slug: project-", title.lower),
-               paste0("categories:\n  - ", if (!student_selected) "Open" else "Closed", " Projects Fall 2020"),
-               paste0("tags:\n  - Fall 2020", if (Program %in% "DFG") "\n  - Data For Good" else ""),
+               paste0("slug: project-", title_lowercase))
+    
+    categories <- 
+      paste0(paste("  -", if (project_closed) "Closed" else "Open", project_term[duration], project_year), collapse = "\n")
+    lines <- c(lines, paste0("categories:\n", categories))
+    tags <-
+      paste0(paste("  -", project_term[duration], project_year), collapse = "\n")
+    if (Program %in% "DFG")
+      tags <- paste0(tags, "  - Data For Good")
+    
+    lines <- c(lines, paste0("tags:\n", tags),
                "thumbnailImagePosition: left",
                "thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png",
                "---")
@@ -71,15 +100,20 @@ for (i in seq_len(nrow(projects))) {
       lines <- c(lines, paste0("+ Location: ", Center.Lab.Office.Location))
     if (trimws(Faculty.Center.Lab.research.profile..1.2.sentences.) != "")
       lines <- c(lines, paste0("+ ", trimws(Faculty.Center.Lab.research.profile..1.2.sentences.)))
+    
     lines <- c(lines,
                "",
                "## Project Timeline",
-               paste0("+ Earliest starting date: ", Earliest.starting.date.of.the.project..After.10.1.2020.),
+               paste0("+ Earliest starting date: ", get(start_date_column)),
                paste0("+ End date: ", End.Date.of.Project))
     
-    hours <- Number.of.hours.per.week.of.work.required.for.the.project.during.the.semester
-    if (!is.na(hours) && hours != "")
-      lines <- c(lines, paste0("+ Number of hours per week of research expected during Fall 2020: ~", hours))
+    hours_semester <- Number.of.hours.per.week.of.work.required.for.the.project.during.the.semester
+    if (!is.na(hours_semester) && hours_semester != "")
+      lines <- c(lines, paste0("+ Number of hours per week of research expected during ", project_term[1L], " ", project_year, ": ~", hours_semester))
+    hours_summer <- if (exists("Number.of.hours.per.week.of.work.required.for.the.project.during.the.summer"))
+      Number.of.hours.per.week.of.work.required.for.the.project.during.the.summer else NA
+    if (!is.na(hours_summer) && hours_summer != "")
+      lines <- c(lines, paste0("+ Number of hours per week of research expected during Summer ", project_year, ": ~", hours_summer))
     
     lines <- c(lines,
                "",
