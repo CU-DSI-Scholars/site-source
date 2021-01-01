@@ -4,22 +4,22 @@ DSI & DFG Scholars Program, Implementation Details
 ## General Outline
 
 1. Issue faculty call (first week of August or December)
-    1.1 Optional: hold faculty information session mid-month
+   1.1 Optional: hold faculty information session mid-month
 2. Faculty call ends; decide which projects to fund (+3-4 weeks)
-    2.1 Create project pages on site
-    2.2 Contact faculty about decision
-    2.3 Create student application form
+   2.1 Create project pages on site
+   2.2 Contact faculty about decision
+   2.3 Create student application form
 3. Circulate student application form (+1 week)
-    3.1 Optional: hold student information session mid-month
+   3.1 Optional: hold student information session mid-month
 4. Student applications due (+2-3 weeks)
-    4.1 Circulate applications to faculty
+   4.1 Circulate applications to faculty
 5. Faculty/student interviews and selection (+4 weeks)
 6. Stipend information due (+1 week)
 
 ## Faculty Call
 
 1. Create an application form
-2. [Draft](blob/main/scripts/faculty_call_template.R) an announcement and send it to Jonathan
+2. [Draft](scripts/faculty_call_template.R) an announcement and send it to Jonathan
 
 ## Funding Decision
 
@@ -34,6 +34,6 @@ DSI & DFG Scholars Program, Implementation Details
 2. Create basic project pages
    1. Download the sheet as a csv
       * Do not check this file into the repository
-   2. Run the page creation [script](blob/main/scripts/project_page_skeleton.R)
-3. Email faculty regarding decisions by running the email [script](blob/main/scripts/faculty_submission_response.R)
+   2. Run the page creation [script](scripts/project_page_skeleton.R)
+3. Email faculty regarding decisions by running the email [script](scripts/faculty_submission_response.R)
 
