@@ -29,12 +29,14 @@ campus_connections_cc <- "zy2286@columbia.edu"
 
 # Projects file is downloaded csv from faculty submission form referenced above.
 data_dir  <- "data"
-data_file <- "project_info_fall_2021.csv"
+data_file <- "project_info_spring_summer_2021.csv"
 
 project_term <- "Spring-Summer"
 project_year <- "2021"
 
 student_application_url <- "https://docs.google.com/forms/d/e/1FAIpQLSe3Rxxf9PVZ5IbuRoyy5slMz7kcC9-4ILWPPnyyWNV6nacppg/viewform?usp=sf_link"
+
+library(glue, quietly = TRUE)
 
 email_signature <- glue("
   <p>All the best,<br/>\\
@@ -54,8 +56,8 @@ email_signature <- glue("
 url_prefix <- format(Sys.Date(), "%Y/%m")
 #url_prefix <- "2021/01" # If necessary to set manually, uncomment this.
 
-# Tf TRUE, prints emails to console instead of creating them as drafts.
-test_only <- TRUE
+# If TRUE, prints emails to console instead of creating them as drafts.
+test_only <- FALSE
 
 ### VARIABLES END ###
 
@@ -64,13 +66,12 @@ if (!require(gmailr, quietly = TRUE)) {
   library(gmailr, quietly = TRUE)
 }
 library(dplyr, quietly = TRUE)
-library(glue, quietly = TRUE)
 library(magrittr, quietly = TRUE)
 
 projects <- read.csv(file.path(data_dir, data_file))
 
 projects %<>%
-  mutate(funding = Are.you.applying.for.DSI.need.based.stipend.funding..up.to..2500..) %>%
+  mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
                              grepl("own funding", funding) ~ "self",
                              TRUE ~ "matching"),
@@ -91,6 +92,7 @@ for (i in seq_len(nrow(projects))) {
       <p>Thank you for submitting your project '{Project.title}' to the DSI \\
       Scholars program for {project_term} {project_year}. ")
     
+    include_application_link <- FALSE
     # Projects that applied for a matching fund and were not selected.
     if (Decision == 0 && !(Program %in% "DFG") && !(funding %in% "unpaid")) {
       subject <- glue(subject_prefix, " Project Submission")
@@ -141,7 +143,6 @@ for (i in seq_len(nrow(projects))) {
       if (endsWith(title_lowercase, ".")) title_lowercase <- sub("\\.$", "", title_lowercase)
       if (endsWith(title_lowercase, "-")) title_lowercase <- sub("-$", "", title_lowercase)
       url <- glue("https://cu-dsi-scholars.github.io/DSI-scholars/{url_prefix}/project-{title_lowercase}")
-      include_application_link <- FALSE
       
       if (Program %in% "DSI") {
         subject <- glue(subject_prefix, " Project Confirmation")
@@ -165,7 +166,7 @@ for (i in seq_len(nrow(projects))) {
             body %<>% glue("
               We have created a <a href='{url}'>page</a> for your project \\
               based on the information provided in your submission that will \\
-              be shared with prospective students. The tags and clipart will \\ 
+              be shared with prospective students. The tags and clipart will \\
               be modified to suit your project accordingly. Please double \\
               check carefully all the information on the page and notify us \\
               if you'd like to make any changes.</p>")
@@ -176,7 +177,7 @@ for (i in seq_len(nrow(projects))) {
             stop("unexpected condition: student selected for internship not ",
                  "requesting matching fund")
           body %<>% glue("
-            We have created a <a href='{url}'>page</a> for your project based \\ 
+            We have created a <a href='{url}'>page</a> for your project based \\
             on the information provided in your submission that will be \\
             shared with prospective students. The tags and clipart will be \\
             modified to suit your project accordingly. Please double check \\
@@ -215,11 +216,11 @@ for (i in seq_len(nrow(projects))) {
     }
     
     email <- gm_mime(to = as.character(Email.Address),
-                     from = email.from,
-                     replyto = email.replyto,
-                     cc = email.cc,
+                     from = email_from,
+                     replyto = email_replyto,
+                     cc = email_cc,
                      subject = subject) %>%
-                     gm_html_body(paste0(lines, collapse = "\n"), content_type = "text/html", charset = "utf-8")
+                     gm_html_body(paste0(body, collapse = "\n"), content_type = "text/html", charset = "utf-8")
     gm_create_draft(email)
   })
 }
