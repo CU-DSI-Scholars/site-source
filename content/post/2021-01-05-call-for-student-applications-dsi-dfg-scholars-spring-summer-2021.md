@@ -2,6 +2,7 @@
 title: 'Call for Student Applications - Spring-Summer 2021'
 author: Tian Zheng and Vincent Dorie
 date: '2021-01-05'
+publishDate: '2021-01-04'
 slug: call-for-student-applications-dsi-dfg-scholars-spring-summer-2021
 categories:
   - Announcement
