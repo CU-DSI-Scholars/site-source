@@ -1,5 +1,5 @@
 ---
-title: 'Decoding the elements of mouse behavior that reveal vigilance during exploration.'
+title: 'Decoding the elements of mouse behavior that reveal vigilance during exploration'
 date: '2021-01-04'
 slug: project-decoding-the-elements-of-mouse-behavior-that-reveal-vigilance-during-exploration
 categories:

@@ -13,7 +13,6 @@ Water joined gold, oil and other commodities traded on Wall Street, highlighting
 
 <!--more-->
 
-
 Researchers, government, nonprofit, and public initiatives seek innovative approaches to help water consumers to take sustainable actions. We are a group of scientists from academia and the private sector who seek to develop a user-relevant tool to predict water risk that is relevant for water futures, using deep learning methods, user research, and behavioral data. This work is a part of the California Water Data Challenge under Western Big Data Innovation Hub. 
 
 Can we successfully predict the future value of California water amid fear of scarcity?

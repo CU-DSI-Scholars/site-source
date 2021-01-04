@@ -20,7 +20,7 @@ This is an UNPAID research project.
 {{< /alert >}}
 
 ## Faculty Advisor
-+ Professor: [Kriste Krstovski and Lisa Park](http://www.columbia.edu/~kk3161, https://www.drlisapark.com)
++ Professor: [Kriste Krstovski](http://www.columbia.edu/~kk3161) and [Lisa Park](https://www.drlisapark.com)
 + Department/School: DSI and CUMC 
 + Location: DSI, Robert Burch Family Eye Center
 + Kriste Krstovski is an associate research scientist at DSI and an adjunct faculty at CBS. Lisa Park is an associate professor of ophthalmology at Columbia University Medical Center and an attending ophthalmologist at New York-Presbyterian hospital.

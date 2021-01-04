@@ -13,9 +13,6 @@ This study is the first step in exploring an emerging and previously understudie
 
 <!--more-->
 
-
-
-
 {{< alert success >}}
 This is an UNPAID research project.
 {{< /alert >}}

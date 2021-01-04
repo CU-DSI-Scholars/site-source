@@ -1,5 +1,5 @@
 ---
-title: 'A global-to-local processing bias in conditions of restricted awareness: the case of symmetry and illusory figures '
+title: 'A global-to-local processing bias in conditions of restricted awareness: the case of symmetry and illusory figures'
 date: '2021-01-04'
 slug: project-a-global-to-local-processing-bias-in-conditions-of-restricted-awareness-the-case-of-symmetry-and-illusory-figures
 categories:

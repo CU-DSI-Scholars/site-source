@@ -1,7 +1,7 @@
 ---
 title: 'Acute Care and Emergency Referral Systems (ACERS) Project'
 date: '2021-01-04'
-slug: project-acute-care-and-emergency-referral-systems-(acers)-project
+slug: project-acute-care-and-emergency-referral-systems-acers-project
 categories:
   - Closed Spring 2021
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Characterization of spontaneous animal behaviors from 3D pose estimation data '
+title: 'Characterization of spontaneous animal behaviors from 3D pose estimation data'
 date: '2021-01-04'
 slug: project-characterization-of-spontaneous-animal-behaviors-from-3d-pose-estimation-data
 categories:
@@ -12,7 +12,6 @@ thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g
 A major goal in neuroscience is to understand how neuronal activity gives rise to behavior. With new technologies, it is possible to record the activity of thousands of neurons simultaneously. However, the interpretation of these data depends on a solid understanding of animal behavior.
 
 <!--more-->
-
 
 The goal of this project is to discover and classify the naturalistic behaviors of a new animal model, the Spanish newt Pleurodeles waltl. This species has a simple brain, facilitating neuronal recordings; however, its behavioral repertoire remains largely unexplored. In the past, behaviors used to be observed and scored manually, introducing biases and limiting throughput. Nowadays new advances in computer vision and deep learning (e.g. DeepLabCut) are transforming the field, enabling the unbiased and high-throughput analysis of animal behavior. This project leverages machine learning algorithms to: (1) estimate animal pose from movies of animals in a naturalistic home cage; (2) discover positional patterns and their inherent statistics using unsupervised learning.
 

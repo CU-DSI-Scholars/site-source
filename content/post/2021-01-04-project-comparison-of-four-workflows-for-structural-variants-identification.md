@@ -13,7 +13,6 @@ Recent advances in genomic technologies have led to the identification of many n
 
 <!--more-->
 
-
 Unfortunately, many of the variants identified by those workflows are artifacts (i.e. absent in the biological sample), raising concerns that time and effort will be wasted on those artifacts instead of analyzing the causative genetic variant. 
 
 The goal of this project is to develop best practices to increase the chance to identify causative structural variants, while reducing the number of artifacts. We will use the raw data from whole-exome and whole-genome sequencing of patients with renal diseases. 

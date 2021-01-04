@@ -22,7 +22,7 @@ The Data For Good Scholars program connects student volunteers to organizations 
 
 <!--more-->
 
-The cohort of Spring-Summer 2021 projects are ready to accept applications, and can be seen [here](/categories/open-projects-spring-2020) and [here](/categories/open-projects-summer-2020). To obtain a scroll of all projects, including those from past years, see [here](/). We have created an [**umbrella application page**](https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
+The cohort of [Spring](/categories/open-spring-2021) and [Summer](/categories/open-summer-2021)) 2021 projects are ready to accept applications, and can be seen by clicking through those links. To obtain a scroll of all projects, including those from past years, see [here](/). We have created an [**umbrella application page**](https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
 
 An online information session will be held on Friday January 15th, at 11:00am Eastern time. Please [register](TBD) for this event. Once the event is complete, a recording and slides will be posted on this page.
 
@@ -44,6 +44,6 @@ The following timetable is subject to adjustments.
     + [Faculty -> Student] Email offers of the internship will be sent to students.
         
 {{< alert info>}}
-Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](/page/faq_fall_2020/), or review the [slides](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit?usp=sharing) and [recording](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f7e5c53-3da8-4d96-9ce1-ac400104713e) from the September 24th information session.
+Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](/static/student_faq), or [register](TDB) for the January 15th, 11:00am Eastern time online information session.
 {{< /alert >}}
 

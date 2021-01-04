@@ -1,5 +1,5 @@
 ---
-title: 'Comparison of three workflows for the identification of genetic variants '
+title: 'Comparison of three workflows for the identification of genetic variants'
 date: '2021-01-04'
 slug: project-comparison-of-three-workflows-for-the-identification-of-genetic-variants
 categories:
@@ -12,7 +12,6 @@ thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g
 Recent advances in genomic technologies have led to the identification of many novel disease-associated genes, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to extract the genetic information from raw data, including The Broad Institute’s GATK, Seven Bridge’s GenomeGraph and Google’s DeepVariant. These workflows can lead to the identification of different genetic variants, raising the risk of missing disease-causing variants when using only one of these methods. 
 
 <!--more-->
-
 
 Unfortunately, many of the variants identified by these workflows are artifacts (absent in the biological sample), raising concerns that time and effort will be wasted on those artifacts instead of analyzing the causative genetic variant. 
 
