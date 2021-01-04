@@ -13,8 +13,8 @@ aliases:
   - /static/student_call
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1599672636/opencall_students_fall_2020_jmfszm.png
-coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1599672636/opencall_students_fall_2020_jmfszm.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1599672636/opencall_students_spring-summer_2021_pilkmw.png
+coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/opencall_students_spring-summer_2021_pilkmw.png
 metaAlignment: center
 ---
 Columbia University [Data Science Institute](http://datascience.columbia.edu/) is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Spring-Summer 2021 are open for application.
