@@ -22,7 +22,7 @@ Gmail drafts are created using the [gmailr](https://github.com/r-lib/gmailr) pac
 
 ## Maintaining the Website
 
-The website is comprised of two repositories, `[site-source](https://github.com/CU-DSI-Scholars/site-source)` and `[DSI-scholars](https://github.com/CU-DSI-Scholars/DSI-scholars)`. The first contains the content used to build the second, which is the website itself. In order to to get started, check out both repositories so that they sit in the same root directory. For example:
+The website is comprised of two repositories, [`site-source`](https://github.com/CU-DSI-Scholars/site-source) and [`DSI-scholars`](https://github.com/CU-DSI-Scholars/DSI-scholars). The first contains the content used to build the second, which is the website itself. In order to to get started, check out both repositories so that they sit in the same root directory. For example:
 
 ```
 mkdir ~/Documents/dsi_scholars
@@ -52,8 +52,8 @@ The following paths and files in `site-source` are important:
 
 In addition, two files will always be reachable through specific URLs by using HTTP redirects. As of writing, these are:
 
-* `content/post/pi_faq_2021_spring_summer.md` - the alias line in this file means that it can always be reached at (/static/pi_faq)[https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_faq/]
-* `content/page/2020-12-09-call-for-faculty-participation-dsi-scholars-spring-summer-2021.md` is aliased to (/static/pi_call)[https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call/]
+* `content/post/pi_faq_2021_spring_summer.md` - the alias line in this file means that it can always be reached at [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_faq/](/static/pi_faq)
+* `content/page/2020-12-09-call-for-faculty-participation-dsi-scholars-spring-summer-2021.md` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call/](/static/pi_call)
 
 When a new FAQ or faculty call are released, or if additional static URLs are desired, these files will have to be edited to remove their alias blocks and those blocks added elsewhere.
 
@@ -74,7 +74,7 @@ URL shortening is done through [bit.ly](bit.ly). It is only truly necessary for 
 
 1. Create and update an application form by cloning the previous [one](https://docs.google.com/forms/d/1804fmD_dkfSvNY3MGkIf2F3oQZzHuFWLbdSHi1Qc73Y/edit)
    * Banner image is created by modifying [static/img/opencall_faculty2.xcf] using [GIMP](https://www.gimp.org/)
-   * It can be helpful to also look at the call from the (year previous)[https://docs.google.com/forms/d/1G2oDkj4_6B8pHeyyowdCaB3OycboLoqNM4KXqFl99Ys/edit?usp=drive_web], to see if any term-specific language needs to be included
+   * It can be helpful to also look at the call from the [year previous](https://docs.google.com/forms/d/1G2oDkj4_6B8pHeyyowdCaB3OycboLoqNM4KXqFl99Ys/edit?usp=drive_web), to see if any term-specific language needs to be included
 2. [Draft](scripts/faculty_call_template.R) an announcement and send it to Jonathan
 
 ## Funding Decision
@@ -100,6 +100,6 @@ Once the emails have been sent, update the [tags](https://cu-dsi-scholars.github
 
 ## Student Application Form and Call
 
-1. Clone and update the previous student application [page/2020-09-09-call-for-student-applications-dsi-dfg-scholars-fall-2020](information page).
-2. Clone and update the previous [https://docs.google.com/forms/d/1M-SVYlR1dKw3plAoJ1rxspTBRunMR-4QutycMEa7jAo/edit](application form).
-3. Schedule an online information session (previous [https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit](slides))
+1. Clone and update the previous student application [information page](page/2020-09-09-call-for-student-applications-dsi-dfg-scholars-fall-2020).
+2. Clone and update the previous [application form](https://docs.google.com/forms/d/1M-SVYlR1dKw3plAoJ1rxspTBRunMR-4QutycMEa7jAo/edit).
+3. Schedule an online information session (previous [slides](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit))
