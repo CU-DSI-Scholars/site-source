@@ -1,10 +1,11 @@
 # Creates project pages using a marked up version of the faculty submission form.
 
+### VARIABLES TO UPDATE #####
 data_dir  <- "data"
-data_file <- "project_info_fall_2020.csv"
+data_file <- "project_info_spring_summer_2021.csv"
 projects <- read.csv(file.path(data_dir, data_file))
 
-output_path <- "../content/post"
+output_path <- "content/post"
 
 # logical TRUE/FALSE for whether or not to overwrite existing files
 overwrite_existing <- TRUE
@@ -15,13 +16,19 @@ project_term <- c("Spring", "Summer")
 library(dplyr)
 
 projects %<>%
-  mutate(funding = Are.you.applying.for.DSI.need.based.stipend.funding..up.to..2500..) %>%
+  mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
                              grepl("own funding", funding) ~ "self",
                              TRUE ~ "matching"),
          student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")    
 
+projects$Decision[is.na(projects$Decision)] <- rbinom(sum(is.na(projects$Decision)), 1, 0.5)
+
 start_date_column <- colnames(projects)[startsWith(colnames(projects), "Earliest.starting.date.of.the.project.")]
+
+semester_hours_column <- colnames(projects)[endsWith(colnames(projects), ".academic.semester")]
+
+### VARIABLES END ###
 
 for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
@@ -31,8 +38,9 @@ for (i in seq_len(nrow(projects))) {
     
     title <- Project.title
     
-    title_lowercase <- gsub("--", "-", trimws(gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(title)))))
+    title_lowercase <- gsub("/", "-", gsub("--", "-", trimws(gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(title))))))
     if (endsWith(title_lowercase, ".")) title_lowercase <- sub("\\.$", "", title_lowercase)
+    if (endsWith(title_lowercase, "-")) title_lowercase <- sub("-$", "", title_lowercase)
     
     if (Program %in% "DFG") {
       title_lowercase <- paste0("dfg-", title_lowercase)
@@ -107,8 +115,7 @@ for (i in seq_len(nrow(projects))) {
                paste0("+ Earliest starting date: ", get(start_date_column)),
                paste0("+ End date: ", End.Date.of.Project))
     
-    hours_semester <- Number.of.hours.per.week.of.work.required.for.the.project.during.the.semester
-    if (!is.na(hours_semester) && hours_semester != "")
+    if (exists(semester_hours_column) && !is.na(hours_semester <- get(semester_hours_column)) && nzchar(hours_semester))
       lines <- c(lines, paste0("+ Number of hours per week of research expected during ", project_term[1L], " ", project_year, ": ~", hours_semester))
     hours_summer <- if (exists("Number.of.hours.per.week.of.work.required.for.the.project.during.the.summer"))
       Number.of.hours.per.week.of.work.required.for.the.project.during.the.summer else NA
@@ -139,4 +146,5 @@ for (i in seq_len(nrow(projects))) {
     close(outfile)
   })
 }
+
 
