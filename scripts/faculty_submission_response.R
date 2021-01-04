@@ -34,7 +34,8 @@ data_file <- "project_info_spring_summer_2021.csv"
 project_term <- "Spring-Summer"
 project_year <- "2021"
 
-student_application_url <- "https://docs.google.com/forms/d/e/1FAIpQLSe3Rxxf9PVZ5IbuRoyy5slMz7kcC9-4ILWPPnyyWNV6nacppg/viewform?usp=sf_link"
+student_application_url <-
+  "https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link"
 
 library(glue, quietly = TRUE)
 

@@ -3,7 +3,7 @@ title: 'Weather Effects on High Frequency Communication Links'
 date: '2021-01-04'
 slug: project-weather-effects-on-high-frequency-communication-links
 categories:
-  - Closed Spring 2021
+  - Open Spring 2021
 tags:
   - Spring 2021
 thumbnailImagePosition: left
@@ -31,10 +31,10 @@ This is an UNPAID research project.
 
 ## Candidate requirements
 + Skill sets: 
-  Some background in Digital Signal Processing such as FFT is required.
-  Some experience with Python is required.
-  Some experience with classification predictive modeling is preferred.
-  Some understanding of wireless networks, or interest to learn is preferred.
+  * Some background in Digital Signal Processing such as FFT is required.
+  * Some experience with Python is required.
+  * Some experience with classification predictive modeling is preferred.
+  * Some understanding of wireless networks, or interest to learn is preferred.
 + Student eligibility: freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes
