@@ -100,6 +100,6 @@ Once the emails have been sent, update the [tags](https://cu-dsi-scholars.github
 
 ## Student Application Form and Call
 
-1. Clone and update the previous student application [information page](page/2020-09-09-call-for-student-applications-dsi-dfg-scholars-fall-2020).
+1. Clone and update the previous student application [information page](page/2020-09-09-call-for-student-applications-dsi-dfg-scholars-fall-2020.md).
 2. Clone and update the previous [application form](https://docs.google.com/forms/d/1M-SVYlR1dKw3plAoJ1rxspTBRunMR-4QutycMEa7jAo/edit).
 3. Schedule an online information session (previous [slides](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit))
