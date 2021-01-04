@@ -22,8 +22,6 @@ projects %<>%
                              TRUE ~ "matching"),
          student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")    
 
-projects$Decision[is.na(projects$Decision)] <- rbinom(sum(is.na(projects$Decision)), 1, 0.5)
-
 start_date_column <- colnames(projects)[startsWith(colnames(projects), "Earliest.starting.date.of.the.project.")]
 
 semester_hours_column <- colnames(projects)[endsWith(colnames(projects), ".academic.semester")]
