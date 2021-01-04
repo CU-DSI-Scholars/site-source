@@ -1,5 +1,5 @@
 ---
-title: 'Quantification of expected bi-allelic genetic variants' rate'
+title: "Quantification of expected bi-allelic genetic variants' rate"
 date: '2021-01-04'
 slug: project-quantification-of-expected-bi-allelic-genetic-variants-rate
 categories:
