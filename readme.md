@@ -73,7 +73,7 @@ URL shortening is done through [bit.ly](bit.ly). It is only truly necessary for 
 ## Faculty Call
 
 1. Create and update an application form by cloning the previous [one](https://docs.google.com/forms/d/1804fmD_dkfSvNY3MGkIf2F3oQZzHuFWLbdSHi1Qc73Y/edit)
-   * Banner image is created by modifying (opencall_faculty2.xcf)[static/img/opencall_faculty2.xcf] using [GIMP](https://www.gimp.org/)
+   * Banner image is created by modifying [opencall_faculty2.xcf](static/img/opencall_faculty2.xcf) using [GIMP](https://www.gimp.org/)
    * It can be helpful to also look at the call from the [year previous](https://docs.google.com/forms/d/1G2oDkj4_6B8pHeyyowdCaB3OycboLoqNM4KXqFl99Ys/edit?usp=drive_web), to see if any term-specific language needs to be included
 2. [Draft](scripts/faculty_call_template.R) an announcement and send it to Jonathan
 
