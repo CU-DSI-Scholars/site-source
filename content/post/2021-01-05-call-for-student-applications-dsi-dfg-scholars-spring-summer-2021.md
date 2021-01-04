@@ -9,6 +9,8 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+aliases:
+  - /static/student_call
 autoThumbnailImage: no
 thumbnailImagePosition: top
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1599672636/opencall_students_fall_2020_jmfszm.png
@@ -25,7 +27,7 @@ The Data For Good Scholars program connects student volunteers to organizations 
 
 The cohort of [Spring](/categories/open-spring-2021) and [Summer](/categories/open-summer-2021)) 2021 projects are ready to accept applications, and can be seen by clicking through those links. To obtain a scroll of all projects, including those from past years, see [here](/). We have created an [**umbrella application page**](https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
 
-An online information session will be held on Friday January 15th, 2021 at 11:00am Eastern time. Please [register](https://columbiauniversity.zoom.us/j/4693624760) for this event. Once the event is complete, a recording and slides from the session will be posted on this page.
+An online [information session](https://columbiauniversity.zoom.us/j/4693624760) will be held on Friday January 15th, 2021 at 11:00am Eastern time. Once the event is complete, a recording and slides from the session will be posted on this page.
 
 {{< alert info >}}
 Click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link) to access the umbrella application page. 
