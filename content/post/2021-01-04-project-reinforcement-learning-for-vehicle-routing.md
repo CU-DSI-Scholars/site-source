@@ -27,8 +27,7 @@ This is an UNPAID research project.
 + Number of hours per week of research expected during Summer 2021: ~15-20 hr/week for Spring, Summer, and Fall 2021
 
 ## Candidate requirements
-+ Skill sets: 
-  M.S. are welcome to register my research credits during the semesters and summer. The student involved in this project will conduct a comprehensive literature review on VRP and develop a RL model. Students with good computer and coding skills are preferred. Skill requirements are:
++ Skill sets: M.S. are welcome to register my research credits during the semesters and summer. The student involved in this project will conduct a comprehensive literature review on VRP and develop a RL model. Students with good computer and coding skills are preferred. Skill requirements are:
   1.	Familiar with reinforcement learning models.
   2.	Familiar with Python. Generating figures, graphs, tables, or statistical models to present results with python. 
   3.	Creating simulation environment in SUMO (a traffic simulator).

@@ -31,10 +31,10 @@ This is an UNPAID research project.
 
 ## Candidate requirements
 + Skill sets: 
-  Understanding of networking (e.g.,cpdump, iperf, WireShark) and familiarity with  Linux OS
-  Programming languages required include Python ( or C/ C++)
-  Knowledge of ML algorithms and Deep Reinforcement Learning prefered
-  Experience with optical transceivers and switch configuration preferred
+  * Understanding of networking (e.g.,cpdump, iperf, WireShark) and familiarity with Linux OS
+  * Programming languages required include Python (or C/ C++)
+  * Knowledge of ML algorithms and Deep Reinforcement Learning prefered
+  * Experience with optical transceivers and switch configuration preferred
 + Student eligibility: freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes

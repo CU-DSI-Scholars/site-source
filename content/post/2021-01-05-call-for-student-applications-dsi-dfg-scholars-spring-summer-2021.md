@@ -1,8 +1,8 @@
 ---
-title: Call for Student Applications - Spring-Summer 2021
+title: 'Call for Student Applications - Spring-Summer 2021'
 author: Tian Zheng and Vincent Dorie
 date: '2021-01-05'
-slug: call-for-student-applications-dsi-scholars-spring-summer-2021
+slug: call-for-student-applications-dsi-dfg-scholars-spring-summer-2021
 categories:
   - Announcement
 tags:
@@ -24,7 +24,7 @@ The Data For Good Scholars program connects student volunteers to organizations 
 
 The cohort of [Spring](/categories/open-spring-2021) and [Summer](/categories/open-summer-2021)) 2021 projects are ready to accept applications, and can be seen by clicking through those links. To obtain a scroll of all projects, including those from past years, see [here](/). We have created an [**umbrella application page**](https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
 
-An online information session will be held on Friday January 15th, at 11:00am Eastern time. Please [register](TBD) for this event. Once the event is complete, a recording and slides will be posted on this page.
+An online information session will be held on Friday January 15th, 2021 at 11:00am Eastern time. Please [register](https://columbiauniversity.zoom.us/j/4693624760) for this event. Once the event is complete, a recording and slides from the session will be posted on this page.
 
 {{< alert info >}}
 Click [**here**](https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link) to access the umbrella application page. 
@@ -38,12 +38,14 @@ The collected applications for each position will be sent to the hosting faculty
 
 The following timetable is subject to adjustments. 
 
++ January 5, 2021
+  + [DSI -> Students] Call for applications is sent to students and application website goes live.
 + January 22nd, 2021
-    + [Students -> DSI] Student applications due.
+  + [Students -> DSI] Student applications due.
 + February 19th, 2021 (expected)
-    + [Faculty -> Student] Email offers of the internship will be sent to students.
+  + [Faculty -> Student] Email offers of the internship will be sent to students.
         
 {{< alert info>}}
-Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](/static/student_faq), or [register](TDB) for the January 15th, 11:00am Eastern time online information session.
+Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our [FAQ](/static/student_faq), or [register](https://columbiauniversity.zoom.us/j/4693624760) for the January 15th, 2021 11:00am Eastern time online information session.
 {{< /alert >}}
 

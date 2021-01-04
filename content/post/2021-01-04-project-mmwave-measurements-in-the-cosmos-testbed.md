@@ -31,9 +31,9 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 
 ## Candidate requirements
 + Skill sets: 
-  Some understanding of wireless networks, or interest to learn
-  Software/Hardware experience: Python, MATLAB, Raspberry Pi
-  Some background in Digital Signal Processing, or interest to learn
+  * Some understanding of wireless networks, or interest to learn
+  * Software/Hardware experience: Python, MATLAB, Raspberry Pi
+  * Some background in Digital Signal Processing, or interest to learn
 + Student eligibility: freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes

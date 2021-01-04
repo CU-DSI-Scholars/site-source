@@ -13,11 +13,10 @@ This project has a two-fold aim. First, we seek to determine what makes an idea 
 
 <!--more-->
 
-
 We need support in the following tasks: 
-•	Extracting important features from recipe preparation instruction using NLP approach 
-•	Identifying sentiment and which ingredients are recommended as substitutes to which ingredients in the review texts 
-•	Efficiently designing an algorithm that runs in real-time and suggest additional ingredients or ingredient replacement that will increase the impact of a new recipe 
+* Extracting important features from recipe preparation instruction using NLP approach 
+* Identifying sentiment and which ingredients are recommended as substitutes to which ingredients in the review texts 
+* Efficiently designing an algorithm that runs in real-time and suggest additional ingredients or ingredient replacement that will increase the impact of a new recipe 
 
 {{< alert success >}}
 This is an UNPAID research project.

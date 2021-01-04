@@ -18,9 +18,9 @@ This is an UNPAID research project.
 {{< /alert >}}
 
 ## Faculty Advisor
-+ Professor: [Craig T Connolly](https://www.ldeo.columbia.edu/; https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences-ehs; https://www.publichealth.columbia.edu/research/columbia-superfund-research-program/columbia-srp)
++ Professor: Craig T Connolly https://www.ldeo.columbia.edu/; https://www.publichealth.columbia.edu/academics/departments/environmental-health-sciences-ehs; https://www.publichealth.columbia.edu/research/columbia-superfund-research-program/columbia-srp
 + Department/School: Lamont-Doherty Earth Observatory; Environmental Health Sciences
-+ Location: Lamont-Doherty Earth Observatory -- Comer Geochemistry Building or the Columbia Mailman School of Public Health
++ Location: Lamont-Doherty Earth Observatory - Comer Geochemistry Building or the Columbia Mailman School of Public Health
 + Our research group conducts interdisciplinary, transformative, research that merges environmental chemistry and biogeochemistry, satellite remote-sensing and geospatial analysis, data science and machine learning, and public health to address questions revolved around arsenic pollution in drinking water.
 
 ## Project Timeline
@@ -31,7 +31,7 @@ This is an UNPAID research project.
 
 ## Candidate requirements
 + Skill sets: 
-  The student’s anticipated tasks may include 1) the aggregation of existing datasets and generation of new data types; 2) data synthesis and analysis using geospatial and visualization techniques; and 3) development of mechanistic linkages with groundwater As contamination. The student will also have the opportunity to 4) leverage machine learning to predict groundwater As concentrations across spatial scales; 5) pair predictions with population density data to evaluate risk of exposure within vulnerable or underserved communities; and 6) integrate temporal climate data to evaluate future scenarios. All tasks can be completed remotely if necessary. 
+  The student's anticipated tasks may include 1) the aggregation of existing datasets and generation of new data types; 2) data synthesis and analysis using geospatial and visualization techniques; and 3) development of mechanistic linkages with groundwater As contamination. The student will also have the opportunity to 4) leverage machine learning to predict groundwater As concentrations across spatial scales; 5) pair predictions with population density data to evaluate risk of exposure within vulnerable or underserved communities; and 6) integrate temporal climate data to evaluate future scenarios. All tasks can be completed remotely if necessary. 
   
   These tasks require the following desired (although not necessary) skills: 1) coursework in environmental science, geoscience, and statistics; 2) proficiency and interest in large data analysis; 3) familiarity and interest to learn geographical information system (GIS) software and R statistical computing platform; and 4) experience or interest in learning data graphing and visualization techniques in R.
 + Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's

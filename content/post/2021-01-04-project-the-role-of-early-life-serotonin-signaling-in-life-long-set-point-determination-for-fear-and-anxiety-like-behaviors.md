@@ -18,7 +18,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 {{< /alert >}}
 
 ## Faculty Advisor
-+ Professor: [Mark Ansorge](Ansorge Lab)
++ Professor: [Mark Ansorge](https://www.columbiapsychiatry.org/profile/mark-ansorge-phd)
 + Department/School: Psychiatry
 + Location: 1051 Riverside drive
 + My lab studies the developmental roles and adult coding properties of momoaminergic neurons

@@ -13,7 +13,6 @@ Advances in genomic technologies have led to the identification of many novel di
 
 <!--more-->
 
-
 Researchers have already developed tools enabling the prioritization of genes potentially associated with dominant disorders. For example, constraint scores identify  highly conserved genes (few observed variants in the population). Variants in these genes are investigated as disease-causing assuming that two functional copies are essential to a specific biological process. 
 
 The identification of novel genes associated with recessive disorders is more difficult.  Several research groups have developed bioinformatic approaches to quantify enrichment for bi-allelic variants (homozygote and compound heterozygote variants).  However, they are cohort dependent and do not easily apply to different populations.  

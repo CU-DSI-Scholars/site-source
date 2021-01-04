@@ -14,7 +14,7 @@ The Acute Care and Emergency Referral Systems (ACERS) Project is a three-year, U
 <!--more-->
 
 
-ACERS is implemented in collaboration with the Ghana Health Service (GHS), Catholic Relief Services (CRS), Columbia University (CU) sidHARTe Program - Mailman School of Public Health, and University of Ghana Regional Institute for Population Studies (RIPS). As an official program of the Government of Ghana, ACERS is fully integrated into the GHS’ Community Health and Planning Services (CHPS) program as well as GHS health centers and district and referral hospital system to streamline EmONC services in each cadre of care.
+ACERS is implemented in collaboration with the Ghana Health Service (GHS), Catholic Relief Services (CRS), Columbia University (CU) sidHARTe Program - Mailman School of Public Health, and University of Ghana Regional Institute for Population Studies (RIPS). As an official program of the Government of Ghana, ACERS is fully integrated into the GHS' Community Health and Planning Services (CHPS) program as well as GHS health centers and district and referral hospital system to streamline EmONC services in each cadre of care.
 
 {{< alert success >}}
 This is an UNPAID research project.
@@ -24,7 +24,7 @@ This is an UNPAID research project.
 + Professor: [Rachel T. Moresky ](https://www.publichealth.columbia.edu/research/strengthening-emergency-systems)
 + Department/School: MSPH / Department of Population and Family Health
 + Location: 60 Haven Avenue
-+ sidHARTe – Strengthening Emergency Systems is part of the Heilbrunn Department of Population and Family Health in the Mailman School of Public Health at Columbia University in New York City. We promote locally driven and evidence-based solutions for health systems in countries with limited health resources. Partnering with national governments, universities, local associations, NGOs, and institutions, we help the integration of complex adaptive health emergency care systems with robust primary health care systems to reduce morbidity and mortality.  We accomplish this through implementation support and science, technical exchange, frontline provider capacity building, data-driven governance, and policy support.
++ sidHARTe - Strengthening Emergency Systems is part of the Heilbrunn Department of Population and Family Health in the Mailman School of Public Health at Columbia University in New York City. We promote locally driven and evidence-based solutions for health systems in countries with limited health resources. Partnering with national governments, universities, local associations, NGOs, and institutions, we help the integration of complex adaptive health emergency care systems with robust primary health care systems to reduce morbidity and mortality.  We accomplish this through implementation support and science, technical exchange, frontline provider capacity building, data-driven governance, and policy support.
 
 ## Project Timeline
 + Earliest starting date: 3/1/2021

@@ -13,7 +13,6 @@ Air quality is a major crisis globally, leading to about 5 million premature dea
 
 <!--more-->
 
-
 The student will be working with large amounts (~1 TB) of spatial air quality data, doing simple descriptive statistics, data manipulation, and data visualization. Python or R are the preferred tools.  
 
 {{< alert success >}}

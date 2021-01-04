@@ -39,6 +39,7 @@ for (i in seq_len(nrow(projects))) {
     title_lowercase <- gsub("/", "-", gsub("--", "-", trimws(gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(title))))))
     if (endsWith(title_lowercase, ".")) title_lowercase <- sub("\\.$", "", title_lowercase)
     if (endsWith(title_lowercase, "-")) title_lowercase <- sub("-$", "", title_lowercase)
+    title_lowercase <- trimws(title_lowercase)
     
     if (Program %in% "DFG") {
       title_lowercase <- paste0("dfg-", title_lowercase)

@@ -31,17 +31,17 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 
 ## Candidate requirements
 + Skill sets: 
-  Required: 
-  - Java, Javascript, and/or Python
-  - Familiar with common algorithms and data structures
-  Nice-to-have
-  - Exposure to privacy and security as well as the testing of these
-  - Exposure to cryptography
-  - Understanding of Blockchain, smart contracts and cryptocurrency methodology
-  - Blockchain programming frameworks including Solidity, Truffle, Ganache
-  - Decentralized storage such as IPFS
-  - Front end programming in HTML, CSS, Javascript, Node.js, React.js
-  - Knowledge of C, C++
+  * Required: 
+    - Java, Javascript, and/or Python
+    - Familiar with common algorithms and data structures
+  * Nice-to-have
+    - Exposure to privacy and security as well as the testing of these
+    - Exposure to cryptography
+    - Understanding of Blockchain, smart contracts and cryptocurrency methodology
+    - Blockchain programming frameworks including Solidity, Truffle, Ganache
+    - Decentralized storage such as IPFS
+    - Front end programming in HTML, CSS, Javascript, Node.js, React.js
+    - Knowledge of C, C++
 + Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes
