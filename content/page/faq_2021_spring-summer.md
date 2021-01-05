@@ -19,7 +19,7 @@ showActions:    false
 
 + **Question:** I missed the deadline to apply, or I would like to hear about other opportunities.
 
-    *Answer*: The Data Science Institute maintains a doc with current for-pay opportunities and this page will be updated with a link to it shortly. SEAS maintains a [site](https://www.cc-seas.columbia.edu/preprofessional/health/opportunities.php?field_category_value=Volunteer&field_type_value=All&field_state_value=All&title=&body_value=) with opportunties of various kinds, although they may not be data-specific.
+    *Answer*: The Data Science Institute maintains a [doc](https://docs.google.com/document/d/1wRTuqScmE88TadHpozLLHUUj3dW0L3mT_iiG5tIX8J0/edit?usp=sharing) with current for-pay opportunities. SEAS maintains a [site](https://www.cc-seas.columbia.edu/preprofessional/health/opportunities.php?field_category_value=Volunteer&field_type_value=All&field_state_value=All&title=&body_value=) with opportunties of various kinds, although they may not be data-specific.
 
 + **Question:** With only one application form, how do I express interest in more than one project?
 
