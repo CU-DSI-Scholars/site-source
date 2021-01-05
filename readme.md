@@ -63,8 +63,10 @@ When a new FAQ or faculty call are released, or if additional static URLs are de
 
 Currently, clip art is hosted on the free image hosting site [Cloudinary](https://cloudinary.com/). It is not necessary to use this, but the site does have some advantages. The structure of a Cloudinary link has some useful information:
 
-* `https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599765419/social_network_bskhfi.png`
-* `https://res.cloudinary.com/USERNAME/image/upload/TRANSFORMATION/FILEID/FILENAME.png`
+```
+https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1599765419/social_network_bskhfi.png`
+https://res.cloudinary.com/USERNAME/image/upload/TRANSFORMATION/FILEID/FILENAME.png`
+```
 
 For the most part, when a new piece of clip art is uploaded it is sufficient to copy an old URL, if necessary change the user name, and change just the file id and file name component. This allows you to re-use the existing transformation, most of which are necessary to turn in the image into a thumbnail of the appropriate size. You an optionally adjust that on Cloudinary itself.
 
@@ -104,7 +106,16 @@ Once the emails have been sent, update the [tags](https://cu-dsi-scholars.github
 
 1. Clone and update the previous student application [information page](content/post/2020-09-09-call-for-student-applications-dsi-dfg-scholars-fall-2020.md).
 2. Clone and update the previous [application form](https://docs.google.com/forms/d/1M-SVYlR1dKw3plAoJ1rxspTBRunMR-4QutycMEa7jAo/edit).
+   * Once a new form has been created, update the `Apply Now` link on the website by editing [config.toml](config.toml)
 3. Clone and update the previous student [FAQ](content/page/faq_2020_fall.md).
 4. Schedule an online information session (previous [slides](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit))
-5. Update, execute, and send the [student announcement](scripts/student_call_template.R) to Jonathan
+5. Update, execute, and send the [student announcement](scripts/student_call_template.R) to Jonathan and Tian
+
+## "Opening" Projects
+
+In sending responses to faculty who were not approved for matching funds and who did not have a student already selected, faculty have the option of having their projects posted as unpaid internships. By default, the [project_page_skeleton.R](scripts/project_page_skeleton.R) script creates pages for these but they are lised as "Closed". To open them:
+
+1. Change the category lines to "Open" in the project's `content/post` markdown file, re-build the website with `blogdown`, and add/commit/push the changes
+2. Add the project title to the application form
+3. Contact faculty, sending them links to the project page and application form and letting them know of the student deadline
 
