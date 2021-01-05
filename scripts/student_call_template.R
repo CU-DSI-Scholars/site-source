@@ -25,7 +25,7 @@ info_session_time <-
   "11:00am Eastern time on January 15th, 2021."
 
 apply_now_img_url <-
-  "https://res.cloudinary.com/vdoriecu/image/upload/v1570330765/apply-now-button_blue_pvjmkq.png"
+  "https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_150/v1570330765/apply-now-button_blue_pvjmkq.png"
 
 year <- 2021
 term <- "Spring/Summer"
@@ -37,7 +37,7 @@ application_deadline_bold <- toupper(application_deadline_long)
 
 # Where the students can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow"
+  "https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link"
 
 
 # Credentials file created from gmail; set to where the file can be found.
@@ -66,7 +66,7 @@ email_body <- glue("
   </a>
   <h1 style=\"color:#0072CE;\">DSI Scholars Program</h1>
   <h2>Call for Student Applications | {term} {year} Cohort</h2>
-  <h2 style=\"color:#FF0000\">DEADLINE TO APPLY: {application_deadline_bold}</h2>
+  <h3 style=\"color:#FF0000\">DEADLINE TO APPLY: {application_deadline_bold}</h3>
   </center>
   <p>The <a href=\"http://datascience.columbia.edu/\">Data Science Institute\\
   </a> is pleased to announce that the Data Science Institute (DSI) and Data \\
@@ -98,7 +98,7 @@ email_body <- glue("
   <p><strong>The Data Science Institute encourages women and \\
   underrepresented minorities to apply to these programs.</strong></p>
   <h3>Applications are due by {application_deadline_long}.</h3>
-  <p><a href=\"application_url\"><img src=\"{apply_now_img_url}\"></a></p>
+  <p><a href=\"{application_url}\"><img src=\"{apply_now_img_url}\"></a></p>
   </center>")
 
 if (!require(gmailr, quietly = TRUE)) {
