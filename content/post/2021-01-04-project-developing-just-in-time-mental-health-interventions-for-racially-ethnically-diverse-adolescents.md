@@ -3,8 +3,8 @@ title: 'Developing Just-In-Time Mental Health Interventions for Racially/Ethnica
 date: '2021-01-04'
 slug: project-developing-just-in-time-mental-health-interventions-for-racially-ethnically-diverse-adolescents
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
+  - Open Spring 2021
+  - Open Summer 2021
 tags:
   - Spring 2021
   - Summer 2021
