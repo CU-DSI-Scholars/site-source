@@ -3,9 +3,9 @@ title: "Quantification of expected bi-allelic genetic variants' rate"
 date: '2021-01-04'
 slug: project-quantification-of-expected-bi-allelic-genetic-variants-rate
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
-  - Closed Flexible Timeline 2021
+  - Open Spring 2021
+  - Open Summer 2021
+  - Open Flexible Timeline 2021
 tags:
   - Spring 2021
   - Summer 2021
