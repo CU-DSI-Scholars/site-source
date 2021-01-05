@@ -1,7 +1,7 @@
 ---
 title: 'Data For Good: African North Americans Database'
 author: Vincent Dorie
-date: '2020-01-04'
+date: '2021-01-04'
 slug: project-dfg-african-north-americans-database
 categories:
   - Open Spring 2021
