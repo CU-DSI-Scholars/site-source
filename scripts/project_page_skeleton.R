@@ -8,7 +8,7 @@ projects <- read.csv(file.path(data_dir, data_file))
 output_path <- "content/post"
 
 # logical TRUE/FALSE for whether or not to overwrite existing files
-overwrite_existing <- TRUE
+overwrite_existing <- FALSE
 
 project_year <- "2021"
 project_term <- c("Spring", "Summer")
@@ -35,12 +35,11 @@ for (i in seq_len(nrow(projects))) {
     if (Program %in% "DSI" && student_selected && Decision == 0)
       return(invisible(NULL))
     
-    title <- Project.title
+    title <- trimws(Project.title)
+    if (endsWith(title, "."))
+      title <- trimws(substr(title, 1, nchar(title) - 1))
     
-    title_lowercase <- gsub("/", "-", gsub("--", "-", trimws(gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(title))))))
-    if (endsWith(title_lowercase, ".")) title_lowercase <- sub("\\.$", "", title_lowercase)
-    if (endsWith(title_lowercase, "-")) title_lowercase <- sub("-$", "", title_lowercase)
-    title_lowercase <- trimws(title_lowercase)
+    title_lowercase <- gsub("--", "-", gsub("[:,'?()]", "", gsub("[ /]", "-", tolower(title))))
     
     if (Program %in% "DFG") {
       title_lowercase <- paste0("dfg-", title_lowercase)
@@ -48,14 +47,17 @@ for (i in seq_len(nrow(projects))) {
     }
     
     outfile_name <- file.path(output_path, paste0(Sys.Date(), "-project-", title_lowercase, ".md"))
-    if (file.exists(outfile_name) && !overwrite_existing) return(invisible(NULL))
+    if (file.exists(outfile_name) && !overwrite_existing)
+      return(invisible(NULL))
     
     outfile <- file(outfile_name, open = "w")
     
     if (!exists("Project.timeline")) {
       duration <- 1L
     } else {
-      duration <- which(sapply(project_term, function(term) grepl(term, Timing.of.project)))
+      duration <- which(sapply(project_term, function(term) grepl(term, Project.timeline)))
+      if (Project.timeline == "Flexible")
+        duration <- seq_along(project_term)
     }
     
     lines <- c("---",
@@ -65,6 +67,8 @@ for (i in seq_len(nrow(projects))) {
     
     categories <- 
       paste0(paste("  -", if (project_closed) "Closed" else "Open", project_term[duration], project_year), collapse = "\n")
+    if (exists("Project.timeline") && grepl("Flexible", Project.timeline))
+      categories <- paste(categories, "\n  -", if (project_closed) "Closed" else "Open", "Flexible Timeline")
     lines <- c(lines, paste0("categories:\n", categories))
     tags <-
       paste0(paste("  -", project_term[duration], project_year), collapse = "\n")

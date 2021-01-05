@@ -3,9 +3,9 @@ title: 'Weather Effects on High Frequency Communication Links'
 date: '2021-01-04'
 slug: project-weather-effects-on-high-frequency-communication-links
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
-  - Closed Flexible Timeline 2021
+  - Open Spring 2021
+  - Open Summer 2021
+  - Open Flexible Timeline 2021
 tags:
   - Spring 2021
   - Summer 2021

@@ -140,10 +140,11 @@ for (i in seq_len(nrow(projects))) {
         </p>")
     } else {
       # All other projects
-      title_lowercase <- gsub("/", "-", gsub("--", "-", gsub(":|,|'|\\?", "", gsub(" ", "-", tolower(Project.title)))))
-      if (endsWith(title_lowercase, ".")) title_lowercase <- sub("\\.$", "", title_lowercase)
-      if (endsWith(title_lowercase, "-")) title_lowercase <- sub("-$", "", title_lowercase)
-      title_lowercase <- trimws(title_lowercase)
+      title <- trimws(Project.title)
+      if (endsWith(title, "."))
+        title <- trimws(substr(title, 1, nchar(title) - 1))
+      
+      title_lowercase <- gsub("--", "-", gsub("[:,'?()]", "", gsub("[ /]", "-", tolower(title)))
       
       url <- glue("https://cu-dsi-scholars.github.io/DSI-scholars/{url_prefix}/project-{title_lowercase}")
       
