@@ -50,10 +50,12 @@ The following paths and files in `site-source` are important:
 
 ### Static URLs
 
-In addition, two files will always be reachable through specific URLs by using HTTP redirects. As of writing, these are:
+In addition, four files will always be reachable through specific URLs by using HTTP redirects. As of writing, these are:
 
-* `content/post/pi_faq_2021_spring_summer.md` - the alias line in this file means that it can always be reached at [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_faq/](/static/pi_faq)
-* `content/page/2020-12-09-call-for-faculty-participation-dsi-scholars-spring-summer-2021.md` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call/](/static/pi_call)
+* `content/page/pi_faq_2021_spring_summer.md` - the alias line in this file means that it can always be reached at [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_faq/](/static/pi_faq)
+* `content/post/2020-12-09-call-for-faculty-participation-dsi-scholars-spring-summer-2021.md` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call/](/static/pi_call)
+* `content/page/faq_2021_spring-summer.md` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/page/static/student_faq/](/static/student_faq)
+* `content/post/2021-01-05-call-for-student-applications-dsi-dfg-scholars-spring-summer-2021` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/page/static/student_call/](/static/student_call)
 
 When a new FAQ or faculty call are released, or if additional static URLs are desired, these files will have to be edited to remove their alias blocks and those blocks added elsewhere.
 
@@ -102,4 +104,5 @@ Once the emails have been sent, update the [tags](https://cu-dsi-scholars.github
 
 1. Clone and update the previous student application [information page](page/2020-09-09-call-for-student-applications-dsi-dfg-scholars-fall-2020.md).
 2. Clone and update the previous [application form](https://docs.google.com/forms/d/1M-SVYlR1dKw3plAoJ1rxspTBRunMR-4QutycMEa7jAo/edit).
+3. Clone and update the previous student [FAQ](post/pi_faq_2020_fall).
 3. Schedule an online information session (previous [slides](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit))
