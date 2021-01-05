@@ -17,10 +17,10 @@
 credentials_file <- "gmail_credentials.json"
 
 # Configure as desired.
-email_from <- "Vincent Dorie <vjd2106@columbia.edu>"
-email_from_display <- "Vincent Dorie"
+email_from <- "Ipek Ensari <ie2145@columbia.edu>"
+email_from_display <- "Ipek Ensari"
 email_replyto <- "dsi-scholars@columbia.edu"
-email_cc <- "tian.zheng@columbia.edu"
+email_cc <- "vjd2106@columbia.edu"
 
 # When sending a project to Campus Connections, manually forward their
 # submission first. This will currently cc Violet in this email, in addition
@@ -41,15 +41,15 @@ library(glue, quietly = TRUE)
 
 email_signature <- glue("
   <p>All the best,<br/>\\
-  Vincent<br/>\\
+  Ipek<br/>\\
   <br/>\\
   --<br/>\\
-  Vincent Dorie<br/>\\
-  Adjunct Research Scientist<br/>\\
+  Ipek Ensari<br/>\\
+  Associate Research Scientist<br/>\\
   Co-Director DSI & DFG Scholar Programs<br/>\\
   Data Science Institute at Columbia University<br/>\\
-  475 Riverside Drive, Interchurch 320L, New York, NY 10027<br/>\\
-  vjd2106@columbia.edu | 646-745-8498</p>")
+  475 Riverside Drive, Interchurch Rm 320, New York, NY 10115<br/>\\
+  ie2145@columbia.edu | 646-745-8498</p>")
 
 # These are auto-generated when the project pages are created and are relative
 # to the date which they are posted under. It should only need updating if
@@ -122,7 +122,7 @@ for (i in seq_len(nrow(projects))) {
             you would like to continue with your selected student researcher \\
             and have them be able to participate in the intellectual \\
             activities organized by the DSI Scholars program (boot camp, \\
-            weekly meetups, and fall poster session), please reply to this \\
+            meetups, and fall poster session), please reply to this \\
             email with their contact information. If you wish to recruit \\
             additional students, we will be happy to include your project in \\
             our call for student applications.</p>")
