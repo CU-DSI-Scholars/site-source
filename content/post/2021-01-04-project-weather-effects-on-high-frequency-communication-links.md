@@ -17,7 +17,7 @@ Future wireless networks will use high-frequency millimeter-wave (mmWave) links 
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+For the summer term, selected candidate(s) may receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

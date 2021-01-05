@@ -17,7 +17,7 @@ The goal of this project is to collect anonymized traces from the Columbia netwo
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+For the summer term, selected candidate(s) may receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
