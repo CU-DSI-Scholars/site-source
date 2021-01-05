@@ -1,11 +1,11 @@
 ---
-title: 'Broadband funding: racial and economic equity'
+title: 'Broadband Funding: Racial and Economic Equity'
 date: '2021-01-04'
 slug: project-broadband-funding-racial-and-economic-equity
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
-  - Closed Flexible Timeline 2021
+  - Open Spring 2021
+  - Open Summer 2021
+  - Open Flexible Timeline 2021
 tags:
   - Spring 2021
   - Summer 2021
