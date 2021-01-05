@@ -51,7 +51,7 @@ for (i in seq_len(nrow(projects))) {
     
     outfile <- file(outfile_name, open = "w")
     
-    if (!exists("Timing.of.project")) {
+    if (!exists("Project.timeline")) {
       duration <- 1L
     } else {
       duration <- which(sapply(project_term, function(term) grepl(term, Timing.of.project)))

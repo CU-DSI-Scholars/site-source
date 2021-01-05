@@ -3,9 +3,11 @@ title: 'Reconstructions of the ocean carbon sink: Assessment of regional uncerta
 date: '2021-01-04'
 slug: project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties
 categories:
-  - Open Spring 2021
+  - Closed Spring 2021
+  - Closed Summer 2021
 tags:
   - Spring 2021
+  - Summer 2021
 thumbnailImagePosition: left
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
 ---
@@ -31,6 +33,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 + Earliest starting date: 3/1/2021
 + End date: 
 + Number of hours per week of research expected during Spring 2021: ~10
++ Project will extend through one of spring or summer terms.
 
 ## Candidate requirements
 + Skill sets: python, machine learning basics (NN, XGB) 
