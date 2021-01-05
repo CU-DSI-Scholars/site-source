@@ -3,9 +3,9 @@ title: 'Identification of genomic and transcriptomic landscape of head and neck 
 date: '2021-01-04'
 slug: project-identification-of-genomic-and-transcriptomic-landscape-of-head-and-neck-cancer
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
-  - Closed Flexible Timeline 2021
+  - Open Spring 2021
+  - Open Summer 2021
+  - Open Flexible Timeline 2021
 tags:
   - Spring 2021
   - Summer 2021
@@ -17,7 +17,7 @@ A highly collaborative project is available in Dr. Alison Taylor's and Dr. Fatem
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) may receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
