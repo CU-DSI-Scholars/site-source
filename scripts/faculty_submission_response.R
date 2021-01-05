@@ -211,7 +211,7 @@ for (i in seq_len(nrow(projects))) {
         projects that are open for application. Your project is listed on the \\
         application form. Applications to your project will be collected and \\
         passed on to you for review on October 1st, along with instructions \\
-        on selecting a student.")
+        on selecting a student.</p>")
     body %<>% glue("\n", email_signature)
     
     if (test_only) {
