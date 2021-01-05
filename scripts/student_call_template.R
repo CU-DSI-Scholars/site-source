@@ -11,19 +11,18 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_fall_2020.png"
+  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_spring-summer_2021.png"
 
-# These two can likely be turned into aliased urls on the website to minimize
-# maintenance
 student_call_url <-
-  "https://cu-dsi-scholars.github.io/DSI-scholars/2020/09/call-for-student-applications-dsi-scholars-fall-2020/"
+  "https://cu-dsi-scholars.github.io/DSI-scholars/static/student_call"
 student_faq_url <-
-  "https://cu-dsi-scholars.github.io/DSI-scholars/page/faq_fall_2020/"
+  "https://cu-dsi-scholars.github.io/DSI-scholars/static/student_faq"
+
 info_session_url <-
-  "https://columbiauniversity.zoom.us/meeting/register/tJIlf-muqzMtEtZOPVAXBFgSpuY6RqwEKO0g"
+  "https://columbiauniversity.zoom.us/j/4693624760"
 
 info_session_time <-
-  "11:00am Eastern time on September 24th."
+  "11:00am Eastern time on January 15th, 2021."
 
 apply_now_img_url <-
   "https://res.cloudinary.com/vdoriecu/image/upload/v1570330765/apply-now-button_blue_pvjmkq.png"
@@ -31,14 +30,14 @@ apply_now_img_url <-
 year <- 2021
 term <- "Spring/Summer"
 
-application_deadline <- as.Date("2021-01-29")
+application_deadline <- as.Date("2021-01-22")
 application_deadline_short <- format(application_deadline, "%m/%d/%Y")
 application_deadline_long <- toupper(format(application_deadline, "%B %d, %Y"))
 application_deadline_bold <- toupper(application_deadline_long)
 
 # Where the students can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSe3Rxxf9PVZ5IbuRoyy5slMz7kcC9-4ILWPPnyyWNV6nacppg"
+  "https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow"
 
 
 # Credentials file created from gmail; set to where the file can be found.
@@ -50,7 +49,7 @@ email_to <- "Vincent Dorie <vjd2106@columbia.edu>"
 email_from <- "Vincent Dorie <vjd2106@columbia.edu>"
 
 email_title <- glue("
-  Data Science Institute {term} Scholars Programs | Application Deadline {application_deadline_short}"
+  Data Science Institute {term} Scholars Programs | Application Deadline {application_deadline_short}")
 
 ### VARIABLES END ###
 
@@ -67,7 +66,7 @@ email_body <- glue("
   </a>
   <h1 style=\"color:#0072CE;\">DSI Scholars Program</h1>
   <h2>Call for Student Applications | {term} {year} Cohort</h2>
-  <h2 style=\"color::#FF0000\">DEADLINE TO APPLY: {application_deadline_bold}</h2>
+  <h2 style=\"color:#FF0000\">DEADLINE TO APPLY: {application_deadline_bold}</h2>
   </center>
   <p>The <a href=\"http://datascience.columbia.edu/\">Data Science Institute\\
   </a> is pleased to announce that the Data Science Institute (DSI) and Data \\
@@ -93,7 +92,7 @@ email_body <- glue("
   projects of which you are most interested, eligible and qualified.</span></p>
   <p>Please email questions to <a href=\"mailto:dsi-scholars@columbia.edu\">\\
   dsi-scholars@columbia.edu</a>, see our <a href=\"{student_faq_url}\">FAQ</a>, \\
-  or <a href=\"{info_session_url\">register</a> for the information session \\
+  or <a href=\"{info_session_url}\">attend</a> the information session \\
   at {info_session_time}.</p>
   <center>
   <p><strong>The Data Science Institute encourages women and \\
@@ -116,16 +115,3 @@ email <- gm_mime(to = email_to,
 
 gm_create_draft(email)
 
-
-
-Call for Student Applications
-Columbia University Data Science Institute is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars Programs for Fall 2020 are open for applications.
-The goal of the DSI Scholars Program is to engage Columbia's undergraduate and master students in data science research with Columbia faculty through a research internship. The program connects students with research projects across Columbia and provides student researchers with additional learning experience and networking opportunities. Through unique enrichment activities, this program aims to foster a learning and collaborative community in data science at Columbia.
-The Data For Good Scholars program connects student volunteers to organizations and individuals working for the social good whose projects have developed a need for data science expertise. As "real world" problems with real world data, these projects are excellent opportunities for students to learn how data science is practiced outside of the university setting and to learn how to work effectively with people for whom data science sits outside of their subject area.
-This year we have had an unprecedented number of projects; please give yourself enough time to read the project descriptions. For your application choose the TOP five projects of which you are most interested, eligible and qualified.
-Please email questions to dsi-scholars@columbia.edu, see our FAQ, or register for the information session at 11:00am Eastern time on September 24th.
-The Data Science Institute encourages women and underrepresented minorities to apply to these programs.
-
-Applications are due by October 1st, 2020.
-
- 
