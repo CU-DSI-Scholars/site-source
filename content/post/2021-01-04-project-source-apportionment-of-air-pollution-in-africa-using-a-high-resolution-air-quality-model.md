@@ -3,9 +3,9 @@ title: 'Source apportionment of air pollution in Africa using a high resolution 
 date: '2021-01-04'
 slug: project-source-apportionment-of-air-pollution-in-africa-using-a-high-resolution-air-quality-model
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
-  - Closed Flexible Timeline 2021
+  - Open Spring 2021
+  - Open Summer 2021
+  - Open Flexible Timeline 2021
 tags:
   - Spring 2021
   - Summer 2021

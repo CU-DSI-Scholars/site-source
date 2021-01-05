@@ -20,7 +20,8 @@ projects %<>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
                              grepl("own funding", funding) ~ "self",
                              TRUE ~ "matching"),
-         student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")    
+         student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes",
+         project_closed = student_selected | (Program %in% "DSI" & funding %in% "matching" & Decision == 0))
 
 start_date_column <- colnames(projects)[startsWith(colnames(projects), "Earliest.starting.date.of.the.project.")]
 
@@ -56,9 +57,6 @@ for (i in seq_len(nrow(projects))) {
     } else {
       duration <- which(sapply(project_term, function(term) grepl(term, Timing.of.project)))
     }
-    
-    project_closed <-
-      student_selected || (Program %in% "DSI" && funding %in% "matching" && Decision == 0)
     
     lines <- c("---",
                paste0("title: '", title, "'"),

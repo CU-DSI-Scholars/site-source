@@ -3,8 +3,8 @@ title: 'Reinforcement learning for vehicle routing'
 date: '2021-01-04'
 slug: project-reinforcement-learning-for-vehicle-routing
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
+  - Open Spring 2021
+  - Open Summer 2021
 tags:
   - Spring 2021
   - Summer 2021

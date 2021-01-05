@@ -3,8 +3,8 @@ title: 'The role of early-life serotonin signaling in life-long set point determ
 date: '2021-01-04'
 slug: project-the-role-of-early-life-serotonin-signaling-in-life-long-set-point-determination-for-fear-and-anxiety-like-behaviors
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
+  - Open Spring 2021
+  - Open Summer 2021
 tags:
   - Spring 2021
   - Summer 2021

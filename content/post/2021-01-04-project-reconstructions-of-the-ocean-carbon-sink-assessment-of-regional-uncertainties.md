@@ -3,8 +3,8 @@ title: 'Reconstructions of the ocean carbon sink: Assessment of regional uncerta
 date: '2021-01-04'
 slug: project-reconstructions-of-the-ocean-carbon-sink-assessment-of-regional-uncertainties
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
+  - Open Spring 2021
+  - Open Summer 2021
 tags:
   - Spring 2021
   - Summer 2021

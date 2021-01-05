@@ -3,8 +3,8 @@ title: 'Mitigating Gender Bias in Sentence-level Natural Language Processing Mod
 date: '2021-01-04'
 slug: project-mitigating-gender-bias-in-sentence-level-natural-language-processing-models
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
+  - Open Spring 2021
+  - Open Summer 2021
 tags:
   - Spring 2021
   - Summer 2021

@@ -3,8 +3,8 @@ title: 'Meta-analysis of single-cell genomic data to define cellular heterogenei
 date: '2021-01-04'
 slug: project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
+  - Open Spring 2021
+  - Open Summer 2021
 tags:
   - Spring 2021
   - Summer 2021

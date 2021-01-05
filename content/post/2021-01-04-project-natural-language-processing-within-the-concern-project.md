@@ -3,9 +3,9 @@ title: 'Natural Language Processing within the CONCERN Project'
 date: '2021-01-04'
 slug: project-natural-language-processing-within-the-concern-project
 categories:
-  - Closed Spring 2021
-  - Closed Summer 2021
-  - Closed Flexible Timeline 2021
+  - Open Spring 2021
+  - Open Summer 2021
+  - Open Flexible Timeline 2021
 tags:
   - Spring 2021
   - Summer 2021
