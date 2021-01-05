@@ -1,7 +1,7 @@
 ---
-title: 'California Water Futures: Can We Predict the Future Value of California Water Amid Fear of Scarcity?'
+title: "California's Water Futures: Can We Predict the Future Value of California's Water Amid Fear of Scarcity?"
 date: '2021-01-04'
-slug: project-california-water-futures-can-we-predict-the-future-value-of-california-water-amid-fear-of-scarcity
+slug: project-californias-water-futures-can-we-predict-the-future-value-of-californias-water-amid-fear-of-scarcity
 categories:
   - Open Spring 2021
   - Open Summer 2021
@@ -18,7 +18,7 @@ Water joined gold, oil and other commodities traded on Wall Street, highlighting
 
 Researchers, government, nonprofit, and public initiatives seek innovative approaches to help water consumers to take sustainable actions. We are a group of scientists from academia and the private sector who seek to develop a user-relevant tool to predict water risk that is relevant for water futures, using deep learning methods, user research, and behavioral data. This work is a part of the California Water Data Challenge under Western Big Data Innovation Hub. 
 
-Can we successfully predict the future value of California water amid fear of scarcity?
+Can we successfully predict the future value of California's water amid fear of scarcity?
 
 {{< alert success >}}
 This is an UNPAID research project.
