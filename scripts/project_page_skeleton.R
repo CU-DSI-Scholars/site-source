@@ -94,10 +94,10 @@ for (i in seq_len(nrow(projects))) {
                    "{{< alert success >}}\nThis is an UNPAID research project.\n{{< /alert >}}")
       } else if (funding %in% "matching" && Decision == 1) {
         lines <- c(lines,
-                   "{{< alert success >}}\nThis project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
+                   "{{< alert success >}}\nThis project is eligible for a matching fund stipend from the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
       } else if (funding %in% "self") {
         lines <- c(lines,
-                   "{{< alert success >}}\nSelected candidate(s) may receive a stipend directly from the faculty advisor. This not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
+                   "{{< alert success >}}\nSelected candidate(s) may receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
 
       }
     }
