@@ -13,7 +13,7 @@ overwrite_existing <- FALSE
 project_year <- "2021"
 project_term <- c("Spring", "Summer")
 
-library(dplyr)
+library(dplyr, quietly = TRUE)
 
 projects %<>%
   mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
