@@ -15,17 +15,17 @@ showActions:    false
 ---
 + **Question:** I applied to the program by deadline. When will I hear back from faculty?
 
-    *Answer*: Faculty will be reviewing applications between the student deadline of October 1st and October 23rd. If chosen for a project, faculty will contact you during that window and arrange for an interview or some sort of follow up. Not all projects successfully make selections during that time period, so an update will be sent to all students on October 23rd.
+    *Answer*: Faculty will be reviewing applications between the student deadline of January 2nd and February 19th. If chosen for a project, faculty will contact you during that window and arrange for an interview or some sort of follow up. Not all projects successfully make selections during that time period, so an update will be sent to all students around February 19.
 
 + **Question:** I missed the deadline to apply, or I would like to hear about other opportunities.
 
-    *Answer*: The Data Science Institute maintains a [doc](https://docs.google.com/document/d/1BDFmDLDnWHu1gNzFe7ncQoAdSENctesEUiCNqELUgGA) with current for-pay opportunities; between applications for this program it also includes research internships and volunteer positions. SEAS maintains a [site](https://www.cc-seas.columbia.edu/preprofessional/health/opportunities.php?field_category_value=Volunteer&field_type_value=All&field_state_value=All&title=&body_value=) with opportunties of various kinds, although they may not be data-specific.
+    *Answer*: The Data Science Institute maintains a doc with current for-pay opportunities and this page will be updated with a link to it shortly. SEAS maintains a [site](https://www.cc-seas.columbia.edu/preprofessional/health/opportunities.php?field_category_value=Volunteer&field_type_value=All&field_state_value=All&title=&body_value=) with opportunties of various kinds, although they may not be data-specific.
 
 + **Question:** With only one application form, how do I express interest in more than one project?
 
     *Answer*: It is recommended that you prioritize based on your interest and skills. To a large extent, the methods of data science can be translated from one domain to another so demonstrating core competency is paramount. If you feel the need, you can address a portion of your personal statement to the PIs of each program to which you are applying.
 
-+ **Question:** I recently graduated in May, 2020. Am I still eligible for the program?
++ **Question:** I recently graduated in December, 2020. Am I still eligible for the program?
 
     *Answer*: Unfortunately, this program is oriented towards current students.
 
@@ -48,8 +48,4 @@ showActions:    false
 + **Question:** I will be working as a student researcher in lab xxx under the supervision of Professor YY this semester. I am interested in participating in the DSI scholars program's activities (e.g., boot camp, weekly meet-ups, etc). Can I apply?
 
     *Answer*: Yes, with your faculty advisor's permission, you are welcome to participate when space permits. We welcome all undergraduate researchers to participate in the DSI scholars activities such as the boot camp, the weekly series and the fall poster social. Please write to <dsi-scholars@columbia.edu>.
-
-+ **Question:** I missed the information session. Where can I find the slides and recording?
-
-    *Answer*: [Here](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit?usp=sharing) and [here](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f7e5c53-3da8-4d96-9ce1-ac400104713e) respectively. A LionMail email address may be required to access these resources.
 
