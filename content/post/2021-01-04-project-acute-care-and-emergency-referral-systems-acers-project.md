@@ -16,7 +16,6 @@ The Acute Care and Emergency Referral Systems (ACERS) Project is a three-year, U
 
 <!--more-->
 
-
 ACERS is implemented in collaboration with the Ghana Health Service (GHS), Catholic Relief Services (CRS), Columbia University (CU) sidHARTe Program - Mailman School of Public Health, and University of Ghana Regional Institute for Population Studies (RIPS). As an official program of the Government of Ghana, ACERS is fully integrated into the GHS' Community Health and Planning Services (CHPS) program as well as GHS health centers and district and referral hospital system to streamline EmONC services in each cadre of care.
 
 {{< alert success >}}

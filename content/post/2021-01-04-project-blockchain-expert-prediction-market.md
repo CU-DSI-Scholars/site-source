@@ -16,7 +16,7 @@ Prediction Markets have been used to forecasts outcomes of research interest usi
 <!--more-->
 
 {{< alert success >}}
-This project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.
+This project is eligible for a matching fund stipend from the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

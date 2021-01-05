@@ -22,7 +22,7 @@ The CONCERN project aims to develop models and tools to quantify clinician conce
 This project utilizes SQL and Python programing languages.
 
 {{< alert success >}}
-Selected candidate(s) may receive a stipend directly from the faculty advisor. This not a guarantee of payment, and the total amount is subject to available funding.
+Selected candidate(s) may receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

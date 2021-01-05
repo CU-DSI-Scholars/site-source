@@ -19,7 +19,7 @@ Air quality is a major crisis globally, leading to about 5 million premature dea
 The student will be working with large amounts (~1 TB) of spatial air quality data, doing simple descriptive statistics, data manipulation, and data visualization. Python or R are the preferred tools.  
 
 {{< alert success >}}
-This project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.
+This project is eligible for a matching fund stipend from the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

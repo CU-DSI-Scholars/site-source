@@ -20,7 +20,7 @@ In the McKinley group, we have developed several data science techniques to reco
 For this project, the data will be 100 realizations of simulated surface ocean pCO2, subsampled as the real data (SOCAT, www.socat.info), as well as simulated sea surface temperature, chlorophyll, salinity, and mixed layer depth for 1982-2016. All datasets are already in use, thus data preparation will not be a significant task. 
 
 {{< alert success >}}
-This project is eligible for a matching fund stipend from the Data Science Institute. This not a guarantee of payment, and the total amount is subject to available funding.
+This project is eligible for a matching fund stipend from the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
