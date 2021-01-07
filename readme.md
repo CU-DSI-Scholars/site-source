@@ -119,3 +119,7 @@ In sending responses to faculty who were not approved for matching funds and who
 2. Add the project title to the application form
 3. Contact faculty, sending them links to the project page and application form and letting them know of the student deadline
 
+## Tracking Students
+
+For now, unfortunately students need to be tracked in two places: one for payment info and one for program oversight.
+
