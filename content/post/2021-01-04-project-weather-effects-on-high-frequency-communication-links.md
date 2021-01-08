@@ -14,7 +14,7 @@ tags:
   - Signal Processing
   - Network Analysis
 thumbnailImagePosition: left
-thumbnailImage:https://res.cloudinary.com/datatransformer/image/upload/c_thumb,w_200,g_face/v1610129546/clipart248765_fp67d2.png
+thumbnailImage: https://res.cloudinary.com/datatransformer/image/upload/c_thumb,w_200,g_face/v1610129546/clipart248765_fp67d2.png
 ---
 Future wireless networks will use high-frequency millimeter-wave (mmWave) links for transmitting and receiving information with high throughput. A key difference between mmWave links and conventional sub-6GHz links is that mmWave links are severely affected by weather conditions. Students working on this project will use a state-of-the-art mmWave radar to assess the impact of wind speed, temperature, humidity, and other factors on the high-frequency link. The end goal of the project is to develop a classifier that can infer weather conditions based on the signal received from the mmWave radar. In this project, students are expected to learn how the mmWave radar works, design experiments to obtain labeled data, perform measurements, and develop the classifier.
 
