@@ -52,10 +52,10 @@ The following paths and files in `site-source` are important:
 
 In addition, four files will always be reachable through specific URLs by using HTTP redirects. As of writing, these are:
 
-* `content/page/pi_faq_2021_spring_summer.md` - the alias line in this file means that it can always be reached at [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_faq/](/static/pi_faq)
-* `content/post/2020-12-09-call-for-faculty-participation-dsi-scholars-spring-summer-2021.md` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call/](/static/pi_call)
-* `content/page/faq_2021_spring-summer.md` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/page/static/student_faq/](/static/student_faq)
-* `content/post/2021-01-05-call-for-student-applications-dsi-dfg-scholars-spring-summer-2021` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/page/static/student_call/](/static/student_call)
+* `content/page/pi_faq_2021_spring_summer.md` - the alias line in this file means that it can always be reached at [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_faq/](https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_faq/)
+* `content/post/2020-12-09-call-for-faculty-participation-dsi-scholars-spring-summer-2021.md` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call/](https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call/)
+* `content/page/faq_2021_spring-summer.md` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/static/student_faq/](https://cu-dsi-scholars.github.io/DSI-scholars/static/student_faq/)
+* `content/post/2021-01-05-call-for-student-applications-dsi-dfg-scholars-spring-summer-2021` is aliased to [https://cu-dsi-scholars.github.io/DSI-scholars/static/student_call/](https://cu-dsi-scholars.github.io/DSI-scholars/static/student_call/)
 
 When a new FAQ or faculty call are released, or if additional static URLs are desired, these files will have to be edited to remove their alias blocks and those blocks added elsewhere.
 
@@ -121,5 +121,5 @@ In sending responses to faculty who were not approved for matching funds and who
 
 ## Tracking Students
 
-For now, unfortunately students need to be tracked in two places: one for payment info and one for program oversight.
+For now, unfortunately students need to be tracked in two places: one for [payment](https://docs.google.com/spreadsheets/d/1HZanMFHPHIF7nVmIxa52A2JjbHYJyrWp4aGGZyYwTBY/edit#gid=0) info and one for program [oversight](https://docs.google.com/spreadsheets/d/1_wQZX-PCAHGvhRKO_ldlvFIy0P2Pc5BPbOtKunLsMKg/edit#gid=0). The payment sheet should be cloned each term. In each instance, add rows to record every student and all of the faculty who participate. 
 
