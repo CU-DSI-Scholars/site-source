@@ -25,19 +25,24 @@ Gmail drafts are created using the [gmailr](https://github.com/r-lib/gmailr) pac
 The website is comprised of two repositories, [`site-source`](https://github.com/CU-DSI-Scholars/site-source) and [`DSI-scholars`](https://github.com/CU-DSI-Scholars/DSI-scholars). The first contains the content used to build the second, which is the website itself. In order to to get started, check out both repositories so that they sit in the same root directory. For example:
 
 ```
-mkdir ~/Documents/dsi_scholars
-cd ~/Documents/dsi_scholars
+mkdir ~/Documents/CU-DSI-Scholars
+cd ~/Documents/CU-DSI-Scholars
 git clone https://github.com/CU-DSI-Scholars/site-source
 git clone https://github.com/CU-DSI-Scholars/DSI-scholars
 ```
 
 The website itself is built from `site-source` using the [blogdown](https://github.com/rstudio/blogdown) package. The general workflow is:
 
-1. Modify `site-source` in some way.
-   1. Check in the change into the repository (`git add` new files; `git commit -m '` commit message `'`; `git push`)
+1. Modify `site-source` in some way and check in the change into the repository:
+   1. Change directory to the site source by executing `cd ~/Documents/CU-DSI-Scholars/site-source`
+   2. Evaluate the changes by executing `git status`
+   3. Add any updated files by using `git add -u`
+   4. Add any new files by using `git add FILE_NAME`
+   5. Commit the changes by using `git commit -m 'COMMIT_MESSAGE'`
+   6. Push the changes `git push`
 2. Load `site-source.Rproj` in Rstudio or start a base R session and set the working directory to `PATH/TO/site-source`
 3. Run `blogdown::build_site()` from within R; this will update 
-4. Check in the changes to the `DSI-scholars` repository using `git` add/commit/push
+4. Check in the changes to the `DSI-scholars` repository using `git` status/add/commit/push steps from above
 
 ## Structure of the Repository
 
