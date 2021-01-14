@@ -9,8 +9,10 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Information Technology
+  - SAS
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1610665742/healthcare_technology_xg9fal.png
 ---
 Using a validated survey called the Digital IT Maturity Survey, the team is conducting a three-wave, longitudinal, repeated measures survey in a national sample of NHs. Currently, in year 2 of recruitment and analyzing year 1 data. Methods include an examination of the relationships between NH IT Maturity and stages of maturity, and nationally-reported, publicly-available NH Quality Measures available through Nursing Home Compare over three consecutive years. Specific aims are: 1) Explore NH IT maturity using the survey and staging model during a 3-year national assessment 2) Examine if NH IT maturity is associated with CMS quality measures in a national sample of NHs over 3 years. This study includes a survey of NH IT Maturity in a nationally representative sample including 10% of NHs recruited from each state in the United States (N=1,570). Statistical analysis will be done using the software SAS v9 (SAS Institute Inc., Cary, NC, USA). Since the sampling method involves stratification by state and since the sampling weights assigned to homes will depend on the number of respondents within each state, the analysis must take the complex sampling design into account. SAS procedures including SURVEYMEANS, SURVEYFREQ, SURVEYLOGISTIC, and SURVEYREG will be used for such analyses.
 

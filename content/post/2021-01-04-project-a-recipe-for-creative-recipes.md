@@ -8,8 +8,13 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - NLP
+  - Word Embeddings
+  - Recommendation Models
+  - Python
+  - R
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1610664880/chefs_cpeoc4.png
 ---
 This project has a two-fold aim. First, we seek to determine what makes an idea seem novel versus ordinary and if there is an ideal mix of the two. Second, building on these findings, we build a generative model that suggests tweaks to an idea that enhance its perceived creativity and appeal. We will pursue these two aims using 69K recipes and reviews from allrecipes.com. We will use NLP approach to extract important features from the recipe such as ingredients, preparation instruction and review content.
 

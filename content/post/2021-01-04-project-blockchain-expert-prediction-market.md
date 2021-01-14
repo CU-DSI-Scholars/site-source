@@ -8,8 +8,12 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Blockchain
+  - Java
+  - Javascript
+  - Python
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1610665963/blockchain_hlh1ez.png
 ---
 Prediction Markets have been used to forecasts outcomes of research interest using market mechanism (See https://www.nature.com/news/the-power-of-prediction-markets-1.20820). A decentralized prediction market, Augur, has been created on blockchain for betting purposes (See, https://www.augur.net/). An alternative approach to prediction market has been proposed in Dalal et al (https://www.sciencedirect.com/science/article/abs/pii/S0040162511000734).  This project proposes to develop a new model for decentralized prediction market which can be used to elicit opinions of university researchers on socially important issues. Specifically, the project will use Ethereum based platform to develop a smart contract and an ERC-20 compliant token for researchers to participate in the new market.
 

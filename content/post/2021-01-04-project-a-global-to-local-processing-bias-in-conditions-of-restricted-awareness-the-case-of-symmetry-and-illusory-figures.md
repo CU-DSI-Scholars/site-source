@@ -6,8 +6,12 @@ categories:
   - Closed Spring 2021
 tags:
   - Spring 2021
+  - Behavioral Data
+  - Image Analysis
+  - Psychology
+  - Python
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1610664542/perception_jrkdpd.png
 ---
 A wealth of evidence for the automaticity of perceptual organization processes points toward the existence of a global-to-local processing bias in early perceptual stages. Global features are encoded and spontaneously reported during early conscious vision, resulting in the perception of coherent objects prior to identifying detailed information. Yet, results from experiments that presented illusory figure presentation below the perceptual threshold to study the reliance of perceptual organization on visual awareness have shown conflicting findings, leaving open the question of how global features interact during figure perception. The present study will examine the interaction between symmetry and perceptual completion under conditions of restricted awareness. 
 
