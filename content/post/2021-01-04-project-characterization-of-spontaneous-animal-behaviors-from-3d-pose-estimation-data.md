@@ -9,8 +9,12 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Python
+  - Cloud Computing
+  - Pose Estimation
+  - Unsupervised Learning
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_left,w_200/v1610725926/newt_lgsp8k.png
 ---
 A major goal in neuroscience is to understand how neuronal activity gives rise to behavior. With new technologies, it is possible to record the activity of thousands of neurons simultaneously. However, the interpretation of these data depends on a solid understanding of animal behavior.
 

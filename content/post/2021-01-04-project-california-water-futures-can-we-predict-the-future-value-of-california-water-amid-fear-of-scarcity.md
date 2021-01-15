@@ -9,8 +9,10 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Deep Learning
+  - Java
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1610724804/river2_xzroof.png
 ---
 Water joined gold, oil and other commodities traded on Wall Street, highlighting worries that the life-sustaining natural resource may become scarce across more of the world. In the state of California, the biggest U.S. agriculture market and world's fifth-largest economy, this challenge is particularly prevalent. Farmers, hedge funds and municipalities are now able to prepare for the risk that future water availability issues can bring in the state of California. 
 
