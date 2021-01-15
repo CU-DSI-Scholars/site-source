@@ -14,7 +14,7 @@ tags:
   - Pose Estimation
   - Unsupervised Learning
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_left,w_200/v1610725926/newt_lgsp8k.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_west,h_200,w_200,y_200/v1610725926/newt_lgsp8k.png
 ---
 A major goal in neuroscience is to understand how neuronal activity gives rise to behavior. With new technologies, it is possible to record the activity of thousands of neurons simultaneously. However, the interpretation of these data depends on a solid understanding of animal behavior.
 
