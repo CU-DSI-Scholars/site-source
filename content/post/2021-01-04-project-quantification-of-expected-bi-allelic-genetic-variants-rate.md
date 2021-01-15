@@ -9,8 +9,12 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - R
+  - Python
+  - Statistics
+  - Genetics
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579389866/chromosomes_s30ivl.png
 ---
 Advances in genomic technologies have led to the identification of many novel disease-gene associations, allowing medical diagnoses to be more precise and tailored to an individual. However, the high number of variants present in each individual represents a significant challenge for the implementation of genomic medicine. The goal of this project is to enable the identification of novel genes associated with recessive disorders.  
 

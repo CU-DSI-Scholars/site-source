@@ -9,8 +9,13 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Python
+  - MATLAB
+  - Wireless Networks
+  - Signal Processing
+  - On Campus
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1610743186/em_signals_n2fwof.png
 ---
 5G cellular networks will use high-frequency millimeter-wave (mmWave) communication, which promises high data rates and ample spectrum availability. Students working on this project will help conduct a mmWave wireless channel measurement campaign around the COSMOS testbed (www.cosmos-lab.org), a wireless networking testbed located at Columbia stretching between 120th and 136th St. In collaboration with Bell Labs students will be able to use unique, state-of-the-art mmWave equipment to conduct these measurements (see pre-pandemic example in https://wimnet.ee.columbia.edu/wp-content/uploads/2019/08/mmNets2019_COSMOS_28GHz.pdf). The measurements will play an important role in the development of network-level control algorithms, which is the other, more analytical side of this research project.
 
