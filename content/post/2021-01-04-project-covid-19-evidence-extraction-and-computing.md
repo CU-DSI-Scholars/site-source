@@ -13,7 +13,7 @@ tags:
   - Ontology Learning
   - COVID
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579200066/DSI-scholars/jsna1.png
+thumbnailImage: https://res.cloudinary.com/tz33cu/image/upload/c_thumb,w_200,g_face/v1579200066/DSI-scholars/jsna1.png
 ---
 With the explosive growth of medical literature, making sense of medical evidence is harder than ever. The free text form also makes it difficult to perform evidence retrieval of appraisal. There is a great need for tools and methods that can structure and reason over medical evidence. The goal of this project is to develop computational and symbolic methods to extract evidence from PubMed abstracts, integrate it with evidence derived from real world clinical data (or practice-based evidence), and perform automated knowledge discovery and evidence reasoning. We also hope this research can support evidence-based medicine during the COVID-19 pandemic and provide opportunities for students to hone his/her skills on natural language processing, data mining, deep learning, and semantic knowledge engineering. We have solid preliminary results for the students to build upon. An open-source PICO parser that extracts Population, Intervention, Comparison and Outcome information from PubMed abstracts has been developed and published. Current COVID-19 literature has been downloaded from PubMed and been pre-processed. Preliminary analyses are under way to investigate the patterns in the study populations in COVID-19 clinical studies. Our next steps include but are not limited to evidence summarization at the study level and evidence reasoning at the problem/topic level. 
 

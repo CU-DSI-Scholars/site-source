@@ -8,8 +8,11 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Software Engineering
+  - Mobile App Development
+  - Mental Health
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579394620/schizophrenia_vknalx.png
 ---
 We are conducting a study at the Columbia School of Social Work to examine associations between adolescent mental health and physiological data (collected through smart watches), sociability metrics (e.g., number of texts, amount of time on social media platforms) and self-reported daily stressors (collected through mobile surveys) and use this data to inform the development of a just-in-time adaptive intervention (delivered by smartphone) to reduce mental health problems among adolescents. Just-in-time adaptive interventions aim to provide the right type/amount of support, at the right time, by adapting to an individual's changing internal and contextual state. We are looking for a student(s) to develop a mobile app (Android and iOS compatible) that has the following capabilities:
 

@@ -9,8 +9,13 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - R
+  - Excel
+  - Omics
+  - Sequence Data
+  - Cancer
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569961190/dna_transcription_a8abd2.png
 ---
 A highly collaborative project is available in Dr. Alison Taylor's and Dr. Fatemeh Momen-Heravi's lab. This project aims to identify molecular changes such as mutations and RNA signature of head and neck cancer in Black/African American and Hispanic minority populations with the goal of identifying novel therapies for cancer patients and reduce health disparities. The project entails analysis of DNA and RNA sequencing data. Basic coding skills are necessary and the student will be mentored by both principal investigators. The prospective candidate should be motivated, a fast learner, and be able to work in a highly collaborative team environment. 
 
