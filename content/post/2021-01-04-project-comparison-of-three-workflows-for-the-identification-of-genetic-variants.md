@@ -9,8 +9,13 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Omics
+  - R
+  - Python
+  - Statistics
+  - Genetics
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,a_90,g_face/v1579388815/learning_network_al6t8f.png
 ---
 Recent advances in genomic technologies have led to the identification of many novel disease-associated genes, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to extract the genetic information from raw data, including The Broad Institute's GATK, Seven Bridge's GenomeGraph and Google's DeepVariant. These workflows can lead to the identification of different genetic variants, raising the risk of missing disease-causing variants when using only one of these methods. 
 
