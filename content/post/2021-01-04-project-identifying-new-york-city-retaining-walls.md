@@ -1,7 +1,7 @@
 ---
 title: "Data For Good: Identifying New York City Retaining Walls"
 author: Vincent Dorie
-date: '2020-09-08'
+date: '2021-01-04'
 slug: project-dfg-identifying-new-york-city-retaining-walls
 categories:
   - Open Spring 2021
