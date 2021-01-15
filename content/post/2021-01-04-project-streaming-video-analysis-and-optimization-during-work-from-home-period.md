@@ -9,8 +9,13 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Unix-Linux
+  - Python
+  - Internet Networking
+  - Machine Learning
+  - Reinforcement Learning
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579391232/streaming_vlhymp.png
 ---
 The goal of this project is to collect anonymized traces from the Columbia network in order to analyze video traffic characteristics during the work/study-from home period. This information will be used for developing various ML-based tools for Quality of Experience (QoE) measurement. We will perform the feature extraction at the collection time itself and use anonymization techniques (e.g., IP address anonymization), to preserve user privacy. Students will analyze/measure encrypted network traffic to provide ground truth for potential RL/ML algorithms for estimating video QoE and identifying device/application (e.g., the start of a video streaming session). These algorithms can serve as a basis for new video adaptation techniques (see for example - https://wimnet.ee.columbia.edu/wimnet-team-wins-3rd-place-in-the-acm-mmsys20-twitch-grand-challenge/)
 

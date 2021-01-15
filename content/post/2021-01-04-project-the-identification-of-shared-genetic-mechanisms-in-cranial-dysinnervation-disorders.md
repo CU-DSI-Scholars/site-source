@@ -9,8 +9,11 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - R
+  - Linux-Unix
+  - Statistics
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1610746250/brain_spine_h0svy8.png
 ---
 The goal of this project is to study the molecular background of various congenital disorders affecting the cranial nerves, which are important in senses (hearing, vision, smell), facial muscle movements and more. Abnormal cranial nerve development can cause hearing loss, eye-movement disorders, facial weakness, loss of smell, and difficulties with respiration and swallowing. Some individuals may also have other motor, sensory, intellectual, behavioral and social disabilities. These disorders cause significant disability and are caused by genetic variants, often novel variation or de novo. Unfortunately, disorders affecting the 8th cranial nerve or vestibulocochlear nerve (CN VIII), important in hearing and balance, have been largely understudied. As various cranial nerves can be affected together, such as in Moebius syndrome, and as the vestibulocochlear nerve (CN VIII) and facial nerve (CN VII) also share a path in the internal auditory canal, it is likely that these disorders share underlying genes or closely interacting genes. To investigate the genetic architecture of cranial nerve abnormalities we suggest to molecularly investigate an in-house CN VIII cohort and other cranial dysinnervation cohorts. We will study rare genomic variants (both small variant as structural variants) to identify shared molecular pathways and genes amongst individuals with cranial dysinnervation disorders. 
 

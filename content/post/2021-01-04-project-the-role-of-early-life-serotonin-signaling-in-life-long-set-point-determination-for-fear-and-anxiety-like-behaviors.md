@@ -8,8 +8,9 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Pose Estimation
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1610746426/neurotransmitters_jcyzmz.png
 ---
 This project investigates the long-term effects of perinatal serotonin modulation on unlearned fear and anxiety like behaviors. The project will use DeepLabCut (a method for 3D pose estimation based on transfer learning with deep neural networks) to quantify fear and anxiety-related behaviors in animals, in which serotonin has been chemogenetically manipulated early in life. 
 

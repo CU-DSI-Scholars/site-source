@@ -8,8 +8,11 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Omics
+  - R
+  - Cancer
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579395344/brown_mouse_af5pcj.png
 ---
 We have a position open for a student(s) who is/are interested in working on systems biology projects in bladder and prostate cancer. Specifically, we are looking for students who are well versed in statistical analysis, basic understanding of standard statistical techniques (appied to biology is a plus) and knowledge of R is required. The position will entail supporting post-doctoral members of the lab with computational analyses of different types of biological data in a wide range of projects. 
 
