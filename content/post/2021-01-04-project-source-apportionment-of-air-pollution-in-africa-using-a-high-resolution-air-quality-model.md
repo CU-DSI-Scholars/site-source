@@ -9,8 +9,11 @@ categories:
 tags:
   - Spring 2021
   - Summer 2021
+  - Climate Change
+  - Python
+  - R
 thumbnailImagePosition: left
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,g_east,h_200,w_200,y_200/v1610745507/pollution_cloud_mnenxl.png
 ---
 Air quality is a major crisis globally, leading to about 5 million premature deaths every year. In sub-Saharan Africa, there is little air pollution data available to characterize the problem, and a lack of focus on solutions. Using output from a high spatiotemporal resolution atmospheric chemistry transport model over Africa simulated by Dr. Westervelt and his group, the student will characterize levels of pollution and validate model results by comparing observed data to model output. The student will also analyze results from sensitivity simulations in which sources of air pollution have been artificially "turned off" in the model. Comparison between the two simulations will allow for source attribution of air pollution, which is important for developing satisfactory mitigation strategies to improve air quality. 
 
