@@ -37,7 +37,7 @@ The Urban Resource Recovery (URR) working group, formerly known as the Construct
 
 About T+G Working Groups. Town+Gown working groups accelerate the action research cycle and move Town+Gown’s work to the "thought leader" stage and toward a more systemic form of decision-making by providing an architecture for intentional, targeted intentional research projects focused on the identified research gap and increasing academic synthesis and translation of the results to serve as useful applied research resources for policy makers.
 
-Full details can be found [here](/file/town_gown_mapping_construction.pdf).
+Full details can be found [here](/file/town_gown_mapping_construction_2.pdf).
 
 ## Project timeline
 + Earliest starting date: 3/01/2020
