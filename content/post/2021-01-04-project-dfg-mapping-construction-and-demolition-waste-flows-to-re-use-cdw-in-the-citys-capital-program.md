@@ -32,6 +32,7 @@ This is a volunteer opportunity for students to use their skills for the social 
 ## Project Owners
 + [https://www1.nyc.gov/site/ddc/about/town-gown.page](https://www1.nyc.gov/site/ddc/about/town-gown.page)
 + Terri Matthews, Director, Town+Gown (@ NYC DDC)
++ Jennifer McDonnell, Resource Recovery Program Manager, Department of Environmental Protection
 
 The Urban Resource Recovery (URR) working group, formerly known as the Construction+Demolition Waste (CDW) working group, is focused on supporting applied research and innovative policy design to close construction material loops. The URR has developed a Closing Loops City Program (CLEP) that initially focuses on recycled concrete aggregate, glass pozzolan and soil, with biosolids and other materials to follow and leverages the City’s capital program to increase the re-use of all material generated within the City that is suitable for re-use in construction projects. 
 
