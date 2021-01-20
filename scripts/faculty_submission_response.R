@@ -40,16 +40,16 @@ student_application_url <-
 library(glue, quietly = TRUE)
 
 email_signature <- glue("
-  <p>All the best,<br/>\\
-  Ipek<br/>\\
-  <br/>\\
-  --<br/>\\
-  Ipek Ensari<br/>\\
-  Associate Research Scientist<br/>\\
-  Co-Director DSI & DFG Scholar Programs<br/>\\
-  Data Science Institute at Columbia University<br/>\\
-  475 Riverside Drive, Interchurch Rm 320, New York, NY 10115<br/>\\
-  ie2145@columbia.edu | 646-745-8498</p>")
+<p>All the best,<br/>Ipek</p>
+<p style='margin-bottom:1cm;'></p>
+<p>
+--<br/>
+Ipek Ensari<br/>
+Associate Research Scientist<br/>
+Co-Director DSI & DFG Scholar Programs<br/>
+Data Science Institute at Columbia University<br/>
+Northwest Corner #1401, 550 W 120th St, New York, NY 10027<br/>
+ie2145@columbia.edu | 646-745-8498</p>")
 
 # These are auto-generated when the project pages are created and are relative
 # to the date which they are posted under. It should only need updating if

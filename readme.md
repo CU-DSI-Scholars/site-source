@@ -128,3 +128,39 @@ In sending responses to faculty who were not approved for matching funds and who
 
 For now, unfortunately students need to be tracked in two places: one for [payment](https://docs.google.com/spreadsheets/d/1HZanMFHPHIF7nVmIxa52A2JjbHYJyrWp4aGGZyYwTBY/edit#gid=0) info and one for program [oversight](https://docs.google.com/spreadsheets/d/1_wQZX-PCAHGvhRKO_ldlvFIy0P2Pc5BPbOtKunLsMKg/edit#gid=0). The payment sheet should be cloned each term. In each instance, add rows to record every student and all of the faculty who participate. 
 
+## Notifying Faculty
+
+This section relies on a Google script. It has a number of areas in which it could be improved, and consequently requires some additional work and checking to make sure that everything is OK.
+
+### Generating Submission Response Data
+
+1. Make a copy of the faculty submission [sheet](https://docs.google.com/spreadsheets/d/1wm63Hb7Dne0HVHjM42hZXD59xT8-Gse79YYqfrY5RtI/edit#gid=1087149307) from the **current** term and rename it something like "For Script".
+   1. Modify the sheet to contain only the projects listed on the application form, **in the same order**
+   2. Make sure that the sheet has the following columns:
+      * Greeting - How to greet the person in email
+      * Funded - 1 if DSI will be offering a stipend to the students selected for this project, 0 otheriwse
+      * Program - DSI or DFG
+2. Make a blank sheet in the student applications folder and call it something like "Student Application Script Results"
+3. Make a copy of the student submission response [script](https://script.google.com/d/1XkQBMpzhcRTRR8plhy56IsZ7jBJYvR9NCCGpzQQUs9cAXHeFIvSbMBMS/edit?usp=sharing) from a **previous** term and move it to the correct folder.
+   1. Modify this script to point the above two sheets and the student form results; the IDs can be found as long character strings in the sheet URLs
+      1. `studentsSheetID` should point to the student application form
+      2. `projectsSheetID` should point to the faculty submission copy from step 1.
+      3. `resultsSheetID` should point to the blank sheet from step 2. 
+   2. Edit the rest of the script:
+      1. Strings that refer to different terms/years all need to be updated; if they are folder/file names, make sure they match what is in the drive
+      2. The constants defining column numbers in lines 47 to 52 should be the matching columns from the _faculty submission copy_
+      3. The constant `LAST_QUESTION_COLUMN` is the number of the last column in the student application sheet before the project selection begins. It is currently `i`, or 9.
+      4. `NUM_PROJECTS` should be the actual number of projects that are in the application form, not the nubmer of rows in the faculty submission sheet
+4. Run the script
+   * Double check the result by manually scanning the student application sheet
+   * There should be the correct number of projects and each faculty should get the correct material
+
+### Sending Results to Faculty
+
+1. Download a copy of the results sheet from step 2 in the previous section as a csv
+
+TODO
+
+
+
+
