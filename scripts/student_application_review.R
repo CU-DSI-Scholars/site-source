@@ -21,9 +21,6 @@ email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 email_replyto <- "dsi-scholars@columbia.edu"
 email_cc <- "vjd2106@columbia.edu"
 
-
-gm_auth_configure(credentials_file)
-
 # applications results file is downloaded csv from script form referenced above.
 data_dir  <- "data"
 application_results_file <- "applicationinfo_spring-summer_2021.csv"
@@ -61,12 +58,12 @@ test_only <- FALSE
 
 ### VARIABLES END ###
 
-application_info <- read.csv(file.path(data_dir, application_results_file)
+application_info <- read.csv(file.path(data_dir, application_results_file))
 
+gm_auth_configure(path = credentials_file)
 
 for (i in seq_len(nrow(application_info))) {
-
-  with(applicationInfo[i,], {
+  with(application_info[i,], {
     is_dfg <- program %in% "DFG"
     
     body <- glue("
@@ -87,7 +84,7 @@ interviews and obtain more information as you see fit. If you notice any process
 errors such as wrong files, please let us know as soon as possible and we will do our \\
 best to address the issue. This folder was shared with the email used for submission - \\
 if any other accounts need access to the application materials we will be happy to \\
-arrange that for you.</p>"
+arrange that for you.</p>")
 
     # Folder instructions
     if (is_dfg) {
@@ -107,8 +104,8 @@ data science.</p>")
     if (is_dfg) {
       body %<>% glue("
 <p>Please select the student(s) you would like to work with and notify them; we recommend \\
-a team of 2-5. Students are expecting hear from project owners by \\
-<em>{ { notification_date }</em>.")
+a team of 2-5. Students are expecting to hear from project owners by \\
+<em>{ notification_date }</em>.")
     } else {
       body %<>% glue("
 <p>Please select the student(s) you would like to work with and notify them directly. \\
