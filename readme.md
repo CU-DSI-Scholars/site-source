@@ -134,7 +134,9 @@ This section relies on a Google script. It has a number of areas in which it cou
 
 ### Generating Submission Response Data
 
-1. Make a copy of the faculty submission [sheet](https://docs.google.com/spreadsheets/d/1wm63Hb7Dne0HVHjM42hZXD59xT8-Gse79YYqfrY5RtI/edit#gid=1087149307) from the **current** term and rename it something like "For Script".
+1. Stop the student application form from accepting submissions.
+   * Edit the closed response to point students to the current DSI project [doc](https://docs.google.com/document/d/1wRTuqScmE88TadHpozLLHUUj3dW0L3mT_iiG5tIX8J0/edit?usp=sharing)
+2. Make a copy of the faculty submission [sheet](https://docs.google.com/spreadsheets/d/1wm63Hb7Dne0HVHjM42hZXD59xT8-Gse79YYqfrY5RtI/edit#gid=1087149307) from the **current** term and rename it something like "For Script".
    1. Modify the sheet to contain only the projects listed on the application form, **in the same order** that they appear there
    2. Make sure that the sheet has the following columns:
       * Greeting - How to greet the person in email
@@ -157,9 +159,9 @@ This section relies on a Google script. It has a number of areas in which it cou
 
 ### Sending Results to Faculty
 
-1. Download a copy of the results sheet from step 2 in the previous section as a csv.
+1. Download a copy of the results sheet from step 3 in the previous section as a csv.
 2. Run the faculty application review [script](scripts/student_application_review.R) to create email drafts
    * `application_results_file` in this script should point to the csv from step 1.
-3. Edit the sharing options for the student resume folder on Google drive to make sure that all faculty have _read_ access
-   * The script should give them write access to their own project folders, however if they used a non-gmail email address the sharing settings may need to be set manually
+3. Edit the sharing options for the student resume folder on Google drive to make sure that all faculty have _read_ access.
+   * The script should give them write access to their own project folders, however if they used a non-gmail email address the sharing settings may need to be set manually.
 
