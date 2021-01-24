@@ -135,7 +135,7 @@ This section relies on a Google script. It has a number of areas in which it cou
 ### Generating Submission Response Data
 
 1. Stop the student application form from accepting submissions.
-   * Edit the closed response to point students to the current DSI project [doc](https://docs.google.com/document/d/1wRTuqScmE88TadHpozLLHUUj3dW0L3mT_iiG5tIX8J0/edit?usp=sharing)
+   * Edit the closed-survey response to point students to the current DSI project [doc](https://docs.google.com/document/d/1wRTuqScmE88TadHpozLLHUUj3dW0L3mT_iiG5tIX8J0/edit?usp=sharing)
 2. Make a copy of the faculty submission [sheet](https://docs.google.com/spreadsheets/d/1wm63Hb7Dne0HVHjM42hZXD59xT8-Gse79YYqfrY5RtI/edit#gid=1087149307) from the **current** term and rename it something like "For Script".
    1. Modify the sheet to contain only the projects listed on the application form, **in the same order** that they appear there
    2. Make sure that the sheet has the following columns:
@@ -153,7 +153,7 @@ This section relies on a Google script. It has a number of areas in which it cou
       2. The constants defining column numbers in lines 47 to 52 should be the matching columns from the _faculty submission copy_
       3. The constant `LAST_QUESTION_COLUMN` is the number of the last column in the student application sheet before the project selection begins. It is currently `i`, or 9.
       4. `NUM_PROJECTS` should be the actual number of projects that are in the application form, not the nubmer of rows in the faculty submission sheet
-4. Run the script
+4. Run the Google script from step 3
    * Double check the result by manually scanning the student application sheet
    * There should be the correct number of projects and each faculty should get the correct material
 
