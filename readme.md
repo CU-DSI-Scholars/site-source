@@ -154,7 +154,7 @@ This section relies on a Google script. It has a number of areas in which it cou
       3. The constant `LAST_QUESTION_COLUMN` is the number of the last column in the student application sheet before the project selection begins. It is currently `i`, or 9.
       4. `NUM_PROJECTS` should be the actual number of projects that are in the application form, not the nubmer of rows in the faculty submission sheet
 4. Run the Google script from step 3
-   * Double check the result by manually scanning the student application sheet
+   * Double check the result by manually scanning the student application form sheet for a few random selected students or projects
    * There should be the correct number of projects and each faculty should get the correct material
 
 ### Sending Results to Faculty
