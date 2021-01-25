@@ -153,7 +153,8 @@ This section relies on a Google script. It has a number of areas in which it cou
       2. The constants defining column numbers in lines 47 to 52 should be the matching columns from the _faculty submission copy_
       3. The constant `LAST_QUESTION_COLUMN` is the number of the last column in the student application sheet before the project selection begins. It is currently `i`, or 9.
       4. `NUM_PROJECTS` should be the actual number of projects that are in the application form, not the nubmer of rows in the faculty submission sheet
-5. Run the Google script from step 4
+5. Run the `create_documents` function in the Google script from step 4
+   * You will likely have to use the drop-down to change the selected function from `add_trigger_to_student_sheet`. `add_trigger_to_student_sheet` makes it such that every time a student submits the files get regenreated. We don't really use this, as it would delete any notes that faculty would have made.
    * Double check the result by manually scanning the student application form sheet for a few random selected students or projects
    * There should be the correct number of projects and each faculty should get the correct material
 
