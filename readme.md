@@ -146,8 +146,8 @@ This section relies on a Google script. It has a number of areas in which it cou
 4. Make a copy of the student submission response [script](https://script.google.com/d/1XkQBMpzhcRTRR8plhy56IsZ7jBJYvR9NCCGpzQQUs9cAXHeFIvSbMBMS/edit?usp=sharing) from a **previous** term and move it to the correct folder.
    1. Modify this script to point the above two sheets and the student form results; the IDs can be found as long character strings in the sheet URLs
       1. `studentsSheetID` should point to the student application form
-      2. `projectsSheetID` should point to the faculty submission copy from step 1.
-      3. `resultsSheetID` should point to the blank sheet from step 2. 
+      2. `projectsSheetID` should point to the faculty submission copy from step 2.
+      3. `resultsSheetID` should point to the blank sheet from step 3.
    2. Edit the rest of the script:
       1. Strings that refer to different terms/years all need to be updated; if they are folder/file names, make sure they match what is in the drive
       2. The constants defining column numbers in lines 47 to 52 should be the matching columns from the _faculty submission copy_
