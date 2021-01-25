@@ -161,7 +161,7 @@ This section relies on a Google script. It has a number of areas in which it cou
 
 1. Download a copy of the results sheet from step 3 in the previous section as a csv.
 2. Run the faculty application review [script](scripts/student_application_review.R) to create email drafts
-   * `application_results_file` in this script should point to the csv from step 1.
+   * `application_results_file` in this script should point to the csv from the previous step.
 3. Edit the sharing options for the student resume folder on Google drive to make sure that all faculty have _read_ access.
    * The script should give them write access to their own project folders, however if they used a non-gmail email address the sharing settings may need to be set manually.
 
