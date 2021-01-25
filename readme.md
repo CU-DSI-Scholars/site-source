@@ -142,8 +142,8 @@ This section relies on a Google script. It has a number of areas in which it cou
       * Greeting - How to greet the person in email
       * Funded - 1 if DSI will be offering a stipend to the students selected for this project, 0 otheriwse
       * Program - DSI or DFG
-2. Make a blank sheet in the student applications folder and call it something like "Student Application Script Results"
-3. Make a copy of the student submission response [script](https://script.google.com/d/1XkQBMpzhcRTRR8plhy56IsZ7jBJYvR9NCCGpzQQUs9cAXHeFIvSbMBMS/edit?usp=sharing) from a **previous** term and move it to the correct folder.
+3. Make a blank sheet in the student applications folder and call it something like "Student Application Script Results"
+4. Make a copy of the student submission response [script](https://script.google.com/d/1XkQBMpzhcRTRR8plhy56IsZ7jBJYvR9NCCGpzQQUs9cAXHeFIvSbMBMS/edit?usp=sharing) from a **previous** term and move it to the correct folder.
    1. Modify this script to point the above two sheets and the student form results; the IDs can be found as long character strings in the sheet URLs
       1. `studentsSheetID` should point to the student application form
       2. `projectsSheetID` should point to the faculty submission copy from step 1.
@@ -153,7 +153,7 @@ This section relies on a Google script. It has a number of areas in which it cou
       2. The constants defining column numbers in lines 47 to 52 should be the matching columns from the _faculty submission copy_
       3. The constant `LAST_QUESTION_COLUMN` is the number of the last column in the student application sheet before the project selection begins. It is currently `i`, or 9.
       4. `NUM_PROJECTS` should be the actual number of projects that are in the application form, not the nubmer of rows in the faculty submission sheet
-4. Run the Google script from step 3
+5. Run the Google script from step 4
    * Double check the result by manually scanning the student application form sheet for a few random selected students or projects
    * There should be the correct number of projects and each faculty should get the correct material
 
