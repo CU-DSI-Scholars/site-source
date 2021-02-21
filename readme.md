@@ -166,3 +166,12 @@ This section relies on a Google script. It has a number of areas in which it cou
 3. Edit the sharing options for the student resume folder on Google drive to make sure that all faculty have _read_ access.
    * The script should give them write access to their own project folders, however if they used a non-gmail email address the sharing settings may need to be set manually.
 
+## Faculty Committments
+
+At the end of the faculty selection period, faculty who have not yet made a decision should be contacted directly and reminded about the deadline. For those that have made a selection, they should be contacted using the committment confirmation [script](scripts/committment_confirmation.R):
+
+1. Download a copy of the [payment](https://docs.google.com/spreadsheets/d/1HZanMFHPHIF7nVmIxa52A2JjbHYJyrWp4aGGZyYwTBY/edit#gid=0) sheet as a csv and put it in the data directory.
+2. Execute the committment confirmation [script](scripts/committment_confirmation.R).
+
+Note that this script is not currently able to handle multiple students working on the same project - these cases will have to be merged by hand. The easiest thing to do is possibly to combine the email drafts.
+
