@@ -11,27 +11,27 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "https://lh5.googleusercontent.com/LP--18iPxIK4nbMmqFyhr1LgI-8H1LQsTpzNlAHn-kACSzVslk45NM8nbq3MjIpjqrpWs3p0puCGLwWER9qgWTvHdhz2x0qrDTboqP67d2Omb1OlQcnbQpApzy3EFQ=w1872"
+  "file:///Users/ipekensari/Documents/CU-DSI-Scholars/site-source/static/img/opencall_faculty_fall2021.png"
 
 year <- 2021
-year_bootcamp  <- 2021
-year_town_hall <- 2021
-term <- "Spring/Summer"
-year_term_description <- "spring and/or summer 2021 sessions"
+year_bootcamp  <- 2022
+year_town_hall <- 2022
+term <- "Fall"
+year_term_description <- "Fall 2021 sessions"
 
-num_projects_last_year <- 42
-num_applications_last_year <- 730
+num_projects_last_year <- 38
+num_applications_last_year <- 400
 
-application_deadline <- "JANUARY 1, 2021"
+application_deadline <- "August 24th, 2021"
 
 # Where faculty can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLScXsKgdf08Mv-8Q1mX23TUW-btopOZwq1Sj5YvpH2tVEEXmoA/viewform"
+  "https://docs.google.com/forms/d/e/1FAIpQLSeQNPZYgxVAcJyaoWUPmJA1WtMYrFEh8bBiG_LNeGSwWYHmhw/viewform?usp=sf_link"
 
 # If you are hosting your own online information sessions, modify this text
 # accordingly. Right now it refers to the one from August.
 info_session <- paste0(
-  "A video recording from a fall online information session can be found ",
+  "A video recording from a previous online information session can be found ",
   "<a href=\"https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94\">",
   "here</a>, and slides from the same event can be found ",
   "<a href=\"https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing\">",
@@ -42,10 +42,10 @@ info_session <- paste0(
 credentials_file <- file.path("gmail_credentials.json")
   
 # Configure as desired.
-email_to <- "Vincent Dorie <vjd2106@columbia.edu>"
-email_from <- "Vincent Dorie <vjd2106@columbia.edu>"
+email_to <- "Ipek Ensari <ie2145@columbia.edu>"
+email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 
-email_title <- "Jan. 1 Deadline for DSI Scholars Program Project Submissions"
+email_title <- "August 24th Deadline for DSI Scholars Program Project Submissions"
 
 ### VARIABLES END ###
 
