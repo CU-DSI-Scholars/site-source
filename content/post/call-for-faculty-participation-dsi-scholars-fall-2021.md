@@ -2,7 +2,7 @@
 title: Call for Faculty Participation --- DSI Scholars Fall 2021
 author: Tian Zheng, Vincent Dorie
 date: '2021-07-18'
-slug: call-for-faculty-participation-dsi-scholars-spring-summer-2021
+slug: call-for-faculty-participation-dsi-scholars-fall-2021
 aliases:
   - /static/pi_call
 categories:
