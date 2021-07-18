@@ -1,20 +1,19 @@
 ---
-title: Call for Faculty Participation --- DSI Scholars Fall 2021
-author: Tian Zheng, Vincent Dorie
+title: "Call for Faculty Participation --- DSI Scholars Fall 2021"
+author: "Tian Zheng, Vincent Dorie"
 date: '2021-07-18'
+categories: Announcement
+coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
+autoThumbnailImage: no
+metaAlignment: center
 slug: call-for-faculty-participation-dsi-scholars-fall-2021
+tags:
+- Info
+- Fall 2021
+thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_758/v1607545909/opencall_faculty_springsummer_2021_nlfo9j.png
+thumbnailImagePosition: top
 aliases:
   - /static/pi_call
-categories:
-  - Announcement
-tags:
-  - Info
-  - Fall 2021
-autoThumbnailImage: no
-thumbnailImagePosition: top
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_758/v1607545909/opencall_faculty_springsummer_2021_nlfo9j.png
-coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
-metaAlignment: center
 ---
 
 ### Call for Faculty Participation. Fall 2021.
