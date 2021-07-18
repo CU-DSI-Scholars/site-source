@@ -3,8 +3,6 @@ title: Frequently Asked Questions (Spring-Summer 2021)
 author: Tian Zheng
 date: '2020-01-04'
 slug: faq_spring_summer_2021
-aliases:
-  - /static/student_faq
 categories:
   - info
 tags:
