@@ -19,7 +19,7 @@ metaAlignment: center
 
 ### Call for Faculty Participation. Fall 2021.
 
-The Data Science Institute is calling for faculty submissions of research projects for the pring and/or summer 2021 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 38 projects and received more than 400 unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLScXsKgdf08Mv-8Q1mX23TUW-btopOZwq1Sj5YvpH2tVEEXmoA/viewform?usp=sf_link).
+The Data Science Institute is calling for faculty submissions of research projects for the pring and/or summer 2021 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with 38 projects and received more than 400 unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSeQNPZYgxVAcJyaoWUPmJA1WtMYrFEh8bBiG_LNeGSwWYHmhw/viewform).
 
 <!--more-->
 
@@ -37,7 +37,7 @@ Questions? See our PI [FAQ](/page/pi_faq/)! A video recording from a fall online
 
 The Data Science Institute encourages women and underrepresented minorities to apply to this program.
 
-Application to participate: Faculty/Research Centers/Research Labs who are interested in participating in this program as internship hosts should complete [this application form](https://docs.google.com/forms/d/e/1FAIpQLScXsKgdf08Mv-8Q1mX23TUW-btopOZwq1Sj5YvpH2tVEEXmoA/viewform?usp=sf_link). The application deadline is January 1st, 2021. Decisions on the allocation of funds will be made by January 5th, 2021.
+Application to participate: Faculty/Research Centers/Research Labs who are interested in participating in this program as internship hosts should complete [this application form](https://docs.google.com/forms/d/e/1FAIpQLSeQNPZYgxVAcJyaoWUPmJA1WtMYrFEh8bBiG_LNeGSwWYHmhw/viewform). The application deadline is August 24th, 2021. Decisions on the allocation of funds will be made by August 27th, 2021.
 
 Key dates:
 
