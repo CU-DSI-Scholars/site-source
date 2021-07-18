@@ -3,8 +3,6 @@ title: PI Frequently Asked Questions
 author: Tian Zheng and Vincent Dorie
 date: '2020-12-04'
 slug: pi_faq_2021_spring_summer
-aliases:
-  - /static/pi_faq
 categories:
   - Info
 tags:
