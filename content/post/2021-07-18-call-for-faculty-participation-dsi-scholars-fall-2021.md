@@ -2,7 +2,8 @@
 title: "Call for Faculty Participation --- DSI Scholars Fall 2021"
 author: "Tian Zheng, Vincent Dorie"
 date: '2021-07-18'
-categories: Announcement
+categories:
+  - Announcement
 coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
 autoThumbnailImage: no
 metaAlignment: center
