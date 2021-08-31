@@ -76,7 +76,7 @@ projects %<>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
                              grepl("own funding", funding) ~ "self",
                              TRUE ~ "matching"),
-         student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")    
+         student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")
 
 subject_prefix <- glue("[DSI-Scholars {project_term} {project_year}]")
 
@@ -144,7 +144,7 @@ for (i in seq_len(nrow(projects))) {
       if (endsWith(title, "."))
         title <- trimws(substr(title, 1, nchar(title) - 1))
       
-      title_lowercase <- gsub("--", "-", gsub("[:,'?()]", "", gsub("[ /]", "-", tolower(title)))
+      title_lowercase <- gsub("--", "-", gsub("[:,'?()]", "", gsub("[ /]", "-", tolower(title))))
       
       url <- glue("https://cu-dsi-scholars.github.io/DSI-scholars/{url_prefix}/project-{title_lowercase}")
       
