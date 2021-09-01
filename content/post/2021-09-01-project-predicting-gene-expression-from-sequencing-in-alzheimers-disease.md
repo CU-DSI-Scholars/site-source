@@ -1,5 +1,5 @@
 ---
-title: 'Predicting gene expression from sequencing in Alzheimer's Disease'
+title: 'Predicting gene expression from sequencing in Alzheimers Disease'
 date: '2021-09-01'
 slug: project-predicting-gene-expression-from-sequencing-in-alzheimers-disease
 categories:
