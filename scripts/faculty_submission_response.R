@@ -20,7 +20,7 @@ credentials_file <- "gmail_credentials.json"
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 email_from_display <- "Ipek Ensari"
 email_replyto <- "dsi-scholars@columbia.edu"
-
+email_cc <- "jrs2139@columbia.edu"
 # When sending a project to Campus Connections, manually forward their
 # submission first. This will currently cc Violet in this email, in addition
 # to that forward.
@@ -78,7 +78,6 @@ projects %<>%
          student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")    
 
 subject_prefix <- glue("[DSI-Scholars {project_term} {project_year}]")
-projects$Email.Address <- projects$Username
 
 gm_auth_configure(path = credentials_file)
 
@@ -219,10 +218,10 @@ for (i in seq_len(nrow(projects))) {
       return(invisible(NULL))
     }
     
-    email <- gm_mime(to = as.character(Email.Address),
+    email <- gm_mime(to = as.character(Faculty.Email),
                      from = email_from,
                      replyto = email_replyto,
-                     #cc = email_cc,
+                     cc = email_cc,
                      subject = subject) %>%
       gm_html_body(paste0(body, collapse = "\n"), content_type = "text/html", charset = "utf-8")
     gm_create_draft(email)
