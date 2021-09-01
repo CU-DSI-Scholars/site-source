@@ -14,7 +14,7 @@ This project is an opportunity to gain hands-on experience teaching data science
 <!--more-->
 
 {{< alert info >}}
-This is a volunteer opportunity for students to use their skills for the social good.
+Selected candidate(s) can receive a stipend from DSI. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

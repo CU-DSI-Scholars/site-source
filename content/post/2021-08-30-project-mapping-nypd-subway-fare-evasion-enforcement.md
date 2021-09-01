@@ -24,7 +24,7 @@ This work is expected to be done for course credit during the Fall and Spring se
 For students with a background in causal inference and applied econometrics, there is also the potential for future work to support econometric analysis on the impacts of the fare evasion crackdown.
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend from DSI. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

@@ -1,5 +1,5 @@
 ---
-title: 'A traffic map for the Internet'
+title: 'a traffic map for the Internet'
 date: '2021-08-30'
 slug: project-a-traffic-map-for-the-internet
 categories:
