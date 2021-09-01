@@ -20,42 +20,41 @@ credentials_file <- "gmail_credentials.json"
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 email_from_display <- "Ipek Ensari"
 email_replyto <- "dsi-scholars@columbia.edu"
-email_cc <- "vjd2106@columbia.edu"
 
 # When sending a project to Campus Connections, manually forward their
 # submission first. This will currently cc Violet in this email, in addition
 # to that forward.
-campus_connections_cc <- "zy2286@columbia.edu"
+campus_connections_cc <- "jh4253@columbia.edu"
 
 # Projects file is downloaded csv from faculty submission form referenced above.
 data_dir  <- "data"
-data_file <- "project_info_spring_summer_2021.csv"
+data_file <- "project_info_fall_2021.csv"
 
-project_term <- "Spring-Summer"
+project_term <- "Fall"
 project_year <- "2021"
 
 student_application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link"
+  "https://docs.google.com/forms/d/15k4RmA8L7dwp2S_NxJ2CzUzDD1JnuOAkLBnkFSCZ3_Y/edit"
 
-library(glue, quietly = TRUE)
+library(glue, quietly = FALSE)
 
 email_signature <- glue("
 <p>All the best,<br/>Ipek</p>
 <p style='margin-bottom:1cm;'></p>
 <p>
 --<br/>
-Ipek Ensari<br/>
+Ipek Ensari, PhD<br/>
 Associate Research Scientist<br/>
-Co-Director DSI & DFG Scholar Programs<br/>
-Data Science Institute at Columbia University<br/>
+Columbia University Data Science Institute<br/>
+Director DSI Scholars & DFG Programs<br/>
 Northwest Corner #1401, 550 W 120th St, New York, NY 10027<br/>
-ie2145@columbia.edu | 646-745-8498</p>")
+ipekensari.com</p>")
 
 # These are auto-generated when the project pages are created and are relative
 # to the date which they are posted under. It should only need updating if
 # the files are generated in one month, but the emails are sent in another.
 url_prefix <- format(Sys.Date(), "%Y/%m")
-#url_prefix <- "2021/01" # If necessary to set manually, uncomment this.
+#url_prefix <- "2021/08" # If necessary to set manually, uncomment this.
 
 # If TRUE, prints emails to console instead of creating them as drafts.
 test_only <- FALSE
@@ -66,8 +65,8 @@ if (!require(gmailr, quietly = TRUE)) {
   remotes::install_github("r-lib/gmailr")
   library(gmailr, quietly = TRUE)
 }
-library(dplyr, quietly = TRUE)
-library(magrittr, quietly = TRUE)
+library(dplyr, quietly = FALSE)
+library(magrittr, quietly = FALSE)
 
 projects <- read.csv(file.path(data_dir, data_file))
 
@@ -79,6 +78,7 @@ projects %<>%
          student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")    
 
 subject_prefix <- glue("[DSI-Scholars {project_term} {project_year}]")
+projects$Email.Address <- projects$Username
 
 gm_auth_configure(path = credentials_file)
 
@@ -86,10 +86,10 @@ for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
     if (Program %in% "None") return(invisible(NULL))
     
-    cc <- email_cc
+    #cc <- email_cc
     
     body <- glue("
-      <p>Dear {Email.greeting},</p>
+      <p>Dear {Email.Greeting},</p>
       <p>Thank you for submitting your project '{Project.title}' to the DSI \\
       Scholars program for {project_term} {project_year}. ")
     
@@ -144,54 +144,54 @@ for (i in seq_len(nrow(projects))) {
       if (endsWith(title, "."))
         title <- trimws(substr(title, 1, nchar(title) - 1))
       
-      title_lowercase <- gsub("--", "-", gsub("[:,'?()]", "", gsub("[ /]", "-", tolower(title)))
-      
-      url <- glue("https://cu-dsi-scholars.github.io/DSI-scholars/{url_prefix}/project-{title_lowercase}")
-      
-      if (Program %in% "DSI") {
-        subject <- glue(subject_prefix, " Project Confirmation")
-        if (funding %in% "matching")
-          subject <- glue(subject, " and Stipend Fund")
-        
-        if (funding %in% "matching") {
-          body %<>% glue("
+      title_lowercase <- gsub("--", "-", gsub("[:,'?()]", "", gsub("[ /]", "-", tolower(title))))
+                              
+                              url <- glue("https://cu-dsi-scholars.github.io/DSI-scholars/{url_prefix}/project-{title_lowercase}")
+                              
+                              if (Program %in% "DSI") {
+                                subject <- glue(subject_prefix, " Project Confirmation")
+                                if (funding %in% "matching")
+                                  subject <- glue(subject, " and Stipend Fund")
+                                
+                                if (funding %in% "matching") {
+                                  body %<>% glue("
             We are pleased to inform you that we are able to offer you a \\
             matching fund of up to $2,500 that can be used towards a stipend \\
             for research interns who will work on your project. ")
-          if (student_selected) {
-            body %<>% glue("
+                                  if (student_selected) {
+                                    body %<>% glue("
               In order to provide a matching fund for your selected scholar, \\
               please send information with their name and UNI to \\
               dsi-scholars@columbia.edu. Instructions on arranging payment \\
               will follow in the coming weeks. If you wish to recruit \\
               additional students, we will be happy to include your project \\
               in our call for student applications.</p>")
-          } else {
-            body %<>% glue("
+                                  } else {
+                                    body %<>% glue("
               We have created a <a href='{url}'>page</a> for your project \\
               based on the information provided in your submission that will \\
               be shared with prospective students. The tags and clipart will \\
               be modified to suit your project accordingly. Please double \\
               check carefully all the information on the page and notify us \\
               if you'd like to make any changes.</p>")
-            include_application_link <- TRUE
-          }
-        } else {
-          if (student_selected)
-            stop("unexpected condition: student selected for internship not ",
-                 "requesting matching fund")
-          body %<>% glue("
+                                    include_application_link <- TRUE
+                                  }
+                                } else {
+                                  if (student_selected)
+                                    stop("unexpected condition: student selected for internship not ",
+                                         "requesting matching fund")
+                                  body %<>% glue("
             We have created a <a href='{url}'>page</a> for your project based \\
             on the information provided in your submission that will be \\
             shared with prospective students. The tags and clipart will be \\
             modified to suit your project accordingly. Please double check \\
             carefully all the information on the page and notify us if you'd \\
             like to make any changes.</p>")
-          include_application_link <- TRUE
-        }
-      } else if (Program %in% "DFG") {
-        subject <- glue(subject_prefix, "Project Submission")
-        body %<>% glue(body, "
+                                  include_application_link <- TRUE
+                                }
+                              } else if (Program %in% "DFG") {
+                                subject <- glue(subject_prefix, "Project Submission")
+                                body %<>% glue(body, "
           We found your project to be very exciting and would like to know if \\
           you would be interested in participating in our Data For Good \\
           program. Rather than having a single student in a research \\
@@ -202,7 +202,7 @@ for (i in seq_len(nrow(projects))) {
           this sounds appealing, please let me know. If you prefer to have \\
           your project continue as a research internship in the DSI Scholars \\
           program, we are happy to do that as well.</p>")
-      }
+                              }
     }
     if (include_application_link)
       body %<>% glue("\n
@@ -210,7 +210,7 @@ for (i in seq_len(nrow(projects))) {
         <a href='{student_application_url}'>website</a> for all DSI Scholars \\
         projects that are open for application. Your project is listed on the \\
         application form. Applications to your project will be collected and \\
-        passed on to you for review on October 1st, along with instructions \\
+        passed on to you for review by September 28th, along with instructions \\
         on selecting a student.</p>")
     body %<>% glue("\n", email_signature)
     
@@ -222,10 +222,12 @@ for (i in seq_len(nrow(projects))) {
     email <- gm_mime(to = as.character(Email.Address),
                      from = email_from,
                      replyto = email_replyto,
-                     cc = email_cc,
+                     #cc = email_cc,
                      subject = subject) %>%
-                     gm_html_body(paste0(body, collapse = "\n"), content_type = "text/html", charset = "utf-8")
+      gm_html_body(paste0(body, collapse = "\n"), content_type = "text/html", charset = "utf-8")
     gm_create_draft(email)
   })
 }
-
+  
+  
+  

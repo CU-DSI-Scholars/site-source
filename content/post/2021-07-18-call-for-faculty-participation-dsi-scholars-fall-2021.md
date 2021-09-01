@@ -1,6 +1,6 @@
 ---
 title: "Call for Faculty Participation --- DSI Scholars Fall 2021"
-author: "Tian Zheng, Vincent Dorie"
+author: "Ipek Ensari, Vincent Dorie"
 date: '2021-07-18'
 categories:
   - Announcement
@@ -29,9 +29,17 @@ The Data Science Institute is calling for faculty submissions of research projec
 
 + **Intellectual support** via the DSI Scholars enrichment activities: The DSI education committee will organize the following enrichment activities for the DSI Scholars Program.
 
-    + Bootcamps on Data Science Research Skills - During the first weeks of summer 2021, we will run bootcamps on data science research skills. All students who have been selected for a DSI Scholars project (receiving matching funds or not) are especially encouraged to attend, with additional seats available for other interested applicants.
+    + Bootcamps on Data Science Research Skills - During the first weeks of summer 2022, we will run bootcamps on data science research skills. All students who have been selected for a DSI Scholars project (receiving matching funds or not) are especially encouraged to attend, with additional seats available for other interested applicants.
     + Scholars in Data Science meetup series - Throughout this series, we will provide Scholars opportunities to learn about data science research outside their own project and a community of peer student researchers. Each session will be led by a data scientist at Columbia and will consist of a 45-minute seminar talk and a 45-minute hands-on activity.
     + Annual Research Poster Session: All DSI Scholars (receiving matching funds or not) will be invited to present their research during a DSI poster session at DSI Town Hall in the fall 2021 semester.
+
+# NEW FOR FALL 2021
+
++ **Limited Submission Micro Grant for DSI Scholars Projects at the Intersection for Racial Equity & Inclusion**
+
+The DSI Equity Advisory Council welcomes project proposals from faculty to find student scholars to work on a project at the intersection of data science, diversity, equity and inclusion. Projects selected for this funding opportunity to support students will not require matching funds from the faculty. The limited opportunity is proudly sponsored by the Chan Zuckerberg Initiative. 
+
+Use the same link for the DSI Scholar Proposal Submission and specify in the "Special Requirements" response box if you wish to be considered for this program. Proposals selected may be eligible for up to $2,500 to support a student scholar. 
 
 Questions? See our PI [FAQ](/page/pi_faq/)! A video recording from a fall online information session can be found [here](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94), and slides from the same event can be found [here](https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing). You can also contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu).
 

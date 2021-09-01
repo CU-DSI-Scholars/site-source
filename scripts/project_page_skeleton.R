@@ -2,7 +2,7 @@
 
 ### VARIABLES TO UPDATE #####
 data_dir  <- "data"
-data_file <- "project_info_spring_summer_2021.csv"
+data_file <- "project_info_fall_2021.csv"
 projects <- read.csv(file.path(data_dir, data_file))
 
 output_path <- "content/post"
@@ -11,9 +11,11 @@ output_path <- "content/post"
 overwrite_existing <- FALSE
 
 project_year <- "2021"
-project_term <- c("Spring", "Summer")
+project_term <- c("Fall")
 
-library(dplyr, quietly = TRUE)
+projects$Student.Eligibility <- as.character(projects$Student.Eligibility)
+
+library(dplyr, quietly = FALSE)
 
 projects %<>%
   mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
@@ -77,7 +79,7 @@ for (i in seq_len(nrow(projects))) {
     
     lines <- c(lines, paste0("tags:\n", tags),
                "thumbnailImagePosition: left",
-               "thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1579110178/construction_c6dqbd.png",
+               "~/static/img/construction.png",
                "---")
     lines <- c(lines,
       if (grepl("\n", Brief.project.description..200.words.or.less.)) sub("\n", "\n\n<!--more-->\n\n", Brief.project.description..200.words.or.less.) else paste0(Brief.project.description..200.words.or.less., "\n\n<!--more-->"))
@@ -97,14 +99,15 @@ for (i in seq_len(nrow(projects))) {
                    "{{< alert success >}}\nThis project is eligible for a matching fund stipend from the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
       } else if (funding %in% "self") {
         lines <- c(lines,
-                   "{{< alert success >}}\nSelected candidate(s) may receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
+                   "{{< alert success >}}\nSelected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
 
       }
     }
     lines <- c(lines, "",
                "## Faculty Advisor",
                paste0("+ Professor: [", Faculty..Name., "](", Faculty.Center.Lab.website, ")"),
-               paste0("+ Department/School: ", Department.School))
+               paste0("+ Center/Lab: ", Center.Lab.Name)
+               )
     if (trimws(Center.Lab.Office.Location) != "")
       lines <- c(lines, paste0("+ Location: ", Center.Lab.Office.Location))
     if (trimws(Faculty.Center.Lab.research.profile..1.2.sentences.) != "")
@@ -128,7 +131,7 @@ for (i in seq_len(nrow(projects))) {
                "## Candidate requirements",
                paste0("+ Skill sets: ", if (grepl("\n", Required.skill.sets)) paste0("\n  ", gsub("\n", "\n  ", Required.skill.sets)) else Required.skill.sets))
     studentYears <- c("Freshman", "Sophomore", "Junior", "Senior", "Master's")
-    allowedYears <- sapply(strsplit(Student.Eligibility, ",")[[1]], trimws, USE.NAMES = FALSE)
+    allowedYears <- sapply(strsplit(Student.Eligibility, ";")[[1]], trimws, USE.NAMES = FALSE)
     
     lines <- c(lines,
                paste0("+ Student eligibility: ", tolower(paste0(ifelse(studentYears %in% allowedYears, studentYears, paste0("~~", studentYears, "~~")), collapse = ", "))),
