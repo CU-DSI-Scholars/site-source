@@ -1,7 +1,7 @@
 ---
-title: '@Dear Pandemic, a social media-based science communication project targeting the COVID-19 infodemic'
+title: 'Dear Pandemic, a social media-based science communication project targeting the COVID-19 infodemic'
 date: '2021-08-30'
-slug: project-@dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic
+slug: project-dear-pandemic-a-social-media-based-science-communication-project-targeting-the-covid-19-infodemic
 categories:
   - Open Fall 2021 
   - Open Flexible Timeline
