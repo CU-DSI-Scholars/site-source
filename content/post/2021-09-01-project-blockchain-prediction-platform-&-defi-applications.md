@@ -1,7 +1,7 @@
 ---
-title: 'Blockchain Prediction Platform & DeFi Applications'
+title: 'Blockchain Prediction Platform and DeFi Applications'
 date: '2021-09-01'
-slug: project-blockchain-prediction-platform-&-defi-applications
+slug: project-blockchain-prediction-platform-and-defi-applications
 categories:
   - Open Fall 2021
 tags:

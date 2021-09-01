@@ -1,7 +1,7 @@
 ---
 title: 'Freedom School Workshops at the Malcolm X & Dr. Betty Shabazz Center'
 date: '2021-09-01'
-slug: project-freedom-school-workshops-at-the-malcolm-x-&-dr.-betty-shabazz-center
+slug: project-freedom-school-workshops-at-the-malcolmx-and-dr-betty-shabazz-center
 categories:
   - Open Fall 2021
 tags:

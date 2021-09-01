@@ -1,7 +1,7 @@
 ---
-title: 'Volatile solubility laws in melts and magmas; an adaptative and universal Bayesian approach'
+title: 'Volatile solubility laws in melts and magmas: an adaptative and universal Bayesian approach'
 date: '2021-09-01'
-slug: project-volatile-solubility-laws-in-melts-and-magmas;-an-adaptative-and-universal-bayesian-approach
+slug: project-volatile-solubility-laws-in-melts-and-magmas-an-adaptative-and-universal-bayesian-approach
 categories:
   - Open Fall 2021 
   - Open Flexible Timeline
