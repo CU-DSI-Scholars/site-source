@@ -79,7 +79,7 @@ for (i in seq_len(nrow(projects))) {
     
     lines <- c(lines, paste0("tags:\n", tags),
                "thumbnailImagePosition: left",
-               "~/static/img/construction.png",
+               "thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png",
                "---")
     lines <- c(lines,
       if (grepl("\n", Brief.project.description..200.words.or.less.)) sub("\n", "\n\n<!--more-->\n\n", Brief.project.description..200.words.or.less.) else paste0(Brief.project.description..200.words.or.less., "\n\n<!--more-->"))
