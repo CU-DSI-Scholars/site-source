@@ -75,7 +75,7 @@ projects %<>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
                              grepl("own funding", funding) ~ "self",
                              TRUE ~ "matching"),
-         student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")    
+         student_selected = Do.you.have.a.student.selected.for.this.position.already. == "Yes")
 
 subject_prefix <- glue("[DSI-Scholars {project_term} {project_year}]")
 
@@ -84,23 +84,23 @@ gm_auth_configure(path = credentials_file)
 for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
     if (Program %in% "None") return(invisible(NULL))
-    
+
     #cc <- email_cc
-    
+
     body <- glue("
       <p>Dear {Email.Greeting},</p>
       <p>Thank you for submitting your project '{Project.title}' to the DSI \\
       Scholars program for {project_term} {project_year}. ")
-    
+
     include_application_link <- FALSE
     # Projects that applied for a matching fund and were not selected.
     if (Decision == 0 && !(Program %in% "DFG") && !(funding %in% "unpaid")) {
       subject <- glue(subject_prefix, " Project Submission")
-      
+
       body %<>% glue("
         Unfortunately, we received more proposals than we have available \\
         funds and are unable to offer yours financial support. ")
-      
+
       if (Program == "CC") {
         body %<>% glue("
           We think your project would be best able to find support through \\
@@ -132,7 +132,7 @@ for (i in seq_len(nrow(projects))) {
             will include it in our call for student applications.</p>")
         }
       }
-      
+
       body %<>% glue("
         <p>We are deeply grateful to you for taking the time to apply and \\
         this program wouldn't exist without faculty mentors such as yourself.\\
@@ -142,16 +142,16 @@ for (i in seq_len(nrow(projects))) {
       title <- trimws(Project.title)
       if (endsWith(title, "."))
         title <- trimws(substr(title, 1, nchar(title) - 1))
-      
+
       title_lowercase <- gsub("--", "-", gsub("[:,'?()]", "", gsub("[ /]", "-", tolower(title))))
-                              
+
                               url <- glue("https://cu-dsi-scholars.github.io/DSI-scholars/{url_prefix}/project-{title_lowercase}")
-                              
+
                               if (Program %in% "DSI") {
                                 subject <- glue(subject_prefix, " Project Confirmation")
                                 if (funding %in% "matching")
                                   subject <- glue(subject, " and Stipend Fund")
-                                
+
                                 if (funding %in% "matching") {
                                   body %<>% glue("
             We are pleased to inform you that we are able to offer you a \\
@@ -212,12 +212,12 @@ for (i in seq_len(nrow(projects))) {
         passed on to you for review by September 28th, along with instructions \\
         on selecting a student.</p>")
     body %<>% glue("\n", email_signature)
-    
+
     if (test_only) {
       print(body)
       return(invisible(NULL))
     }
-    
+
     email <- gm_mime(to = as.character(Faculty.Email),
                      from = email_from,
                      replyto = email_replyto,
@@ -227,6 +227,3 @@ for (i in seq_len(nrow(projects))) {
     gm_create_draft(email)
   })
 }
-  
-  
-  
