@@ -3,7 +3,7 @@ title: 'Identification of gene networks regulated by the  ASD risk gene CHD8'
 date: '2021-09-01'
 slug: project-identification-of-gene-networks-regulated-by-the-asd-risk-gene-chd8
 categories:
-  - Open Fall 2021
+  - closed Fall 2021
 tags:
   - Fall 2021
 thumbnailImagePosition: left
