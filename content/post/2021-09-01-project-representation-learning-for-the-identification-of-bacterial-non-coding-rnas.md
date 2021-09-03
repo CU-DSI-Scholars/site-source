@@ -3,8 +3,8 @@ title: 'Representation learning for the identification of bacterial non-coding R
 date: '2021-09-01'
 slug: project-representation-learning-for-the-identification-of-bacterial-non-coding-rnas
 categories:
-  - Closed Fall 2021 
-  - Closed Flexible Timeline
+  - Open Fall 2021 
+  - Open Flexible Timeline
 tags:
   - Fall 2021
 thumbnailImagePosition: left

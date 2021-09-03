@@ -26,7 +26,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/6/21
 + End date: 8/31/22
 + Number of hours per week of research expected during Fall 2021: ~10
-+ Number of hours per week of research expected during Summer 2021: ~40
++ Number of hours per week of research expected during Summer 2022: ~40
 
 ## Candidate requirements
 + Skill sets: 

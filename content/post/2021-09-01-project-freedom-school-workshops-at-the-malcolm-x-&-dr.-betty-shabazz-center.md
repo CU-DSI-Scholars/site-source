@@ -30,7 +30,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/9/21
 + End date: 4/9/22
 + Number of hours per week of research expected during Fall 2021: ~10
-+ Number of hours per week of research expected during Summer 2021: ~10
++ Number of hours per week of research expected during Summer 2022: ~10
 
 ## Candidate requirements
 + Skill sets: Javascript, Git, Jekyll

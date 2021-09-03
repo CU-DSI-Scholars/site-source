@@ -28,7 +28,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/6/21
 + End date: 8/31/21
 + Number of hours per week of research expected during Fall 2021: ~12
-+ Number of hours per week of research expected during Summer 2021: ~flexible
++ Number of hours per week of research expected during Summer 2022: ~flexible
 
 ## Candidate requirements
 + Skill sets: basic python programming, data scraping from html (e.g., beautiful soup)

@@ -28,7 +28,7 @@ Selected candidate(s) can receive a stipend directly from the faculty advisor. T
 + Earliest starting date: 9/20/21
 + End date: 8/12/22
 + Number of hours per week of research expected during Fall 2021: ~8
-+ Number of hours per week of research expected during Summer 2021: ~35
++ Number of hours per week of research expected during Summer 2022: ~35
 
 ## Candidate requirements
 + Skill sets: Proficiency in any programming language, Python and Linux experience preferred. Bioinformatics training or course experience preferred and some knowledge of genomics

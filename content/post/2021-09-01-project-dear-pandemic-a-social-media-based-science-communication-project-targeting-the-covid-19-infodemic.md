@@ -34,7 +34,7 @@ This is an UNPAID research project.
 + Earliest starting date: 10/1/21
 + End date: 
 + Number of hours per week of research expected during Fall 2021: ~10
-+ Number of hours per week of research expected during Summer 2021: ~20
++ Number of hours per week of research expected during Summer 2022: ~20
 
 ## Candidate requirements
 + Skill sets: Experience analyzing social media data, especially Facebook; advanced programming skills; recommended to also have skills in natural language processing, machine learning approaches, social network analyses

@@ -27,7 +27,7 @@ This is an UNPAID research project.
 + Earliest starting date: 10/4/21
 + End date: 
 + Number of hours per week of research expected during Fall 2021: ~5
-+ Number of hours per week of research expected during Summer 2021: ~20
++ Number of hours per week of research expected during Summer 2022: ~20
 
 ## Candidate requirements
 + Skill sets: good understanding of statistics; prefer experience with analyzing panel data or willingness to learn the necessary statistical methods; familiarity with at least one statistical software such as Stata, R, or Matlab; excellent attention to detail and organization

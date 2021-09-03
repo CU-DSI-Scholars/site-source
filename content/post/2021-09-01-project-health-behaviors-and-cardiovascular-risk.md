@@ -3,8 +3,8 @@ title: 'Health Behaviors and Cardiovascular Risk'
 date: '2021-09-01'
 slug: project-health-behaviors-and-cardiovascular-risk
 categories:
-  - Closed Fall 2021 
-  - Closed Flexible Timeline
+  - Open Fall 2021 
+  - Open Flexible Timeline
 tags:
   - Fall 2021
 thumbnailImagePosition: left

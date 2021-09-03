@@ -25,9 +25,9 @@ This is an UNPAID research project.
 
 ## Project Timeline
 + Earliest starting date: 9/15/21
-+ End date: 8/30/21
++ End date: 8/30/22
 + Number of hours per week of research expected during Fall 2021: ~8
-+ Number of hours per week of research expected during Summer 2021: ~8
++ Number of hours per week of research expected during Summer 2022: ~8
 
 ## Candidate requirements
 + Skill sets: SAS, regression models, t-tests 

@@ -27,7 +27,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/1/21
 + End date: 9/1/22
 + Number of hours per week of research expected during Fall 2021: ~5
-+ Number of hours per week of research expected during Summer 2021: ~20
++ Number of hours per week of research expected during Summer 2022: ~20
 
 ## Candidate requirements
 + Skill sets: Random Forest Decision Tree and Similar Algorithms with Images.

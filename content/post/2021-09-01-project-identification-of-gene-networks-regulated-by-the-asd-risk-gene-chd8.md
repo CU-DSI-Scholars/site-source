@@ -27,7 +27,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/7/21
 + End date: 5/31/21
 + Number of hours per week of research expected during Fall 2021: ~8
-+ Number of hours per week of research expected during Summer 2021: ~35
++ Number of hours per week of research expected during Summer 2022: ~35
 
 ## Candidate requirements
 + Skill sets: lab skills in molecular biology (pcr, ChIP), some computational skills a plus

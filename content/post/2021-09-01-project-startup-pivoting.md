@@ -3,7 +3,7 @@ title: 'startup pivoting'
 date: '2021-09-01'
 slug: project-startup-pivoting
 categories:
-  - Closed Fall 2021
+  - Open Fall 2021
 tags:
   - Fall 2021
 thumbnailImagePosition: left
@@ -26,7 +26,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/6/21
 + End date: 5/1/22
 + Number of hours per week of research expected during Fall 2021: ~15
-+ Number of hours per week of research expected during Summer 2021: ~20
++ Number of hours per week of research expected during Summer 2022: ~20
 
 ## Candidate requirements
 + Skill sets: data science, NLP, regression analysis.

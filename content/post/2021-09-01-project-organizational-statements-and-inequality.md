@@ -27,7 +27,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/13/21
 + End date: 8/31/22
 + Number of hours per week of research expected during Fall 2021: ~6
-+ Number of hours per week of research expected during Summer 2021: ~20
++ Number of hours per week of research expected during Summer 2022: ~20
 
 ## Candidate requirements
 + Skill sets: Natural language processing; Supervised machine learning; scraping data

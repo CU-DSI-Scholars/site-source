@@ -3,7 +3,7 @@ title: 'Meta-analysis of single-cell genomic data to define cellular heterogenei
 date: '2021-09-01'
 slug: project-meta-analysis-of-single-cell-genomic-data-to-define-cellular-heterogeneity-and-dynamics-in-atherosclerotic-vasculature
 categories:
-  - Closed Fall 2021
+  - Open Fall 2021
 tags:
   - Fall 2021
 thumbnailImagePosition: left
@@ -14,7 +14,7 @@ Atherosclerosis, a chronic inflammatory disease of the artery wall, is the under
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
@@ -26,11 +26,13 @@ This is an UNPAID research project.
 ## Project Timeline
 + Earliest starting date: 10/4/21
 + End date: 12/26/21
++ Hourly commitment: 2 hr/week from 10/11/2021-12/19/2021, 10 weeks, $25 per hour
 
 ## Candidate requirements
 + Skill sets: R and Bioconductor; Python
 + Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes
-+ Additional comments: Interested in bioinformatics in a biomedical research setting.
++ Additional comments: Interest in bioinformatics in a biomedical research setting, 
+
 

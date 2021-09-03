@@ -3,7 +3,7 @@ title: 'Mapping and disrupting business email compromise criminal networks'
 date: '2021-09-01'
 slug: project-mapping-and-disrupting-business-email-compromise-criminal-networks
 categories:
-  - Closed Fall 2021
+  - Open Fall 2021
 tags:
   - Fall 2021
 thumbnailImagePosition: left

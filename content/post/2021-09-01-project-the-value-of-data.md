@@ -3,7 +3,7 @@ title: 'The Value of Data'
 date: '2021-09-01'
 slug: project-the-value-of-data
 categories:
-  - Closed Fall 2021
+  - Open Fall 2021
 tags:
   - Fall 2021
 thumbnailImagePosition: left
@@ -19,12 +19,12 @@ This project studies what determines the value of a single data record and how p
 This project has two parts. The first studies contexts where the data-user already owns the data and can use it without people's consent. We show how to properly assess the value of individual records and characterize all its components. Besides its applicability to those contexts, this part offers a benchmark to understand how privacy affects the value of data. The second part focuses on this question. One key insight is that privacy may not only shift wealth from data-users to data-sources (i.e., from businesses to people), but also change the value itself of data records. For instance, it can increase the value of some people's records at the expense of others. Thus, privacy can have redistributive effects across data-sources, which may contribute to social inequality and should be taken into account by privacy-protection policies.
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
 + Professor: [Jacopo Perego](www.jperego.com)
-+ Center/Lab: Personal research
++ Center/Lab: Graduate School of Business
 + Location: Uris
 + I am an Assistant Professor of Economics at Columbia GSB and affiliated faculty member of the Department of Economics at Columbia University. My interests are in information economics and in the industrial organization of information markets
 
@@ -32,7 +32,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/20/21
 + End date: 5/13/22
 + Number of hours per week of research expected during Fall 2021: ~5
-+ Number of hours per week of research expected during Summer 2021: ~8
++ Number of hours per week of research expected during Summer 2022: ~8
 
 ## Candidate requirements
 + Skill sets: 

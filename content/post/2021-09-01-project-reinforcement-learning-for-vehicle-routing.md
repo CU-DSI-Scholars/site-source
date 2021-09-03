@@ -31,7 +31,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/1/21
 + End date: 12/31/21
 + Number of hours per week of research expected during Fall 2021: ~20
-+ Number of hours per week of research expected during Summer 2021: ~30
++ Number of hours per week of research expected during Summer 2022: ~30
 
 ## Candidate requirements
 + Skill sets: programming, reinforcement learning modeling, literature review

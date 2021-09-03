@@ -28,7 +28,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 + Earliest starting date: 9/27/21
 + End date: 
 + Number of hours per week of research expected during Fall 2021: ~8
-+ Number of hours per week of research expected during Summer 2021: ~8
++ Number of hours per week of research expected during Summer 2022: ~8
 
 ## Candidate requirements
 + Skill sets: Existing skills managing and analyzing large datasets using statistical software including R, SPSS, or SAS.

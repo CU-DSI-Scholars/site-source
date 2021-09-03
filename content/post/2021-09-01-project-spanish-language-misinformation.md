@@ -3,7 +3,7 @@ title: 'Spanish-Language Misinformation'
 date: '2021-09-01'
 slug: project-spanish-language-misinformation
 categories:
-  - Closed Fall 2021
+  - Open Fall 2021
 tags:
   - Fall 2021
 thumbnailImagePosition: left
@@ -14,7 +14,7 @@ I will use Twitter data to assess the popularity and reach of false claims affec
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

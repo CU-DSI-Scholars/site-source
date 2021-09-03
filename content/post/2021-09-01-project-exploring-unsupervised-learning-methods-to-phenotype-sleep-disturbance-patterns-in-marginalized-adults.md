@@ -27,7 +27,7 @@ This is an UNPAID research project.
 + Earliest starting date: 10/1/21
 + End date: 5/1/22
 + Number of hours per week of research expected during Fall 2021: ~10
-+ Number of hours per week of research expected during Summer 2021: ~10
++ Number of hours per week of research expected during Summer 2022: ~10
 
 ## Candidate requirements
 + Skill sets: The Scholar should have experience with processing and analyzing data from sensors and wearables. We hope to work with a Scholar that has an interest in the research topic. Although not required, the project would benefit from the Scholar with working knowledge of techniques for repeated-measures and multi-level data with uneven sampling rates.

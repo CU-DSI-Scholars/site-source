@@ -29,7 +29,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 + Earliest starting date: 9/6/21
 + End date: 
 + Number of hours per week of research expected during Fall 2021: ~15
-+ Number of hours per week of research expected during Summer 2021: ~15
++ Number of hours per week of research expected during Summer 2022: ~15
 
 ## Candidate requirements
 + Skill sets: basics of coding (any coding language, R, SAS and python for example), basics of statistical methods, basics of machine learning

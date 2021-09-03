@@ -27,7 +27,7 @@ This is an UNPAID research project.
 + Earliest starting date: 9/28/21
 + End date: 
 + Number of hours per week of research expected during Fall 2021: ~10
-+ Number of hours per week of research expected during Summer 2021: ~20
++ Number of hours per week of research expected during Summer 2022: ~20
 
 ## Candidate requirements
 + Skill sets: Programming experience in Python or Java

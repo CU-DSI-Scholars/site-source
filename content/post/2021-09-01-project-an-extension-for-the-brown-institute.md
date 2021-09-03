@@ -25,7 +25,7 @@ This is an UNPAID research project.
 
 ## Project Timeline
 + Earliest starting date: 9/1/21
-+ End date: 5/30/21
++ End date: 5/30/22
 
 ## Candidate requirements
 + Skill sets: Innovative thinking in the design of virtual spaces, basic coding skills
