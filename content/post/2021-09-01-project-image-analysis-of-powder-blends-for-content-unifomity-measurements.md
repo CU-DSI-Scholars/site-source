@@ -18,7 +18,7 @@ This is an UNPAID research project.
 {{< /alert >}}
 
 ## Faculty Advisor
-+ Professor: [Aaron Moment](in progress)
++ Professor: [Aaron Moment]
 + Center/Lab: Biopharmaceutical Process Lab
 + Location: 380ET and 803 Mudd
 + Process development of new pharmaceutical products.
