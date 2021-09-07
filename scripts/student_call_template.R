@@ -11,7 +11,7 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_spring-summer_2021.png"
+  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_fall_2021.png"
 
 student_call_url <-
   "https://cu-dsi-scholars.github.io/DSI-scholars/static/student_call"
@@ -19,25 +19,25 @@ student_faq_url <-
   "https://cu-dsi-scholars.github.io/DSI-scholars/static/student_faq"
 
 info_session_url <-
-  "https://columbiauniversity.zoom.us/j/4693624760"
+  "https://columbiauniversity.zoom.us/j/96315428405"
 
 info_session_time <-
-  "11:00am Eastern time on January 15th, 2021."
+  "5pm Eastern time on September 14th, 2021."
 
 apply_now_img_url <-
-  "https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_150/v1570330765/apply-now-button_blue_pvjmkq.png"
+  "/Users/ipekensari/Documents/GitHub/site-source/static/img/opencall_students_fall_2021.png"
 
 year <- 2021
-term <- "Spring/Summer"
+term <- "Fall"
 
-application_deadline <- as.Date("2021-01-22")
+application_deadline <- as.Date("2021-09-25")
 application_deadline_short <- format(application_deadline, "%m/%d/%Y")
 application_deadline_long <- toupper(format(application_deadline, "%B %d, %Y"))
 application_deadline_bold <- toupper(application_deadline_long)
 
 # Where the students can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSf94woxvAgbRqxBMUHZs_1H0Bn6dxaiHdIEk6kQTe4DvCH0ow/viewform?usp=sf_link"
+  "https://docs.google.com/forms/d/e/1FAIpQLSfVlq7Oa5LFU-GZotElllpO_Dsm_x_5t-1DROKDMfzAjxl8wA/viewform"
 
 
 # Credentials file created from gmail; set to where the file can be found.
@@ -45,8 +45,8 @@ application_url <-
 credentials_file <- file.path("gmail_credentials.json")
 
 # Configure as desired.
-email_to <- "Vincent Dorie <vjd2106@columbia.edu>"
-email_from <- "Vincent Dorie <vjd2106@columbia.edu>"
+email_to <- "Ipek Ensari <ie2145@columbia.edu>"
+email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 
 email_title <- glue("
   Data Science Institute {term} Scholars Programs | Application Deadline {application_deadline_short}")
