@@ -3,7 +3,7 @@ title: 'Impacts of flood risk on socio-economic characteristics of coastal neigh
 date: '2021-09-01'
 slug: project-impacts-of-flood-risk-on-socio-economic-characteristics-of-coastal-neighborhoods
 categories:
-  - Closed Fall 2021
+  - Open Fall 2021
 tags:
   - Fall 2021
 thumbnailImagePosition: left
