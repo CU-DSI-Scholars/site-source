@@ -9,8 +9,8 @@ tags:
   - Fall 2021
 autoThumbnailImage: no
 thumbnailImagePosition: top
-thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_720/v1599672636/opencall_students_fall_2020_jmfszm.png
-coverImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,e_blur:300,w_800/v1599672636/opencall_students_fall_2020_jmfszm.png
+thumbnailImage: "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_fall_2021.png"
+coverImage: "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_fall_2021.png"
 metaAlignment: center
 aliases:
   - /static/student_call
