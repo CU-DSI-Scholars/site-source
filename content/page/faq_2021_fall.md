@@ -43,7 +43,8 @@ showActions:    false
 
 + **Question:** I'm interested in applying for a project on the site, but cannot find an option on the application form. Is this project accepting applications?
 
-    *Answer*: There are two reasons why a project may be listed but not be available for applications. The first is that the project has already selected a student - this is visible on the project page. The second is that we are still in negotiations with the PI on how to list the project, or if it to list the project at all. These will be resolved as we get closer to the application deadline.
+    *Answer*: There are two reasons why a project may be listed but not be available for applications. The first is that the project has already selected a student - this is visible on the project page. The second is that we are still in negotiations with the PI on how to list the project, or if it to list the project at all. These will be resolved as we get closer to the application deadline. 
+    Please avoid contacting the faculty PI of the project directly to apply for the advertised roles. This creates confusion for faculty and risks unfairness between the applicants. To be a part of the program, the students are expected to use the umbrella application form. Faculty will receive and review these applications after September 26th. 
 
 + **Question:** I will be working as a student researcher in lab xxx under the supervision of Professor YY this semester. I am interested in participating in the DSI scholars program's activities (e.g., boot camp, weekly meet-ups, etc). Can I apply?
 

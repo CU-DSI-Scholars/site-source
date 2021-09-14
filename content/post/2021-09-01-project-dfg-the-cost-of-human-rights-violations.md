@@ -20,7 +20,7 @@ The data science project uses natural language processing, machine learning, and
 Full details on this project can be found on this page: https://rightscolab.org/project-harnessing-big-data/
 
 {{< alert info >}}
-This is a volunteer opportunity for students to use their skills for the social good.
+Selected candidate(s) might receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
