@@ -3,7 +3,7 @@ title: 'How Do Competing Regulators Regulate Conflict of Interest (COI) Disclosu
 date: '2021-09-01'
 slug: project-how-do-competing-regulators-regulate-conflict-of-interest-coi-disclosure-evidence-from-fairness-opinion-providers’-coi-disclosures
 categories:
-  - Closed Fall 2021
+  - Open Fall 2021
 tags:
   - Fall 2021
 thumbnailImagePosition: left
@@ -23,7 +23,7 @@ This is an UNPAID research project.
 
 ## Project Timeline
 + Earliest starting date: 9/7/21
-+ End date: 
++ End date: Flexible
 
 ## Candidate requirements
 + Skill sets: Interested in reading and able to read the financial statements. Having some basic understanding of the financial institutions
