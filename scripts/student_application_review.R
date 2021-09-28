@@ -19,21 +19,21 @@ credentials_file <- "gmail_credentials.json"
 # Configure as desired.
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 email_replyto <- "dsi-scholars@columbia.edu"
-email_cc <- "vjd2106@columbia.edu"
+email_cc <- "jrs2139@columbia.edu "
 
 # applications results file is downloaded csv from script form referenced above.
 data_dir  <- "data"
-application_results_file <- "applicationinfo_spring-summer_2021.csv"
+application_results_file <- "applicationinfo_fall_2021.csv"
 
-project_term <- "Spring-Summer"
+project_term <- "Fall 2021"
 project_year <- "2021"
 
-notification_date <- "February 19th, 2021"
+notification_date <- "September 28th, 2021"
 
-stipend_term <- "Spring"
-next_stipend_term <- "Summer"
-stipend_submission_date <- "February 26th, 2021"
-stipend_filing_estimate <- "March 5th, 2021"
+stipend_term <- "Fall"
+next_stipend_term <- "Spring"
+stipend_submission_date <- "October 7th, 2021"
+stipend_filing_estimate <- "October 14th, 2021"
 
 subject_dsi <- glue("[DSI-Scholars { project_term } {project_year }] Applications For Your Review")
 subject_dfg <- glue("[DFG-Scholars { project_term } {project_year }] Applications For Your Review")
@@ -48,7 +48,7 @@ email_signature <- glue("
 --<br/>
 Ipek Ensari<br/>
 Associate Research Scientist<br/>
-Co-Director DSI & DFG Scholar Programs<br/>
+Director DSI & DFG Scholar Programs<br/>
 Data Science Institute at Columbia University<br/>
 Northwest Corner #1401, 550 W 120th St, New York, NY 10027<br/>
 ie2145@columbia.edu | 646-745-8498</p>")
@@ -103,8 +103,8 @@ data science.</p>")
     # Student notification instructions
     if (is_dfg) {
       body %<>% glue("
-<p>Please select the student(s) you would like to work with and notify them; we recommend \\
-a team of 2-5. Students are expecting to hear from project owners by \\
+<p>Please select the student(s) you would like to work with and notify them. \\
+Students are expecting to hear from project owners by \\
 <em>{ notification_date }</em>.")
     } else {
       body %<>% glue("
