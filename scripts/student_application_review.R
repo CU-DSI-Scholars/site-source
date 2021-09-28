@@ -25,15 +25,15 @@ email_cc <- "jrs2139@columbia.edu "
 data_dir  <- "data"
 application_results_file <- "applicationinfo_fall_2021.csv"
 
-project_term <- "Fall 2021"
+project_term <- "Fall"
 project_year <- "2021"
 
-notification_date <- "September 28th, 2021"
+notification_date <- "October 7th, 2021"
 
 stipend_term <- "Fall"
 next_stipend_term <- "Spring"
-stipend_submission_date <- "October 7th, 2021"
-stipend_filing_estimate <- "October 14th, 2021"
+stipend_submission_date <- "October 11th, 2021"
+stipend_filing_estimate <- "October 15th, 2021"
 
 subject_dsi <- glue("[DSI-Scholars { project_term } {project_year }] Applications For Your Review")
 subject_dfg <- glue("[DFG-Scholars { project_term } {project_year }] Applications For Your Review")
