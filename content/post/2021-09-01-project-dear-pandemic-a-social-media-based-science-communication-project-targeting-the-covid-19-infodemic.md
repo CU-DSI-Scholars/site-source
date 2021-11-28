@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/phishing.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/phishing.png?raw=true
 ---
 The WHO has identified scientific misinformation as a public health crisis, calling it an “infodemic.” Social media allows misinformation to spread quickly and out-compete scientifically grounded information. Dear Pandemic is an innovative, multidisciplinary, social media-based science communication project led by women scientists across several institutions around the US and the UK. The mission is to educate and empower individuals to successfully navigate the overwhelming amount of information. The goals are: 1) To disseminate trustworthy, comprehensive, and timely scientific content about the pandemic to lay audiences, and 2) To promote media and health literacy, equipping readers to better manage the COVID-19 infodemic within their own networks. More than one year after launch, the project has a combined monthly reach of > 5 million people across 4 social media channels (2 Facebook pages in English and Spanish; Instagram; and Twitter). 
 
