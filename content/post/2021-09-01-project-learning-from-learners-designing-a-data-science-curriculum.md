@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage:https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/edlab.png?raw=true
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/edlab.png?raw=true
 ---
 This project is an opportunity to gain hands-on experience teaching data science in an advanced secondary-school environment. This fall, you will act as a teaching assistant (mostly remote, but with some on-site requirements) for a new introductory data science class that will be offered to advanced secondary-school students through the Bard College Early High School program. You will have the opportunity to contribute to the curriculum for this unique course, as well as learn firsthand from this diverse student body about how data science instruction can attract and engage learners of all backgrounds.
 
