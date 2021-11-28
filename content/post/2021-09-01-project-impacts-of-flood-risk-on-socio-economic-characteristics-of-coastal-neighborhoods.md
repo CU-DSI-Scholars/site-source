@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/river2.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/river2.png?raw=true
 ---
 The project is analyzing how flood risk affects the composition of coastal neighborhoods. Understanding the effects of flooding on residential mobility and livelihoods is important for designing policies that support equitable adaptation to coastal flooding, addressing inequities in the impacts of flooding. Increasing flood risk may lead to gentrification as wealthier homeowners who have the resources to defend their homes against rising waters displace lower income households in waterfront locations, or coastal neighborhoods may deteriorate if flood-prone real estate loses value and/or economic activity and incomes decline. The study focuses on the effect of flooding associated with Hurricane Sandy on the composition of coastal neighborhoods in New York and New Jersey. The study will use panel data from the American Community Survey from 2010 to 2020 and data on flooding due to Sandy to compare the change in neighborhood characteristics such as income distribution, education, race, gender, and age over time in locations that were affected by Sandy and similar communities that were not. Dr. Malgosia Madajewicz will mentor the scholar, meeting at least once a week in person or virtually, and more often if needed. She will communicate with the scholar by email and phone as often as necessary.
 

@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/preterm.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/preterm.png?raw=true
 ---
 Understanding the effects of environmental exposures on child health and development is crucial to promote positive health outcomes in adulthood. To advance knowledge in this area, our lab is part of the NIH-funded Environmental influences on Child Health Outcomes (ECHO) Program. As of April 2021, the cohorts have collected data from over 90,000 participants which includes over 57,000 children. The selected student(s) will be involved in projects investigating the relationship between a variety of prenatal and postnatal exposures and physiological variables. Specifically, we aim to build multidimensional associative and predictive models to investigate the effects of prenatal maternal drinking and smoking on development of cardiac and neural systems non-invasively assessed at 4-, 5-, 7-, 9- and 11-years of age. We will advance prior work on the relationship of maternal depression and child development by including depression measures at 1 and 4 years post-delivery and prospective assessment of multiple domains of child development and applying machine learning methods for trajectory identification. 
 

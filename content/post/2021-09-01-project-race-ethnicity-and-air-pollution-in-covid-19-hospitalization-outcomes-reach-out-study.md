@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/public_health.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/public_health.png?raw=true
 ---
 The REACH OUT study is a multi-institutional collaboration funded by the Health Effects Institute to determine if populations who have been chronically exposed to higher levels of air pollution are at greater risk of severe COVID-19 outcomes. The project will involve working with a harmonized repository of electronic health record data from multiple healthcare institutions in NYC that will be linked at the zip code level to city-wide air pollution data and neighborhood-level census variables. The project aims are:
 

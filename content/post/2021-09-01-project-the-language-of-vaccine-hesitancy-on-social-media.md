@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/social_media.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/social_media.png?raw=true
 ---
 The project seeks to analyze a large corpus of vaccine (dis)information collected online, using NLP and other machine learning tools. Of particular interest is vaccine hesitancy among people of color, immigrant and religious communities.
 

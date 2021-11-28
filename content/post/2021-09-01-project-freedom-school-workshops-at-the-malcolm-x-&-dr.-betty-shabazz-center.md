@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/focus_group.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/focus_group.png?raw=true
 ---
 This project is a collaboration between Columbia scholars and students and leadership at the Malcolm X  & Dr. Betty Shabazz Center. The goal is to create programming and intellectual resources inspired by the legacy of Dr. Shabazz and Malcolm X through public events, workshops and data science activities. Part of this work will involve using computational methods to analyze existing publications around Malcolm X's work, as well as develop a corpus of research materials by effectively digitizing the contents of the publicly-available FBI files about his life. 
 

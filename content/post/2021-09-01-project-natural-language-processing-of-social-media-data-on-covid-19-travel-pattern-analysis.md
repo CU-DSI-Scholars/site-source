@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/human_earth.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/human_earth.png?raw=true
 ---
 COVID-19 has transformed people’s lives in every aspect. Travel patterns and work patterns are also changed. This project aims to leverage social media data (e.g., tweets, facebook posts, Reddit posts) to mine people’s travel patterns and the timeline of telecommute using Natural Language Processing (NLP). Research questions are:
 

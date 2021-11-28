@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/image_processing.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/image_processing.png?raw=true
 ---
 Stroke is devastating when left untreated. Early treatment significantly improves outcomes, and can be reliably detected using the FAST exam, which specifically assesses facial asymmetry, arm weakness, and speech deficits for signs of stroke. Our project aims to use smartphone technology to build a stroke detection algorithm based on this exam. We have collected video data of hospitalized stroke patients performing aspects of the standard neurology exam, which includes the factors previously mentioned. The next step is to build an algorithm that can detect facial asymmetry using this data.
 

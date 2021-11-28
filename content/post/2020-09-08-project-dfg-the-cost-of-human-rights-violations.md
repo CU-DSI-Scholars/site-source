@@ -15,7 +15,7 @@ tags:
   - Human rights
   - Fall 2020
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/cost_human_rights_2.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/cost_human_rights_2.png?raw=true
 ---
 [Rights CoLab](https://rightscolab.org) is working with the Sustainability Accounting Standards Board (SASB) to develop and define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both direct employees and workers in their supply chains. The project has two components: a data science project and an Independent Advisory Group. Our coalition of labor experts, data scientists, and SASB partners is focused on improving social disclosure standards that drive real gains in human rights.
 

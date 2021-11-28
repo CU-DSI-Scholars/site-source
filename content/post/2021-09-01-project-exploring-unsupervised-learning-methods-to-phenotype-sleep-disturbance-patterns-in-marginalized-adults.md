@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/woman_sleeping.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/woman_sleeping.png?raw=true
 ---
 The aims of this project are two-fold. We seek to: 1) better understand the associations of discrimination with sleep and cardiovascular health among LGBTQ+ adults, and 2) compare various unsupervised learning techniques on their performance on clustering sleep patterns using actigraphy data. We have multiple datasets for conducting our analyses to delineate the pattern of associations between sleep and other variables. We will also explore various modeling techniques to quantify the within- and between-person variability in sleep patterns. We aim to complete multiple analyses in the Fall and Spring semesters to develop conference abstracts and manuscripts to be submitted in Spring 2022. Since our DSI seed grant is still ongoing, during the Fall semester the Scholar will work on data wrangling and analyses, in addition to data management from existing data collected from our Precision in Symptom Self-Management pilot studies. In January 2022, we will begin analyzing data from our DSI seed grant. We hope to collaborate with a student who is interested in machine learning, sleep, and/or health disparities. The Scholar will have the opportunity to contribute to all of these aspects of the project. The Scholar will also be able to propose and lead additional analyses.
 

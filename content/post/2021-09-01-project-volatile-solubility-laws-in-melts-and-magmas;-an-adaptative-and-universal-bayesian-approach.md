@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/co2_cloud.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/co2_cloud.png?raw=true
 ---
 All volcanoes on earth are driven by the degassing of volatile elements, mostly H2O and CO2 from their host magma. To model the degassing process, one needs to know the solubility laws of these volatile. To that end, petrologists have been performing high-pressure high-temperature experiments for sixty years to determine how much water and CO2 dissolves in magma as a function of Pressure, Temperature, Melt composition (12 oxides) and oxidation state. To model how these fifteen parameters affect solubility laws petrologist have then relied on empirical interpolation between experimental data points and some extrapolations using classical thermodynamic theory to infer the expected behavior beyond experimental calibration.  
 

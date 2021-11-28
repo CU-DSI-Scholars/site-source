@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/cancer_dna.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/cancer_dna.png?raw=true
 ---
 We performed a prospective, non-randomized trial of patients undergoing surgical management of gastrointestinal, gynecologic, and urologic malignancies between 2017 and 2021 . Participants were instructed to take immunonutrition formula three times daily for five days before and after surgery once cleared by the surgeon for clear liquid diet. The dietician tracked their adherence. We are looking to perform statistical analysis to look at the impact of immunonutrition intake on unadjusted and adjusted postoperative surgical outcomes.
 

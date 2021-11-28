@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/alzheimer.jpg
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/alzheimer.jpg?raw=true
 ---
 The goal of this project is to evaluate algorithms that predict gene expression directly from sequencing data. With the availability of large scale sequencing data in ADSP and progress made in machine learning methods, it is possible to model long range interactions in the DNA sequence to infer intermediate phenotypes such as gene expression. First, we will test a deep learning based method called Enformer that is able to integrate long-range interactions (such as promoter-enhancer interactions) in the genome and predict gene expression from sequence. Using available RNA-sequencing on a small number of samples (e.g. ROSMAP cohort), we will optimize the algorithm to improve accuracy of prediction. Secondly, inferred expression in the ADSP cohorts will be used to test association with Alzheimer’s Disease and related endophenotypes. Finally, we will incorporate datasets that will become available in future such as cell-type specific ATAC-seq and disease-specific gene expression to re-train learning models to improve gene-expression prediction directly from sequencing data.
 

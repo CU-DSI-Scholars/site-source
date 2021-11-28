@@ -7,7 +7,7 @@ categories:
 tags:
   -  2021  - Data For Good
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/7d7961f5aaaf6a275838ef72d5637cdee0d3502c/img/human_robot.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/human_robot.png?raw=true
 ---
 This DFG project is a collaboration with researchers from Pittsburgh and ThroughlinesEdu. We are developing a R Shiny-based dashboard that enables grades 3-8 students to interactively learn data science concepts and research methods through themes of environmental justice. The goal is to develop a stand-alone educational tool that is open source and accessible by all regardless of demographic background, which can then be integrated into the teaching curricula. To this end, we are developing static and dynamic visualizations (e.g., graphs, figures, maps) using data on natural disasters, climate, and sea levels, as well as relief allocation to areas impacted by natural disasters.The end product will be introduced to social studies teachers of various grades 3-8 who work at schools in underserved districts at the end of October 2021.
 

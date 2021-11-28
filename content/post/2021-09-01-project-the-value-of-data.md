@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/social_network.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/social_network.png?raw=true
 ---
 Many scholars and policymakers view establishing functioning data markets as essential for the digital economy to bring prosperity and stability to society at large. A key challenge is to determine the value of an individual's specific data. Is one buyer’s data more valuable than another’s for an e-commerce platform? How much should each be paid? 
 

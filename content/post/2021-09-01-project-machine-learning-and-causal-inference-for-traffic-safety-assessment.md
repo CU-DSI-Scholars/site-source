@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/self_driving_car.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/self_driving_car.png?raw=true
 ---
 Traffic safety has become an emerging issue in the city of New York since the pandemic. This project aims to use causal inference methods to investigate how traffic safety countermeasures (including adding more bike lanes) that have been deployed by the city affect traffic fatalities.
 

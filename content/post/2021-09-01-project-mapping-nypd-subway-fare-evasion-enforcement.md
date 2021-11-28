@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/public_transportation.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/public_transportation.png?raw=true
 ---
 This project is the next phase in ongoing research to document how the MTA and NYPD use public resources to criminalize poverty at the subway turnstile, especially in Black and Brown communities.
 

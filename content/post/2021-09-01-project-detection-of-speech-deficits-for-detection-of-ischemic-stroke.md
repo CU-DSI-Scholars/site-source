@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/heart.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/heart.png?raw=true
 ---
 Stroke is devastating when left untreated. Early treatment significantly improves outcomes, and can be reliably detected using the FAST exam. The exam looks for facial asymmetry, arm weakness, and speech deficits as signs of stroke. Our research project aims to use smartphone technology to build a stroke detection algorithm based on the FAST exam. We have collected speech data of hospitalized stroke patients. The next step is to build an algorithm that can detect abnormal speech.
 

@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/finnet.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/finnet.png?raw=true
 ---
 This research project aims at exploring and developing methods to improve and diversify the visualizations of the interactions between the Internet and the topographical and geopolitical space (i.e. space and the political actors that rule over it) through the case study of a region of interest (could be virtually any region that would be of interest for the student). The main intend of the project is to produce a set of maps and visualizations (including infographics where relevant), as comprehensive and diverse as possible, combining Internet mapping with the geographical and geopolitical context of that region. We will build on top of existing techniques for visualizations of the Internet and discuss potential capacities to further model the Internet.
 

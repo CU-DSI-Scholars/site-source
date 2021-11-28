@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/finding_internet.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/finding_internet.png?raw=true
 ---
 Evidence-based Medicine (EBM) is the conscientious, explicit and judicious use of current best evidence in making decisions about the care of individual patients. The key difference between evidence-based medicine and traditional medicine is not that EBM considers the evidence while the latter does not, but rather that EBM demands better evidence. Given the exponential growth of the medical literature and the free text format of this big body of literature that hampers efficient evidence computing, researchers, patients and clinicians face significant challenges in evidence retrieval, appraisal, and synthesis. Our long-term goal is to develop natural language processing and text summarization methods to overcome these challenges. Our short-term goal is to build a computable evidence base for COVID-19 and to enable evidence synthesis and reasoning over COVID-19 study findings. Currently we have a database of structured data elements for PubMed abstracts for randomized controlled trials published within the past 20 years. For this scholar project, we expect the participating students to develop methods to analyze the evidence in our evidence base, to build COVID-19 knowledge graphs, and to enable evidence synthesis and appraisal at scale. On this basis, we will also compare the evidence in the literature to the evidence derived from the real world data of COVID-19 patients.
 
