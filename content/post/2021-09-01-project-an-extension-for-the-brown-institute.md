@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/projections.png?raw=true
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/strategy_brainstorm.png?raw=true
 ---
 The pandemic brought with it a range of tools for virtual collaboration. In 2020, the Brown Institute space was taken offline and our events were virtual. The affordances of virtual platforms, and in particular the highly-programmable ohyay.co, quickly became obvious — people participated in events who ordinarily would not, either as presenters or as audience members, and scriptable interactions helped boost the depth of involvement in our discussions. As we begin returning to in-person events, we would like to hold onto the best properties of a virtual environment. Our proposal is for the development of a “multi-modal” Extension to the Brown Institute space. This will be a series of interventions both in ohyay.co as well as in the physical Brown Institute. Partnering with the original architect and with engineers from ohyay.co, the Brown Institute Extension will be a space for unique collaboration. The Extension will support and enhance our programming in the technical tools of journalism, including data+computation, data visualization, AR/VR, machine learning, natural language processing… and the list goes on. We hope to find an intern with an interest in HCI and computation to help us design and program our Extension.
 

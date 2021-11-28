@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/cryptocurrencies.png?raw=true
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/cryptocurrencies.jpg?raw=true
 ---
 There are 2 projects under consideration- the first one is well underway. 
 
