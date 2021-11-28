@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/healthcare_technology.png
 ---
 The Center for Behavioral Cardiovascular Health has been at the forefront of developing virtual interventions (e.g., home BP telemonitoring, iHeart enhanced depression screening app, and COVID remote care program) to improve the management of hypertension, depression, and COVID. We are looking for motivated mentees to help us organize and analyze a wide-breadth of patient data from the Columbia-New York Presbyterian data warehouse to understand the impact of the interventions on patient outcomes. The mentee would work alongside highly experienced biostatisticians and our Center's professionalized data team managers. The mentee will develop expertise in analyzing health system data and will inform decisions to modify, sustain, or de-implement existing programs. 
 

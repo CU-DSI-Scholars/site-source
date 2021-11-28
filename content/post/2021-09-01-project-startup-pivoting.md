@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/search_engine.png
 ---
 This project aims to use data science with historical version of startup websites to identify when do they pivot to new strategies.
 

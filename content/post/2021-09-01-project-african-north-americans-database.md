@@ -19,7 +19,7 @@ tags:
   - Tableau
   - Power BI
 thumbnailImagePosition: left
-thumbnailImage: //res.cloudinary.com/vdoriecu/image/upload/c_thumb,w_200,g_face/v1569955380/african_north_americans_cybrfk
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/african_north_americans.png
 ---
 
 This project is the first comprehensive examination of African North Americans who crossed one of the U.S.-Canada borders, going either direction, after the Underground Railroad, in the generation alive roughly 1865-1930. It analyzes census and other records to match individuals and families across the decades, despite changes or ambiguities in their names, ages, "color," birthplace, or other details.

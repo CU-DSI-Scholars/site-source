@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/chromosomes.png
 ---
 The Landweber Lab is looking for a computational student to work with us to analyze long-read DNA sequence datasets from Oxford Nanopore and PacBio (so-called third generation sequencing platforms). These datasets were collected across a time-course while single cells of the genus Oxytricha are undergoing RNA-guided natural genome editing. This process leads to a completely different "output" product genome from the precursor "input" or germline genome, and has been compared to a cellular computer. The goal will be to capture and classify long reads in these DNA datasets that represent the intermediate steps in genome rearrangements, when chromosomes mix and match hundreds of thousands of precursor building blocks to assemble a mature genome of 18,000 new chromosomes during programmed nuclear development.
 

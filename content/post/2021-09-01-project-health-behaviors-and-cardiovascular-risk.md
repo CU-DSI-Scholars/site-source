@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/heart.png
 ---
 The project will include conducting analyses on lifestyle behaviors, namely diet and sleep, in relation to cardiovascular health. Analyses will be completed within NHANES (National Health and Nutrition Examination Surveys). Analyses will also be completed using data from a 24/7 sleep and activity tracker in relation to blood pressure. The student will contribute to data management and statistical analyses and will be a co-author on manuscripts submitted for publication.
 

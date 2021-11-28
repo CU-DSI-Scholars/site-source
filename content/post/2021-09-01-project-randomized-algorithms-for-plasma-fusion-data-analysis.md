@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/projections.png
 ---
 Tokamak fusion reactors produce vast amounts of information rich data. Traditional approaches to data analysis struggle to cope with the scale of the data produced. In this project we aim to apply techniques from randomized numerical to beat the curse of dimensionality. Interested students should have a solid understanding of linear algebra, probability, and be happy coding in MATLAB or Python.
 

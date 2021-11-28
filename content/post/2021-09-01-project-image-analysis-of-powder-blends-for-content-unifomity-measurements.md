@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/ML.jpg
 ---
 Using image analysis and decision tree methods establish algorithms to determine extent of blend uniformity.  
 

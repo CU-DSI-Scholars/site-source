@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/cost_human_rights.png
 ---
 Business email compromise (BEC) is a prevalent cyber attack, where the attacker impersonates a figure of authority or legitimacy (e.g., the CEO, a business associate), and asks the target to wire money to a bank account by the attacker. Based on FBI estimates, in the past several years, attackers have been able to steal over $22B in fraudulent wire transfers. Such attacks have affected a very wide range of individuals and institutions, from the world's largest and most sophisticated companies (e.g., Google, Facebook), to government and public entities, and even individuals whose house down payment was stolen by an attacker pretending to be their mortgage broker.
 

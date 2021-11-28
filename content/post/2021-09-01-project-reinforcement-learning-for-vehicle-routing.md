@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/zoran.png
 ---
 Vehicle routing has been extensively studied in optimization problems. With the advance of AI and big data, this project aims to solve vehicle routing problems (VRP) using reinforcement learning.
 

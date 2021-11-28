@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/taxes.png
 ---
 We study how competing groups of regulators regulate the COI disclosure using the setting of the fairness opinion (“FO”) providers in mergers and acquisitions (“M&A”). In this setting, there are three types of regulators with cross-sectional variation in enforcement: the SEC, FINRA, and state courts. Though each group regulates the same disclosure, they all have authority over different regulatees: The SEC has authority over the managers who create the filings; FINRA has authority over the FO providers; and state courts have authority over the board of directors. We examine the effectiveness of each group’s enforcement and the effect of their interactions on COI disclosures. Our paper contributes to the literature on regulatory design for financial reporting disclosures, especially when the different regulatees need to coordinate information or when disclosures have negative implications. 
 

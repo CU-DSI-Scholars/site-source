@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021  - Data For Good
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/zoning.png
 ---
 This project is an exciting opportunity to work with FEM, a non-profit that aims to address social rights issues among rural communities in Colombia. The team is currently working with the mayor’s office in Cartagena, Colombia to access multiple datasets and data sources to establish who and where the extreme poor in Cartagena live. Her team piloted a smartphone-based collection strategy during IOTA Hurricane and obtained data on 4845 households in a very vulnerable area. The first data science challenge was to wrangle and analyze these data to better characterize the population and their needs. This part of the project was conducted in the Spring and Summer of 2021.
 

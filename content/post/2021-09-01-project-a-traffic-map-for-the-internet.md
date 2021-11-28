@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/internet_icons.png
 ---
 The impact of an outage, congestion, hijacking, and many other Internet phenomena depends on how many users or how much traffic use the route, but researchers lack visibility into how important routes are, and, distressingly, seem to have lost hope of obtaining this information without proprietary datasets or privileged viewpoints. We believe that there is hope -- new measurement methods and changes in Internet structure make it possible to construct an “Internet Traffic Map” identifying the locations (logical and perhaps geographical) of Internet users and major services, the paths between users and major services, and the relative activity levels (traffic, queries, or number of users) routed along these paths. We will construct this map. The realization of an Internet Traffic Map will be an Internet-scale effort that will have Internet-scale consequences that reach far beyond the research community.
 

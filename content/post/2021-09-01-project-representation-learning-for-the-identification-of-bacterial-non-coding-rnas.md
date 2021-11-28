@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/dna_transcription.png
 ---
 Computational methods for identifying protein coding genes can leverage the conserved translational mapping of triplet codons to amino acids. However, non-coding genes, that are transcribed into RNAs but do not code for proteins, lack this structure, hindering their identification. Deep neural networks have shown tremendous promise in learning useful representations of unstructured data, including genomic data. Our lab is investigating the application of deep learning and natural language processing to the learning of representations useful for non-coding gene identification in bacterial genomes. We are seeking a student to contribute to this work. The goals of this project include 1) the identification and application of neural network architectures useful for identifying different classes of non-coding RNAs, 2) the interrogation of well-performing models in order to identify features of non-coding RNAs, and 3) the design of robust test cases which enable the comparison of these novel methods to existing methods for non-coding RNA identification in bacterial genomes.
 

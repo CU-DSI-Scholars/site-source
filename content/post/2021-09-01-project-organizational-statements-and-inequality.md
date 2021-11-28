@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/text_mining.png
 ---
 Project focuses on using text (from company statements and job postings) to better understand inequality in labor market outcomes. It will require some data scraping, managing large amounts of text data (e.g., captures from company websites), using NLP to better understand trends in the data, and SML to code key elements in text data. It may also involve running descriptives and comparisons of text data across time periods (e.g., how the language changes).  
 

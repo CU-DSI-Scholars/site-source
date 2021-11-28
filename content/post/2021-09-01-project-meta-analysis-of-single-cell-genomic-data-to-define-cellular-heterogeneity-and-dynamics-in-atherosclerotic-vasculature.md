@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/blood_vessels.png
 ---
 Atherosclerosis, a chronic inflammatory disease of the artery wall, is the underlying cause of human coronary heart diseases. Single-cell genomics have catalyzed the revolution in understanding of cellular heterogeneity and dynamics in atherosclerotic vasculature. The goal of the project is to leverage published and our own single-cell genomic data and perform a meta-analysis. Meta-analysis allows integrated analysis of much larger cell numbers and helps resolve the full spectrum of cellular heterogeneity and dynamics in atherosclerotic vessels and facilitate therapeutic translation. The DSI scholar will: (1) use the latest bioinformatic pipeline to integrate the existing scRNA-seq, CITE-seq, and scATAC-seq datasets; (2) analyze the integrated datasets using R/Bioconductor packages (e.g. Seurat); (3) interpret the data using pathway and network analysis. Some relevant workflows are available through the "Resources" page of our lab website at https://hanruizhang.github.io/zhanglab/.
 

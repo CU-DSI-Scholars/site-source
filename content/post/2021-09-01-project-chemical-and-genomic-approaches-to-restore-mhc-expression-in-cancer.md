@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/neurotransmitters.png
 ---
 Small molecule modulators have been transformative in immune-oncology, revealing the functional role of numerous immune pathways. The current paradigm for immunotherapy, however, excludes cancers such as PDA where MHC-I is not effectively expressed at the membrane. In this application, we combine an innovative chemical proteomic screening platform with genome wide CRISPR screening in advanced PDA models. The lead compounds and protein targets discovered herein should provide launching points for drug development programs to remove PDA’s cloak of invisibility from the immune system.
 

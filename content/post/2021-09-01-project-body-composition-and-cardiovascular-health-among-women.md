@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/radiology.png
 ---
 We would like a student to assist with conducting linear and logistic regression analyses using SAS, along with preparing charts, tables, and graphs of the data from our prospective cohort study.
 

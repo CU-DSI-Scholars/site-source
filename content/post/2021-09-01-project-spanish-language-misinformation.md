@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/search_engine.png
 ---
 I will use Twitter data to assess the popularity and reach of false claims affecting Latinos regarding Covid-19, the 2020 election, and the Biden presidency. I also plan to characterize these data using text analysis methods in order to recover general themes or topics, and how they varied as a function of geography, time, and user characteristics. I have access to the Twitter academic API.
 

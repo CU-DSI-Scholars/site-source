@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/finance_chart.png
 ---
 In this project, we will study historical player transfer data from European professional football (n > 1,000,000 transfers). To supplement this analysis, we will also exploit data on player and team performance, team ownership and management, team finances, and player agents.
 

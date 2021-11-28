@@ -7,7 +7,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/hospital_bed.png
 ---
 This study is the first step in exploring an emerging and previously understudied data stream - verbal communication between healthcare providers and patients. In partnership between Columbia Engineering, School of Nursing, Amazon, and the largest home healthcare agency in the US, the study will investigate how to use audio-recorded routine communications between patients and nurses to help identify patients at risk of hospitalization or emergency department visits. The study will combine speech recognition, machine learning and natural language processing to achieve its goals. 
 

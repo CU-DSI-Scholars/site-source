@@ -8,7 +8,7 @@ categories:
 tags:
   - Fall 2021
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/DSI-scholars/blob/main/img/ehr.png
 ---
 Clostridioides difficile infection (CDI) is highly associated with antibiotic exposure, but it is uncertain which classes of antibiotics confer the greatest risk for CDI.  This project will use the MarketScan database, a large commercial insurance billing database containing 40 million patient records, outpatient antibiotic prescription data, and ICD-based disease information, to test for associations between specific antibiotic classes and risk for CDI.
 
