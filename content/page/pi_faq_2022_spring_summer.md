@@ -11,7 +11,7 @@ comments:       false
 showMeta:       false
 showActions:    false
 aliases:
-  - /static/pi_faq
+  - /page/pi_faq
 ---
 
 + **Question:** How does the DSI Scholars stipend/matching fund process work?
