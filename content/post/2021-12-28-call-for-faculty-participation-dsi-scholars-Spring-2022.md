@@ -4,14 +4,14 @@ author: "Ipek Ensari, Vincent Dorie"
 date: '2021-12-28'
 categories:
   - Announcement
-coverImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_ss2022_banner.png?raw=true
+coverImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/wordcloud.png?raw=true
 autoThumbnailImage: no
 metaAlignment: center
 slug: call-for-faculty-participation-dsi-scholars-spring-2022
 tags:
 - Info
 - Spring 2022
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/wordcloud.png?raw=true
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_ss2022_banner.png?raw=true
 thumbnailImagePosition: top
 aliases:
   - /static/pi_call
