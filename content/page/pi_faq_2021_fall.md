@@ -3,8 +3,6 @@ title: PI Frequently Asked Questions
 author: Ipek Ensari and Vincent Dorie
 date: '2021-07-16'
 slug: pi_faq_2021_fall
-aliases:
-  - /static/pi_faq
 categories:
   - info
 tags:

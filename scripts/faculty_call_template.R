@@ -11,22 +11,22 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "file:///Users/ipekensari/Documents/CU-DSI-Scholars/site-source/static/img/opencall_faculty_fall2021.png"
+  "https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_springsummer_2022.png?raw=true"
 
-year <- 2021
+year <- 2022
 year_bootcamp  <- 2022
 year_town_hall <- 2022
-term <- "Fall"
-year_term_description <- "Fall 2021 sessions"
+term <- "Spring/Summer"
+year_term_description <- "Spring/Summer 2022 sessions"
 
-num_projects_last_year <- 38
-num_applications_last_year <- 400
+num_projects_last_year <- 43
+num_applications_last_year <- 350
 
-application_deadline <- "August 24th, 2021"
+application_deadline <- "January 20th, 2022"
 
 # Where faculty can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSeQNPZYgxVAcJyaoWUPmJA1WtMYrFEh8bBiG_LNeGSwWYHmhw/viewform?usp=sf_link"
+  "https://docs.google.com/forms/d/e/1FAIpQLScyVuBIx2F1SdIdXOcuHZev0flwvubO9ACmTy0PVxQlb5Cm2w/viewform"
 
 # If you are hosting your own online information sessions, modify this text
 # accordingly. Right now it refers to the one from August.
@@ -45,7 +45,7 @@ credentials_file <- file.path("gmail_credentials.json")
 email_to <- "Ipek Ensari <ie2145@columbia.edu>"
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 
-email_title <- "August 24th Deadline for DSI Scholars Program Project Submissions"
+email_title <- "January 20th Deadline for DSI Scholars Program Project Submissions"
 
 ### VARIABLES END ###
 
@@ -82,11 +82,13 @@ email_body <- glue("
     is expected to be a fraction of a full stipend that is appropriate for \\
     the time and effort required by the research project. The DSI Scholars \\
     program recommends that the PI/lab engage DSI scholars approximately \\
-    5-8 hours a week during the academic semester and consider a full-time \\
+    8 hours a week during the academic semester and consider a full-time \\
     or part-time research internship during summer. Allocation of funds will \\
     be made via a first-come-first-serve need-based process, with efforts to \\
     balance allocation across disciplines, to prioritize new \\
-    PIs/labs/projects, and support novel interdisciplinary research.</li>
+    PIs/projects and new student scholars, and support novel interdisciplinary research.\\
+    For more details on how projects are selected and information about whether your project \\
+    might be appropriate for the Scholars Program (versus another DSI program), please see our PI FAQs. </li>
   <li><b>Administrative support</b>: The DSI will collect faculty-submitted \\
     internship positions and create an umbrella application page to solicit \\
     student applications. The collected applications for each position will \\
@@ -99,7 +101,7 @@ email_body <- glue("
   activities for the DSI Scholars Program.
     <ul>
     <li>Bootcamps on Data Science Research Skills - During the first weeks of \\
-    summer {year_bootcamp} we will run bootcamps on data science research \\
+    June {year_bootcamp} we will run bootcamps on data science research \\
     skills. All students who have been selected for a DSI Scholars project \\
     (receiving matching funds or not) are especially encouraged to attend, \\
     with additional seats available for other interested applicants.</li>

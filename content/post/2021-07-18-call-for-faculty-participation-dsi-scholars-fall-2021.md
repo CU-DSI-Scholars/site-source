@@ -13,8 +13,7 @@ tags:
 - Fall 2021
 thumbnailImage: https://res.cloudinary.com/vdoriecu/image/upload/c_scale,w_758/v1607545909/opencall_faculty_springsummer_2021_nlfo9j.png
 thumbnailImagePosition: top
-aliases:
-  - /static/pi_call
+
 ---
 
 ### Call for Faculty Participation. Fall 2021.

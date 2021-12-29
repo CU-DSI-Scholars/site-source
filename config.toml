@@ -114,7 +114,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
   identifier = "gform"
   name = "Apply Now"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-mortar-board\"></i>"
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSfVlq7Oa5LFU-GZotElllpO_Dsm_x_5t-1DROKDMfzAjxl8wA/viewform?usp=sf_link"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLScyVuBIx2F1SdIdXOcuHZev0flwvubO9ACmTy0PVxQlb5Cm2w/viewform?usp=sf_link"
 
 
 #[[menu.misc]]
@@ -168,7 +168,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
-  coverImage = "http://res.cloudinary.com/tz33cu/image/upload/v1516632873/DSI-scholars/CU-bk2_qu8fsv.jpg"
+  coverImage = "https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/CU-bk2.png?raw=true"
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
 
