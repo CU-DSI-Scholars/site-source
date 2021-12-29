@@ -4,7 +4,7 @@ author: "Ipek Ensari, Vincent Dorie"
 date: '2021-12-28'
 categories:
   - Announcement
-coverImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/wordcloud.png?raw=true
+coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
 autoThumbnailImage: no
 metaAlignment: center
 slug: call-for-faculty-participation-dsi-scholars-spring-2022
