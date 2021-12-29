@@ -1,23 +1,23 @@
 ---
-title: "Call for Faculty Participation --- DSI Scholars Fall 2022"
+title: "Call for Faculty Participation --- DSI Scholars Spring-Summer 2022"
 author: "Ipek Ensari, Vincent Dorie"
 date: '2021-12-28'
 categories:
   - Announcement
-coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
+coverImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_ss2022_banner.png?raw=true
 autoThumbnailImage: no
 metaAlignment: center
 slug: call-for-faculty-participation-dsi-scholars-spring-2022
 tags:
 - Info
 - Spring 2022
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_ss2022_banner.png?raw=true
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/wordcloud.png?raw=true
 thumbnailImagePosition: top
 aliases:
   - /static/pi_call
 ---
 
-### Call for Faculty Participation. Spring 2022.
+### Call for Faculty Participation- Spring/Summer 2022.
 
 The Data Science Institute is calling for faculty submissions of research projects for the Spring and/or summer 2022 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with over 40 projects and received more than 350 unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLScyVuBIx2F1SdIdXOcuHZev0flwvubO9ACmTy0PVxQlb5Cm2w/viewform).
 

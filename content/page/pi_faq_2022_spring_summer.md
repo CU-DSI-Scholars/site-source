@@ -2,9 +2,7 @@
 title: PI Frequently Asked Questions
 author: Ipek Ensari and Vincent Dorie
 date: '2021-12-29'
-slug: pi_faq_2021_spring
-aliases:
-  - /static/pi_faq
+slug: pi_faq_spring_2022
 categories:
   - info
 tags:
@@ -12,6 +10,8 @@ tags:
 comments:       false
 showMeta:       false
 showActions:    false
+aliases:
+  - /static/pi_faq
 ---
 
 + **Question:** How does the DSI Scholars stipend/matching fund process work?
