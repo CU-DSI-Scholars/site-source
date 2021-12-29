@@ -59,5 +59,5 @@ Key dates:
 + March 1st, 2022
     + [Faculty -> DSI] Information on selected Scholars due to DSI for inclusion in Spring/Summer stipend.
 
-Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our PI [FAQ](/page/pi_faq/), or review the info session material ([video](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94); [slides](https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing)).
+Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our PI [FAQ](/static/pi_faq/), or review the info session material ([video](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94); [slides](https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing)).
 
