@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (Fall 2021)
+title: Frequently Asked Questions (Spring/Summer 2022)
 author: Tian Zheng and Ipek Ensari
 date: '2022-01-27'
 slug: faq2022
