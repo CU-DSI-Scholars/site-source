@@ -2,7 +2,7 @@
 title: Call for Student Applications - Spring 2022
 author: Tian Zheng and Ipek Ensari
 date: '2022-01-27'
-slug: call-for-student-applications-dsi-scholars-fall-2022
+slug: call-for-student-applications-dsi-scholars-spring-2022
 categories:
   - Announcement
 tags:
