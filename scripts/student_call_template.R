@@ -11,7 +11,7 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_fall_2021.png"
+  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_spring2022.png"
 
 student_call_url <-
   "https://cu-dsi-scholars.github.io/DSI-scholars/static/student_call"
@@ -22,22 +22,22 @@ info_session_url <-
   "https://columbiauniversity.zoom.us/j/96315428405"
 
 info_session_time <-
-  "5pm Eastern time on September 14th, 2021."
+  "from previous years"
 
 apply_now_img_url <-
-  "/Users/ipekensari/Documents/GitHub/site-source/static/img/opencall_students_fall_2021.png"
+  "/Users/ipekensari/Documents/GitHub/site-source/static/img/opencall_students_spring2022.png"
 
-year <- 2021
-term <- "Fall"
+year <- 2022
+term <- "Spring/Summer"
 
-application_deadline <- as.Date("2021-09-25")
+application_deadline <- as.Date("2022-02-12")
 application_deadline_short <- format(application_deadline, "%m/%d/%Y")
 application_deadline_long <- toupper(format(application_deadline, "%B %d, %Y"))
 application_deadline_bold <- toupper(application_deadline_long)
 
 # Where the students can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSfVlq7Oa5LFU-GZotElllpO_Dsm_x_5t-1DROKDMfzAjxl8wA/viewform"
+  "https://docs.google.com/forms/d/e/1FAIpQLSf8u16CFmcCR_6kgdCUwkN8SJg-VFR9EfRJjDCt2AgDGNngkQ/viewform?usp=sf_link"
 
 
 # Credentials file created from gmail; set to where the file can be found.
@@ -86,14 +86,15 @@ email_body <- glue("
   for students to learn how data science is practiced outside of the \\
   university setting and to learn how to work effectively with people for \\
   whom data science sits outside of their subject area.</p>
-  <p>This term we have had a very large number of projects submitted; please \\
-  give yourself enough time to read the project descriptions. For your \\
-  application, choose the <span style=\"background-color:#FFFF00\";\">TOP five \\
-  projects of which you are most interested, eligible and qualified.</span></p>
-  <p>Please email questions to <a href=\"mailto:dsi-scholars@columbia.edu\">\\
+  <p>Please give yourself enough time to read the project descriptions, and read the \\
+  <a href=\"{student_faq_url}\">FAQ</a> to familiarize yourself with the program logistics.\\
+  For your application, choose the <span style=\"background-color:#FFFF00\";\">TOP five \\
+  projects of which you are most interested, eligible and qualified.</span> Please use the \\
+  submission system and do not email project PIs directly to submit your application.</p> 
+  <p> For questions, you can email <a href=\"mailto:dsi-scholars@columbia.edu\">\\
   dsi-scholars@columbia.edu</a>, see our <a href=\"{student_faq_url}\">FAQ</a>, \\
-  or <a href=\"{info_session_url}\">attend</a> the information session \\
-  at {info_session_time}.</p>
+  or <a href=\"{info_session_url}\">review</a> the information session \\
+  materials from previous semesters.</p>
   <center>
   <p><strong>The Data Science Institute encourages women and \\
   underrepresented minorities to apply to these programs.</strong></p>

@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/machine_translation.png?raw=true
 ---
 It has long been recognized that there could be a tradeoff between optimizing the accuracy of machine learning predictions and satisfying definitions of fairness for protected or vulnerable groups. This tradeoff has led to an increased interest in finding models that both perform well while also exhibiting fairness properties. 
 

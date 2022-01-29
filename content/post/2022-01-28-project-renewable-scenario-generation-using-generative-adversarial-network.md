@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/learning_network.png?raw=true
 ---
 The project will use Generative Adversarial Network (GAN) to generate space-time correlated renewable generation scenarios. The student will gather historical wind speed and solar radiation data from Texas, and train a GAN to generate scenarios. The student will also investigate the scenario correlation with temperature, and use average temperature as a key feature for scenario generation, and benchmark it with alternative scenario generation approaches. This effort is part of a storage valuation project funded by DSI Seed Grant in 2022, in which these generated scenarios will be used for performing storage valuation.
 

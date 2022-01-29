@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/betta.png?raw=true
 ---
 The brain is the most complex organ of the body, and hosts a multitude of cell types organized in functionally-specialized brain regions. So far, systematic attempts to describe the complexity of the brain have been limited to a few species, including mouse and the fruit fly. Extending the description of brains to multiple species is essential to identify evolutionarily-conserved principles of brain organization and function.
 

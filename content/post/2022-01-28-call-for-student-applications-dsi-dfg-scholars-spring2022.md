@@ -1,7 +1,7 @@
 ---
 title: Call for Student Applications - Spring 2022
 author: Tian Zheng and Ipek Ensari
-date: '2022-01-27'
+date: '2022-01-28'
 slug: call-for-student-applications-dsi-scholars-spring-2022
 categories:
   - Announcement
@@ -24,7 +24,7 @@ The Data For Good Scholars program connects student volunteers to organizations 
 
 <!--more-->
 
-The cohort of Spring/SUmmer 2022 projects are ready to accept applications, and can be seen [here](/categories/open-projects-spring-2022). To obtain a scroll of all projects, including those from past years, see [here](/). We have created an [**umbrella application page**](https://forms.gle/qjj2dZbp7uLZRT1w7) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment; please read each project description carefully before applying. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication.
+The cohort of Spring/SUmmer 2022 projects are ready to accept applications, and can be seen [here](/categories/open-projects-spring-2022). To obtain a scroll of all projects, including those from past years, see [here](/). We have created an [**umbrella application page**](https://forms.gle/qjj2dZbp7uLZRT1w7) to collect student applications. DSI Scholars projects have a wide range of duration and can be either **paid** or **unpaid**. Projects supported with stipends may have a trial period and are not a form of paid employment. Data For Good projects are primarily volunteer, although one student in each may be given a stipend to coordinate communication. Please give yourself enough time to read the project descriptions before applying, and read the [FAQs](https://cu-dsi-scholars.github.io/DSI-scholars/static/student_faq) to familiarize yourself with the program logistics. For your application, choose the TOP five projects of which you are most interested, eligible and qualified. Please use the submission system and do not email project PIs directly to submit your application.
 
 Slides from previous year's information session can be found [here](https://docs.google.com/presentation/d/11KPHFM94AcjEuTAZRP7qDmFmQ9UOYkK2EYHZY3bemyU/edit?usp=sharing), and a link to the recording can be found [here](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7f7e5c53-3da8-4d96-9ce1-ac400104713e). A LionMail email address may be required to access these resources.
 

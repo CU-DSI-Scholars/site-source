@@ -8,7 +8,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/chromosome.png?raw=true
 ---
 Structural variants (SVs) are large genomic alterations which can be implicated in disease. This project will focus on using novel genomic techniques to identify structural variants in genomic cold cases with neurological disorders. These "cold" cases which have previously remained unsolved with standard genomic approaches. We will use optical genome mapping and long read sequencing, together with novel bioinformatic techniques to detect and analyze structural variants.
 

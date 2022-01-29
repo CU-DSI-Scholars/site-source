@@ -8,7 +8,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/cancer_dna.png?raw=true
 ---
 The IGM has performed diagnostic whole exome or whole genome sequencing on more than 5000 CUIMC patients with presentations including undiagnosed diseases of childhood, chronic kidney disease, fetal anomalies and neurological diseases (with a focus on epilepsy) among many others. These patients have been analyzed with a standardized diagnostic pipeline to identify single genotypes that are responsible for disease. Diagnostic genotypes are those that are considered to be likely contributing to the patient’s presentation through study team consensus (a multidisciplinary team that includes population geneticists, molecular geneticists, clinicians, genetic counselors, bioinformaticians and analysts). The student will be expected to 1) build an easy-to-use interface and secure database for variant records and phenotype information, and 2) implement a web interface to facilitate variant submission to ClinVar which is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence.
 

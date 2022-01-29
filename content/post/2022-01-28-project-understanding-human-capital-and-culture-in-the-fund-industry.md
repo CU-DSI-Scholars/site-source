@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/taxes.png?raw=true
 ---
 Asset management companies have been among the largest investors in the financial market. With $89 trillion in assets under management, this industry has been experiencing rapid changes. For example, many firms started enlarging the technological capabilities to improve decision-making, data management, and client experience.  
 

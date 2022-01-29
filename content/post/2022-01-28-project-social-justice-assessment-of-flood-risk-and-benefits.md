@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/leaky_pipe.png?raw=true
 ---
 Discriminatory development policies have systematically relegated certain populations to undesirable locations including low elevation areas at risk of flooding. As the climate changes, many properties will no longer be inhabitable and others, especially houses in floodplains, will suffer damage due to more frequent and significant flooding. Current U.S. federal policy funds flood risk mitigation measures, such as property  acquisition, relocation and retrofitting, however depending on various factors at the sub-county level, these actions can have disproportionate benefit to high income areas and not extend to vulnerable populations. We investigate patterns related to potential disproportionate availability and access to government linked programs, exploring different types of climatic factors using flood insurance claims data from NFIP. Work with the intern will build off existing research on programmatic wide and event specific analysis in the Carolinas to explore patterns that may be of interest specifically to state and county level decision makers to evaluate how communities are benefiting from existing programs and to ensure equity. We plan to publish an event specific research article using high resolution data on the distribution of risks and benefits following a major disaster.
 

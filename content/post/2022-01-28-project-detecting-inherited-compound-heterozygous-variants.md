@@ -8,7 +8,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/eda.png?raw=true
 ---
 One of the methods to identify novel gene-disease associations is called “trio analysis”, when an affected child (proband) and both his/her parents DNA are sequenced. The genetic information from the child and his/her parents allows for the rapid identification of compound heterozygous variants (i.e. 2 variants in the same gene, one inherited from the mother and the other one from the father).
 

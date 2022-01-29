@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022  - Data For Good
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/cost_human_rights_2.png?raw=true
 ---
 Rights CoLab (https://rightscolab.org/) is working with the Sustainability Accounting Standards Board (SASB) to define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both their workforce and workers in supply chains. The project has two components: 1) a data science project, and 2) an Expert Group. 
 

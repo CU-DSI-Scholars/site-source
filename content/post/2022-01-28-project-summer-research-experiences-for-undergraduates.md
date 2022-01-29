@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/grid3.png?raw=true
 ---
 LEAP will offer research experiences for undergraduate students as summer research internships as part of LEAP's research through synergistic innovations in data science and climate science. This includes, but is not limited to, physics-informed and causally-informed machine learning, novel ML-based subgrid parameterizations for Earth System Models, global parameter inference, and new ML- based diagnostics and metrics for evaluating these models, with a focus on the Community Earth System Model (CESM). The center is committed to building a diverse research community at the intersection of geosciences and data sciences with the objective to build a LEAP community on par with the US population in terms of gender and race diversity. 
 
