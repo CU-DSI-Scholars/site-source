@@ -1,5 +1,5 @@
 ---
-title: 'Application of Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices'
+title: 'Gaussian Mixture Regression to obtain useful, actionable air pollution data from consumer-grade, low-cost monitoring devices'
 date: '2022-01-28'
 slug: project-application-of-gaussian-mixture-regression-to-obtain-useful-actionable-air-pollution-data-from-consumer-grade-low-cost-monitoring-devices
 categories:
