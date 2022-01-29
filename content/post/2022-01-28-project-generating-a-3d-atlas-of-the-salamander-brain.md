@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/image_processing.png?raw=true
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
 The brain is the most complex organ of the body, and hosts a multitude of cell types organized in functionally-specialized brain regions. So far, systematic attempts to describe the complexity of the brain have been limited to a few species, including mouse and the fruit fly. Extending the description of brains to multiple species is essential to identify evolutionarily-conserved principles of brain organization and function.
 
@@ -35,7 +35,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 
 ## Candidate requirements
 + Skill sets: fluency in python
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, ~~master's~~
++ Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: No
 

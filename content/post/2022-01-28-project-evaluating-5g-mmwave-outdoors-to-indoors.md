@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/ML.jpg?raw=true
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
 5G-and-beyond networks will utilize data transmissions at millimeter-wave (mmWave) frequencies to improve data throughput and wireless spectrum utilization. Recently, there is interest in utilizing mmWave frequencies for fixed wireless access (FWA), which can provide Internet connectivity to buildings which do not currently have good service. FWA requires a much lower infrastructure investment than running fiber optic or copper cables into a premise, which remains by far the predominant method of providing Internet access to a building today.  
 
@@ -36,7 +36,7 @@ This is an UNPAID research project.
 + Skill sets: 
   Must be able to access the Columbia Morningside Heights campus
   Some background in Wireless Communications is preferred
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, ~~master's~~
++ Student eligibility: freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes
 

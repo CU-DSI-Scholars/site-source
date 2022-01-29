@@ -8,7 +8,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/preterm.png?raw=true
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
 Recent advances in genomic technologies have led to the identification of many novel disease-gene associations, enabling more precise diagnoses. Along with the technologies enabling rapid DNA sequencing, multiple computational approaches have been developed to identify structural variants (i.e. relatively large deletions and duplications of genomic sequences). These workflows can lead to the identification of different structural variants, raising the risk of missing disease-causing variants when using only one of those methods. Unfortunately, many of the variants identified by those workflows are artifacts (i.e. absent in the biological sample), raising concerns that time and effort will be wasted on those artifacts instead of analyzing the causative genetic variant. The goal of this project is to develop best practices to increase the chance to identify causative structural variants, while reducing the number of artifacts. We will use the raw data from whole-exome and whole-genome sequencing of patients with renal diseases. The students will be expected to (1) Compare the output of 4 different tools for identifying structural variants and visualize the differences (using R or Python) and (2) Identify the tool specific parameters that increases the specificity and sensitivity of each tool in differentiating true variants and artifacts. 
 
@@ -32,7 +32,7 @@ This is an UNPAID research project.
 
 ## Candidate requirements
 + Skill sets: Fluent in at least one programing language (R, Python, Perl, Java), at least one course in statistics and knowledge in genetics.
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, ~~master's~~
++ Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes
 

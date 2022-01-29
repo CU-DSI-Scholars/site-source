@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022  - Data For Good
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/cost_human_rights_2.png?raw=true
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
 Rights CoLab (https://rightscolab.org/) is working with the Sustainability Accounting Standards Board (SASB) to define a strengthened set of disclosure standards that investors can use to persuade companies to improve labor rights for both their workforce and workers in supply chains. The project has two components: 1) a data science project, and 2) an Expert Group. 
 
@@ -17,7 +17,7 @@ The data science project uses natural language processing, machine learning, and
 Full details on this project can be found on this page: https://rightscolab.org/project-harnessing-big-data/.
 
 {{< alert info >}}
-This project offers both volunteer roles for students to use their skills for the social good and roles eligible for a matching fund stipend from the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.
+This is a volunteer opportunity for students to use their skills for the social good.
 {{< /alert >}}
 
 ## Faculty Advisor
@@ -36,7 +36,7 @@ Paul Rissman (https://rightscolab.org/people/paul-rissman-2/), Co-Founder, Right
 
 ## Candidate requirements
 + Skill sets: Familiarity with machine learning concepts; natural language processing experience is a plus; ability to program in a language like Python or R that has a robust data analytic toolset is required.
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, ~~master's~~
++ Student eligibility: freshman, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes
 + Additional comments: This project takes place almost entirely remotely, so willingness/ability to work remotely is a requirement.

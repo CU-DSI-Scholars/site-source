@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/ML.jpg?raw=true
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
 It has long been recognized that there could be a tradeoff between optimizing the accuracy of machine learning predictions and satisfying definitions of fairness for protected or vulnerable groups. This tradeoff has led to an increased interest in finding models that both perform well while also exhibiting fairness properties. 
 
@@ -36,7 +36,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 
 ## Candidate requirements
 + Skill sets: Fluency in R/Python and experiment with simulations
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, ~~master's~~
++ Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **NOT** eligible
 + Academic Credit Possible: Yes
 

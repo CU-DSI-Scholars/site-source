@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/finding_internet.png?raw=true
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
 The wireless revolution is fueling the demand for access to the radio frequency spectrum. Smartphones, wearables, modern cars, and smart homes are all competing for spectrum resources. Managing this increasing demand is an important and timely research challenge. Dynamic Spectrum Allocation (DSA) methods allow multiple wireless networks to collaboratively adapt in real-time to dynamic RF frequency environments. In this project, we consider intelligent wireless networks that exchange Spectrum Consumption Models (SCMs) in order to dynamically coordinate the spectrum usage aiming to avoid harmful interference. Students working on this project will construct SCMs based on real measurements of wireless signals, develop novel frequency coordination protocols based on SCMs, and implement the protocols in a custom-built python simulator and/or in a Software-Defined Radio testbed.
 
@@ -31,7 +31,7 @@ This is an UNPAID research project.
 
 ## Candidate requirements
 + Skill sets: Some experience with Python and MATLAB is required. Some background in Wireless Communications is preferred.
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, ~~master's~~
++ Student eligibility: ~~freshman~~, sophomore, junior, senior, master's
 + International students on F1 or J1 visa: **eligible**
 + Academic Credit Possible: Yes
 

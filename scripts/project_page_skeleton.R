@@ -135,7 +135,7 @@ for (i in seq_len(nrow(projects))) {
                "## Candidate requirements",
                paste0("+ Skill sets: ", if (grepl("\n", Required.skill.sets)) paste0("\n  ", gsub("\n", "\n  ", Required.skill.sets)) else Required.skill.sets))
     studentYears <- c("Freshman", "Sophomore", "Junior", "Senior", "Master's")
-    allowedYears <- sapply(strsplit(Student.Eligibility, ";")[[1]], trimws, USE.NAMES = FALSE)
+    allowedYears <- sapply(strsplit(Student.Eligibility, ",")[[1]], trimws, USE.NAMES = FALSE)
     
     lines <- c(lines,
                paste0("+ Student eligibility: ", tolower(paste0(ifelse(studentYears %in% allowedYears, studentYears, paste0("~~", studentYears, "~~")), collapse = ", "))),

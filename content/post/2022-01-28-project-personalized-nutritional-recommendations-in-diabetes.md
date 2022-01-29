@@ -7,7 +7,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/heart.png?raw=true
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
 This team project aims to investigate different approaches to presenting individuals with daily suggestions for meeting their nutritional goals. Specifically, we are interested in developing new mechanisms for choosing suggestions that satisfy an individual’s’ preferences and habits (e.g., similar to an individual’s previous meals, based on the analysis of textual meal descriptions), comparing effectiveness of meal recommendations that are expressed as text versus those expressed as images of meals, and developing ways to balance an individual’s preferences with exposing them to new meal ideas. 
 

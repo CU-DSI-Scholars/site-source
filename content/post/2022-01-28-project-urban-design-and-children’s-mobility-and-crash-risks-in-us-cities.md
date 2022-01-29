@@ -8,7 +8,7 @@ categories:
 tags:
   -  2022
 thumbnailImagePosition: left
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/public_transportation.png?raw=true
+thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
 Road traffic crashes involving child passengers, child pedestrians, and child bicyclists are the leading cause of death for people aged 5 to 15 years in the USA. A total of 10,344 children died on US roads in the decade from 2010-2019; a further 4.2 million were hospitalized. Urban design—meaning the overall physical form of cities—is a modifiable environmental feature that can be changed to reduce the immense burden due to child road traffic injuries. Altering the overall configuration of a city’s transportation network affects the way children and other road users routinely travel through urban space, thereby altering children’s risks for being injured or killed in a road traffic crash.
 
