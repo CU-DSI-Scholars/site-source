@@ -2,18 +2,16 @@
 
 ### VARIABLES TO UPDATE #####
 data_dir  <- "data"
-data_file <- "project_info_fall_2021.csv"
+data_file <- "for_script.csv"
 projects <- read.csv(file.path(data_dir, data_file))
 
 output_path <- "content/post"
 
 # logical TRUE/FALSE for whether or not to overwrite existing files
-overwrite_existing <- FALSE
+overwrite_existing <- TRUE
 
-project_year <- "2021"
-project_term <- c("Fall")
-
-projects$Student.Eligibility <- as.character(projects$Student.Eligibility)
+project_year <- "2022"
+project_term <- c("Spring/Summer")
 
 library(dplyr, quietly = FALSE)
 
@@ -26,8 +24,14 @@ projects %<>%
          project_closed = student_selected | (Program %in% "DSI" & funding %in% "matching" & Decision == 0))
 
 start_date_column <- colnames(projects)[startsWith(colnames(projects), "Earliest.starting.date.of.the.project.")]
-
 semester_hours_column <- colnames(projects)[endsWith(colnames(projects), ".academic.semester")]
+projects$Program <- as.character(projects$Program)
+
+#rename the column names as needed----
+projects$Student.Eligibility <- as.character(projects$Student.Eligibility)
+projects$Required.skill.sets <- projects$Required.data.or.other.related.skill.sets.for.the.project..e.g...fluency.in.R.Python..experience.working.with.data.from.sensors.longitudinal.data.etc..methods.for.NLP.text.sentiment.analysis..
+projects$project_description <- projects$Please.provide.a.brief..300.words.or.less..description.of.your.project..e.g...background.purpose..type.of.tasks.that.might.be.required.to.fulfill.study.aims..type.of.data.you.are.working.with..end.goal..any.other.details.that.might.be.relevant...
+projects$Can.work.be.done.on.this.project.for.course.credit. <- projects$Can.work.be.done.on.this.project.for.course.credit..Please.note.that.since.this.option.requires.the.selected.scholar.to.register.for.Independent.Study.Research.
 
 ### VARIABLES END ###
 
@@ -82,7 +86,7 @@ for (i in seq_len(nrow(projects))) {
                "thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png",
                "---")
     lines <- c(lines,
-      if (grepl("\n", Brief.project.description..200.words.or.less.)) sub("\n", "\n\n<!--more-->\n\n", Brief.project.description..200.words.or.less.) else paste0(Brief.project.description..200.words.or.less., "\n\n<!--more-->"))
+      if (grepl("\n", project_description)) sub("\n", "\n\n<!--more-->\n\n", project_description) else paste0(project_description, "\n\n<!--more-->"))
     lines <- c(lines, "")
     
     if (Program %in% "DFG") {
@@ -106,7 +110,7 @@ for (i in seq_len(nrow(projects))) {
     lines <- c(lines, "",
                "## Faculty Advisor",
                paste0("+ Professor: [", Faculty..Name., "](", Faculty.Center.Lab.website, ")"),
-               paste0("+ Center/Lab: ", Center.Lab.Name)
+               paste0("+ Center/Lab: ", Department.Center.Name)
                )
     if (trimws(Center.Lab.Office.Location) != "")
       lines <- c(lines, paste0("+ Location: ", Center.Lab.Office.Location))

@@ -3,8 +3,7 @@ title: Frequently Asked Questions (Fall 2021)
 author: Tian Zheng & Ipek Ensari
 date: '2021-09-01'
 slug: faq_fall_2021
-aliases:
-  - /static/student_faq
+
 categories:
   - info
 tags:
