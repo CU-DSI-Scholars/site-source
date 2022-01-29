@@ -28,13 +28,13 @@ campus_connections_cc <- "jh4253@columbia.edu"
 
 # Projects file is downloaded csv from faculty submission form referenced above.
 data_dir  <- "data"
-data_file <- "project_info_fall_2021.csv"
+data_file <- "for_script.csv"
 
-project_term <- "Fall"
-project_year <- "2021"
+project_term <- "Spring"
+project_year <- "2022"
 
 student_application_url <-
-  "https://docs.google.com/forms/d/15k4RmA8L7dwp2S_NxJ2CzUzDD1JnuOAkLBnkFSCZ3_Y/edit"
+  "https://forms.gle/qjj2dZbp7uLZRT1w7"
 
 library(glue, quietly = FALSE)
 
@@ -69,7 +69,7 @@ library(dplyr, quietly = FALSE)
 library(magrittr, quietly = FALSE)
 
 projects <- read.csv(file.path(data_dir, data_file))
-
+projects$Email.Greeting <- sub(" .*", "", projects$Faculty..Name.)
 projects %<>%
   mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
@@ -218,7 +218,7 @@ for (i in seq_len(nrow(projects))) {
       return(invisible(NULL))
     }
 
-    email <- gm_mime(to = as.character(Faculty.Email),
+    email <- gm_mime(to = as.character(Email.Address),
                      from = email_from,
                      replyto = email_replyto,
                      cc = email_cc,
