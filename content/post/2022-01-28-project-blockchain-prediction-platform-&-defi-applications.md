@@ -1,5 +1,5 @@
 ---
-title: 'Blockchain Prediction Platform and DeFi Applications'
+title: 'Blockchain Collaborative Expert Prediction Market Decentralized Applications'
 date: '2022-01-28'
 slug: blockchain-collaborative-expert-prediction-market-decentralized-applications
 
