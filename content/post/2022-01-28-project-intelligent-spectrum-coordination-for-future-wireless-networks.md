@@ -3,7 +3,7 @@ title: 'Intelligent Spectrum Coordination for Future Wireless Networks'
 date: '2022-01-28'
 slug: project-intelligent-spectrum-coordination-for-future-wireless-networks
 categories:
-  - Closed  2022
+  - Open  2022
 tags:
   -  2022
 thumbnailImagePosition: left
@@ -14,7 +14,7 @@ The wireless revolution is fueling the demand for access to the radio frequency 
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

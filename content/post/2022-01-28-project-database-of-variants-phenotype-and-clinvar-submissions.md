@@ -3,8 +3,8 @@ title: 'Database of variants/phenotype and ClinVar submissions'
 date: '2022-01-28'
 slug: project-database-of-variants-phenotype-and-clinvar-submissions
 categories:
-  - Closed  2022 
-  - Closed Flexible Timeline
+  - Open  2022 
+  - OPen Flexible Timeline
 tags:
   -  2022
 thumbnailImagePosition: left
@@ -15,7 +15,7 @@ The IGM has performed diagnostic whole exome or whole genome sequencing on more 
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

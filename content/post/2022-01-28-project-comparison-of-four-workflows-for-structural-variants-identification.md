@@ -3,8 +3,8 @@ title: 'Comparison of four workflows for structural variants identification'
 date: '2022-01-28'
 slug: project-comparison-of-four-workflows-for-structural-variants-identification
 categories:
-  - Closed  2022 
-  - Closed Flexible Timeline
+  - Open  2022 
+  - Open Flexible Timeline
 tags:
   -  2022
 thumbnailImagePosition: left
@@ -15,7 +15,7 @@ Recent advances in genomic technologies have led to the identification of many n
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

@@ -3,9 +3,9 @@ title: 'Evaluating 5G mmWave Outdoors-to-Indoors'
 date: '2022-01-28'
 slug: project-evaluating-5g-mmwave-outdoors-to-indoors
 categories:
-  - Closed  2022
+  - Open  2022
 tags:
-  -  2022
+  - 2022
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/em_signals.png?raw=true
 ---
@@ -17,7 +17,7 @@ thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/
 In collaboration with Nokia Bell Labs, we evaluate mmWave FWA at outdoor and indoor locations within the Columbia campus (and potentially at NYC public schools) using a 28 GHz mmWave channel sounder. The equipment consists of a receiver and transmitter. The receiver can record the received power in every direction of the 28 GHz signal transmitted by the transmitter. Students working on this project will be responsible for extensive data collection and analysis. The results can guide the design and deployment of next generation wireless networks.
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
