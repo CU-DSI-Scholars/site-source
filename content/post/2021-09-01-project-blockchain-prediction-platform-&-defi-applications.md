@@ -6,6 +6,7 @@ categories:
   - Open Fall 2021
 tags:
   - Fall 2021
+  
 thumbnailImagePosition: left
 thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/cryptocurrencies.jpg?raw=true
 ---
