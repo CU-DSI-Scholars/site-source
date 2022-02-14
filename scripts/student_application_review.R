@@ -23,17 +23,17 @@ email_cc <- "jrs2139@columbia.edu "
 
 # applications results file is downloaded csv from script form referenced above.
 data_dir  <- "data"
-application_results_file <- "applicationinfo_fall_2021.csv"
+application_results_file <- "applicationinfo_spring2022.csv"
 
-project_term <- "Fall"
-project_year <- "2021"
+project_term <- "Spring-Summer"
+project_year <- "2022"
 
-notification_date <- "October 7th, 2021"
+notification_date <- "February 28th, 2022"
 
-stipend_term <- "Fall"
-next_stipend_term <- "Spring"
-stipend_submission_date <- "October 11th, 2021"
-stipend_filing_estimate <- "October 15th, 2021"
+stipend_term <- "Spring"
+next_stipend_term <- "Summer"
+stipend_submission_date <- "March 7th, 2022"
+stipend_filing_estimate <- "March 21st, 2022"
 
 subject_dsi <- glue("[DSI-Scholars { project_term } {project_year }] Applications For Your Review")
 subject_dfg <- glue("[DFG-Scholars { project_term } {project_year }] Applications For Your Review")
@@ -51,7 +51,7 @@ Associate Research Scientist<br/>
 Director DSI & DFG Scholar Programs<br/>
 Data Science Institute at Columbia University<br/>
 Northwest Corner #1401, 550 W 120th St, New York, NY 10027<br/>
-ie2145@columbia.edu | 646-745-8498</p>")
+ie2145@columbia.edu | www.ipekensari.com</p>")
 
 # If TRUE, prints emails to console instead of creating them as drafts.
 test_only <- FALSE
