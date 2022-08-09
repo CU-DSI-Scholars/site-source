@@ -1,9 +1,10 @@
 ---
-title: Frequently Asked Questions (Spring/Summer 2022)
-author: Tian Zheng and Ipek Ensari
-date: '2022-01-27'
+title: Frequently Asked Questions (Fall 2022)
+author: Ipek Ensari
+date: '2022-09-01'
 slug: faq2022
-
+aliases:
+  - /static/student_faq
 categories:
   - info
 tags:
@@ -12,6 +13,11 @@ comments:       false
 showMeta:       false
 showActions:    false
 ---
+
++ **Question:** When will the student applications to the Scholars|DFG program open for the Fall 2022 semester? When is the deadline for submissions?
+    
+    *Answer*: The current anticipated opening date is September 6th. Please check the submission link on the program website during the first week of classes. The submissions are accepted for 3 weeks, so the anticipated deadline is September 27th. Please note that these are approximate; the actual deadline for 2022 will be listed on the student application submission page.
+
 + **Question:** With only one application form, how do I express interest in more than one project?
     
     
