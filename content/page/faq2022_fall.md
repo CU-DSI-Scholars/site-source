@@ -31,11 +31,11 @@ showActions:    false
 
     *Answer*: You are still eligible for the program as a whole, however, some of the faculty may have a preference for in-person meetings. You are encouraged you to apply and, if selected, those details can be worked out between you and the project owner.
 
-+ **Question:** I recently graduated in December, 2021. Am I still eligible for the program?
++ **Question:** I recently graduated in the summer. Am I still eligible for the program?
 
     *Answer*: Unfortunately, this program is oriented towards current students.
 
-+ **Question:** I am unable to work in the spring (or summer). Are there projects that are open only in the summer (or spring)?
++ **Question:** I am unable to work in the Fall semester. Are there projects that are open only in the summer (or spring)?
 
     *Answer*: Yes, some projects are only active in one term or the other. The start and end dates are listed on most project pages. Those without end-dates are ongoing. Furthermore, the periods during which each project are active are listed underneath the projects' titles. You can select the term in which you are interested and scan for those exclusive to that time period.
 

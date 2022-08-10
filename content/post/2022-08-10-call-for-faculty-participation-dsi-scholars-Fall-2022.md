@@ -1,5 +1,5 @@
 ---
-title: "Call for Faculty Participation --- DSI Scholars Spring-Summer 2022"
+title: "Call for Faculty Participation --- DSI Scholars Fall 2022"
 author: "Ipek Ensari, Vincent Dorie"
 date: '2022-08-10'
 categories:
@@ -7,7 +7,7 @@ categories:
 coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
 autoThumbnailImage: no
 metaAlignment: center
-slug: call-for-faculty-participation-dsi-scholars-spring-2022
+slug: call-for-faculty-participation-dsi-scholars-fall-2022
 tags:
 - Info
 - Fall 2022
@@ -17,7 +17,7 @@ aliases:
   - /static/pi_call
 ---
 
-### Call for Faculty Participation- Spring/Summer 2022.
+### Call for Faculty Participation- Fall 2022.
 
 The Data Science Institute is calling for faculty submissions of research projects for the Fall 2022 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with over 40 projects and received more than 350 unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLScyVuBIx2F1SdIdXOcuHZev0flwvubO9ACmTy0PVxQlb5Cm2w/viewform).
 
@@ -35,7 +35,7 @@ Questions? See our PI [FAQ](/page/pi_faq/)! A video recording from a fall online
 
 The Data Science Institute encourages women and underrepresented minorities to apply to this program.
 
-Application to participate: Faculty/Research Centers/Research Labs who are interested in participating in this program as internship hosts should complete [this application form](https://docs.google.com/forms/d/e/1FAIpQLSeQNPZYgxVAcJyaoWUPmJA1WtMYrFEh8bBiG_LNeGSwWYHmhw/viewform). The application deadline is September 2nd, 2022. faculty will be notified about decisions on selected projects and the allocation of funds by September 5th, 2022.
+Application to participate: Faculty/Research Centers/Research Labs who are interested in participating in this program as internship hosts should complete [this application form](https://docs.google.com/forms/d/e/1FAIpQLSeQNPZYgxVAcJyaoWUPmJA1WtMYrFEh8bBiG_LNeGSwWYHmhw/viewform). The application deadline is September 3rd, 2022. faculty will be notified about decisions on selected projects and the allocation of funds by September 5th, 2022.
 
 Key dates:
 
