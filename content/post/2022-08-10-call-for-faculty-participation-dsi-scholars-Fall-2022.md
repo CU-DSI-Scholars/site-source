@@ -19,11 +19,11 @@ aliases:
 
 ### Call for Faculty Participation- Fall 2022.
 
-The Data Science Institute is calling for faculty submissions of research projects for the Fall 2022 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with over 40 projects and received more than 350 unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLScyVuBIx2F1SdIdXOcuHZev0flwvubO9ACmTy0PVxQlb5Cm2w/viewform).
+The Data Science Institute is calling for faculty submissions of research projects for the Fall 2022 sessions of the Data Science Institute (DSI) Scholars Program. The goal of the DSI Scholars Program is to engage undergraduate and master students to work with Columbia faculty, through the creation of data science research internships. Last year, we worked with over 40 projects and received more than 350 unique applications from Columbia Students. The program's unique enrichment activities foster a learning and collaborative community in data science at Columbia. Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSdhXh0KGm43wVAqkvJxAljmfSpJ4LZsHty1Nmk3_8-9MibDrw/viewform).
 
 <!--more-->
 
-+ **Funding support**: For selected projects, the DSI will provide matching funds of up to $2,500 per project for internship-supporting stipends. Approximately 10 such stipend funds will be awarded. This fund is expected to be a fraction of a full stipend that is appropriate for the time and effort required by the research project. The DSI Scholars program recommends that the PI/lab engage DSI scholars approximately 8 hours a week during the academic semester and consider a full-time or part-time research internship during summer. Allocation of funds will be made via a first-come-first-serve need-based process, with efforts to balance allocation across disciplines, to prioritize new PIs/projects and new students, and support novel interdisciplinary research.
++ **Funding support**: For selected projects, the DSI will provide matching funds of up to $2,500 per project for internship-supporting stipends. Approximately 10 such stipend funds will be awarded. This fund is expected to be a fraction of a full stipend that is appropriate for the time and effort required by the research project. The DSI Scholars program recommends that the PI/lab engage DSI scholars approximately 8 hours a week during the academic semester and consider a full-time or part-time research internship during summer. Allocation of funds will be made via a first-come-first-serve need-based process, with efforts to balance allocation across disciplines, to prioritize new PIs/projects and new students, and support novel interdisciplinary research. We encourage and strive to support faculty who are looking for new students to include in their projects to support their specific data needs.
 
 + **Administrative support**: The DSI will collect faculty-submitted internship positions and create an umbrella application page to solicit student applications. The collected applications for each position will be compiled and sent to the hosting faculty/center/lab for review. The faculty/center/lab will then review, identify and notify the Scholars for their own projects. Funded projects will receive additional support through the coordination of stipends with Student Financial services. 
 
@@ -49,12 +49,13 @@ Key dates:
     + [Students -> DSI] Student applications due.
 + September 28-30th, 2022
     + [DSI -> Faculty] Applications shared with faculty/center/lab.
-+ September 30th-October 15th, 2022
++ September 30th-October 14th, 2022
     + [Faculty -> Students] Student interviews and selection.
     + [Faculty -> Student] Faculty sends an email offer of the internship to the selected student(s).
++ October 15th, 2022
     + [Faculty -> DSI] Name/uni/email of the selected Scholar(s) due to DSI.
 + October 20th, 2022
-    + [Faculty -> DSI] Information on selected Scholars due to DSI for inclusion in Fall stipend.
+    + [Faculty -> DSI] Stipend processing information on selected Scholars due to DSI for inclusion in the Fall semester.
 
 Please email questions to [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu), see our PI [FAQ](/static/pi_faq/), or review the info session material ([video](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94); [slides](https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing)).
 
