@@ -59,6 +59,7 @@ aliases:
 
     *Answer*: Yes. If there is still is time, we will add your project to the umbrella application. If there is not time, the DSI maintains a number of ways to help you recruit students. In either case, please submit your project through [Campus Connections](https://datascience.columbia.edu/outreach/campus-connections/).
 
+    
 + **Question:** Will there be another call in the Spring?
 
     *Answer*: Yes, we will repeat this process in December for the Spring/Summer 2023 semester.
