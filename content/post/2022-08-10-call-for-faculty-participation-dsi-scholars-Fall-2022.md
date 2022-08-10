@@ -11,7 +11,7 @@ slug: call-for-faculty-participation-dsi-scholars-fall-2022
 tags:
 - Info
 - Fall 2022
-thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_ss2022_banner.png?raw=true
+thumbnailImage: https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_fall2022_banner.png?raw=true
 thumbnailImagePosition: top
 aliases:
   - /static/pi_call
