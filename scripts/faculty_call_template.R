@@ -11,22 +11,22 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_springsummer_2022.png?raw=true"
+  "https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_fall2022.png?raw=true"
 
 year <- 2022
 year_bootcamp  <- 2022
 year_town_hall <- 2022
-term <- "Spring/Summer"
-year_term_description <- "Spring/Summer 2022 sessions"
+term <- "Fall"
+year_term_description <- "Fall 2022 sessions"
 
-num_projects_last_year <- 43
-num_applications_last_year <- 350
+num_projects_last_year <- 30
+num_applications_last_year <- 250
 
-application_deadline <- "January 20th, 2022"
+application_deadline <- "September 3rd, 2022"
 
 # Where faculty can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLScyVuBIx2F1SdIdXOcuHZev0flwvubO9ACmTy0PVxQlb5Cm2w/viewform"
+  "https://docs.google.com/forms/d/e/1FAIpQLSdhXh0KGm43wVAqkvJxAljmfSpJ4LZsHty1Nmk3_8-9MibDrw/viewform"
 
 # If you are hosting your own online information sessions, modify this text
 # accordingly. Right now it refers to the one from August.
@@ -45,7 +45,7 @@ credentials_file <- file.path("gmail_credentials.json")
 email_to <- "Ipek Ensari <ie2145@columbia.edu>"
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 
-email_title <- "January 20th Deadline for DSI Scholars Program Project Submissions"
+email_title <- "September 3rd Deadline for DSI Scholars Program Project Submissions"
 
 ### VARIABLES END ###
 
@@ -96,23 +96,13 @@ email_body <- glue("
     faculty/center/lab will then review, identify and notify the Scholars for \\
     their own projects. Funded projects will receive additional support \\
     through the coordination of stipends with Student Financial services.
-  <li><b>Intellectual support</b> via the DSI Scholars enrichment activities: \\
-  The DSI education committee will organize the following enrichment \\
-  activities for the DSI Scholars Program.
-    <ul>
-    <li>Bootcamps on Data Science Research Skills - During the first weeks of \\
-    June {year_bootcamp} we will run bootcamps on data science research \\
-    skills. All students who have been selected for a DSI Scholars project \\
-    (receiving matching funds or not) are especially encouraged to attend, \\
-    with additional seats available for other interested applicants.</li>
-    <li>Scholars in Data Science meetup series - Throughout this series, we \\
-    will provide Scholars opportunities to learn about data science research \\
-    outside their own project and a community of peer student researchers. \\
-    Each session will be led by a data scientist at Columbia and will consist \\
-    of a 45-minute seminar talk and a 45-minute hands-on activity.</li>
-    <li>Annual Research Poster Session: All DSI Scholars (receiving matching \\
-    funds or not) will be invited to present their research during a DSI \\
-    poster session at DSI Town Hall in the fall {year_town_hall} semester.</li>
+  <li><b>Intellectual support</b> via various DSI Scholars enrichment activities: \\
+  The DSI education committee will organize various enrichment activities for the \\
+  DSI Scholars Program, including speaker series, mini workshops, and peer research \\
+  presentation meetups. These activities are contingent upon student interest and \\
+  participation. In addition, all DSI Scholars (receiving matching funds or not) \\
+  are invited to present their research during a DSI poster session at DSI Town Hall \\
+  in the Fall semester.
     </ul>
   </ul>
   <p>Questions? Get full details <a \\
