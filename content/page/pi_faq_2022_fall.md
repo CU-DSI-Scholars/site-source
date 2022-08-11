@@ -21,7 +21,7 @@ aliases:
     
 + **Question:** What happens once my project gets selected for the Program? How do I choose student scholars?
 
-    *Answer*: We will create a student call for applications to all the Scholars projects under one umbrella application form. We will collect student applications until September 29th, and then share with you a folder of applicants to your project by October 3rd. You will have ~2 weeks to review all the applicants and select students for your project. We ask that you please let us know by October 18th of your selection, or provide an update if you weren't able to identify a student match for your project.
+    *Answer*: We will create a student call for applications to all the Scholars projects under one umbrella application form. We will collect student applications until September 27th, and then share with you a folder of applicants to your project by September 28th. You will have ~2 weeks to review all the applicants and select students for your project. We ask that you please let us know by October 15th of your selection, or provide an update if you weren't able to identify a student match for your project.
 
 + **Question:** My project was just selected to the Program. I already have students inquiring about my project but it is not September 30th yet. What do I do?
 
