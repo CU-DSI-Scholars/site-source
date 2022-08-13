@@ -31,7 +31,7 @@ The Data Science Institute is calling for faculty submissions of research projec
     
 
  
-Questions? See our PI [FAQ](/page/pi_faq/)! A video recording from a fall online information session can be found [here](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94), and slides from the same event can be found [here](https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing). You can also contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu).
+Questions? See our PI [FAQ](/static/pi_faq/)! A video recording from a fall online information session can be found [here](https://columbia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f0b73385-07e1-4c23-8f7b-ac2200f91b94), and slides from the same event can be found [here](https://docs.google.com/presentation/d/1aE19WTanf2I37brBsvsYpVG353Or7kRzP2ZoofAfrRU/edit?usp=sharing). You can also contact us at [dsi-scholars@columbia.edu](mailto:dsi-scholars@columbia.edu).
 
 The Data Science Institute encourages women and underrepresented minorities to apply to this program.
 

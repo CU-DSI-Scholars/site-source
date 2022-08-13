@@ -108,7 +108,7 @@ email_body <- glue("
   <p>Questions? Get full details <a \\
   href=\"https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_call\">here\\
   </a> or see our PI <a\\
-  href=\"https://cu-dsi-scholars.github.io/DSI-scholars/page/pi_faq/\">FAQ\\
+  href=\"https://cu-dsi-scholars.github.io/DSI-scholars/static/pi_faq/\">FAQ\\
   </a>! {info_session} You can also contact us at <a\\
   href=\"mailto:dsi-scholars@columbia.edu\">dsi-scholars@columbia.edu</a>.\\
   </p>")
