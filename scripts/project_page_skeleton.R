@@ -8,7 +8,7 @@ projects <- read.csv(file.path(data_dir, data_file))
 output_path <- "content/post"
 
 # logical TRUE/FALSE for whether or not to overwrite existing files
-overwrite_existing <- FALSE
+overwrite_existing <- TRUE
 
 project_year <- "2022"
 project_term <- c("Fall")
