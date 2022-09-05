@@ -11,7 +11,7 @@ output_path <- "content/post"
 overwrite_existing <- FALSE
 
 project_year <- "2022"
-project_term <- c("Spring/Summer")
+project_term <- c("Fall")
 
 library(dplyr, quietly = FALSE)
 
@@ -29,10 +29,9 @@ projects$Program <- as.character(projects$Program)
 
 #rename the column names as needed----
 projects$Student.Eligibility <- as.character(projects$Student.Eligibility)
-projects$Required.skill.sets <- projects$Required.data.or.other.related.skill.sets.for.the.project..e.g...fluency.in.R.Python..experience.working.with.data.from.sensors.longitudinal.data.etc..methods.for.NLP.text.sentiment.analysis..
-projects$project_description <- projects$Please.provide.a.brief..300.words.or.less..description.of.your.project..e.g...background.purpose..type.of.tasks.that.might.be.required.to.fulfill.study.aims..type.of.data.you.are.working.with..end.goal..any.other.details.that.might.be.relevant...
+projects$Required.skill.sets <- projects$Required.data.or.other.skills.for.your.project..e.g...fluency.in.R.Python..experience.working.with.data.from.sensors.longitudinal.data.etc..methods.for.NLP.text.sentiment.analysis..ability.to.work.in.teams..
+projects$project_description <- projects$Please.provide.a.brief..300.words.or.less..description.of.your.project..This.should.include..as.applicable..brief.background..main.purpose.of.the.project..specific.aims.or.research.questions.you.are.looking.to.answer...type.of.tasks.that.might.be.required.to.fulfill.study.aims..type.of.data.you.are.working.with..and.the.desired.end.goal..Feel.free.to.add.any.other.details.that.might.be.relevant.to.you.project.
 projects$Can.work.be.done.on.this.project.for.course.credit. <- projects$Can.work.be.done.on.this.project.for.course.credit..Please.note.that.since.this.option.requires.the.selected.scholar.to.register.for.Independent.Study.Research.
-
 ### VARIABLES END ###
 
 for (i in seq_len(nrow(projects))) {
@@ -109,7 +108,7 @@ for (i in seq_len(nrow(projects))) {
     }
     lines <- c(lines, "",
                "## Faculty Advisor",
-               paste0("+ Professor: [", Faculty..Name., "](", Faculty.Center.Lab.website, ")"),
+               paste0("+ Professor: [", Faculty.Name..First..Last., "](", Faculty.Center.Lab.website, ")"),
                paste0("+ Center/Lab: ", Department.Center.Name)
                )
     if (trimws(Center.Lab.Office.Location) != "")

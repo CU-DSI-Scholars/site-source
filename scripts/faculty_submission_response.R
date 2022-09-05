@@ -20,7 +20,7 @@ credentials_file <- "gmail_credentials.json"
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 email_from_display <- "Ipek Ensari"
 email_replyto <- "dsi-scholars@columbia.edu"
-email_cc <- "jrs2139@columbia.edu"
+email_cc <- "rvp17@columbia.edu"
 # When sending a project to Campus Connections, manually forward their
 # submission first. This will currently cc Violet in this email, in addition
 # to that forward.
@@ -30,11 +30,11 @@ campus_connections_cc <- "jh4253@columbia.edu"
 data_dir  <- "data"
 data_file <- "for_script.csv"
 
-project_term <- "Spring"
+project_term <- "Fall"
 project_year <- "2022"
 
 student_application_url <-
-  "https://forms.gle/qjj2dZbp7uLZRT1w7"
+  "https://docs.google.com/forms/d/e/1FAIpQLSdGH2lzr5iotxuRPLmWcSRjKcMd6Rj8Ln4mvONBGr3pX8fQAQ/viewform?usp=sf_link"
 
 library(glue, quietly = FALSE)
 
@@ -44,10 +44,11 @@ email_signature <- glue("
 <p>
 --<br/>
 Ipek Ensari, PhD<br/>
-Associate Research Scientist<br/>
 Columbia University Data Science Institute<br/>
 Director DSI Scholars & DFG Programs<br/>
-Northwest Corner #1401, 550 W 120th St, New York, NY 10027<br/>
+Northwest Corner #1401, 
+550 W 120th St 
+New York, NY 10027<br/>
 ipekensari.com</p>")
 
 # These are auto-generated when the project pages are created and are relative
@@ -69,7 +70,8 @@ library(dplyr, quietly = FALSE)
 library(magrittr, quietly = FALSE)
 
 projects <- read.csv(file.path(data_dir, data_file))
-projects$Email.Greeting <- sub(" .*", "", projects$Faculty..Name.)
+projects$Email.Greeting <- sub(" .*", "", projects$Faculty.Greeting)
+
 projects %<>%
   mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
@@ -85,7 +87,7 @@ for (i in seq_len(nrow(projects))) {
   with(projects[i,], {
     if (Program %in% "None") return(invisible(NULL))
 
-    #cc <- email_cc
+    cc <- email_cc
 
     body <- glue("
       <p>Dear {Email.Greeting},</p>
