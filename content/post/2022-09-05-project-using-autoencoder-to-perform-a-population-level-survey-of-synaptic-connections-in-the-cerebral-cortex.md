@@ -18,7 +18,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 {{< /alert >}}
 
 ## Faculty Advisor
-+ Professor: [Edmund Au](https://www.pathology.columbia.edu/profile/edmund-au-phd)
++ Professor: [Edmund Au and Vilas Menon  ](https://www.pathology.columbia.edu/profile/edmund-au-phd)
 + Center/Lab: Pathology & Cell Biology
 + Location: VP&S 14-401
 + The Au lab studies the early events of cortical circuit assembly, with a focus on inhibitory interneurons. We hypothesize that this avenue of research will illuminate our understanding of normal brain function as well as the causes of neuropsychiatric illness.
