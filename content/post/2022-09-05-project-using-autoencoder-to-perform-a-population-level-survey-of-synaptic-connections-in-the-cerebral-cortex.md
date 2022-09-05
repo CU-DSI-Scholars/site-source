@@ -1,5 +1,5 @@
 ---
-title: 'Using Autoencoder to Perform a Population Level Survey of Synaptic Connections in the Cerebral Cortex with Edmund Au and Vilas Menon'
+title: 'Using Autoencoder to Perform a Population Level Survey of Synaptic Connections in the Cerebral Cortex'
 date: '2022-09-05'
 slug: project-using-autoencoder-to-perform-a-population-level-survey-of-synaptic-connections-in-the-cerebral-cortex-with-edmund-au-and-vilas-menon
 categories:
