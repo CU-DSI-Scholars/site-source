@@ -28,7 +28,7 @@ campus_connections_cc <- "jh4253@columbia.edu"
 
 # Projects file is downloaded csv from faculty submission form referenced above.
 data_dir  <- "data"
-data_file <- "for_script.csv"
+data_file <- "for_script1.csv"
 
 project_term <- "Fall"
 project_year <- "2022"
@@ -68,7 +68,7 @@ if (!require(gmailr, quietly = TRUE)) {
 }
 library(dplyr, quietly = FALSE)
 library(magrittr, quietly = FALSE)
-
+library(gmailr)
 projects <- read.csv(file.path(data_dir, data_file))
 projects$Email.Greeting <- sub(" .*", "", projects$Faculty.Greeting)
 
@@ -220,7 +220,7 @@ for (i in seq_len(nrow(projects))) {
       return(invisible(NULL))
     }
 
-    email <- gm_mime(to = as.character(Email.Address),
+    email <- gm_mime(to = Email.Address,
                      from = email_from,
                      replyto = email_replyto,
                      cc = email_cc,
@@ -229,3 +229,4 @@ for (i in seq_len(nrow(projects))) {
     gm_create_draft(email)
   })
 }
+

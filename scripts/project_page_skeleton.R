@@ -2,13 +2,13 @@
 
 ### VARIABLES TO UPDATE #####
 data_dir  <- "data"
-data_file <- "for_script.csv"
+data_file <- "for_script1.csv"
 projects <- read.csv(file.path(data_dir, data_file))
-
+projects <- projects[1,]
 output_path <- "content/post"
 
 # logical TRUE/FALSE for whether or not to overwrite existing files
-overwrite_existing <- TRUE
+overwrite_existing <- FALSE
 
 project_year <- "2022"
 project_term <- c("Fall")
