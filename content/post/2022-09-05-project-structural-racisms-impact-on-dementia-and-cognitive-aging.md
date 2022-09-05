@@ -1,5 +1,5 @@
 ---
-title: 'Structural racism's impact on dementia and cognitive aging'
+title: 'Structural racism\'s impact on dementia and cognitive aging'
 date: '2022-09-05'
 slug: project-structural-racisms-impact-on-dementia-and-cognitive-aging
 categories:
