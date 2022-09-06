@@ -14,7 +14,7 @@ In this project, we aim to develop GAN based models to predict spatio-temporal e
 <!--more-->
 
 {{< alert success >}}
-This is an UNPAID research project.
+This is an UNPAID research project, and can be done for course credit. To apply for this project, please email the project PI directly with your application materials (resume and statement of interest). 
 {{< /alert >}}
 
 ## Faculty Advisor
@@ -37,4 +37,5 @@ This is an UNPAID research project.
 + Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, ~~senior~~, master's
 + International students on F1 or J1 visa: **NOT** eligible
 + Academic Credit Possible: Yes
++ Application Instructions: Please send an email to project PI Professor Di with your resume attached and a statement of interest in the body of the email.
 

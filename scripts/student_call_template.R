@@ -28,16 +28,16 @@ apply_now_img_url <-
   "/Users/ipekensari/Documents/GitHub/site-source/static/img/opencall_students_spring2022.png"
 
 year <- 2022
-term <- "Spring/Summer"
+term <- "Fall"
 
-application_deadline <- as.Date("2022-02-12")
+application_deadline <- as.Date("2022-09-27")
 application_deadline_short <- format(application_deadline, "%m/%d/%Y")
 application_deadline_long <- toupper(format(application_deadline, "%B %d, %Y"))
 application_deadline_bold <- toupper(application_deadline_long)
 
 # Where the students can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSf8u16CFmcCR_6kgdCUwkN8SJg-VFR9EfRJjDCt2AgDGNngkQ/viewform?usp=sf_link"
+  "https://docs.google.com/forms/d/e/1FAIpQLSdGH2lzr5iotxuRPLmWcSRjKcMd6Rj8Ln4mvONBGr3pX8fQAQ/viewform?usp=sf_link"
 
 
 # Credentials file created from gmail; set to where the file can be found.
@@ -47,7 +47,7 @@ credentials_file <- file.path("gmail_credentials.json")
 # Configure as desired.
 email_to <- "Ipek Ensari <ie2145@columbia.edu>"
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
-
+library(glue, quietly = TRUE)
 email_title <- glue("
   Data Science Institute {term} Scholars Programs | Application Deadline {application_deadline_short}")
 
@@ -57,7 +57,7 @@ if (!require(gmailr, quietly = TRUE)) {
   remotes::install_github("r-lib/gmailr")
   library(gmailr, quietly = TRUE)
 }
-library(glue, quietly = TRUE)
+
 
 email_body <- glue("
   <center>
