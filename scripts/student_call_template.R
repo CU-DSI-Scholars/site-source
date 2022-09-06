@@ -11,7 +11,7 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_spring2022.png"
+  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_fall_2022.png"
 
 student_call_url <-
   "https://cu-dsi-scholars.github.io/DSI-scholars/static/student_call"
