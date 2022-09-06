@@ -1,8 +1,8 @@
-# This file creates a draft of the call for faculty participation. In the past,
-# it has been forwarded to Jonathan and/or Tian to be circulated among the
-# faculty. With the addition of some DSI communication staff, it will likely
-# need to modified before it can be sent out so it should be prepared a few days
-# before you would like it to be sent.
+# This file creates a draft of the call for student participation. In the past,
+# it has been forwarded to the chief operations officer and other admin team members
+# to be circulated among students. With the addition of some DSI communication staff, 
+# it will likely need to modified before it can be sent out so it should be 
+# prepared a few days before you would like it to be sent.
 
 ### VARIABLES TO UPDATE #####
 # Everything from here to VARIABLES END will likely need to be changed.

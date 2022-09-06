@@ -13,8 +13,7 @@ thumbnailImagePosition: top
 thumbnailImage: "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_spring_2022.png"
 coverImage: "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_spring_2022.png"
 metaAlignment: center
-aliases:
-  - /static/student_call
+
 ---
 Columbia University [Data Science Institute](http://datascience.columbia.edu/) is pleased to announce that the Data Science Institute (DSI) and Data For Good Scholars programs for Spring 2022 are open for application.
 
