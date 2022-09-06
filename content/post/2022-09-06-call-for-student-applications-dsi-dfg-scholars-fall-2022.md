@@ -1,12 +1,12 @@
 ---
-title: Call for Student Applications - Fall 2021
+title: Call for Student Applications - Fall 2022
 author: Tian Zheng and Ipek Ensari
-date: '2021-09-06'
-slug: call-for-student-applications-dsi-scholars-fall-2021
+date: '2022-09-06'
+slug: call-for-student-applications-dsi-scholars-fall-2022
 categories:
   - Announcement
 tags:
-  - Fall 2021
+  - Fall 2022
 autoThumbnailImage: no
 thumbnailImagePosition: top
 thumbnailImage: "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_fall_2022.png"
@@ -39,9 +39,9 @@ The collected applications for each position will be sent to the hosting faculty
 
 The following timetable is subject to adjustments. 
 
-+ September 27th, 2021
++ September 27th, 2022
     + [Students -> DSI] Student applications due.
-+ October 14th, 2021 (expected)
++ October 14th, 2022 (expected)
     + [Faculty -> Student] Email offers of the internship will be sent to students.
         
 {{< alert info>}}

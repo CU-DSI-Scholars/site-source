@@ -28,7 +28,7 @@ This is an UNPAID research project.
 
 ## Project Timeline
 + Earliest starting date: 10/15/2022
-+ End date: 12/31/2022
++ End date: 12/31/2023
 + Number of hours per week of research expected during Fall 2022: ~10
 
 ## Candidate requirements
