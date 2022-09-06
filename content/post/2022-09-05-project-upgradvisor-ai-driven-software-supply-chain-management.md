@@ -16,7 +16,7 @@ By helping you find and keep your dependencies up to date, you can focus on your
 
 The main goal of modern software development is deploying new features fast while keeping reliability and security risks at bay. While recent advances in AI-supported software development, such as Github’s Co-pilot, are getting a lot of attention, they only address part of the problem. Instead of writing new code, developers opt for incorporating external libraries into their applications, allowing them to tap into years of accumulated effort. On the other hand, by doing so, they become dependent on projects they have less control over. As the network of direct and transitive dependencies grows, dependency upkeep, version synchronization, security, and reliability risks and efforts add up.
 
-In our first project in this research vector, UPGRADVISOR (http://upgradvisor.github.io/), we focused on dissecting dependency updates to gauge the effort required to adapt them. Next, we plan on applying novel DNN-trained models to assist with studying updates and fixing application code to support dependency updates.
+In our first project in this research vector, UPGRADVISOR (http://upgradvisor.github.io/ ), we focused on dissecting dependency updates to gauge the effort required to adapt them. Next, we plan on applying novel DNN-trained models to assist with studying updates and fixing application code to support dependency updates.
 
 If you care about software security and reliability and want to be a part of cutting-edge ML-assisted software development research, consider applying for this project.
 

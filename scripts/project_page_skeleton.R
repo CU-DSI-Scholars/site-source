@@ -2,9 +2,8 @@
 
 ### VARIABLES TO UPDATE #####
 data_dir  <- "data"
-data_file <- "for_script1.csv"
+data_file <- "for_script.csv"
 projects <- read.csv(file.path(data_dir, data_file))
-projects <- projects[1,]
 output_path <- "content/post"
 
 # logical TRUE/FALSE for whether or not to overwrite existing files

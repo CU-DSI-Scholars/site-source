@@ -19,7 +19,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 
 ## Faculty Advisor
 + Professor: [William P. Fifer](Fifer Lab (William P. Fifer))
-+ Center/Lab: Pyschiatry
++ Center/Lab: Psychiatry
 
 ## Project Timeline
 + Earliest starting date: 10/17/2022
