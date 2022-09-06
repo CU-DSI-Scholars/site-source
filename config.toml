@@ -114,7 +114,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
   identifier = "gform"
   name = "Apply Now"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-mortar-board\"></i>"
-  url = "https://forms.gle/qjj2dZbp7uLZRT1w7"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSdGH2lzr5iotxuRPLmWcSRjKcMd6Rj8Ln4mvONBGr3pX8fQAQ/viewform"
 
 
 #[[menu.misc]]
