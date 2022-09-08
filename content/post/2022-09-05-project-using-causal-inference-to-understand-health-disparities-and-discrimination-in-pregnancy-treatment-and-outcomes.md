@@ -18,7 +18,7 @@ Adverse pregnancy outcomes (APOs), such as preeclampsia and preterm birth, are c
 
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor

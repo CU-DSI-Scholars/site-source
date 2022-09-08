@@ -19,7 +19,7 @@ While the arrival of AlphaFold made great leaps in the ability to characterize p
 Project: In this project, we will apply recent advances in Deep Learning and Natural Language Processing (NLP) in developing a novel method for identifying and characterizing small RNAs. Our goals are 1) design and test neural network architectures and tools that had recent success in DNA representation including autoencoders, convolutional neural networks, DNA-BERT, and possibly non-Euclidean embeddings, 2)  interrogate well-performing models to identify and extract features of bacterial sRNAs, and 3) design robust test cases which enable the comparison of these novel methods to existing methods for sRNA identification in bacterial genomes.
 
 {{< alert success >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
