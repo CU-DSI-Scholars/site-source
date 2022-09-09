@@ -1,15 +1,15 @@
 ---
 title: 'Data For Good: African North Americans Database'
 author: Ipek Ensari
-date: '2021-09-01'
+date: '2022-09-06'
 slug: project-dfg-african-north-americans-database
 categories:
-  - Open Fall 2021
-  - Open Spring 2022
+  - Open Fall 2022
+  - Open Spring 2023
   - Data For Good
 tags:
-  - Fall 2021
-  - Spring 2022
+  - Fall 2022
+  - Spring 2023
   - Data For Good
   - Record linkage
   - Deduplication
@@ -46,7 +46,7 @@ This is a volunteer opportunity for students to use their skills for the social 
 + Adam Arenson teaches the history and memory of North America and the global nineteenth century. His work has concentrated on the cultural and political history of slavery, Civil War, and Reconstruction, as well as the development of cities--from California to the Yukon Territory, from the province of Ontario to St. Louis to El Paso. 
 
 ## Project timeline
-+ Earliest starting date: 10/01/2021
++ Earliest starting date: 10/15/2022
 + End date: Ongoing
 + Number of hours per week of work research expected during Fall 2021: ~6-8
 + Number of hours per week of work research expected during Spring 2022: ~6-8

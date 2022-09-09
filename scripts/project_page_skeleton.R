@@ -2,7 +2,7 @@
 
 ### VARIABLES TO UPDATE #####
 data_dir  <- "data"
-data_file <- "for_script.csv"
+data_file <- "for_script3.csv"
 projects <- read.csv(file.path(data_dir, data_file))
 output_path <- "content/post"
 

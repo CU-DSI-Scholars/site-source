@@ -30,7 +30,7 @@ This project is eligible for a matching fund stipend from the Data Science Insti
 
 ## Candidate requirements
 + Skill sets: R and/or python, with experience in deep learning packages like keras or pytorch
-+ Student eligibility: ~~freshman~~, ~~sophomore~~, ~~junior~~, senior, master's
++ Student eligibility: ~~freshman~~, ~~sophomore~~, junior, senior, master's
 + International students on F1 or J1 visa: **NOT** eligible
 + Academic Credit Possible: No
 + Additional comments: experience with microscopy and imaging/image analysis is a plus
