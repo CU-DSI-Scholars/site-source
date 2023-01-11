@@ -39,7 +39,7 @@ info_session <- paste0(
 
 # Credentials file created from gmail; set to where the file can be found.
 # Info on creating it can be found at https://github.com/r-lib/gmailr#setup
-credentials_file <- file.path("gmail_credentials.json")
+credentials_file <- file.path("/Users/datatransformer/Documents/gmail_credentials.json")
   
 # Configure as desired.
 email_to <- "Ipek Ensari <ie2145@columbia.edu>"
