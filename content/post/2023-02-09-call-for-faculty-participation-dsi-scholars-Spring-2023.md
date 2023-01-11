@@ -1,7 +1,7 @@
 ---
 title: "Call for Faculty Participation --- DSI Scholars Spring-Summer 2023"
 author: "Ipek Ensari"
-date: '2023-02-09'
+date: '2023-01-11'
 categories:
   - Announcement
 coverImage: https://res.cloudinary.com/tz33cu/image/upload/v1516637953/DSI-scholars/wordcloud2_ezxayp.png
