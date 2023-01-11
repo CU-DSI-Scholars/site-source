@@ -1,5 +1,5 @@
 # This file creates a draft of the call for faculty participation. In the past,
-# it has been forwarded to Jonathan and/or Tian to be circulated among the
+# it has been forwarded to DSI admin team (Radhika, Jessica, John, communications team etc.) to be circulated among the
 # faculty. With the addition of some DSI communication staff, it will likely
 # need to modified before it can be sent out so it should be prepared a few days
 # before you would like it to be sent.
@@ -11,22 +11,22 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_fall2022.png?raw=true"
+  "https://github.com/CU-DSI-Scholars/site-source/blob/main/static/img/opencall_faculty_ss2023_banner.png?raw=true"
 
-year <- 2022
-year_bootcamp  <- 2022
-year_town_hall <- 2022
-term <- "Fall"
-year_term_description <- "Fall 2022 sessions"
+year <- 2023
+year_bootcamp  <- 2023
+year_town_hall <- 2023
+term <- "Spring/Summer"
+year_term_description <- "Spring/Summer 2023 sessions"
 
 num_projects_last_year <- 30
-num_applications_last_year <- 250
+num_applications_last_year <- 200
 
-application_deadline <- "September 3rd, 2022"
+application_deadline <- "February 9th, 2023"
 
 # Where faculty can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSdhXh0KGm43wVAqkvJxAljmfSpJ4LZsHty1Nmk3_8-9MibDrw/viewform"
+  "https://docs.google.com/forms/d/e/1FAIpQLSexk3F7EcVWWLsueTuTbLdlLiMdckE-HkKd6HiPNpNdjfjNYg/viewform?usp=sf_link"
 
 # If you are hosting your own online information sessions, modify this text
 # accordingly. Right now it refers to the one from August.
@@ -45,7 +45,7 @@ credentials_file <- file.path("gmail_credentials.json")
 email_to <- "Ipek Ensari <ie2145@columbia.edu>"
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 
-email_title <- "September 3rd Deadline for DSI Scholars Program Project Submissions"
+email_title <- "DSI Scholars Program Project Submissions due February 9th, 2023"
 
 ### VARIABLES END ###
 
