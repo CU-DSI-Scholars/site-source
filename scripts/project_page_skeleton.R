@@ -1,21 +1,21 @@
 # Creates project pages using a marked up version of the faculty submission form.
 
 ### VARIABLES TO UPDATE #####
-data_dir  <- "data"
-data_file <- "for_script.csv"
+data_dir  <- "~/Documents/GitHub/"
+data_file <- "scholars_faculty_responses.csv"
 projects <- read.csv(file.path(data_dir, data_file))
 output_path <- "content/post"
 
 # logical TRUE/FALSE for whether or not to overwrite existing files
 overwrite_existing <- FALSE
 
-project_year <- "2022"
-project_term <- c("Fall")
+project_year <- "2023"
+project_term <- c("Spring-Summer")
 
 library(dplyr, quietly = FALSE)
 
 projects %<>%
-  mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
+  mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500...) %>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
                              grepl("own funding", funding) ~ "self",
                              TRUE ~ "matching"),
@@ -98,7 +98,7 @@ for (i in seq_len(nrow(projects))) {
                    "{{< alert success >}}\nThis is an UNPAID research project.\n{{< /alert >}}")
       } else if (funding %in% "matching" && Decision == 1) {
         lines <- c(lines,
-                   "{{< alert success >}}\nThis project is eligible for a matching fund stipend from the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
+                   "{{< alert success >}}\nThis project is eligible for a stipend, with matching funds from the faculty advisor and the Data Science Institute. This is not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")
       } else if (funding %in% "self") {
         lines <- c(lines,
                    "{{< alert success >}}\nSelected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.\n{{< /alert >}}")

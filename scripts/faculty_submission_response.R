@@ -13,6 +13,7 @@
 # Everything from here to VARIABLES END will likely need to be changed.
 
 # Credentials file created from gmail; set to where the file can be found.
+# It is unique to every user and needs to be create before creating drafts.
 # Info on creating it can be found at https://github.com/r-lib/gmailr#setup
 credentials_file <- "gmail_credentials.json"
 
@@ -27,14 +28,14 @@ email_cc <- "rvp17@columbia.edu"
 campus_connections_cc <- "jh4253@columbia.edu"
 
 # Projects file is downloaded csv from faculty submission form referenced above.
-data_dir  <- "data"
-data_file <- "for_script1.csv"
+data_dir  <- "~/Documents/GitHub/"
+data_file <- "scholars_faculty_responses.csv"
 
-project_term <- "Fall"
-project_year <- "2022"
+project_term <- "Spring/Summer"
+project_year <- "2023"
 
 student_application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSdGH2lzr5iotxuRPLmWcSRjKcMd6Rj8Ln4mvONBGr3pX8fQAQ/viewform?usp=sf_link"
+  "https://forms.gle/bAeynKTWiYQgUwe18"
 
 library(glue, quietly = FALSE)
 
@@ -45,8 +46,7 @@ email_signature <- glue("
 --<br/>
 Ipek Ensari, PhD<br/>
 Columbia University Data Science Institute<br/>
-Director DSI Scholars & DFG Programs<br/>
-Northwest Corner #1401, 
+Northwest Corner #1401,<br/>
 550 W 120th St 
 New York, NY 10027<br/>
 ipekensari.com</p>")
@@ -55,7 +55,7 @@ ipekensari.com</p>")
 # to the date which they are posted under. It should only need updating if
 # the files are generated in one month, but the emails are sent in another.
 url_prefix <- format(Sys.Date(), "%Y/%m")
-#url_prefix <- "2021/08" # If necessary to set manually, uncomment this.
+#url_prefix <- "2023/02" # If necessary to set manually, uncomment this.
 
 # If TRUE, prints emails to console instead of creating them as drafts.
 test_only <- FALSE
@@ -70,10 +70,10 @@ library(dplyr, quietly = FALSE)
 library(magrittr, quietly = FALSE)
 library(gmailr)
 projects <- read.csv(file.path(data_dir, data_file))
-projects$Email.Greeting <- sub(" .*", "", projects$Faculty.Greeting)
+projects$Email.Greeting <- projects$email_greeting
 
 projects %<>%
-  mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
+  mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500...) %>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
                              grepl("own funding", funding) ~ "self",
                              TRUE ~ "matching"),
@@ -97,7 +97,7 @@ for (i in seq_len(nrow(projects))) {
     include_application_link <- FALSE
     # Projects that applied for a matching fund and were not selected.
     if (Decision == 0 && !(Program %in% "DFG") && !(funding %in% "unpaid")) {
-      subject <- glue(subject_prefix, " Project Submission")
+      subject <- glue(subject_prefix, "Project Submission")
 
       body %<>% glue("
         Unfortunately, we received more proposals than we have available \\
@@ -158,14 +158,19 @@ for (i in seq_len(nrow(projects))) {
                                   body %<>% glue("
             We are pleased to inform you that we are able to offer you a \\
             matching fund of up to $2,500 that can be used towards a stipend \\
-            for research interns who will work on your project. ")
+            for research interns who will work on your project. This means that \\
+            DSI will contribute the same amount that you are contributing. For\\
+            example, if you contribute $2,000, DSI will match it with another $2,000\\
+            for a total of $4,000 dispersed to the student via their columbia student\\
+            account. To do this we use chartstring and process the funds internally.")
                                   if (student_selected) {
                                     body %<>% glue("
               In order to provide a matching fund for your selected scholar, \\
-              please send information with their name and UNI to \\
-              dsi-scholars@columbia.edu. Instructions on arranging payment \\
-              will follow in the coming weeks. If you wish to recruit \\
-              additional students, we will be happy to include your project \\
+              you will be asked to complete the faculty form with the requested information\\
+              (name and UNI of the selected scholar, name and email of your departmental
+              administrator, and the chart string from which you will contribute.\\
+              Further instructions on arranging payment will follow in the coming weeks.\\
+              If you wish to recruit additional students, we will be happy to include your project \\
               in our call for student applications.</p>")
                                   } else {
                                     body %<>% glue("
@@ -211,8 +216,9 @@ for (i in seq_len(nrow(projects))) {
         <a href='{student_application_url}'>website</a> for all DSI Scholars \\
         projects that are open for application. Your project is listed on the \\
         application form. Applications to your project will be collected and \\
-        passed on to you for review by September 28th, along with instructions \\
-        on selecting a student.</p>")
+        passed on to you in a folder for review by March 16th. You will be able to\\
+        review applicants based on what you deem is appropriate (e.g., one-on-one interview,\\
+        request for portfolio of previous work, brief evaluation of student coding skill). </p>")
     body %<>% glue("\n", email_signature)
 
     if (test_only) {
