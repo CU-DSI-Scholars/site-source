@@ -1,7 +1,7 @@
 ---
-title: Frequently Asked Questions (Fall 2022)
+title: Frequently Asked Questions (Spring-Summer 2023)
 author: Ipek Ensari
-date: '2022-09-01'
+date: '2023-02-22'
 slug: faq2022
 aliases:
   - /static/student_faq
@@ -14,9 +14,9 @@ showMeta:       false
 showActions:    false
 ---
 
-+ **Question:** When will the student applications to the Scholars|DFG program open for the Fall 2022 semester? 
++ **Question:** When will the student applications to the Scholars|DFG program open for the Spring-Summer 2023?
     
-    *Answer*: We anticipate that the submission link for student applications will be available by September 6th. Please check the submission link on the program website during the first week of classes. 
+    *Answer*: We anticipate that the submission link for student applications will be available by February 23rd. 
 
 + **Question:** With only one application form, how do I express interest in more than one project?
     

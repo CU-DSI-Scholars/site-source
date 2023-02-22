@@ -3,8 +3,7 @@ title: Frequently Asked Questions (Fall 2022)
 author: Ipek Ensari
 date: '2022-09-01'
 slug: faq2022
-aliases:
-  - /static/student_faq
+
 categories:
   - info
 tags:

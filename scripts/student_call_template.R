@@ -11,7 +11,7 @@
 # submission date added, but the communications team has removed that and just
 # used the base version.
 call_banner_url <- 
-  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_fall_2022.png"
+  "https://cu-dsi-scholars.github.io/DSI-scholars/img/opencall_students_ss_2023.png"
 
 student_call_url <-
   "https://cu-dsi-scholars.github.io/DSI-scholars/static/student_call"
@@ -25,12 +25,12 @@ info_session_time <-
   "from previous years"
 
 apply_now_img_url <-
-  "/Users/ipekensari/Documents/GitHub/site-source/static/img/opencall_students_spring2022.png"
+  "/Users/ipekensari/Documents/GitHub/site-source/static/img/opencall_students_ss_2023.png"
 
-year <- 2022
-term <- "Fall"
+year <- 2023
+term <- "Spring/Summer"
 
-application_deadline <- as.Date("2022-09-27")
+application_deadline <- as.Date("2023-03-14")
 application_deadline_short <- format(application_deadline, "%m/%d/%Y")
 application_deadline_long <- toupper(format(application_deadline, "%B %d, %Y"))
 application_deadline_bold <- toupper(application_deadline_long)
