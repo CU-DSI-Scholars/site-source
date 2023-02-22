@@ -37,7 +37,7 @@ application_deadline_bold <- toupper(application_deadline_long)
 
 # Where the students can apply.
 application_url <-
-  "https://docs.google.com/forms/d/e/1FAIpQLSdGH2lzr5iotxuRPLmWcSRjKcMd6Rj8Ln4mvONBGr3pX8fQAQ/viewform?usp=sf_link"
+  "https://forms.gle/NE6MEprpTDxvxkMp6"
 
 
 # Credentials file created from gmail; set to where the file can be found.
