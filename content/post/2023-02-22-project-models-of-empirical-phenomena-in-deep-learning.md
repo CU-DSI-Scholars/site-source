@@ -34,7 +34,7 @@ This project is eligible for a stipend, with matching funds
 ## Project Timeline
 + Earliest starting date: 6/1/2023
 + End date: 8/31/2023
-+ Number of hours per week of research expected during Spring-Summer 2023: ~0
++ Number of hours per week of research expected during Spring-Summer 2023: ~20
 
 ## Candidate requirements
 + Skill sets: Strong mathematical and analytic skills are required. In particular, fluency in multivariable calculus, probability, linear algebra, and algorithmic analysis is a must. A solid background in machine learning and statistics is highly desirable.
