@@ -1,7 +1,7 @@
 ---
-title: 'A longitudial study of instructional contexts, student communication, and educational inequality using natural language processing'
+title: 'A longitudinal study of instructional contexts, student communication, and educational inequality using natural language processing'
 date: '2023-02-22'
-slug: project-a-longitudial-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing
+slug: project-a-longitudinal-study-of-instructional-contexts-student-communication-and-educational-inequality-using-natural-language-processing
 categories:
   - Open Spring-Summer 2023 
   - Open Flexible Timeline
@@ -22,7 +22,7 @@ This is an UNPAID research project.
 {{< /alert >}}
 
 ## Faculty Advisor
-+ Professor: [Renzhe Yu](renzheyu.com)
++ Professor: [Renzhe Yu](http://www.renzheyu.com)
 + Center/Lab: Human Development
 + Location: Grace Dodge Hall, 525 W 120th St
 

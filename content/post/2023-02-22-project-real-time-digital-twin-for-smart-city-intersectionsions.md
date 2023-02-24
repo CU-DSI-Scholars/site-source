@@ -1,12 +1,13 @@
 ---
-title: 'Real Time Digital Twin for Smart City Intersectionsions'
+title: 'Real Time Digital Twin for Smart City Intersections'
 date: '2023-02-22'
-slug: project-real-time-digital-twin-for-smart-city-intersectionsions
+slug: project-real-time-digital-twin-for-smart-city-intersections
 categories:
   - Open Summer 2023
   - Open Flexible Timeline
 tags:
-  -  2023
+  - Summer 2023
+  - Spring-Summer 2023
 thumbnailImagePosition: left
 thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
@@ -20,7 +21,7 @@ The research relies on the experimental studies performed on the COSMOS testbed 
 
 
 {{< alert info >}}
-This is an UNPAID research project.
+Selected candidate(s) can receive a stipend directly from the faculty advisor. This is not a guarantee of payment, and the total amount is subject to available funding.
 {{< /alert >}}
 
 ## Faculty Advisor
@@ -31,7 +32,7 @@ This is an UNPAID research project.
 ## Project Timeline
 + Earliest starting date: 4/1/2023
 + End date: 8/18/2023
-+ Number of hours per week of research expected during Spring-Summer 2023: ~10
++ Number of hours per week of research expected during Spring-Summer 2023: ~20
 
 ## Candidate requirements
 + Skill sets: Experience with machine learning, deep learning, video processing
