@@ -3,7 +3,8 @@ title: 'Race, Ethnicity, and Air pollution in COVID-19 Hospitalization OUTcomes 
 date: '2023-02-22'
 slug: project-race-ethnicity-and-air-pollution-in-covid-19-hospitalization-outcomes-reach-out-study
 categories:
-  - Open  2023
+  - Open Spring-Summer 2023 
+  - Open Flexible Timeline
 tags:
   -  2023
 thumbnailImagePosition: left

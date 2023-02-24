@@ -3,13 +3,14 @@ title: 'Real Time Digital Twin for Smart City Intersectionsions'
 date: '2023-02-22'
 slug: project-real-time-digital-twin-for-smart-city-intersectionsions
 categories:
+  - Open Summer 2023
   - Open Flexible Timeline
 tags:
   -  2023
 thumbnailImagePosition: left
 thumbnailImage: /Users/ipekensari/Documents/GitHub/site-source/static/img/construction.png
 ---
-We research techniques for improving safety of pedestrians, traffic flow, and smart streetscape applications. We aim to accomplish precise localization and tracking of objects by utilizing infrastructure-installed multimodal sensors such as cameras and lidars to provide a global view of the behavior of smart city traffic participants. We rely significantly on traffic intersections which are particularly suitable locations for the deployment of computing, communications, and AI-based services for smart cities of the future. The abundance of data to be collected and processed, in combination with privacy and security concerns, motivates the use of machine learning and deep learning processing, and to deploythe edge-computing paradigm which aligns well with physical intersections in metropolises.
+We research techniques for improving safety of pedestrians, traffic flow, and smart streetscape applications. We aim to accomplish precise localization and tracking of objects by utilizing infrastructure-installed multimodal sensors such as cameras and lidars to provide a global view of the behavior of smart city traffic participants. We rely significantly on traffic intersections which are particularly suitable locations for the deployment of computing, communications, and AI-based services for smart cities of the future. The abundance of data to be collected and processed, in combination with privacy and security concerns, motivates the use of machine learning and deep learning processing, and to deploy the edge-computing paradigm which aligns well with physical intersections in metropolises.
 
 <!--more-->
 
