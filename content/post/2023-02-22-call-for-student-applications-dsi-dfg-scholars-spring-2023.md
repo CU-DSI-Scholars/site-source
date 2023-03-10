@@ -40,9 +40,9 @@ The collected applications for each position will be sent to the hosting faculty
 
 The following timetable is subject to adjustments. 
 
-+ March 15th, 2023
++ March 22nd, 2023
     + [Students -> DSI] Student applications due.
-+ April 4th, 2023 (expected)
++ April 11th, 2023 (expected)
     + [Faculty -> Student] Email offers of the internship will be sent to students.
         
 {{< alert info>}}
