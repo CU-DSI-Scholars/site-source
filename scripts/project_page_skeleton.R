@@ -15,7 +15,7 @@ project_term <- c("Spring-Summer")
 library(dplyr, quietly = FALSE)
 
 projects %<>%
-  mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500...) %>%
+  mutate(funding = Are.you.applying.for.DSI.need.based..matching.stipend.funding..up.to..2500..) %>%
   mutate(funding = case_when(grepl("unpaid", funding)      ~ "unpaid",
                              grepl("own funding", funding) ~ "self",
                              TRUE ~ "matching"),
