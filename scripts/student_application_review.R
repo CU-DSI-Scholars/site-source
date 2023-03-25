@@ -19,21 +19,21 @@ credentials_file <- "gmail_credentials.json"
 # Configure as desired.
 email_from <- "Ipek Ensari <ie2145@columbia.edu>"
 email_replyto <- "dsi-scholars@columbia.edu"
-email_cc <- "rvp17@columbia.edu"
+email_cc <- "rvp17@columbia.edu, st3565@columbia.edu"
 
 # applications results file is downloaded csv from script form referenced above.
 data_dir  <- "data"
-application_results_file <- "applicationinfo_fall2022.csv"
+application_results_file <- "Student_Script_Results_SS2023.csv"
 
-project_term <- "Fall"
-project_year <- "2022"
+project_term <- "Spring-Summer"
+project_year <- "2023"
 
-notification_date <- "October 15th, 2022"
+notification_date <- "April 15th, 2023"
 
-stipend_term <- "Fall"
-next_stipend_term <- "Spring"
-stipend_submission_date <- "October 15th, 2022"
-stipend_filing_estimate <- "December 1st, 2022"
+stipend_term <- "Summer"
+next_stipend_term <- "Fall"
+stipend_submission_date <- "April 19th, 2023"
+stipend_filing_estimate <- "May 1st, 2023"
 
 subject_dsi <- glue("[DSI-Scholars { project_term } {project_year }] Applications For Your Review")
 subject_dfg <- glue("[DFG-Scholars { project_term } {project_year }] Applications For Your Review")
@@ -121,13 +121,12 @@ multiple projects. As a result, you may need to keep a short wait list.</p>")
 We are happy to work with you on selecting a student for this role, and on selecting team \\
 members in general. Please let us know how we can help out.</p>")
       } else {
-"<p>DSI Scholars matching funds, if applicable, will be arranged as a stipend for your DSI \\
-Scholar. Once a match has been made, please inform us of the result. The deadline for \\
-arranging a stipend for your scholar for the { stipend_term } semester will be \\
-<em> { stipend_submission_date }</em>. Further instructions on arranging the payment will \\
-be given out around { notification_date }. If you miss this deadline or would prefer to \\
-wait, a stipend can be issued for the next term instead <em>unless the scholar is \\
-graduating soon</em>.</p>"
+"<p>DSI Scholars matching funds, if applicable, will be arranged as a stipend for your DSI Scholar.\\
+Once you identify a scholar, please inform us of the result. For DSI to process the payment, please\\
+submit the faculty payment form <a href=\"https://form.jotform.com/DSI_Columbia/dsi-scholars-funds\">\\
+through this link </a> by <em> { stipend_submission_date }</em>. If you miss this deadline or would\\
+prefer to wait, a stipend can be issued for the next term instead <em> unless the scholar is \\
+graduating in May 2023</em>.</p>"
       }
     }
     
